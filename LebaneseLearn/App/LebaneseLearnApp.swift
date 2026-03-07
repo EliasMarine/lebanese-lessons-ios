@@ -1,13 +1,22 @@
 import SwiftUI
+import SwiftData
 
 @main
 struct LebaneseLearnApp: App {
-    @State private var authService = AuthService()
-
     var body: some Scene {
         WindowGroup {
             ContentView()
-                .environment(authService)
         }
+        .modelContainer(for: [
+            UserProfile.self,
+            LessonProgressRecord.self,
+            SRSCardRecord.self,
+            ExerciseResultRecord.self,
+            EarnedBadge.self,
+            XPEntry.self,
+            DailyActivityRecord.self,
+            CompletedItemRecord.self,
+            AIConversationRecord.self,
+        ])
     }
 }
