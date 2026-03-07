@@ -1,18 +1,8 @@
 import SwiftUI
 
-// MARK: - Card Style
+// MARK: - Liquid Glass Convenience
 
 extension View {
-
-    /// Applies the standard card appearance: background, corner radius, border, and shadow.
-    func cardStyle() -> some View {
-        modifier(CardStyleModifier())
-    }
-
-    /// Applies the branded primary button style (success green gradient).
-    func primaryButton() -> some View {
-        modifier(PrimaryButtonModifier())
-    }
 
     /// Fade-up entrance animation with an optional delay.
     func fadeUpAnimation(delay: Double = 0) -> some View {
@@ -23,48 +13,12 @@ extension View {
     func shimmer() -> some View {
         modifier(ShimmerEffect())
     }
-}
 
-// MARK: - Card Style Modifier
-
-private struct CardStyleModifier: ViewModifier {
-    @Environment(\.colorScheme) private var colorScheme
-
-    func body(content: Content) -> some View {
-        content
-            .background(Theme.bgCardAdaptive(for: colorScheme))
-            .clipShape(RoundedRectangle(cornerRadius: Theme.cardRadius, style: .continuous))
-            .overlay(
-                RoundedRectangle(cornerRadius: Theme.cardRadius, style: .continuous)
-                    .strokeBorder(Theme.border(for: colorScheme), lineWidth: 1)
-            )
-            .shadow(
-                color: Theme.cardShadow(for: colorScheme),
-                radius: 8,
-                x: 0,
-                y: 4
-            )
-    }
-}
-
-// MARK: - Primary Button Modifier
-
-private struct PrimaryButtonModifier: ViewModifier {
-    func body(content: Content) -> some View {
-        content
-            .font(.nunito(16, weight: .bold))
-            .foregroundStyle(.white)
-            .frame(maxWidth: .infinity)
-            .padding(.vertical, 14)
-            .background(
-                LinearGradient(
-                    colors: [Theme.success, Theme.success.opacity(0.85)],
-                    startPoint: .leading,
-                    endPoint: .trailing
-                )
-            )
-            .clipShape(RoundedRectangle(cornerRadius: Theme.buttonRadius, style: .continuous))
-            .shadow(color: Theme.success.opacity(0.3), radius: 6, x: 0, y: 3)
+    /// Arabic text with tap-to-speak support.
+    func speakable(_ text: String) -> some View {
+        self.onTapGesture {
+            Task { await AudioService.shared.speak(text) }
+        }
     }
 }
 
