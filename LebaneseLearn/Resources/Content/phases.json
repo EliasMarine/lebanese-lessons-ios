@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "slug": "reactivation",
+    "title": "Reactivation",
+    "titleArabic": "أهلا من جديد",
+    "subtitle": "Welcome Back",
+    "description": "Pure passive immersion. Reconnect your ear to the sounds you knew as a child. You are not learning Lebanese Arabic — you are remembering it.",
+    "estimatedWeeks": "Weeks 1–2",
+    "heroGradient": "linear-gradient(135deg,#8B1A1A,#5c1010)",
+    "heroArabicWatermark": "أهلا"
+  },
+  {
+    "id": 2,
+    "slug": "speaking-in-phrases",
+    "title": "Speaking in Phrases",
+    "titleArabic": "عم نحكي",
+    "subtitle": "We're Speaking Now",
+    "description": "You've been listening. Now it's time to open your mouth. Shadowing, sentence patterns, daily speaking practice, and your first phone call in Arabic.",
+    "estimatedWeeks": "Weeks 3–4",
+    "heroGradient": "linear-gradient(135deg,#1a3a5c,#0d1e33)",
+    "heroArabicWatermark": "كلام"
+  },
+  {
+    "id": 3,
+    "slug": "structured-conversation",
+    "title": "Structured Conversation",
+    "titleArabic": "محادثة حقيقية",
+    "subtitle": "Real Conversation",
+    "description": "Phrases become conversations. You'll talk about your life, family, childhood, and feelings — with depth and naturalness.",
+    "estimatedWeeks": "Month 2",
+    "heroGradient": "linear-gradient(135deg,#4a1a6b,#2a0d40)",
+    "heroArabicWatermark": "محادثة"
+  },
+  {
+    "id": 4,
+    "slug": "expanding-vocabulary",
+    "title": "Expanding Vocabulary",
+    "titleArabic": "توسيع المفردات",
+    "subtitle": "Words Unlock Worlds",
+    "description": "Target 500 active Lebanese words with spaced repetition. Domain vocabulary for real life: work, health, city, technology. Content without subtitles starts now.",
+    "estimatedWeeks": "Month 3",
+    "heroGradient": "linear-gradient(135deg,#1b4332,#0a2218)",
+    "heroArabicWatermark": "مفردات"
+  },
+  {
+    "id": 5,
+    "slug": "fluency-push",
+    "title": "Fluency Push",
+    "titleArabic": "الدفعة الأخيرة",
+    "subtitle": "The Final Push",
+    "description": "Full unscripted conversations, Lebanese news, paragraph writing in Arabic script, idioms, proverbs, and speaking challenges that push your boundaries.",
+    "estimatedWeeks": "Months 4–5",
+    "heroGradient": "linear-gradient(135deg,#7d3000,#4a1c00)",
+    "heroArabicWatermark": "طلاقة"
+  },
+  {
+    "id": 6,
+    "slug": "maintenance",
+    "title": "Maintenance & Naturalness",
+    "titleArabic": "بتحكي زي اللبناني",
+    "subtitle": "You Speak Like a Lebanese",
+    "description": "You've reclaimed your language. Now integrate it into daily life so it never leaves again. Advanced cultural fluency, Lebanese poetry, humor, and your graduation.",
+    "estimatedWeeks": "Month 6",
+    "heroGradient": "linear-gradient(135deg,#0d5050,#071e1e)",
+    "heroArabicWatermark": "طلاقة"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "p2-culture-food-etiquette",
+    "phaseId": 2,
+    "title": "Food Culture & Eating Etiquette",
+    "content": "Food is the heart of Lebanese culture. Meals are communal, generous, and deeply social. Understanding food etiquette is essential to navigating Lebanese life — refusing food too quickly is considered rude, and the host will always insist multiple times.",
+    "items": [
+      {"label": "تفضّل / تفضّلي (tfaḍḍal / tfaḍḍali)", "value": "The universal invitation to eat, sit, or come in. You will hear this dozens of times at any Lebanese gathering."},
+      {"label": "صحتين (ṣaḥtēn)", "value": "Literally 'two healths' — said before or during a meal, like 'bon appétit'. Response: عَ قلبك (ʕa ʔalbak) — 'on your heart'."},
+      {"label": "The three refusals", "value": "When offered food, you must refuse at least 2-3 times before accepting. The host will insist. Accepting too quickly seems greedy; refusing permanently offends."},
+      {"label": "Mezze culture", "value": "Lebanese meals start with مازة (māzza) — 20+ small shared dishes. Everyone eats from the same plates. Ordering individual dishes is uncommon in traditional settings."},
+      {"label": "يِسلَمو إيديك (yislamu īdēk)", "value": "Literally 'may your hands be safe' — said to whoever prepared the food. One of the most important compliments you can give."}
+    ]
+  },
+  {
+    "id": "p2-culture-service-taxi",
+    "phaseId": 2,
+    "title": "Service Taxi Etiquette",
+    "content": "The سرفيس (servīs) is Lebanon's unofficial public transit — shared taxis that run fixed routes for a fixed fare. Understanding how they work is essential for getting around.",
+    "items": [
+      {"label": "Hailing a service", "value": "Stand on the roadside, point in your direction. The driver slows down, you shout your destination. If they're going that way, they nod or say تفضل."},
+      {"label": "Fixed fare vs taxi", "value": "Service = shared ride, fixed low fare. Taxi = private ride, negotiate price BEFORE getting in. If you say 'taxi' the price jumps 5x."},
+      {"label": "عالحمرا (ʕa-l-Ḥamra) / عالأشرفية (ʕa-l-Ashrafiyye)", "value": "You call out your destination as a neighborhood, not an exact address. The driver drops you on the main road of that area."},
+      {"label": "Sharing with strangers", "value": "A service carries up to 4-5 passengers going roughly the same direction. You sit with strangers. Conversations sometimes happen, sometimes not."},
+      {"label": "عَ هالزاوية لو سمحت (ʕa ha-z-zāwye law samaḥt)", "value": "At this corner, please — how you tell the driver where to stop. There are no official stops."}
+    ]
+  },
+  {
+    "id": "p2-culture-hospitality",
+    "phaseId": 2,
+    "title": "Lebanese Hospitality Rules",
+    "content": "Lebanese hospitality (كَرم / karam) is legendary and non-negotiable. When visiting a Lebanese home, there are unwritten rules that every guest should know. Breaking these rules won't get you in trouble, but following them earns deep respect.",
+    "items": [
+      {"label": "Never arrive empty-handed", "value": "Bring sweets, fruit, or flowers when visiting. Even a box of حلويات (ḥalawiyyāt / pastries) from a local shop shows respect."},
+      {"label": "Shoes off at the door", "value": "Most Lebanese homes expect you to remove shoes. The host may say ما في داعي (mā fī dāʕi / no need), but do it anyway."},
+      {"label": "القهوة العربية (il-ʔahwe il-ʕarabiyye)", "value": "You will be offered Arabic coffee. Accept the first cup. The host won't stop offering until you wiggle the cup side to side — the signal you're done."},
+      {"label": "نوّرتو البيت (nawwarto il-bēt)", "value": "You lit up the house — the host says this to welcome you. Response: البيت بيتكم (il-bēt bētkum) — the house is yours."},
+      {"label": "Staying too short is rude", "value": "A quick visit is seen as dismissive. Plan to spend at least an hour, ideally more. Leaving immediately after eating is considered insulting."}
+    ]
+  },
+  {
+    "id": "p2-culture-arabizi",
+    "phaseId": 2,
+    "title": "Arabizi — Arabic in Latin Letters",
+    "content": "Lebanese youth text in 'Arabizi' — Arabic written with Latin letters and numbers replacing sounds that don't exist in English. This is the de facto writing system for informal digital communication in Lebanon.",
+    "items": [
+      {"label": "2 = ء (hamza/glottal stop)", "value": "2ahwe = قهوة (coffee), 2al = قال (he said)"},
+      {"label": "3 = ع (ʕayn)", "value": "3arabi = عربي (Arabic), 3ala = على (on)"},
+      {"label": "7 = ح (ḥā)", "value": "7abibi = حبيبي (my love), 7ilu = حلو (nice)"},
+      {"label": "5 = خ (khā)", "value": "5alas = خلص (done), 5od = خود (take)"},
+      {"label": "8 = غ (ghayn) or ق (qāf)", "value": "8ali = غالي (expensive), though 2 is more common for ق"},
+      {"label": "Why it exists", "value": "Pre-smartphone keyboards had no Arabic letters. The system stuck. Now it's a cultural identity — texting in full Arabic can feel overly formal among friends."}
+    ]
+  }
+]

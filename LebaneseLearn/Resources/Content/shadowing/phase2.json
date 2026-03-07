@@ -1,0 +1,58 @@
+[
+  {
+    "id": "p2-shadow-1a",
+    "arabic": "صحيت بدري اليوم وشربت قهوتي.",
+    "transliteration": "Ṣaḥēt badri l-yōm w-shribit ʔahwiti.",
+    "english": "I woke up early today and drank my coffee.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-1b",
+    "arabic": "رحت عالشغل بالصبح وإجيت بالمساء.",
+    "transliteration": "Ruḥt ʕash-shughl bis-subḥ w-ijēt bil-masā.",
+    "english": "I went to work in the morning and came back in the evening.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-1c",
+    "arabic": "كان يوم تعبان بس منيح.",
+    "transliteration": "Kān yōm taʕbān bas mnīḥ.",
+    "english": "It was a tiring but good day.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-2a",
+    "arabic": "أخوي بيشتغل بأمريكا وبنشوفو كتير.",
+    "transliteration": "Akhūy byishtghil b-Amrīka w-bnishshūfo ktīr.",
+    "english": "My brother works in America and we see him a lot.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-2b",
+    "arabic": "مامتي بتحكي معي كل يوم عالتلفون.",
+    "transliteration": "Māmti bt-ḥki maʕi kull yōm ʕal-telefōn.",
+    "english": "My mom talks with me every day on the phone.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-3a",
+    "arabic": "أنا مبسوط كتير اليوم، والله!",
+    "transliteration": "Ana mabsūṭ ktīr l-yōm, wallah!",
+    "english": "I'm very happy today, I swear!",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-3b",
+    "arabic": "اشتقتلك كتير والله، مين زمان ما شفتك.",
+    "transliteration": "Ishtaʔtillak ktīr wallah, mīn zamān mā shuftak.",
+    "english": "I missed you so much, haven't seen you in ages.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p2-shadow-3c",
+    "arabic": "ما في وقت، أنا مضغوط كتير هلق.",
+    "transliteration": "Mā fī waʔt, ana maḍghūṭ ktīr hallaʔ.",
+    "english": "There's no time, I'm very stressed right now.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  }
+]

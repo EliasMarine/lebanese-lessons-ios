@@ -1,0 +1,40 @@
+[
+  {
+    "id": "p5-culture-political-conversation",
+    "phaseId": 5,
+    "title": "The Political Landscape in Conversation",
+    "content": "Politics in Lebanon is deeply personal, tied to family, sect, and region. Political discussions are passionate and frequent — at dinner tables, in taxis, at work. Navigating these conversations requires understanding the landscape, even if you choose not to participate.",
+    "items": [
+      {"label": "طائفية (ṭā'ifiyye)", "value": "Sectarianism — the system that divides political power among religious sects. The president must be Maronite Christian, the PM Sunni Muslim, the Speaker Shia Muslim."},
+      {"label": "شو رأيك بالوضع؟ (shū ra'yak b-il-waḍiʕ?)", "value": "What do you think about the situation? — a common conversation opener that can lead anywhere. Answer carefully or deflect with الله يفرجها (God will resolve it)."},
+      {"label": "Safe responses", "value": "الوضع صعب (il-waḍiʕ ṣaʕb / the situation is difficult) and الله يعين الكل (allāh yʕīn il-kill / God help everyone) are neutral, respectful responses."},
+      {"label": "October 17 Revolution (2019)", "value": "ثورة ١٧ تشرين — a massive cross-sectarian protest movement. كلّن يعني كلّن (killun yaʕni killun / all of them means all of them) became its slogan."}
+    ]
+  },
+  {
+    "id": "p5-culture-french-english-daily",
+    "phaseId": 5,
+    "title": "French & English in Daily Life",
+    "content": "Lebanese culture absorbs languages like a sponge. French arrived with the Ottoman-era missionaries and the French Mandate (1920-1943). English came later through globalization, media, and education. Today, both are woven into the fabric of daily Lebanese Arabic.",
+    "items": [
+      {"label": "French loanwords you already know", "value": "Trottoir (sidewalk), garage, chauffeur, abat-jour (lampshade), salon, balcon, ascenseur (elevator) — all used in daily Lebanese Arabic with Arabic pronunciation."},
+      {"label": "English tech vocabulary", "value": "Computer, internet, software, email, website, download — tech terms are almost always English, even in otherwise fully Arabic conversations."},
+      {"label": "Education split", "value": "Schools teach either in French (francophone) or English (anglophone). This creates two 'streams' of Lebanese who favor different second languages."},
+      {"label": "Status signaling", "value": "Using more French or English can signal education and social class. Some neighborhoods are predominantly francophone (Ashrafieh) or anglophone (Hamra)."},
+      {"label": "Supermarket observations", "value": "Product labels are often trilingual. Cashiers switch languages based on the customer. It's common to hear three languages in one checkout line."}
+    ]
+  },
+  {
+    "id": "p5-culture-generational-language",
+    "phaseId": 5,
+    "title": "Generational Language Differences",
+    "content": "How Lebanese people speak varies dramatically by generation. Understanding these differences helps you communicate naturally with everyone — from your teta (grandmother) to your teenage cousin.",
+    "items": [
+      {"label": "Older generation (60+)", "value": "More Arabic-dominant with French sprinkled in. Richer in traditional expressions, proverbs, and formal Arabic structures. They say مرحبا (marḥaba) more than 'hi'."},
+      {"label": "Middle generation (35-60)", "value": "The most trilingual generation. Comfortable switching between Arabic, French, and English depending on context. Peak code-switching ability."},
+      {"label": "Young generation (15-35)", "value": "English-dominant in many cases. Heavy use of Arabizi in texting. Slang evolves rapidly through social media. More casual in register."},
+      {"label": "Diaspora youth", "value": "May understand Lebanese well but respond in English. Their Arabic might be accented or simplified. This is normal and culturally sensitive — don't correct them."},
+      {"label": "تيتا (tēta) vs. Snapchat", "value": "Grandmother speaks pure Lebanese Arabic; grandchild texts in Arabizi with English slang. Both are authentically Lebanese — the language is alive and evolving."}
+    ]
+  }
+]

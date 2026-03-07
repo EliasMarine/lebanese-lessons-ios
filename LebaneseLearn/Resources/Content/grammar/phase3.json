@@ -1,0 +1,103 @@
+[
+  {
+    "id": "p3-grammar-past-tense",
+    "phaseId": 3,
+    "title": "Past Tense Conjugation",
+    "tag": "Core Pattern",
+    "explanation": "Lebanese past tense is formed by adding suffixes to the verb root. Unlike MSA, Lebanese simplifies some forms — notably, masculine and feminine 'you (singular)' share the same base with only the feminine adding ـي. Here are two essential verbs fully conjugated.",
+    "table": {
+      "headers": ["Pronoun", "كتب (to write)", "Phonetic", "راح (to go)", "Phonetic"],
+      "rows": [
+        ["أنا", "كتبت", "katabt", "رحت", "ruḥt"],
+        ["إنت", "كتبت", "katabt", "رحت", "ruḥt"],
+        ["إنتي", "كتبتي", "katabti", "رحتي", "ruḥti"],
+        ["هو", "كتب", "katab", "راح", "rāḥ"],
+        ["هي", "كتبت", "katabet", "راحت", "rāḥet"],
+        ["نحنا", "كتبنا", "katabna", "رحنا", "ruḥna"],
+        ["إنتو", "كتبتو", "katabtu", "رحتو", "ruḥtu"],
+        ["هنن", "كتبو", "katabu", "راحو", "rāḥu"]
+      ]
+    },
+    "examples": [
+      {"arabic": "رحت عالسوق", "transliteration": "ruḥt ʕas-sūʔ", "english": "I went to the market"},
+      {"arabic": "أكلنا سوا", "transliteration": "akalna sawa", "english": "We ate together"},
+      {"arabic": "شافوه مبارح", "transliteration": "shāfū mbēriḥ", "english": "They saw him yesterday"},
+      {"arabic": "وصلت عالبيت", "transliteration": "wṣilet ʕal-bēt", "english": "She arrived home"}
+    ]
+  },
+  {
+    "id": "p3-grammar-conditional",
+    "phaseId": 3,
+    "title": "Conditional with إذا (iza)",
+    "tag": "Useful Pattern",
+    "explanation": "إذا (iza) means 'if' and introduces real, possible conditions. It is typically followed by a past-tense verb (even when the meaning is present/future). The result clause uses رح or the b- present tense.",
+    "examples": [
+      {"arabic": "إذا بدك تيجي، خبرني", "transliteration": "iza baddak tīji, khabbirni", "english": "If you want to come, let me know", "breakdown": "إذا (if) + بدك (you want) + تيجي (to come) — خبرني (tell me)"},
+      {"arabic": "إذا في وقت، بزورك", "transliteration": "iza fī waʔt, bzūrak", "english": "If there's time, I'll visit you", "breakdown": "إذا (if) + في (there is) + وقت (time) — بزورك (I visit you)"},
+      {"arabic": "إذا ما حبيت الأكل، ما تاكل", "transliteration": "iza mā ḥabbēt il-akl, mā tēkol", "english": "If you don't like the food, don't eat", "breakdown": "إذا (if) + ما حبيت (you didn't like) — ما تاكل (don't eat)"},
+      {"arabic": "إذا اجا بكير، منروح سوا", "transliteration": "iza ija bakkīr, mnrūḥ sawa", "english": "If he comes early, we'll go together", "breakdown": "إذا (if) + اجا (he came) + بكير (early) — منروح (we go) + سوا (together)"}
+    ]
+  },
+  {
+    "id": "p3-grammar-ya-ret",
+    "phaseId": 3,
+    "title": "The Wish Pattern — يا ريت (ya rēt)",
+    "tag": "Very Lebanese",
+    "explanation": "يا ريت (ya rēt) expresses a wish or longing — 'I wish / if only.' It is followed by a verb (past for unrealized wishes, present for hopeful wishes). This expression is uniquely Levantine and does not exist in MSA.",
+    "examples": [
+      {"arabic": "يا ريت كنت هون", "transliteration": "ya rēt kint hōn", "english": "I wish I was here", "breakdown": "يا ريت (I wish) + كنت (I was) + هون (here)"},
+      {"arabic": "يا ريت بقدر", "transliteration": "ya rēt baʔdir", "english": "I wish I could", "breakdown": "يا ريت (I wish) + بقدر (I can)"},
+      {"arabic": "يا ريت بيرجع", "transliteration": "ya rēt byirjaʕ", "english": "I wish he'd come back", "breakdown": "يا ريت (I wish) + بيرجع (he comes back)"},
+      {"arabic": "يا ريت ما قلتلو", "transliteration": "ya rēt mā ʔiltillo", "english": "I wish I hadn't told him", "breakdown": "يا ريت (I wish) + ما (not) + قلتلو (I told him)"}
+    ]
+  },
+  {
+    "id": "p3-grammar-object-pronouns",
+    "phaseId": 3,
+    "title": "Object Pronouns (Attached to Verbs)",
+    "explanation": "In Lebanese Arabic, object pronouns attach directly to the end of the verb as suffixes. The base verb changes slightly depending on whether it ends in a consonant or vowel. Here are the suffixes shown with شاف (to see).",
+    "table": {
+      "headers": ["Object", "Suffix", "شاف + suffix", "Phonetic", "Meaning"],
+      "rows": [
+        ["me", "ـني", "شافني", "shēfni", "he saw me"],
+        ["you (m.)", "ـك", "شافك", "shēfak", "he saw you"],
+        ["you (f.)", "ـك", "شافك", "shēfik", "he saw you (f.)"],
+        ["him", "ـو", "شافو", "shēfo", "he saw him"],
+        ["her", "ـا", "شافا", "shēfa", "he saw her"],
+        ["us", "ـنا", "شافنا", "shēfna", "he saw us"],
+        ["you (pl.)", "ـكن", "شافكن", "shēfkon", "he saw you (pl.)"],
+        ["them", "ـن", "شافن", "shēfon", "he saw them"]
+      ]
+    },
+    "examples": [
+      {"arabic": "شافني بالسوق", "transliteration": "shēfni bis-sūʔ", "english": "He saw me at the market"},
+      {"arabic": "خبرتو عن الموضوع", "transliteration": "khabbartu ʕan il-mawḍūʕ", "english": "I told him about the matter"},
+      {"arabic": "عطيتا ياه", "transliteration": "ʕaṭayta yē", "english": "I gave it to her"},
+      {"arabic": "بعرفن من زمان", "transliteration": "baʕrifon min zamēn", "english": "I've known them for a long time"}
+    ]
+  },
+  {
+    "id": "p3-grammar-connectors",
+    "phaseId": 3,
+    "title": "Connecting Sentences — يعني، هيدا، بس",
+    "tag": "Conversation Glue",
+    "explanation": "Lebanese conversation flows with small connecting words that glue ideas together. These fillers and connectors are essential for sounding natural. They rarely translate directly but serve important discourse functions.",
+    "table": {
+      "headers": ["Word", "Phonetic", "Usage"],
+      "rows": [
+        ["يعني", "yaʕni", "I mean / like / so (filler & connector)"],
+        ["بس", "bas", "but / just / only"],
+        ["هيدا", "hayda", "this (m.) — used to introduce topics"],
+        ["هيدي", "haydi", "this (f.)"],
+        ["كمان", "kamēn", "also / too / as well"],
+        ["طيب", "ṭayyeb", "okay / alright / so then"]
+      ]
+    },
+    "examples": [
+      {"arabic": "بحب القهوة، بس بدون سكر", "transliteration": "bḥebb il-ʔahwe, bas badūn sukkar", "english": "I like coffee, but without sugar"},
+      {"arabic": "هيدا يعني ما فينا نروح", "transliteration": "hayda yaʕni mā fīna nrūḥ", "english": "This means we can't go"},
+      {"arabic": "طيب، شو بدك تعمل؟", "transliteration": "ṭayyeb, shū baddak taʕmal?", "english": "Okay, so what do you want to do?"},
+      {"arabic": "أنا كمان بحب الأكل اللبناني", "transliteration": "ana kamēn bḥebb il-akl il-libnēni", "english": "I also love Lebanese food"}
+    ]
+  }
+]

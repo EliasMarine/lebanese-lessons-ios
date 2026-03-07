@@ -1,0 +1,41 @@
+[
+  {
+    "id": "p4-culture-business-etiquette",
+    "phaseId": 4,
+    "title": "Business Etiquette & Formality",
+    "content": "Lebanese business culture blends Western efficiency with Middle Eastern relationship-building. First impressions matter enormously, and personal rapport must be established before getting down to business.",
+    "items": [
+      {"label": "Greetings matter", "value": "Always greet everyone individually. A firm handshake, eye contact, and كيفك/كيفِك before business talk. Jumping straight to business is considered rude."},
+      {"label": "أستاذ / أستاذة (ustāz / ustāze)", "value": "The default respectful title in professional settings. Used for teachers, bosses, and anyone you want to show respect to."},
+      {"label": "Business over coffee", "value": "Meetings almost always start with coffee or tea. Declining is awkward. The real negotiation often happens during this informal phase."},
+      {"label": "Dress code", "value": "Lebanese business culture is quite formal — suits and polished appearance are the norm. Lebanon is image-conscious even in casual settings."},
+      {"label": "إن شاء الله in business", "value": "When a business partner says إن شاء الله (God willing) about a deadline, it often means 'maybe' or 'don't count on it'. Push gently for concrete dates."}
+    ]
+  },
+  {
+    "id": "p4-culture-code-switching",
+    "phaseId": 4,
+    "title": "Code-Switching: Arabic, French & English",
+    "content": "Lebanon is trilingual. Most educated Lebanese switch seamlessly between Arabic, French, and English — sometimes within a single sentence. This isn't confusion; it's a cultural superpower and a mark of Lebanese identity.",
+    "items": [
+      {"label": "Hi, kifak, ça va?", "value": "The famous trilingual greeting — English 'hi', Arabic 'how are you', French 'how's it going' — all in one breath. This is peak Lebanese."},
+      {"label": "French-dominant sectors", "value": "Medicine, law, and banking often operate in French. Prescriptions are written in French. Many legal terms are French."},
+      {"label": "English-dominant sectors", "value": "Technology, business, and marketing tend toward English. LinkedIn profiles are in English. Tech startups use English internally."},
+      {"label": "When to use what", "value": "With family: mostly Arabic. At work: Arabic + English/French. On social media: Arabizi or English. Formal writing: MSA (فصحى)."},
+      {"label": "Don't overthink it", "value": "As a learner, don't worry about code-switching perfectly. Lebanese people appreciate any effort. Mixing languages is natural and expected."}
+    ]
+  },
+  {
+    "id": "p4-culture-humor-sarcasm",
+    "phaseId": 4,
+    "title": "Lebanese Humor & Sarcasm",
+    "content": "Lebanese humor is sharp, ironic, and often dark. Sarcasm is a national pastime, and the ability to crack jokes — especially during hardship — is deeply admired. Understanding humor is the gateway to true cultural fluency.",
+    "items": [
+      {"label": "Dark humor as survival", "value": "During crises (war, economic collapse, power cuts), Lebanese people joke about their situation. It's a coping mechanism and a cultural strength."},
+      {"label": "والله؟ (wallah?)", "value": "Really? / I swear? — said with different tones: genuine surprise, sarcasm, disbelief, or mild mockery. Tone is everything."},
+      {"label": "Exaggeration is normal", "value": "عم بموت من الجوع (ʕam bmūt min ij-jūʕ / I'm dying of hunger) and بدي أنفجر (baddi infijir / I'm going to explode) are everyday expressions, not emergencies."},
+      {"label": "Political jokes", "value": "Lebanese joke about politicians constantly. It's a safe social topic that everyone bonds over, regardless of political affiliation."},
+      {"label": "Self-deprecation", "value": "Making fun of oneself and one's country is common and appreciated. It shows confidence and cultural awareness."}
+    ]
+  }
+]

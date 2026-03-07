@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p3-culture-fairouz",
+    "phaseId": 3,
+    "title": "Fairouz & the Morning Ritual",
+    "content": "Every morning in Lebanon starts with Fairouz. She is not just a singer — she is a national institution. Playing Fairouz in the morning is as automatic as making coffee. To play anything else before noon is considered almost sacrilegious by many Lebanese.",
+    "items": [
+      {"label": "الصبح فيروز (iṣ-ṣubiḥ Fayrūz)", "value": "Morning is Fairouz — an unwritten rule. Her gentle, classical voice sets the tone for the day."},
+      {"label": "نحنا والقمر جيران (niḥna wa-l-ʔamar jīrān)", "value": "We and the Moon Are Neighbors — one of her most beloved songs, about beauty and connection."},
+      {"label": "The Rahbani Brothers", "value": "Fairouz's legendary music was composed by the Rahbani brothers (Assi & Mansour), who also created groundbreaking musical theater."},
+      {"label": "Civil war neutrality", "value": "During the 15-year civil war, Fairouz refused to leave Lebanon or take sides. Both factions respected her. She became a symbol of unity."},
+      {"label": "بحبّك يا لبنان (bḥibbak yā Lubnān)", "value": "I Love You, Lebanon — an anthem that brings tears to diaspora Lebanese worldwide."}
+    ]
+  },
+  {
+    "id": "p3-culture-cinema-tv",
+    "phaseId": 3,
+    "title": "Lebanese Cinema & TV",
+    "content": "Lebanon has a vibrant entertainment industry. Lebanese TV shows, movies, and music dominate the Arab world. Learning through Lebanese media is one of the best ways to absorb natural speech patterns, slang, and cultural references.",
+    "items": [
+      {"label": "مسلسلات لبنانية (musalsalāt lubnāniyye)", "value": "Lebanese TV series are popular across the Arab world for their modern themes, natural dialogue, and high production quality."},
+      {"label": "Nadine Labaki", "value": "Lebanon's most famous director. Her film 'Capernaum' (كفرناحوم) was nominated for an Oscar and explores poverty in Beirut."},
+      {"label": "Comedy shows", "value": "Shows like 'Adel Karam Show' and 'Hayda Haki' use natural Lebanese dialogue and are great listening practice."},
+      {"label": "Music industry", "value": "Lebanon produces many of the Arab world's biggest pop stars. Songs are a great way to learn colloquial vocabulary and expressions."}
+    ]
+  },
+  {
+    "id": "p3-culture-religious-diversity",
+    "phaseId": 3,
+    "title": "Religious Diversity & Coexistence",
+    "content": "Lebanon is home to 18 officially recognized religious sects — Maronite, Sunni, Shia, Druze, Greek Orthodox, Armenian, and more. This diversity is central to Lebanese identity and shapes politics, social life, and even vocabulary.",
+    "items": [
+      {"label": "التعايش (it-taʕāyush)", "value": "Coexistence — the foundational principle of Lebanese society. Different communities live side by side, often sharing neighborhoods."},
+      {"label": "Religious greetings", "value": "الله يباركلك (allāh ybāriklak) and إن شاء الله (in shāʔ allāh) are used by ALL Lebanese — Muslim and Christian alike. They're cultural, not strictly religious."},
+      {"label": "Holidays for everyone", "value": "Lebanon celebrates both Islamic and Christian holidays as national holidays. Everyone gets days off for عيد الفطر, عيد الأضحى, Christmas, and Easter."},
+      {"label": "Language variations", "value": "Some vocabulary varies by community. Certain villages pronounce ق as 'q' while others use a glottal stop. These are regional, not religious, differences."},
+      {"label": "The 'where are you from?' question", "value": "من وين إنت؟ (min wēn inta?) often means 'what sect are you?' — Lebanese use region and family name to deduce religious background. It's a sensitive but ubiquitous social navigation tool."}
+    ]
+  },
+  {
+    "id": "p3-culture-wasta",
+    "phaseId": 3,
+    "title": "Wasta — The Connections System",
+    "content": "واسطة (wāsṭa) is the system of personal connections, favors, and influence that drives much of Lebanese life. While officially frowned upon, it's deeply embedded in society — from getting a job to speeding up paperwork.",
+    "items": [
+      {"label": "واسطة (wāsṭa)", "value": "Literally 'mediation' — using connections to get things done. Everyone has it, everyone uses it, everyone complains about it."},
+      {"label": "بعرف حدا (baʕrif ḥada)", "value": "I know someone — the magic phrase. Having a contact at a hospital, government office, or business can save hours or days of waiting."},
+      {"label": "معرفة (maʕrife)", "value": "Acquaintance/connection — building your network of maʕrife is a lifelong Lebanese activity. Networking happens everywhere."},
+      {"label": "ما بيمشي بدون واسطة (mā byimshi bdūn wāsṭa)", "value": "It won't work without connections — a common resigned expression about bureaucracy and systems in Lebanon."}
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "p1-grammar-pronouns",
+    "phaseId": 1,
+    "title": "Pronouns",
+    "explanation": "Lebanese Arabic pronouns are simpler than MSA — no case endings, relaxed word order. Here are the core personal pronouns.",
+    "table": {
+      "headers": ["Pronoun", "Arabic", "Phonetic", "Pronoun", "Arabic", "Phonetic"],
+      "rows": [
+        ["I", "أنا", "ana", "We", "نحنا", "niḥna"],
+        ["You (m.)", "إنت", "inta", "You (pl.)", "إنتو", "intu"],
+        ["You (f.)", "إنتي", "inti", "They", "هنن", "hinne"],
+        ["He", "هو", "huwwe", "She", "هي", "hiyye"]
+      ]
+    }
+  },
+  {
+    "id": "p1-grammar-b-prefix",
+    "phaseId": 1,
+    "title": "Present Tense — The b- Prefix",
+    "tag": "Core Pattern",
+    "explanation": "The Lebanese \"b-\" prefix marks present/habitual tense. This doesn't exist in MSA. It changes per pronoun: b-, bt-, by-, mn-.",
+    "table": {
+      "headers": ["Pronoun", "كتب (to write)", "Phonetic"],
+      "rows": [
+        ["أنا", "بكتب", "b-ktub"],
+        ["إنت", "بتكتب", "bt-ktub"],
+        ["هو", "بيكتب", "by-ktub"],
+        ["هي", "بتكتب", "bt-ktub"],
+        ["نحنا", "منكتب", "mn-ktub"],
+        ["هنن", "بيكتبو", "by-ktbu"]
+      ]
+    }
+  },
+  {
+    "id": "p1-grammar-negation",
+    "phaseId": 1,
+    "title": "Negation — The ما…ش Sandwich",
+    "tag": "Very Lebanese",
+    "explanation": "Wrap the verb: ما + verb + ش",
+    "examples": [
+      {
+        "arabic": "ما بعرفش",
+        "transliteration": "ma baʕrifsh",
+        "english": "I don't know"
+      },
+      {
+        "arabic": "ما رحتش",
+        "transliteration": "ma ruḥtish",
+        "english": "I didn't go"
+      },
+      {
+        "arabic": "مش كتير",
+        "transliteration": "mish ktīr",
+        "english": "Not much"
+      }
+    ]
+  },
+  {
+    "id": "p1-grammar-possessives",
+    "phaseId": 1,
+    "title": "Possessives",
+    "explanation": "Lebanese Arabic uses suffixes attached to the noun to indicate possession. Here are the possessive suffixes applied to بيت (house).",
+    "table": {
+      "headers": ["Meaning", "Suffix", "بيت (house)", "Meaning", "Suffix", "بيت (house)"],
+      "rows": [
+        ["my", "ـي", "بيتي", "our", "ـنا", "بيتنا"],
+        ["your (m.)", "ـك", "بيتك", "their", "ـن", "بيتن"],
+        ["his", "ـو", "بيتو", "her", "ـا", "بيتا"]
+      ]
+    }
+  }
+]
