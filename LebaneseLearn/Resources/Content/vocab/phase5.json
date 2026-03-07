@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "p5-idiom-khod-balak",
+    "phaseId": 5,
+    "arabic": "خود بالك حالك",
+    "transliteration": "khōd bālak ḥālak",
+    "english": "Take care of yourself",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "Literal: Take your mind of yourself. Meaning: Stay safe / look after yourself"
+  },
+  {
+    "id": "p5-idiom-ktab-maftooh",
+    "phaseId": 5,
+    "arabic": "هو كتاب مفتوح",
+    "transliteration": "huwwe ktāb maftūḥ",
+    "english": "He's an open book",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "Totally transparent, no secrets"
+  },
+  {
+    "id": "p5-idiom-kafa",
+    "phaseId": 5,
+    "arabic": "كفى كفى",
+    "transliteration": "kafa kafa",
+    "english": "That's enough / I'm done",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "Stop it / I've had it"
+  },
+  {
+    "id": "p5-idiom-rabbna-karim",
+    "phaseId": 5,
+    "arabic": "ربنا كريم",
+    "transliteration": "rabbna karīm",
+    "english": "God willing it'll work out",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "Literal: Our Lord is generous. It'll be okay — trust in God"
+  },
+  {
+    "id": "p5-idiom-nawwarto",
+    "phaseId": 5,
+    "arabic": "نوّرتو البيت",
+    "transliteration": "nawwarto il-bēt",
+    "english": "You lit up the house",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "Welcome! Your presence brightens us"
+  },
+  {
+    "id": "p5-idiom-albo-dahab",
+    "phaseId": 5,
+    "arabic": "قلبو من دهب",
+    "transliteration": "ʔalbo min dahab",
+    "english": "Heart of gold",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "He's incredibly kind and generous"
+  },
+  {
+    "id": "p5-idiom-ma-sar-shi",
+    "phaseId": 5,
+    "arabic": "ما صار شي",
+    "transliteration": "mā ṣār shi",
+    "english": "Nothing happened",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "It's fine / no big deal / don't worry"
+  },
+  {
+    "id": "p5-idiom-ida-tawile",
+    "phaseId": 5,
+    "arabic": "إيدا طويلة",
+    "transliteration": "ēda ṭawīle",
+    "english": "She has a long hand",
+    "category": "Idioms",
+    "partOfSpeech": "expression",
+    "notes": "She's generous / very giving"
+  },
+  {
+    "id": "p5-verbs-sharah",
+    "phaseId": 5,
+    "arabic": "شرح",
+    "transliteration": "sharaḥ",
+    "english": "To explain",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "فيك تشرحلي كمان مرة؟",
+      "transliteration": "fīk tishraḥli kamān marra?",
+      "english": "Can you explain to me again?"
+    }
+  },
+  {
+    "id": "p5-verbs-aran",
+    "phaseId": 5,
+    "arabic": "قارن",
+    "transliteration": "ʔāran",
+    "english": "To compare",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-verbs-itna-ash",
+    "phaseId": 5,
+    "arabic": "اتناقش",
+    "transliteration": "itnāʔash",
+    "english": "To argue / discuss",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "ما بدي اتناقش معك",
+      "transliteration": "mā baddi itnāʔash maʕak",
+      "english": "I don't want to argue with you"
+    }
+  },
+  {
+    "id": "p5-verbs-waad",
+    "phaseId": 5,
+    "arabic": "وعد",
+    "transliteration": "waʕad",
+    "english": "To promise",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "وعدتني ما تروح",
+      "transliteration": "waʕadtni mā trūḥ",
+      "english": "You promised me you wouldn't go"
+    }
+  },
+  {
+    "id": "p5-verbs-algha",
+    "phaseId": 5,
+    "arabic": "ألغى",
+    "transliteration": "algha",
+    "english": "To cancel",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "ألغينا الاجتماع",
+      "transliteration": "alghēna il-ijtimāʕ",
+      "english": "We cancelled the meeting"
+    }
+  },
+  {
+    "id": "p5-verbs-ajjal",
+    "phaseId": 5,
+    "arabic": "أجّل",
+    "transliteration": "ajjal",
+    "english": "To postpone",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-verbs-ishtaka",
+    "phaseId": 5,
+    "arabic": "اشتكى",
+    "transliteration": "ishtaka",
+    "english": "To complain",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "دايمًا عم يشتكي",
+      "transliteration": "dāyman ʕam yishtiki",
+      "english": "He's always complaining"
+    }
+  },
+  {
+    "id": "p5-verbs-samah",
+    "phaseId": 5,
+    "arabic": "سامح",
+    "transliteration": "sāmaḥ",
+    "english": "To forgive",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "سامحني",
+      "transliteration": "sāmiḥni",
+      "english": "Forgive me"
+    }
+  },
+  {
+    "id": "p5-verbs-zakkar",
+    "phaseId": 5,
+    "arabic": "ذكّر",
+    "transliteration": "zakkar",
+    "english": "To remind",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "ذكّرني بكرا",
+      "transliteration": "zakkirni bukra",
+      "english": "Remind me tomorrow"
+    }
+  },
+  {
+    "id": "p5-verbs-tarjam",
+    "phaseId": 5,
+    "arabic": "ترجم",
+    "transliteration": "tarjam",
+    "english": "To translate",
+    "category": "Advanced Verbs",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-slang-hilu",
+    "phaseId": 5,
+    "arabic": "حلو",
+    "transliteration": "ḥilu",
+    "english": "Cool / nice",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj",
+    "notes": "Context-dependent: can mean beautiful, nice, cool, sweet",
+    "exampleSentence": {
+      "arabic": "هيدا حلو كتير",
+      "transliteration": "hayda ḥilu ktīr",
+      "english": "That's really cool"
+    }
+  },
+  {
+    "id": "p5-slang-ya-zalame",
+    "phaseId": 5,
+    "arabic": "يا زلمة",
+    "transliteration": "ya zalame",
+    "english": "Dude / buddy / man",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "expression",
+    "notes": "Very common male address; informal",
+    "exampleSentence": {
+      "arabic": "شو عم تعمل يا زلمة؟",
+      "transliteration": "shū ʕam taʕmal ya zalame?",
+      "english": "What are you doing, dude?"
+    }
+  },
+  {
+    "id": "p5-slang-kazzab",
+    "phaseId": 5,
+    "arabic": "كذاب",
+    "transliteration": "kazzāb",
+    "english": "Liar",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p5-slang-majnun",
+    "phaseId": 5,
+    "arabic": "مجنون",
+    "transliteration": "majnūn",
+    "english": "Crazy",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "إنت مجنون؟",
+      "transliteration": "inta majnūn?",
+      "english": "Are you crazy?"
+    }
+  },
+  {
+    "id": "p5-slang-azim",
+    "phaseId": 5,
+    "arabic": "عظيم",
+    "transliteration": "ʕaẓīm",
+    "english": "Awesome / great",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p5-slang-mhallak",
+    "phaseId": 5,
+    "arabic": "مهلّك",
+    "transliteration": "mhallak",
+    "english": "Exhausted / wasted",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj",
+    "notes": "Lebanese-specific intensifier for tired",
+    "exampleSentence": {
+      "arabic": "مهلّك من الشغل",
+      "transliteration": "mhallak min ish-shughl",
+      "english": "Exhausted from work"
+    }
+  },
+  {
+    "id": "p5-slang-madghut",
+    "phaseId": 5,
+    "arabic": "مضغوط",
+    "transliteration": "maḍghūṭ",
+    "english": "Stressed / under pressure",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p5-slang-mahzuz",
+    "phaseId": 5,
+    "arabic": "محظوظ",
+    "transliteration": "maḥẓūẓ",
+    "english": "Lucky",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "كتير محظوظ إنك هون",
+      "transliteration": "ktīr maḥẓūẓ innak hōn",
+      "english": "You're very lucky to be here"
+    }
+  },
+  {
+    "id": "p5-slang-bakhil",
+    "phaseId": 5,
+    "arabic": "بخيل",
+    "transliteration": "bakhīl",
+    "english": "Stingy / cheap",
+    "category": "Lebanese Slang",
+    "partOfSpeech": "adj",
+    "notes": "Strong insult in Lebanese culture of generosity"
+  },
+  {
+    "id": "p5-media-film",
+    "phaseId": 5,
+    "arabic": "فيلم",
+    "transliteration": "fīlm",
+    "english": "Movie / film",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "يلا نتفرج عفيلم",
+      "transliteration": "yalla nitfarraj ʕa-fīlm",
+      "english": "Let's watch a movie"
+    }
+  },
+  {
+    "id": "p5-media-ughniye",
+    "phaseId": 5,
+    "arabic": "أغنية",
+    "transliteration": "ughniye",
+    "english": "Song",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-musalsal",
+    "phaseId": 5,
+    "arabic": "مسلسل",
+    "transliteration": "musalsal",
+    "english": "TV series / show",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عم تابع مسلسل جديد",
+      "transliteration": "ʕam tābiʕ musalsal jdīd",
+      "english": "I'm following a new TV series"
+    }
+  },
+  {
+    "id": "p5-media-akhbar",
+    "phaseId": 5,
+    "arabic": "أخبار",
+    "transliteration": "akhbār",
+    "english": "News",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو الأخبار اليوم؟",
+      "transliteration": "shū il-akhbār il-yōm?",
+      "english": "What's the news today?"
+    }
+  },
+  {
+    "id": "p5-media-social",
+    "phaseId": 5,
+    "arabic": "سوشال ميديا",
+    "transliteration": "sōshal mīdya",
+    "english": "Social media",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun",
+    "notes": "English loanword used widely"
+  },
+  {
+    "id": "p5-media-sura",
+    "phaseId": 5,
+    "arabic": "صورة",
+    "transliteration": "ṣūra",
+    "english": "Photo / picture",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "يلا ناخد صورة",
+      "transliteration": "yalla nēkhod ṣūra",
+      "english": "Let's take a photo"
+    }
+  },
+  {
+    "id": "p5-media-video",
+    "phaseId": 5,
+    "arabic": "فيديو",
+    "transliteration": "fīdyo",
+    "english": "Video",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-anaat",
+    "phaseId": 5,
+    "arabic": "قناة",
+    "transliteration": "ʔanāt",
+    "english": "Channel",
+    "category": "Media & Entertainment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-religion-eid",
+    "phaseId": 5,
+    "arabic": "عيد",
+    "transliteration": "ʕīd",
+    "english": "Holiday / feast / Eid",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "كل عيد وإنت بخير",
+      "transliteration": "kill ʕīd w-inta b-khēr",
+      "english": "Happy holiday (to you)"
+    }
+  },
+  {
+    "id": "p5-religion-ramadan",
+    "phaseId": 5,
+    "arabic": "رمضان",
+    "transliteration": "ramaḍān",
+    "english": "Ramadan",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun",
+    "notes": "Holy month of fasting for Muslims"
+  },
+  {
+    "id": "p5-religion-milad",
+    "phaseId": 5,
+    "arabic": "عيد الميلاد",
+    "transliteration": "ʕīd il-mīlād",
+    "english": "Christmas",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun",
+    "notes": "Literally 'feast of the birth'; widely celebrated in Lebanon"
+  },
+  {
+    "id": "p5-religion-knise",
+    "phaseId": 5,
+    "arabic": "كنيسة",
+    "transliteration": "knīse",
+    "english": "Church",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-religion-jeme",
+    "phaseId": 5,
+    "arabic": "جامع",
+    "transliteration": "jēmeʕ",
+    "english": "Mosque",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-religion-allah",
+    "phaseId": 5,
+    "arabic": "الله",
+    "transliteration": "allāh",
+    "english": "God",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun",
+    "notes": "Used by both Muslims and Christians in Lebanon"
+  },
+  {
+    "id": "p5-religion-sala",
+    "phaseId": 5,
+    "arabic": "صلا",
+    "transliteration": "ṣala",
+    "english": "Prayer",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese pronunciation; MSA صلاة"
+  },
+  {
+    "id": "p5-religion-barake",
+    "phaseId": 5,
+    "arabic": "بركة",
+    "transliteration": "barake",
+    "english": "Blessing",
+    "category": "Religion & Holidays",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الله يباركلك",
+      "transliteration": "allāh ybāriklak",
+      "english": "God bless you"
+    }
+  },
+  {
+    "id": "p5-media-muaddim",
+    "phaseId": 5,
+    "arabic": "مُقَدِّم",
+    "transliteration": "mu2addim",
+    "english": "Presenter / host",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المُقَدِّم كتير شاطِر",
+      "transliteration": "il-mu2addim ktīr shāṭir",
+      "english": "The presenter is very talented"
+    }
+  },
+  {
+    "id": "p5-media-murasil",
+    "phaseId": 5,
+    "arabic": "مُراسِل",
+    "transliteration": "murāsil",
+    "english": "Correspondent / reporter",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-tahqiq",
+    "phaseId": 5,
+    "arabic": "تَحقِيق",
+    "transliteration": "ta7qīq",
+    "english": "Investigation / report",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عَم يعمِلو تَحقِيق عَ الموضوع",
+      "transliteration": "ʕam yaʕmlo ta7qīq ʕa-l-mawḍūʕ",
+      "english": "They're doing an investigation on the topic"
+    }
+  },
+  {
+    "id": "p5-media-sahafe",
+    "phaseId": 5,
+    "arabic": "صَحافِة",
+    "transliteration": "ṣaḥāfe",
+    "english": "Journalism",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-barnamij",
+    "phaseId": 5,
+    "arabic": "بَرنامِج",
+    "transliteration": "barnāmij",
+    "english": "Program / show",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو أحلى بَرنامِج عَ التلفزيون؟",
+      "transliteration": "shū aḥla barnāmij ʕa-t-tilfizyōn?",
+      "english": "What's the best show on TV?"
+    }
+  },
+  {
+    "id": "p5-media-hiwar",
+    "phaseId": 5,
+    "arabic": "حِوار",
+    "transliteration": "ḥiwār",
+    "english": "Interview / dialogue",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-halqa",
+    "phaseId": 5,
+    "arabic": "حَلقِة",
+    "transliteration": "ḥal2a",
+    "english": "Episode",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شِفِت آخِر حَلقِة؟",
+      "transliteration": "shift ākhir ḥal2a?",
+      "english": "Did you see the last episode?"
+    }
+  },
+  {
+    "id": "p5-media-idhaa3a",
+    "phaseId": 5,
+    "arabic": "إذاعَة",
+    "transliteration": "idhāʕa",
+    "english": "Radio / broadcasting",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-maqal",
+    "phaseId": 5,
+    "arabic": "مَقال",
+    "transliteration": "ma2āl",
+    "english": "Article",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-3inwaan",
+    "phaseId": 5,
+    "arabic": "عِنوان",
+    "transliteration": "ʕinwān",
+    "english": "Headline / title",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو العِنوان الرئيسي اليوم؟",
+      "transliteration": "shū il-ʕinwān ir-ra2īsi il-yōm?",
+      "english": "What's the main headline today?"
+    }
+  },
+  {
+    "id": "p5-media-nashar",
+    "phaseId": 5,
+    "arabic": "نَشَر",
+    "transliteration": "nashar",
+    "english": "To publish",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-media-ta3liq",
+    "phaseId": 5,
+    "arabic": "تَعلِيق",
+    "transliteration": "taʕlīq",
+    "english": "Comment / commentary",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شِفِت التَعلِيقات عَ الخَبَر؟",
+      "transliteration": "shift it-taʕlīqāt ʕa-l-khabar?",
+      "english": "Did you see the comments on the news story?"
+    }
+  },
+  {
+    "id": "p5-media-mushahid",
+    "phaseId": 5,
+    "arabic": "مُشاهِد",
+    "transliteration": "mushāhid",
+    "english": "Viewer",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-mustami3",
+    "phaseId": 5,
+    "arabic": "مُستَمِع",
+    "transliteration": "mustamiʕ",
+    "english": "Listener",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-sahafi",
+    "phaseId": 5,
+    "arabic": "صَحَفِي",
+    "transliteration": "ṣaḥafi",
+    "english": "Journalist",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الصَحَفِي رَاح عَ المَنطِقة",
+      "transliteration": "iṣ-ṣaḥafi rāḥ ʕa-l-manṭi2a",
+      "english": "The journalist went to the area"
+    }
+  },
+  {
+    "id": "p5-media-nashra",
+    "phaseId": 5,
+    "arabic": "نَشرَة",
+    "transliteration": "nashra",
+    "english": "Bulletin / newscast",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-basher",
+    "phaseId": 5,
+    "arabic": "مُباشِر",
+    "transliteration": "mubāshir",
+    "english": "Live (broadcast)",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "البَث مُباشِر مِن بيروت",
+      "transliteration": "il-bath mubāshir min bēyrūt",
+      "english": "The broadcast is live from Beirut"
+    }
+  },
+  {
+    "id": "p5-media-i3laan",
+    "phaseId": 5,
+    "arabic": "إعلان",
+    "transliteration": "iʕlān",
+    "english": "Advertisement / announcement",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-khabar",
+    "phaseId": 5,
+    "arabic": "خَبَر",
+    "transliteration": "khabar",
+    "english": "News item / piece of news",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-media-mu7arrir",
+    "phaseId": 5,
+    "arabic": "مُحَرِّر",
+    "transliteration": "mu7arrir",
+    "english": "Editor",
+    "category": "Advanced Media & News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-youthslang-ya-bay",
+    "phaseId": 5,
+    "arabic": "يا بَاي",
+    "transliteration": "ya bāy",
+    "english": "Dude / bro",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Very casual; common among younger Lebanese males",
+    "exampleSentence": {
+      "arabic": "يا بَاي شو هَل حَكي؟",
+      "transliteration": "ya bāy shū hal ḥaki?",
+      "english": "Dude, what is this talk?"
+    }
+  },
+  {
+    "id": "p5-youthslang-shabb",
+    "phaseId": 5,
+    "arabic": "شَبّ",
+    "transliteration": "shabb",
+    "english": "Guy / young man",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-youthslang-sabiyye",
+    "phaseId": 5,
+    "arabic": "صَبِيِّة",
+    "transliteration": "ṣabiyye",
+    "english": "Girl / young woman",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هَيدي الصَبِيِّة كتير شاطِرة",
+      "transliteration": "haydi iṣ-ṣabiyye ktīr shāṭra",
+      "english": "This girl is very smart"
+    }
+  },
+  {
+    "id": "p5-youthslang-fashkhal",
+    "phaseId": 5,
+    "arabic": "فَشكَل",
+    "transliteration": "fashkhal",
+    "english": "Messed up / botched",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "verb",
+    "notes": "Slang for making a mess of something",
+    "exampleSentence": {
+      "arabic": "فَشكَل كِل شي",
+      "transliteration": "fashkhal kill shi",
+      "english": "He messed everything up"
+    }
+  },
+  {
+    "id": "p5-youthslang-fash5ar",
+    "phaseId": 5,
+    "arabic": "فَشخَر",
+    "transliteration": "fash5ar",
+    "english": "To show off / brag",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "verb",
+    "notes": "Slang; implies arrogant boasting"
+  },
+  {
+    "id": "p5-youthslang-zabout",
+    "phaseId": 5,
+    "arabic": "زَبوط",
+    "transliteration": "zabūṭ",
+    "english": "Awesome / great",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "adj",
+    "notes": "Youth slang meaning something is fantastic",
+    "exampleSentence": {
+      "arabic": "هَلحَفلة زَبوط!",
+      "transliteration": "hal-ḥafle zabūṭ!",
+      "english": "This party is awesome!"
+    }
+  },
+  {
+    "id": "p5-youthslang-natoor",
+    "phaseId": 5,
+    "arabic": "ناطور",
+    "transliteration": "nāṭūr",
+    "english": "Bouncer / doorman / watchman",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-youthslang-ma3za",
+    "phaseId": 5,
+    "arabic": "مَعزَة",
+    "transliteration": "maʕza",
+    "english": "Wedding party / big celebration",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun",
+    "notes": "Colloquial; often implies a lively, loud affair"
+  },
+  {
+    "id": "p5-youthslang-hafle",
+    "phaseId": 5,
+    "arabic": "حَفلِة",
+    "transliteration": "ḥafle",
+    "english": "Party",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "رَح نعمِل حَفلِة بُكرا",
+      "transliteration": "raḥ naʕmil ḥafle bukra",
+      "english": "We're going to have a party tomorrow"
+    }
+  },
+  {
+    "id": "p5-youthslang-nkhashshet",
+    "phaseId": 5,
+    "arabic": "نخَشّيت",
+    "transliteration": "nkhashshēt",
+    "english": "I snuck in",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "verb",
+    "notes": "Past tense first-person; slang for sneaking into a place"
+  },
+  {
+    "id": "p5-youthslang-3al-7afra",
+    "phaseId": 5,
+    "arabic": "عَ الحَفرة",
+    "transliteration": "ʕa-l-ḥafra",
+    "english": "At the club / at the spot",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Youth slang for a nightlife spot"
+  },
+  {
+    "id": "p5-youthslang-ishtaraysh",
+    "phaseId": 5,
+    "arabic": "إشتَرَيش؟",
+    "transliteration": "ishtarēysh?",
+    "english": "What's up? / What's going on?",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Very informal greeting among friends",
+    "exampleSentence": {
+      "arabic": "إشتَرَيش يا خَيّي؟",
+      "transliteration": "ishtarēysh ya khayyi?",
+      "english": "What's up, bro?"
+    }
+  },
+  {
+    "id": "p5-youthslang-ma3lish",
+    "phaseId": 5,
+    "arabic": "مَعلِش",
+    "transliteration": "maʕlish",
+    "english": "Never mind / it's okay",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مَعلِش، بِتصير",
+      "transliteration": "maʕlish, btṣīr",
+      "english": "Never mind, it happens"
+    }
+  },
+  {
+    "id": "p5-youthslang-mish-mushkle",
+    "phaseId": 5,
+    "arabic": "مِش مُشكِلة",
+    "transliteration": "mish mushkle",
+    "english": "No problem",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p5-youthslang-3ayb",
+    "phaseId": 5,
+    "arabic": "عَيب",
+    "transliteration": "ʕayb",
+    "english": "Shameful / inappropriate",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun",
+    "notes": "Cultural concept — 'that's not done / that's rude'",
+    "exampleSentence": {
+      "arabic": "عَيب تحكي هيك!",
+      "transliteration": "ʕayb tiḥki hēk!",
+      "english": "It's shameful to talk like that!"
+    }
+  },
+  {
+    "id": "p5-youthslang-yii",
+    "phaseId": 5,
+    "arabic": "يِيي",
+    "transliteration": "yiii",
+    "english": "Oh no! / Oh my!",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Exclamation of surprise, shock, or dismay"
+  },
+  {
+    "id": "p5-youthslang-wallah",
+    "phaseId": 5,
+    "arabic": "وَلله",
+    "transliteration": "wallah",
+    "english": "I swear / really?",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "وَلله؟ مِش معقول!",
+      "transliteration": "wallah? mish maʕ2ūl!",
+      "english": "Really? No way!"
+    }
+  },
+  {
+    "id": "p5-youthslang-lak",
+    "phaseId": 5,
+    "arabic": "لَك",
+    "transliteration": "lak",
+    "english": "Hey / listen (filler)",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Sentence opener; 'lak' (to males), 'laki' (to females)"
+  },
+  {
+    "id": "p5-youthslang-khara",
+    "phaseId": 5,
+    "arabic": "خَرا عَليه",
+    "transliteration": "khara ʕalē",
+    "english": "Forget about it / it's worthless",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Vulgar; expresses dismissal or contempt"
+  },
+  {
+    "id": "p5-youthslang-kellon",
+    "phaseId": 5,
+    "arabic": "كِلّن يَعني كِلّن",
+    "transliteration": "killon yaʕni killon",
+    "english": "All of them means all of them",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Famous protest slogan from 2019 Lebanese revolution"
+  },
+  {
+    "id": "p5-youthslang-bado-iyaa",
+    "phaseId": 5,
+    "arabic": "بَدّو إيّا",
+    "transliteration": "baddo iyyā",
+    "english": "He wants it (badly)",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Slang for being desperate for something"
+  },
+  {
+    "id": "p5-youthslang-ta2bir",
+    "phaseId": 5,
+    "arabic": "تَقبير",
+    "transliteration": "ta2bīr",
+    "english": "Showing off / flexing",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "noun",
+    "notes": "Youth slang for bragging or flexing",
+    "exampleSentence": {
+      "arabic": "كِل يوم عَ التَقبير",
+      "transliteration": "kill yōm ʕa-t-ta2bīr",
+      "english": "Every day he's flexing"
+    }
+  },
+  {
+    "id": "p5-youthslang-mnayyak",
+    "phaseId": 5,
+    "arabic": "مِنَيَّك",
+    "transliteration": "mnayyak",
+    "english": "Stuck-up / full of himself",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "adj",
+    "notes": "Vulgar slang; use cautiously"
+  },
+  {
+    "id": "p5-youthslang-tfaddal",
+    "phaseId": 5,
+    "arabic": "تفَضَّل",
+    "transliteration": "tfaḍḍal",
+    "english": "Please / go ahead / here you go",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Polite, extremely common in daily interactions"
+  },
+  {
+    "id": "p5-youthslang-yalla-bye",
+    "phaseId": 5,
+    "arabic": "يَلّا بَاي",
+    "transliteration": "yalla bāy",
+    "english": "Alright, bye!",
+    "category": "Advanced Slang & Youth Language",
+    "partOfSpeech": "expression",
+    "notes": "Casual farewell mixing Arabic and English"
+  },
+  {
+    "id": "p5-academic-bahth",
+    "phaseId": 5,
+    "arabic": "بَحث",
+    "transliteration": "baḥth",
+    "english": "Research",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِم إعمِل بَحث عَ الجامِعة",
+      "transliteration": "ʕim iʕmil baḥth ʕa-l-jēmʕa",
+      "english": "I'm doing research at the university"
+    }
+  },
+  {
+    "id": "p5-academic-nazariyye",
+    "phaseId": 5,
+    "arabic": "نَظَرِيّة",
+    "transliteration": "naẓariyye",
+    "english": "Theory",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-tahlil",
+    "phaseId": 5,
+    "arabic": "تَحلِيل",
+    "transliteration": "taḥlīl",
+    "english": "Analysis",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم نِعمِل تَحلِيل لَلموقِف",
+      "transliteration": "lāzim niʕmil taḥlīl la-l-maw2if",
+      "english": "We need to analyze the situation"
+    }
+  },
+  {
+    "id": "p5-academic-mawdou3",
+    "phaseId": 5,
+    "arabic": "مَوضوع",
+    "transliteration": "mawḍūʕ",
+    "english": "Subject / topic",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو المَوضوع؟",
+      "transliteration": "shū il-mawḍūʕ?",
+      "english": "What's the topic?"
+    }
+  },
+  {
+    "id": "p5-academic-fakra",
+    "phaseId": 5,
+    "arabic": "فِكرَة",
+    "transliteration": "fikra",
+    "english": "Idea / thought",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي فِكرَة منيحة",
+      "transliteration": "ʕindi fikra mnīḥa",
+      "english": "I have a good idea"
+    }
+  },
+  {
+    "id": "p5-academic-mashakil",
+    "phaseId": 5,
+    "arabic": "مَشاكِل",
+    "transliteration": "mashēkil",
+    "english": "Problems",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "notes": "Plural of مُشكِلة (mushkle)"
+  },
+  {
+    "id": "p5-academic-hall",
+    "phaseId": 5,
+    "arabic": "حَلّ",
+    "transliteration": "ḥall",
+    "english": "Solution",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم نِلاقي حَلّ",
+      "transliteration": "lāzim nilā2i ḥall",
+      "english": "We need to find a solution"
+    }
+  },
+  {
+    "id": "p5-academic-tafsiir",
+    "phaseId": 5,
+    "arabic": "تَفسِير",
+    "transliteration": "tafsīr",
+    "english": "Explanation / interpretation",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-muqarana",
+    "phaseId": 5,
+    "arabic": "مُقارَنة",
+    "transliteration": "mu2ārana",
+    "english": "Comparison",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-natije",
+    "phaseId": 5,
+    "arabic": "نَتيجة",
+    "transliteration": "natīje",
+    "english": "Result / outcome",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو كانِت النَتيجة؟",
+      "transliteration": "shū kānit in-natīje?",
+      "english": "What was the result?"
+    }
+  },
+  {
+    "id": "p5-academic-dalil",
+    "phaseId": 5,
+    "arabic": "دَلِيل",
+    "transliteration": "dalīl",
+    "english": "Evidence / proof",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-iltizaam",
+    "phaseId": 5,
+    "arabic": "اِلتِزام",
+    "transliteration": "iltizām",
+    "english": "Commitment",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-taqyim",
+    "phaseId": 5,
+    "arabic": "تَقيِيم",
+    "transliteration": "ta2yīm",
+    "english": "Evaluation / assessment",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-rasmiyye",
+    "phaseId": 5,
+    "arabic": "رَسمِيّة",
+    "transliteration": "rasmiyye",
+    "english": "Formality / official status",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-manhaj",
+    "phaseId": 5,
+    "arabic": "مَنهَج",
+    "transliteration": "manhaj",
+    "english": "Curriculum / methodology",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المَنهَج صَعب هَل سِنة",
+      "transliteration": "il-manhaj ṣaʕb hal sinne",
+      "english": "The curriculum is hard this year"
+    }
+  },
+  {
+    "id": "p5-academic-ikhtibar",
+    "phaseId": 5,
+    "arabic": "اِختِبار",
+    "transliteration": "ikhtibār",
+    "english": "Exam / test",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-dirasa",
+    "phaseId": 5,
+    "arabic": "دِراسة",
+    "transliteration": "dirāse",
+    "english": "Study",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-muhadara",
+    "phaseId": 5,
+    "arabic": "مُحاضَرة",
+    "transliteration": "muḥāḍara",
+    "english": "Lecture",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المُحاضَرة كانِت طويلة",
+      "transliteration": "il-muḥāḍara kānit ṭawīle",
+      "english": "The lecture was long"
+    }
+  },
+  {
+    "id": "p5-academic-tasjil",
+    "phaseId": 5,
+    "arabic": "تَسجِيل",
+    "transliteration": "tasjīl",
+    "english": "Registration / enrollment",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-academic-shahade",
+    "phaseId": 5,
+    "arabic": "شَهادة",
+    "transliteration": "shahāde",
+    "english": "Degree / certificate",
+    "category": "Academic & Intellectual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-shi3r",
+    "phaseId": 5,
+    "arabic": "شِعر",
+    "transliteration": "shiʕr",
+    "english": "Poetry",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بحِبّ الشِعر العَرَبي",
+      "transliteration": "bḥibb ish-shiʕr il-ʕarabi",
+      "english": "I love Arabic poetry"
+    }
+  },
+  {
+    "id": "p5-literary-qasiide",
+    "phaseId": 5,
+    "arabic": "قَصِيدة",
+    "transliteration": "qaṣīde",
+    "english": "Poem / ode",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-sha3ir",
+    "phaseId": 5,
+    "arabic": "شاعِر",
+    "transliteration": "shāʕir",
+    "english": "Poet",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "جِبران خَليل جِبران شاعِر لِبناني كبير",
+      "transliteration": "jibrān khalīl jibrān shāʕir libnāni kbīr",
+      "english": "Gibran Khalil Gibran is a great Lebanese poet"
+    }
+  },
+  {
+    "id": "p5-literary-riwaye",
+    "phaseId": 5,
+    "arabic": "رِوايَة",
+    "transliteration": "riwāye",
+    "english": "Novel",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-qisse",
+    "phaseId": 5,
+    "arabic": "قِصّة",
+    "transliteration": "2iṣṣa",
+    "english": "Story",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "خَبّرني قِصّة حِلوة",
+      "transliteration": "khabbirni 2iṣṣa ḥilwe",
+      "english": "Tell me a nice story"
+    }
+  },
+  {
+    "id": "p5-literary-adab",
+    "phaseId": 5,
+    "arabic": "أدَب",
+    "transliteration": "adab",
+    "english": "Literature",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-khayaal",
+    "phaseId": 5,
+    "arabic": "خَيال",
+    "transliteration": "khayāl",
+    "english": "Imagination",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندو خَيال واسِع",
+      "transliteration": "ʕindo khayāl wēsiʕ",
+      "english": "He has a wide imagination"
+    }
+  },
+  {
+    "id": "p5-literary-ilhaam",
+    "phaseId": 5,
+    "arabic": "إلهام",
+    "transliteration": "ilhām",
+    "english": "Inspiration",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-tajrube",
+    "phaseId": 5,
+    "arabic": "تَجرُبة",
+    "transliteration": "tajrube",
+    "english": "Experience",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هَيدي تَجرُبة ما بتِنتسى",
+      "transliteration": "haydi tajrube mā btintisa",
+      "english": "This is an unforgettable experience"
+    }
+  },
+  {
+    "id": "p5-literary-hikme",
+    "phaseId": 5,
+    "arabic": "حِكمة",
+    "transliteration": "ḥikme",
+    "english": "Wisdom",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-3ibra",
+    "phaseId": 5,
+    "arabic": "عِبرَة",
+    "transliteration": "ʕibra",
+    "english": "Moral / lesson",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو العِبرَة مِن هَل قِصّة؟",
+      "transliteration": "shū il-ʕibra min hal 2iṣṣa?",
+      "english": "What's the moral of this story?"
+    }
+  },
+  {
+    "id": "p5-literary-jamal",
+    "phaseId": 5,
+    "arabic": "جَمال",
+    "transliteration": "jamāl",
+    "english": "Beauty",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-kalime",
+    "phaseId": 5,
+    "arabic": "كَلِمة",
+    "transliteration": "kilme",
+    "english": "Word",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-literary-ma3na",
+    "phaseId": 5,
+    "arabic": "مَعنى",
+    "transliteration": "maʕna",
+    "english": "Meaning",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو مَعنى هَل كَلِمة؟",
+      "transliteration": "shū maʕna hal kilme?",
+      "english": "What does this word mean?"
+    }
+  },
+  {
+    "id": "p5-literary-ramz",
+    "phaseId": 5,
+    "arabic": "رَمز",
+    "transliteration": "ramz",
+    "english": "Symbol",
+    "category": "Literary & Poetic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-hujje",
+    "phaseId": 5,
+    "arabic": "حُجّة",
+    "transliteration": "ḥujje",
+    "english": "Argument / proof",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "حُجِّتو ضعيفة",
+      "transliteration": "ḥujjto ḍaʕīfe",
+      "english": "His argument is weak"
+    }
+  },
+  {
+    "id": "p5-debate-burhan",
+    "phaseId": 5,
+    "arabic": "بُرهان",
+    "transliteration": "burhān",
+    "english": "Evidence / proof",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-mawqif",
+    "phaseId": 5,
+    "arabic": "مَوقِف",
+    "transliteration": "maw2if",
+    "english": "Position / stance",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو مَوقِفك مِن هَل موضوع؟",
+      "transliteration": "shū maw2ifak min hal mawḍūʕ?",
+      "english": "What's your position on this topic?"
+    }
+  },
+  {
+    "id": "p5-debate-difa3",
+    "phaseId": 5,
+    "arabic": "دِفاع",
+    "transliteration": "difāʕ",
+    "english": "Defense",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-naqd",
+    "phaseId": 5,
+    "arabic": "نَقد",
+    "transliteration": "na2d",
+    "english": "Criticism / critique",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "النَقد البَنّاء مُفيد",
+      "transliteration": "in-na2d il-bannā2 mufīd",
+      "english": "Constructive criticism is useful"
+    }
+  },
+  {
+    "id": "p5-debate-radd",
+    "phaseId": 5,
+    "arabic": "رَدّ",
+    "transliteration": "radd",
+    "english": "Response / reply",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-i3tirad",
+    "phaseId": 5,
+    "arabic": "اِعتِراض",
+    "transliteration": "iʕtirāḍ",
+    "english": "Objection",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي اِعتِراض عَ هَل فِكرة",
+      "transliteration": "ʕindi iʕtirāḍ ʕa-hal fikra",
+      "english": "I have an objection to this idea"
+    }
+  },
+  {
+    "id": "p5-debate-iqnaa3",
+    "phaseId": 5,
+    "arabic": "إقناع",
+    "transliteration": "i2nāʕ",
+    "english": "Persuasion / convincing",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-munaqasha",
+    "phaseId": 5,
+    "arabic": "مُناقَشة",
+    "transliteration": "munā2asha",
+    "english": "Discussion",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المُناقَشة كانِت حامِية",
+      "transliteration": "il-munā2asha kānit ḥāmye",
+      "english": "The discussion was heated"
+    }
+  },
+  {
+    "id": "p5-debate-jidal",
+    "phaseId": 5,
+    "arabic": "جِدال",
+    "transliteration": "jidāl",
+    "english": "Debate / argument",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-tanaqud",
+    "phaseId": 5,
+    "arabic": "تَناقُض",
+    "transliteration": "tanā2uḍ",
+    "english": "Contradiction",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-ittifaq",
+    "phaseId": 5,
+    "arabic": "اِتِّفاق",
+    "transliteration": "ittifā2",
+    "english": "Agreement",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وِصلنا لِاِتِّفاق",
+      "transliteration": "wiṣilna la-ittifā2",
+      "english": "We reached an agreement"
+    }
+  },
+  {
+    "id": "p5-debate-ikhtilaf",
+    "phaseId": 5,
+    "arabic": "اِختِلاف",
+    "transliteration": "ikhtilāf",
+    "english": "Disagreement / difference",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-debate-hal-wasat",
+    "phaseId": 5,
+    "arabic": "حَلّ وَسَط",
+    "transliteration": "ḥall wasaṭ",
+    "english": "Compromise / middle ground",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "خَلِّينا نِلاقي حَلّ وَسَط",
+      "transliteration": "khallīna nilā2i ḥall wasaṭ",
+      "english": "Let's find a compromise"
+    }
+  },
+  {
+    "id": "p5-debate-ra2y",
+    "phaseId": 5,
+    "arabic": "رَأي",
+    "transliteration": "ra2y",
+    "english": "Opinion",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو رَأيَك؟",
+      "transliteration": "shū ra2yak?",
+      "english": "What's your opinion?"
+    }
+  },
+  {
+    "id": "p5-debate-qana3",
+    "phaseId": 5,
+    "arabic": "قَنَع",
+    "transliteration": "2anaʕ",
+    "english": "To be convinced",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-debate-ayyad",
+    "phaseId": 5,
+    "arabic": "أيَّد",
+    "transliteration": "ayyad",
+    "english": "To support / endorse",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-debate-3arad",
+    "phaseId": 5,
+    "arabic": "عارَض",
+    "transliteration": "ʕāraḍ",
+    "english": "To oppose",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "عارَضو كِلّن هَل قَرار",
+      "transliteration": "ʕāraḍo killon hal 2arār",
+      "english": "They all opposed this decision"
+    }
+  },
+  {
+    "id": "p5-debate-istaslam",
+    "phaseId": 5,
+    "arabic": "اِستَسلَم",
+    "transliteration": "istaslam",
+    "english": "To give in / surrender",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p5-debate-haqq",
+    "phaseId": 5,
+    "arabic": "حَقّ",
+    "transliteration": "ḥa22",
+    "english": "Right / truth",
+    "category": "Debate & Argumentation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "مَعَك حَقّ",
+      "transliteration": "maʕak ḥa22",
+      "english": "You're right"
+    }
+  },
+  {
+    "id": "p5-proverb-jiddi",
+    "phaseId": 5,
+    "arabic": "جِدِّي",
+    "transliteration": "jiddi",
+    "english": "My grandfather",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "جِدِّي كان دايمًا يقول...",
+      "transliteration": "jiddi kēn dāyman y2ūl...",
+      "english": "My grandfather always used to say..."
+    }
+  },
+  {
+    "id": "p5-proverb-zaman",
+    "phaseId": 5,
+    "arabic": "زَمان",
+    "transliteration": "zamān",
+    "english": "Time / era / long ago",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "مِن زَمان ما شِفتَك",
+      "transliteration": "min zamān mā shiftak",
+      "english": "It's been a long time since I saw you"
+    }
+  },
+  {
+    "id": "p5-proverb-sabr",
+    "phaseId": 5,
+    "arabic": "صَبر",
+    "transliteration": "ṣabr",
+    "english": "Patience",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الصَبر مِفتاح الفَرَج",
+      "transliteration": "iṣ-ṣabr miftāḥ il-faraj",
+      "english": "Patience is the key to relief"
+    }
+  },
+  {
+    "id": "p5-proverb-qana3a",
+    "phaseId": 5,
+    "arabic": "قَناعة",
+    "transliteration": "2anāʕa",
+    "english": "Contentment",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-proverb-tawadu3",
+    "phaseId": 5,
+    "arabic": "تَواضُع",
+    "transliteration": "tawāḍuʕ",
+    "english": "Humility",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "التَواضُع زِينِة العالِم",
+      "transliteration": "it-tawāḍuʕ zīnit il-ʕālim",
+      "english": "Humility is the adornment of the scholar"
+    }
+  },
+  {
+    "id": "p5-proverb-kibre",
+    "phaseId": 5,
+    "arabic": "كِبرة",
+    "transliteration": "kibre",
+    "english": "Arrogance / pride",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-proverb-hasad",
+    "phaseId": 5,
+    "arabic": "حَسَد",
+    "transliteration": "ḥasad",
+    "english": "Envy / jealousy",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "Culturally significant; 'evil eye' concept linked to envy"
+  },
+  {
+    "id": "p5-proverb-niyye",
+    "phaseId": 5,
+    "arabic": "نِيّة",
+    "transliteration": "niyye",
+    "english": "Intention",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الأعمال بِالنِيّات",
+      "transliteration": "il-aʕmēl bi-n-niyyēt",
+      "english": "Actions are judged by intentions"
+    }
+  },
+  {
+    "id": "p5-proverb-rihle",
+    "phaseId": 5,
+    "arabic": "رِحلة",
+    "transliteration": "riḥle",
+    "english": "Journey / trip",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-proverb-muqaddame",
+    "phaseId": 5,
+    "arabic": "مُقَدِّمة",
+    "transliteration": "mu2addime",
+    "english": "Introduction",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-proverb-khatime",
+    "phaseId": 5,
+    "arabic": "خاتِمة",
+    "transliteration": "khātme",
+    "english": "Conclusion / ending",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-proverb-mathal",
+    "phaseId": 5,
+    "arabic": "مَثَل",
+    "transliteration": "mathal",
+    "english": "Proverb / saying",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في مَثَل بيقول...",
+      "transliteration": "fī mathal by2ūl...",
+      "english": "There's a proverb that says..."
+    }
+  },
+  {
+    "id": "p5-proverb-3aqil",
+    "phaseId": 5,
+    "arabic": "عاقِل",
+    "transliteration": "ʕā2il",
+    "english": "Wise / sensible",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p5-proverb-tajrube-hayat",
+    "phaseId": 5,
+    "arabic": "تَجرُبة حَياة",
+    "transliteration": "tajrubit ḥayāt",
+    "english": "Life experience",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-proverb-qismet",
+    "phaseId": 5,
+    "arabic": "قِسمة",
+    "transliteration": "2ismet",
+    "english": "Fate / destiny",
+    "category": "Proverb & Wisdom Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "Commonly used: 'qismet w nasiib' (fate and fortune)",
+    "exampleSentence": {
+      "arabic": "هَيدي قِسمة ونَصيب",
+      "transliteration": "haydi 2ismet w naṣīb",
+      "english": "This is fate and destiny"
+    }
+  },
+  {
+    "id": "p5-emotion-hanin",
+    "phaseId": 5,
+    "arabic": "حَنِين",
+    "transliteration": "ḥanīn",
+    "english": "Nostalgia / tenderness",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي حَنِين لَلبَلَد",
+      "transliteration": "ʕindi ḥanīn la-l-balad",
+      "english": "I feel nostalgia for the homeland"
+    }
+  },
+  {
+    "id": "p5-emotion-ashwaq",
+    "phaseId": 5,
+    "arabic": "أشواق",
+    "transliteration": "ashwā2",
+    "english": "Longing / yearning",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-emotion-hurqa",
+    "phaseId": 5,
+    "arabic": "حُرقة",
+    "transliteration": "ḥur2a",
+    "english": "Heartbreak / burning pain",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "notes": "Deep emotional anguish; literal: burning"
+  },
+  {
+    "id": "p5-emotion-ghadr",
+    "phaseId": 5,
+    "arabic": "غَدر",
+    "transliteration": "ghadr",
+    "english": "Betrayal",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الغَدر أسوَأ شي",
+      "transliteration": "il-ghadr aswa2 shi",
+      "english": "Betrayal is the worst thing"
+    }
+  },
+  {
+    "id": "p5-emotion-khiyaane",
+    "phaseId": 5,
+    "arabic": "خِيانة",
+    "transliteration": "khiyāne",
+    "english": "Treachery / infidelity",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-emotion-wafa",
+    "phaseId": 5,
+    "arabic": "وَفا",
+    "transliteration": "wafa",
+    "english": "Loyalty / faithfulness",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الوَفا غالي هَلأيّام",
+      "transliteration": "il-wafa ghāli hal-ayyēm",
+      "english": "Loyalty is rare these days"
+    }
+  },
+  {
+    "id": "p5-emotion-ta3alluq",
+    "phaseId": 5,
+    "arabic": "تَعَلُّق",
+    "transliteration": "taʕallu2",
+    "english": "Attachment",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-emotion-rifqa",
+    "phaseId": 5,
+    "arabic": "رِفقة",
+    "transliteration": "rif2a",
+    "english": "Companionship / company",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الرِفقة الحِلوة بتفرِق",
+      "transliteration": "ir-rif2a il-ḥilwe btifri2",
+      "english": "Good company makes a difference"
+    }
+  },
+  {
+    "id": "p5-emotion-shawq",
+    "phaseId": 5,
+    "arabic": "شَوق",
+    "transliteration": "shaw2",
+    "english": "Passion / longing",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-emotion-irtiyah",
+    "phaseId": 5,
+    "arabic": "اِرتِياح",
+    "transliteration": "irtiyāḥ",
+    "english": "Comfort / relief",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "حَسّيت بِاِرتِياح كبير",
+      "transliteration": "ḥassēt b-irtiyāḥ kbīr",
+      "english": "I felt a great sense of relief"
+    }
+  },
+  {
+    "id": "p5-emotion-insijam",
+    "phaseId": 5,
+    "arabic": "اِنسِجام",
+    "transliteration": "insijām",
+    "english": "Harmony",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-emotion-farha",
+    "phaseId": 5,
+    "arabic": "فَرحة",
+    "transliteration": "farḥa",
+    "english": "Joy / happiness",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الفَرحة ما بتكمَل",
+      "transliteration": "il-farḥa mā btikmol",
+      "english": "Joy is never complete (common saying)"
+    }
+  },
+  {
+    "id": "p5-emotion-huzn",
+    "phaseId": 5,
+    "arabic": "حُزن",
+    "transliteration": "ḥuzn",
+    "english": "Sorrow / sadness",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-emotion-ghadb",
+    "phaseId": 5,
+    "arabic": "غَضَب",
+    "transliteration": "ghaḍab",
+    "english": "Anger",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "مِن الغَضَب ما عِرِف يحكي",
+      "transliteration": "min il-ghaḍab mā ʕirif yiḥki",
+      "english": "He was so angry he couldn't speak"
+    }
+  },
+  {
+    "id": "p5-emotion-khajal",
+    "phaseId": 5,
+    "arabic": "خَجَل",
+    "transliteration": "khajal",
+    "english": "Shyness / embarrassment",
+    "category": "Emotional Nuances",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-himye",
+    "phaseId": 5,
+    "arabic": "حِمية",
+    "transliteration": "ḥimye",
+    "english": "Diet",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَلّشِت حِمية جديدة",
+      "transliteration": "ballasht ḥimye jdīde",
+      "english": "I started a new diet"
+    }
+  },
+  {
+    "id": "p5-health-rjiim",
+    "phaseId": 5,
+    "arabic": "رجيم",
+    "transliteration": "rjīm",
+    "english": "Diet / regimen",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "notes": "French-origin loanword commonly used in Lebanon"
+  },
+  {
+    "id": "p5-health-vitamiin",
+    "phaseId": 5,
+    "arabic": "فيتامين",
+    "transliteration": "vītamīn",
+    "english": "Vitamin",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-protiin",
+    "phaseId": 5,
+    "arabic": "بروتين",
+    "transliteration": "prōtīn",
+    "english": "Protein",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم تاكِل بروتين أكتَر",
+      "transliteration": "lāzim tēkol prōtīn aktar",
+      "english": "You need to eat more protein"
+    }
+  },
+  {
+    "id": "p5-health-hasasiyye",
+    "phaseId": 5,
+    "arabic": "حَساسِيّة",
+    "transliteration": "ḥasāsiyye",
+    "english": "Allergy / sensitivity",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي حَساسِيّة مِن الفول السوداني",
+      "transliteration": "ʕindi ḥasāsiyye min il-fūl is-sūdāni",
+      "english": "I have a peanut allergy"
+    }
+  },
+  {
+    "id": "p5-health-nafsi",
+    "phaseId": 5,
+    "arabic": "نَفسي",
+    "transliteration": "nafsi",
+    "english": "Psychological / mental",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "adj",
+    "notes": "As in: ṭabīb nafsi = psychiatrist"
+  },
+  {
+    "id": "p5-health-3ilej",
+    "phaseId": 5,
+    "arabic": "عِلاج",
+    "transliteration": "ʕilāj",
+    "english": "Treatment / therapy",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "العِلاج عَم يِشتِغِل مِنيح",
+      "transliteration": "il-ʕilāj ʕam yishtigil mnīḥ",
+      "english": "The treatment is working well"
+    }
+  },
+  {
+    "id": "p5-health-3amaliyye",
+    "phaseId": 5,
+    "arabic": "عَمَلِيّة",
+    "transliteration": "ʕamaliyye",
+    "english": "Surgery / operation",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "العَمَلِيّة نِجحِت الحَمد لله",
+      "transliteration": "il-ʕamaliyye nijiḥit il-ḥamd lillāh",
+      "english": "The surgery was successful, thank God"
+    }
+  },
+  {
+    "id": "p5-health-tashkhiis",
+    "phaseId": 5,
+    "arabic": "تَشخِيص",
+    "transliteration": "tashkhīṣ",
+    "english": "Diagnosis",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-fhous",
+    "phaseId": 5,
+    "arabic": "فُحوص",
+    "transliteration": "fuḥūṣ",
+    "english": "Checkup / tests",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم تعمِل فُحوص دَم",
+      "transliteration": "lāzim taʕmil fuḥūṣ damm",
+      "english": "You need to do blood tests"
+    }
+  },
+  {
+    "id": "p5-health-shifa2",
+    "phaseId": 5,
+    "arabic": "شِفا",
+    "transliteration": "shifā",
+    "english": "Healing / recovery",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "notes": "Common well-wish: 'salamtak' (get well) or 'allah yishfīk'"
+  },
+  {
+    "id": "p5-health-marad",
+    "phaseId": 5,
+    "arabic": "مَرَض",
+    "transliteration": "maraḍ",
+    "english": "Disease / illness",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-3awarid",
+    "phaseId": 5,
+    "arabic": "عَوارِض",
+    "transliteration": "ʕawāriḍ",
+    "english": "Symptoms",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو العَوارِض يلّي عِندَك؟",
+      "transliteration": "shū il-ʕawāriḍ yalli ʕindak?",
+      "english": "What symptoms do you have?"
+    }
+  },
+  {
+    "id": "p5-health-dawra-damawiyye",
+    "phaseId": 5,
+    "arabic": "دَورة دَمَوِيّة",
+    "transliteration": "dawra damawiyye",
+    "english": "Blood circulation",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-mana3a",
+    "phaseId": 5,
+    "arabic": "مَناعة",
+    "transliteration": "manāʕa",
+    "english": "Immunity",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم تِقوّي المَناعة تَبَعَك",
+      "transliteration": "lāzim t2awwi il-manāʕa tabaʕak",
+      "english": "You need to strengthen your immunity"
+    }
+  },
+  {
+    "id": "p5-health-ta3b",
+    "phaseId": 5,
+    "arabic": "تَعَب",
+    "transliteration": "taʕab",
+    "english": "Fatigue / exhaustion",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-daght",
+    "phaseId": 5,
+    "arabic": "ضَغط",
+    "transliteration": "ḍaghṭ",
+    "english": "Blood pressure / pressure",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الضَغط مُرتِفِع شوَيّ",
+      "transliteration": "iḍ-ḍaghṭ murtifiʕ shwayy",
+      "english": "The blood pressure is a bit high"
+    }
+  },
+  {
+    "id": "p5-health-sukkari",
+    "phaseId": 5,
+    "arabic": "سُكَّري",
+    "transliteration": "sukkari",
+    "english": "Diabetic / diabetes-related",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "adj",
+    "notes": "As in: maraḍ is-sukkari = diabetes"
+  },
+  {
+    "id": "p5-health-tat3im",
+    "phaseId": 5,
+    "arabic": "تَطعِيم",
+    "transliteration": "taṭʕīm",
+    "english": "Vaccination",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p5-health-tabi3i",
+    "phaseId": 5,
+    "arabic": "طَبيعي",
+    "transliteration": "ṭabīʕi",
+    "english": "Natural / normal",
+    "category": "Health & Wellness Advanced",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "كِل شي طَبيعي، ما تِقلَق",
+      "transliteration": "kill shi ṭabīʕi, mā ti2la2",
+      "english": "Everything is normal, don't worry"
+    }
+  }
+]

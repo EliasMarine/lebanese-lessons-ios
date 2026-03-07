@@ -1,0 +1,344 @@
+[
+  {
+    "id": "p4-grammar-verb-patterns",
+    "phaseId": 4,
+    "title": "Verb Patterns (الأوزان)",
+    "tag": "Advanced",
+    "explanation": "Lebanese Arabic verbs follow patterns (أوزان, awzēn) built on a 3-letter root. Recognizing these patterns helps you guess a verb's meaning and conjugate new verbs. Here are the three most common Lebanese patterns.",
+    "table": {
+      "headers": [
+        "Pattern",
+        "Name",
+        "Meaning Type",
+        "Example",
+        "Phonetic",
+        "English"
+      ],
+      "rows": [
+        [
+          "فعل",
+          "faʕal",
+          "Basic action",
+          "كتب",
+          "katab",
+          "to write"
+        ],
+        [
+          "فعل",
+          "faʕal",
+          "Basic action",
+          "فتح",
+          "fataḥ",
+          "to open"
+        ],
+        [
+          "فعل",
+          "faʕal",
+          "Basic action",
+          "شرب",
+          "shirib",
+          "to drink"
+        ],
+        [
+          "فعّل",
+          "faʕʕal",
+          "Intensive / Causative",
+          "علّم",
+          "ʕallam",
+          "to teach"
+        ],
+        [
+          "فعّل",
+          "faʕʕal",
+          "Intensive / Causative",
+          "نضّف",
+          "naḍḍaf",
+          "to clean"
+        ],
+        [
+          "فعّل",
+          "faʕʕal",
+          "Intensive / Causative",
+          "جهّز",
+          "jahhaz",
+          "to prepare"
+        ],
+        [
+          "تفعّل",
+          "tfaʕʕal",
+          "Reflexive / Self",
+          "تعلّم",
+          "tʕallam",
+          "to learn"
+        ],
+        [
+          "تفعّل",
+          "tfaʕʕal",
+          "Reflexive / Self",
+          "تذكّر",
+          "tzakkar",
+          "to remember"
+        ],
+        [
+          "تفعّل",
+          "tfaʕʕal",
+          "Reflexive / Self",
+          "تحمّم",
+          "tḥammam",
+          "to shower"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "علّمني عربي",
+        "transliteration": "ʕallamni ʕarabi",
+        "english": "He taught me Arabic",
+        "breakdown": "علّم (taught, faʕʕal pattern) + ني (me)"
+      },
+      {
+        "arabic": "تعلّمت طبخ من إمي",
+        "transliteration": "tʕallamet ṭabkh min immi",
+        "english": "I learned cooking from my mom",
+        "breakdown": "تعلّمت (I learned, tfaʕʕal pattern) — reflexive of علّم"
+      },
+      {
+        "arabic": "نضّفت البيت كلو",
+        "transliteration": "naḍḍafit il-bēt killo",
+        "english": "I cleaned the whole house",
+        "breakdown": "نضّفت (I cleaned, faʕʕal pattern — intensive of نظف)"
+      }
+    ]
+  },
+  {
+    "id": "p4-grammar-passive",
+    "phaseId": 4,
+    "title": "The Passive Voice (Lebanese Style)",
+    "tag": "Intermediate",
+    "explanation": "Lebanese Arabic avoids the MSA internal-vowel passive. Instead, it uses two prefixes: انـ (in-) for things that happen to objects, and تـ (t-) for reflexive/process meanings. These are natural and very common in daily speech.",
+    "table": {
+      "headers": [
+        "Active",
+        "Phonetic",
+        "Passive/Reflexive",
+        "Phonetic",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "كسر",
+          "kasar",
+          "انكسر",
+          "inkasar",
+          "it broke (got broken)"
+        ],
+        [
+          "فتح",
+          "fataḥ",
+          "انفتح",
+          "infataḥ",
+          "it opened (got opened)"
+        ],
+        [
+          "قفل",
+          "ʔafal",
+          "انقفل",
+          "inʔafal",
+          "it closed (got closed)"
+        ],
+        [
+          "أخّر",
+          "akhkhar",
+          "تأخّر",
+          "taʔakhkhar",
+          "was delayed / got late"
+        ],
+        [
+          "حسّن",
+          "ḥassan",
+          "تحسّن",
+          "tḥassan",
+          "improved (got better)"
+        ],
+        [
+          "غيّر",
+          "ghayyar",
+          "تغيّر",
+          "tghayyar",
+          "changed (got changed)"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "الباب انفتح لحالو",
+        "transliteration": "il-bēb infataḥ la-ḥēlo",
+        "english": "The door opened by itself",
+        "breakdown": "انفتح (opened, passive of فتح) + لحالو (by itself)"
+      },
+      {
+        "arabic": "الكاسة انكسرت",
+        "transliteration": "il-kēse inkasaret",
+        "english": "The glass broke",
+        "breakdown": "انكسرت (broke, passive of كسر) — feminine suffix ت"
+      },
+      {
+        "arabic": "تأخّرنا بالزحمة",
+        "transliteration": "taʔakhkharna biz-zaḥme",
+        "english": "We got delayed in traffic",
+        "breakdown": "تأخّرنا (we got delayed, reflexive) + بالزحمة (in the traffic)"
+      },
+      {
+        "arabic": "الوضع تحسّن كتير",
+        "transliteration": "il-waḍiʕ tḥassan ktīr",
+        "english": "The situation improved a lot"
+      }
+    ]
+  },
+  {
+    "id": "p4-grammar-relative-clauses",
+    "phaseId": 4,
+    "title": "Relative Clauses with يلي (yalli)",
+    "tag": "Key Structure",
+    "explanation": "يلي (yalli) means 'who / which / that' and is the Lebanese replacement for MSA الذي / التي / الذين. It never changes for gender or number — one form covers everything. It connects a noun to a clause that describes it.",
+    "examples": [
+      {
+        "arabic": "الزلمة يلي بيشتغل هون",
+        "transliteration": "iz-zalame yalli byishteghil hōn",
+        "english": "The man who works here",
+        "breakdown": "الزلمة (the man) + يلي (who) + بيشتغل (works) + هون (here)"
+      },
+      {
+        "arabic": "الأكل يلي عملتو كتير طيب",
+        "transliteration": "il-akl yalli ʕmalto ktīr ṭayyeb",
+        "english": "The food that you made is really good",
+        "breakdown": "الأكل (the food) + يلي (that) + عملتو (you made it)"
+      },
+      {
+        "arabic": "البنت يلي حكيت معا",
+        "transliteration": "il-bint yalli ḥkīt maʕa",
+        "english": "The girl that I spoke with",
+        "breakdown": "البنت (the girl) + يلي (that) + حكيت (I spoke) + معا (with her)"
+      },
+      {
+        "arabic": "هيدا يلي قصدتو",
+        "transliteration": "hayda yalli ʔaṣadto",
+        "english": "This is what I meant",
+        "breakdown": "هيدا (this) + يلي (what/that) + قصدتو (I meant it)"
+      }
+    ]
+  },
+  {
+    "id": "p4-grammar-comparisons",
+    "phaseId": 4,
+    "title": "Comparing Things — أحسن / أكتر",
+    "explanation": "Lebanese comparatives follow the أفعل (afʕal) pattern: add أ to the root. The superlative uses the same form with ال (the). 'More than' is من (min). For adjectives that don't fit the pattern, use أكتر (aktar, more) after the adjective.",
+    "table": {
+      "headers": [
+        "Adjective",
+        "Phonetic",
+        "Comparative",
+        "Phonetic",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "كبير",
+          "kbīr",
+          "أكبر",
+          "akbar",
+          "bigger"
+        ],
+        [
+          "صغير",
+          "zghīr",
+          "أصغر",
+          "azghar",
+          "smaller"
+        ],
+        [
+          "منيح",
+          "mnīḥ",
+          "أحسن",
+          "aḥsan",
+          "better"
+        ],
+        [
+          "غالي",
+          "ghēli",
+          "أغلى",
+          "aghla",
+          "more expensive"
+        ],
+        [
+          "رخيص",
+          "rkhīṣ",
+          "أرخص",
+          "arkhaṣ",
+          "cheaper"
+        ],
+        [
+          "قريب",
+          "ʔarīb",
+          "أقرب",
+          "aʔrab",
+          "closer"
+        ],
+        [
+          "بعيد",
+          "bʕīd",
+          "أبعد",
+          "abʕad",
+          "farther"
+        ],
+        [
+          "حلو",
+          "ḥilu",
+          "أحلى",
+          "aḥla",
+          "nicer / sweeter"
+        ],
+        [
+          "سريع",
+          "sarīʕ",
+          "أسرع",
+          "asraʕ",
+          "faster"
+        ],
+        [
+          "بطيء",
+          "baṭīʔ",
+          "أبطأ",
+          "abṭaʔ",
+          "slower"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "أكبر منك بسنتين",
+        "transliteration": "akbar minnak b-sinteen",
+        "english": "Older than you by two years",
+        "breakdown": "أكبر (bigger/older) + منك (than you) + بسنتين (by two years)"
+      },
+      {
+        "arabic": "هيدا المطعم أحسن من هداك",
+        "transliteration": "hayda il-maṭʕam aḥsan min hadēk",
+        "english": "This restaurant is better than that one",
+        "breakdown": "أحسن (better) + من (than) + هداك (that one)"
+      },
+      {
+        "arabic": "هي الأحلى بالصف",
+        "transliteration": "hiyye il-aḥla biṣ-ṣaff",
+        "english": "She's the prettiest in the class",
+        "breakdown": "الأحلى (the prettiest) — superlative with ال"
+      },
+      {
+        "arabic": "هالشي مهم أكتر",
+        "transliteration": "ha-shi muhimm aktar",
+        "english": "This thing is more important",
+        "breakdown": "مهم (important) + أكتر (more) — for adjectives outside the أفعل pattern"
+      }
+    ]
+  }
+]

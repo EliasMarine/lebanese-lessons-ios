@@ -1,0 +1,337 @@
+[
+  {
+    "id": "p1-quiz",
+    "phaseId": 1,
+    "title": "Phase 1 Quiz — Reactivation",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p1-q1",
+        "prompt": "What does شو mean?",
+        "options": [
+          "Who",
+          "What",
+          "When",
+          "How"
+        ],
+        "correctIndex": 1,
+        "explanation": "شو (shu) is the Lebanese way to say 'what'. مين (meen) = who, إيمتى (ēmta) = when, كيف (kīf) = how."
+      },
+      {
+        "id": "p1-q2",
+        "prompt": "How do you say \"I don't know\" in Lebanese Arabic?",
+        "options": [
+          "لا أعرف",
+          "ما بعرف",
+          "ما بدي",
+          "مش منيح"
+        ],
+        "correctIndex": 1,
+        "explanation": "ما بعرف (ma baʕrif) uses the Lebanese negation 'ma' + b-prefix verb. لا أعرف is MSA. ما بدي = I don't want. مش منيح = not good."
+      },
+      {
+        "id": "p1-q3",
+        "prompt": "صحتين is said when…",
+        "options": [
+          "Someone is sick",
+          "Someone is eating or as a toast",
+          "Leaving the house",
+          "Meeting for the first time"
+        ],
+        "correctIndex": 1,
+        "explanation": "صحتين (saḥtēn) literally means 'two healths' — it's the Lebanese 'bon appétit' or 'cheers', said when someone is eating or drinking."
+      },
+      {
+        "id": "p1-q4",
+        "prompt": "The Lebanese present tense uses which prefix on verbs?",
+        "options": [
+          "سـ",
+          "بـ",
+          "لـ",
+          "No prefix"
+        ],
+        "correctIndex": 1,
+        "explanation": "The بـ (b-) prefix marks habitual/present tense in Lebanese Arabic. سـ is MSA future. This b-prefix doesn't exist in MSA — it's distinctly Lebanese."
+      },
+      {
+        "id": "p1-q5",
+        "prompt": "بيتي means:",
+        "options": [
+          "Your house",
+          "His house",
+          "My house",
+          "Our house"
+        ],
+        "correctIndex": 2,
+        "explanation": "The suffix ـي (-i) means 'my'. بيتك = your house, بيتو = his house, بيتنا = our house."
+      },
+      {
+        "id": "p1-q6",
+        "prompt": "What color is أخضر?",
+        "promptArabic": "أخضر",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "correctIndex": 2,
+        "explanation": "أخضر (akhḍar) means green. أحمر (aḥmar) = red, أزرق (azra') = blue, أصفر (aṣfar) = yellow. Lebanese colors follow the same root patterns as MSA but with dialectal pronunciation."
+      },
+      {
+        "id": "p1-q7",
+        "prompt": "How do you say \"Monday\" in Lebanese Arabic?",
+        "options": [
+          "الأحد",
+          "الاثنين",
+          "التلاتا",
+          "الأربعا"
+        ],
+        "correctIndex": 1,
+        "explanation": "الاثنين (il-tinēn) is Monday. Note the Lebanese pronunciation differs from MSA الاثنين (al-ithnayn). الأحد = Sunday, التلاتا = Tuesday, الأربعا = Wednesday."
+      },
+      {
+        "id": "p1-q8",
+        "prompt": "راسي means:",
+        "promptArabic": "راسي",
+        "options": [
+          "My hand",
+          "My foot",
+          "My head",
+          "My back"
+        ],
+        "correctIndex": 2,
+        "explanation": "راسي (rāsi) means 'my head'. إيدي (īdi) = my hand, إجري (ijri) = my foot, ضهري (dahri) = my back. The ـي suffix marks possession ('my')."
+      },
+      {
+        "id": "p1-q9",
+        "prompt": "What is تفاحة?",
+        "promptArabic": "تفاحة",
+        "options": [
+          "Banana",
+          "Orange",
+          "Apple",
+          "Grape"
+        ],
+        "correctIndex": 2,
+        "explanation": "تفاحة (tiffēḥa) means apple. موزة (mawze) = banana, ليمونة (laymūne) = lemon/orange, عنب (ʕinab) = grapes. Lebanese fruit names are used daily at the سوق (sūʔ, market)."
+      },
+      {
+        "id": "p1-q10",
+        "prompt": "How do you say \"my mother\" in Lebanese Arabic?",
+        "options": [
+          "أمي",
+          "أبي",
+          "أختي",
+          "ستي"
+        ],
+        "correctIndex": 0,
+        "explanation": "أمي (immi) means 'my mother'. أبي (bayyi) = my father, أختي (ikhti) = my sister, ستي (sitti) = my grandmother. Note: Lebanese uses bayyi for father, not the MSA أبي (abī)."
+      },
+      {
+        "id": "p1-q11",
+        "prompt": "Which phrase means 'Good morning'?",
+        "options": [
+          "مساء الخير",
+          "صباح الخير",
+          "تصبح على خير",
+          "مرحبا"
+        ],
+        "correctIndex": 1,
+        "explanation": "صباح الخير (ṣabāḥ il-khēr) means 'good morning'. The response is صباح النور (ṣabāḥ in-nūr, 'morning of light'). مساء الخير = good evening, تصبح على خير = good night, مرحبا = hello."
+      },
+      {
+        "id": "p1-q12",
+        "prompt": "What does خبز mean?",
+        "promptArabic": "خبز",
+        "options": [
+          "Rice",
+          "Bread",
+          "Cheese",
+          "Meat"
+        ],
+        "correctIndex": 1,
+        "explanation": "خبز (khubiz) means bread — a staple of Lebanese cuisine. رز (rizz) = rice, جبنة (jibne) = cheese, لحمة (laḥme) = meat. Bread is central to every Lebanese meal."
+      },
+      {
+        "id": "p1-q13",
+        "prompt": "كيفك is used to ask:",
+        "promptArabic": "كيفك",
+        "options": [
+          "Where are you from?",
+          "How are you?",
+          "What is your name?",
+          "How old are you?"
+        ],
+        "correctIndex": 1,
+        "explanation": "كيفك (kīfak, to male / kīfik, to female) means 'how are you?' — one of the most common Lebanese greetings. من وين إنت = where are you from, شو إسمك = what is your name, قديش عمرك = how old are you."
+      }
+    ]
+  },
+  {
+    "id": "p1-fill",
+    "phaseId": 1,
+    "title": "Phase 1 Fill in the Blank — Basic Vocabulary",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p1-fb1",
+        "sentence": "The word ___ means \"hello\" in Lebanese Arabic.",
+        "blank": "___",
+        "answer": "مرحبا",
+        "acceptableAnswers": [
+          "marhaba",
+          "mar7aba",
+          "مرحبا"
+        ],
+        "hint": "It starts with 'm' and is used as a general greeting."
+      },
+      {
+        "id": "p1-fb2",
+        "sentence": "To say \"thank you\" in Lebanese, you say ___.",
+        "blank": "___",
+        "answer": "شكراً",
+        "acceptableAnswers": [
+          "shukran",
+          "shukraan",
+          "شكرا",
+          "شكراً"
+        ],
+        "hint": "Same as in MSA — starts with 'sh'."
+      },
+      {
+        "id": "p1-fb3",
+        "sentence": "The Lebanese word for \"water\" is ___.",
+        "blank": "___",
+        "answer": "مي",
+        "acceptableAnswers": [
+          "may",
+          "mayy",
+          "مي",
+          "ماي"
+        ],
+        "hint": "Short two-letter word, not the MSA ماء."
+      },
+      {
+        "id": "p1-fb4",
+        "sentence": "صباح الخير means 'Good ___'.",
+        "blank": "___",
+        "answer": "morning",
+        "acceptableAnswers": [
+          "morning",
+          "Morning"
+        ],
+        "hint": "The greeting you use when you wake up."
+      },
+      {
+        "id": "p1-fb5",
+        "sentence": "In Lebanese Arabic, \"my name is\" translates to ___ إسمي.",
+        "blank": "___",
+        "answer": "أنا",
+        "acceptableAnswers": [
+          "ana",
+          "أنا"
+        ],
+        "hint": "The word for 'I' in Arabic."
+      },
+      {
+        "id": "p1-fb6",
+        "sentence": "The Lebanese word for \"yes\" is ___.",
+        "blank": "___",
+        "answer": "إيه",
+        "acceptableAnswers": [
+          "eh",
+          "ee",
+          "eeh",
+          "إيه",
+          "إي"
+        ],
+        "hint": "A short word — not the MSA نعم."
+      },
+      {
+        "id": "p1-fb7",
+        "sentence": "أبي means \"my ___\".",
+        "blank": "___",
+        "answer": "father",
+        "acceptableAnswers": [
+          "father",
+          "dad",
+          "Father",
+          "Dad"
+        ],
+        "hint": "A male parent."
+      },
+      {
+        "id": "p1-fb8",
+        "sentence": "The Lebanese word for \"good\" or \"fine\" is ___.",
+        "blank": "___",
+        "answer": "منيح",
+        "acceptableAnswers": [
+          "mnee7",
+          "mneeh",
+          "mnīḥ",
+          "منيح"
+        ],
+        "hint": "Used to say you are doing well — كيفك؟ ___!"
+      }
+    ]
+  },
+  {
+    "id": "p1-match",
+    "phaseId": 1,
+    "title": "Phase 1 Matching — Greetings & Basics",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "مرحبا",
+        "transliteration": "marḥaba",
+        "english": "Hello"
+      },
+      {
+        "arabic": "صباح الخير",
+        "transliteration": "ṣabāḥ il-khēr",
+        "english": "Good morning"
+      },
+      {
+        "arabic": "مساء الخير",
+        "transliteration": "masa il-khēr",
+        "english": "Good evening"
+      },
+      {
+        "arabic": "كيفك",
+        "transliteration": "kīfak / kīfik",
+        "english": "How are you?"
+      },
+      {
+        "arabic": "شكراً",
+        "transliteration": "shukran",
+        "english": "Thank you"
+      },
+      {
+        "arabic": "أهلاً وسهلاً",
+        "transliteration": "ahlan wa sahlan",
+        "english": "Welcome"
+      },
+      {
+        "arabic": "تصبح على خير",
+        "transliteration": "tiṣbaḥ ʕala khēr",
+        "english": "Good night"
+      },
+      {
+        "arabic": "الله يسلمك",
+        "transliteration": "alla yisalmak",
+        "english": "God keep you safe (response to goodbye)"
+      },
+      {
+        "arabic": "صحتين",
+        "transliteration": "saḥtēn",
+        "english": "Bon appetit / Cheers"
+      },
+      {
+        "arabic": "يعطيك العافية",
+        "transliteration": "yaʕṭīk il-ʕēfye",
+        "english": "May God give you strength (said to someone working)"
+      }
+    ]
+  }
+]

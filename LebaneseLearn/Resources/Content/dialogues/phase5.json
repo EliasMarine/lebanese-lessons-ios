@@ -1,0 +1,749 @@
+[
+  {
+    "id": "p5-dialogue-doctor",
+    "phaseId": 5,
+    "title": "At the Doctor's Office",
+    "context": "A visit to the doctor for stress-related symptoms.",
+    "lines": [
+      {
+        "speaker": "Dr",
+        "speakerRole": "a",
+        "arabic": "أهلا، شو عم تحس؟",
+        "transliteration": "Ahla, shū ʕam tḥiss?",
+        "english": "Hello, what are you feeling?"
+      },
+      {
+        "speaker": "P",
+        "speakerRole": "b",
+        "arabic": "عندي وجع براسي من مبارح ومش قادر نام.",
+        "transliteration": "ʕindi wajaʕ b-rāsi min mbāriḥ w-mish ʔādir nām.",
+        "english": "I have a headache since yesterday and can't sleep."
+      },
+      {
+        "speaker": "Dr",
+        "speakerRole": "a",
+        "arabic": "عندك حرارة؟ وشو عم تاكل؟",
+        "transliteration": "ʕindak ḥarāra? W-shū ʕam tākol?",
+        "english": "Do you have a fever? And what are you eating?"
+      },
+      {
+        "speaker": "P",
+        "speakerRole": "b",
+        "arabic": "ما عندي حرارة. بس مضغوط كتير بالشغل وما عم آكل منيح.",
+        "transliteration": "Mā ʕindi ḥarāra. Bas maḍghūṭ ktīr bish-shughl w-mā ʕam ākol mnīḥ.",
+        "english": "No fever. But very stressed at work and not eating well."
+      },
+      {
+        "speaker": "Dr",
+        "speakerRole": "a",
+        "arabic": "هيدا الضغط عم يأثر عليك. لازم ترتاح وتاكل منتظم. رح أعطيك دوا خفيف.",
+        "transliteration": "Hēda ḍ-ḍaght ʕam yʔaththir ʕalēk. Lāzim trtāḥ w-tākol muntaẓam. Raḥ aʕṭīk dawa khafīf.",
+        "english": "This stress is affecting you. You need to rest and eat regularly. I'll give you a light medicine."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-family-debate",
+    "phaseId": 5,
+    "title": "Family Debate — Should We Visit Lebanon?",
+    "context": "A couple discussing whether to visit Lebanon this summer.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بدي نروح لبنان هالصيف. صار زمان ما شفنا الأهل.",
+        "transliteration": "Baddī nrūḥ Lubnān haṣ-ṣayf. Ṣār zamān mā shufna l-ahl.",
+        "english": "I want us to go to Lebanon this summer. It's been too long since we saw family."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "فكرة حلوة بس الوضع هونيك مش مستقر. وبعدين التذاكر غالية كتير.",
+        "transliteration": "Fikra ḥilwe bas il-waḍ hūnīk mish mustaqirr. W-baʕdēn it-tazāker ghālye ktīr.",
+        "english": "Nice idea but the situation there isn't stable. Plus the tickets are very expensive."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "والله صح. بس إذا ما رحنا هالسنة، رح نتمنى بعدين. الأهل مش شباب.",
+        "transliteration": "Wallah ṣaḥ. Bas iza mā ruḥna haṣ-sane, raḥ nitmanna baʕdēn. Il-ahl mish shabāb.",
+        "english": "That's true. But if we don't go this year, we'll regret it later. Family aren't young."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "هيدا اللي عم يقلقني كمان. خلينا نشوف الأسعار ونحكي تاني.",
+        "transliteration": "Hēda illi ʕam yʔalqini kamān. Khalliīna nshūf il-asʕār w-nḥki tāni.",
+        "english": "That's what worries me too. Let's check prices and talk again."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-political-discussion",
+    "phaseId": 5,
+    "title": "Political Discussion",
+    "context": "Two friends discussing current events and politics in Lebanon, expressing opinions politely.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "شفت الأخبار اليوم؟ الوضع عم يتأزم أكتر.",
+        "transliteration": "Shift il-akhbār il-yōm? Il-waḍʕ ʕam yitʔazzam aktar.",
+        "english": "Did you see the news today? The situation is getting worse."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إي والله. بس صراحة ما بعود فاجأني شي. كل يوم نفس القصة.",
+        "transliteration": "Ē wallah. Bas ṣarāḥa mā bʕūd fājaʔni shi. Kill yōm nafs il-ʔiṣṣa.",
+        "english": "Yes honestly. But frankly nothing surprises me anymore. Every day same story."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بس هالمرة في ناس عم تتحرك. الشباب ما عاد ساكتين.",
+        "transliteration": "Bas hal-marra fī nās ʕam titḥarrak. Ish-shabāb mā ʕād sāktīn.",
+        "english": "But this time people are moving. The youth aren't staying silent anymore."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "معك حق. بس المشكلة إنو كل واحد عم يشد لجهة. ما في وحدة.",
+        "transliteration": "Maʕak ḥaʔʔ. Bas il-mushkle inno kill wāḥad ʕam yishidd la-jiha. Mā fī waḥde.",
+        "english": "You're right. But the problem is everyone is pulling in a different direction. There's no unity."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بعرف. بس أنا برأيي لازم نبلش من تحت. من البلديات والمجتمع المدني.",
+        "transliteration": "Baʕrif. Bas ana b-raʔyī lāzim nbalish min taḥt. Min il-baladiyyāt wil-mujtamaʕ il-madanī.",
+        "english": "I know. But in my opinion we need to start from the bottom. From municipalities and civil society."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "يمكن معك حق. بس الناس يائسة. كل واحد بيفكر بالهجرة بدل ما يبقى ويغيّر.",
+        "transliteration": "Yimkin maʕak ḥaʔʔ. Bas in-nās yāʔise. Kill wāḥad byifakkir bil-hijra badāl mā yibʔa w-yighayyir.",
+        "english": "Maybe you're right. But people are hopeless. Everyone thinks about emigrating instead of staying and changing things."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بفهم عليك. بس اللي بيحب بلدو ما بيتركو. هيدا رأيي ومش ضروري كلنا نتفق.",
+        "transliteration": "Bafham ʕalēk. Bas illi byiḥibb baldō mā byitrkō. Hēda raʔyī w-mish ḍarūri killna nittifiq.",
+        "english": "I understand you. But those who love their country don't leave it. That's my opinion and we don't all have to agree."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "الله يعين الكل. بالآخر كل واحد عندو ظروفو. المهم نحافظ على الأمل.",
+        "transliteration": "Allah yiʕīn il-kill. Bil-ākhir kill wāḥad ʕindō ẓurūfō. Il-muhimm nḥāfiẓ ʕal-amal.",
+        "english": "God help everyone. In the end everyone has their own circumstances. The important thing is to hold on to hope."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-planning-trip-lebanon",
+    "phaseId": 5,
+    "title": "Planning a Trip to Lebanon",
+    "context": "A diaspora Lebanese person planning their summer trip back home with a friend who knows the country well.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بدي أنظم رحلة عالبنان هالصيف. شو بتنصحني فيه؟ وين أروح؟",
+        "transliteration": "Baddī naẓẓim riḥle ʕa-Lubnān haṣ-ṣayf. Shū btinṣaḥni fī? Wēn arūḥ?",
+        "english": "I want to plan a trip to Lebanon this summer. What do you recommend? Where should I go?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "لازم تروح على الأرز وبشري. الطبيعة هونيك مش معقولة. وإذا بتحب البحر، بيبلوس وجبيل لازم.",
+        "transliteration": "Lāzim trūḥ ʕal-Arz w-Bsharri. Iṭ-ṭabīʕa hūnīk mish maʕʔūle. W-iza btḥibb il-baḥr, Byblos w-Jbēl lāzim.",
+        "english": "You have to go to the Cedars and Bcharre. The nature there is unbelievable. And if you like the sea, Byblos and Jbeil are a must."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وقديش لازم ضل؟ أسبوعين كافية ولا بدي أكتر؟",
+        "transliteration": "W-ʔaddēsh lāzim ḍall? Usbūʕēn kāfye walla baddī aktar?",
+        "english": "And how long should I stay? Is two weeks enough or do I need more?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أسبوعين أقل شي. بس إذا بدك تشوف الجنوب وبعلبك كمان، حاول تلات أسابيع.",
+        "transliteration": "Usbūʕēn aʔall shi. Bas iza baddak tshūf ij-Janūb w-Baʕlabak kamān, ḥāwil tlāt asābīʕ.",
+        "english": "Two weeks minimum. But if you want to see the South and Baalbek too, try for three weeks."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وبالنسبة للأكل، وين أحسن محلات بيروت؟ بشتاق للمناقيش والتبولة.",
+        "transliteration": "W-bin-nisbe lal-akl, wēn aḥsan maḥallāt Bayrūt? Bishtāʔ lal-manāʔīsh wit-tabbūle.",
+        "english": "And regarding food, where are the best places in Beirut? I miss manousheh and tabbouleh."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "روح على الفرن الشعبي الصبح كل يوم. والمساء روح على المطاعم بالحمرا ومار مخايل. بتناكل إصبعاتك!",
+        "transliteration": "Rūḥ ʕal-furn ish-shaʕbi iṣ-ṣubuḥ kill yōm. Wil-masa rūḥ ʕal-maṭāʕim bil-Ḥamra w-Mār Mkhāyil. Bitnākil iṣbaʕātak!",
+        "english": "Go to the local bakery every morning. And evenings go to restaurants in Hamra and Mar Mikhael. You'll eat your fingers off!"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وشو لازم أعرف ثقافيا؟ في شي لازم أنتبهلو؟",
+        "transliteration": "W-shū lāzim aʕrif thaqāfiyyan? Fī shi lāzim intibihlo?",
+        "english": "And what should I know culturally? Is there anything I should be aware of?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهم شي لا تقول لأ للأكل! إذا حدا عزمك على بيتو لازم تقبل. ولا تنسى تجيب هدية.",
+        "transliteration": "Ahamm shi lā tʔūl laʔ lal-akl! Iza ḥadan ʕazamak ʕala bēto lāzim tiʔbal. W-lā tinsa tjīb hadiyye.",
+        "english": "Most important: don't say no to food! If someone invites you to their home you must accept. And don't forget to bring a gift."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "ههه صح! كمان سمعت إنو لازم أساوم بالأسواق القديمة. صح هيك؟",
+        "transliteration": "Hahaha ṣaḥ! Kamān smiʕt inno lāzim sāwim bil-aswāʔ il-ʔadīme. Ṣaḥ hēk?",
+        "english": "Haha right! I also heard you should bargain in the old markets. Is that true?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أكيد! ما تقبل أول سعر أبدا. وإذا حسيت غالي، إمشي وبيرجعو ينادوك!",
+        "transliteration": "Akīd! Mā tiʔbal awwal siʕr abadan. W-iza ḥassēt ghāli, imshī w-byirjʕū ynādūk!",
+        "english": "Absolutely! Never accept the first price. And if you feel it's expensive, walk away and they'll call you back!"
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-discussing-news",
+    "phaseId": 5,
+    "title": "Discussing the News",
+    "context": "Two educated friends sit at a café analyzing recent events in the region, using sophisticated vocabulary and nuanced opinions.",
+    "lines": [
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "شفت التحليل يلّي طلع اليوم عالجريدة؟ بصراحة، الوضع الاقتصادي عم يوصل لمرحلة حرجة.",
+        "transliteration": "Shift it-taḥlīl yalli ṭiliʕ il-yōm ʕal-jarīde? Bṣarāḥa, il-waḍʕ il-iqtiṣādi ʕam yūṣal la-marḥale ḥarije.",
+        "english": "Did you see the analysis that came out today in the paper? Honestly, the economic situation is reaching a critical stage."
+      },
+      {
+        "speaker": "Dina",
+        "speakerRole": "b",
+        "arabic": "إي قريتو. بس يعني، التحليل كان سطحي شوي. ما حكى عن الأسباب البنيوية يلّي وصّلتنا لهون.",
+        "transliteration": "Ē ʔarētō. Bas yaʕni, it-taḥlīl kān saṭḥi shwayy. Mā ḥaka ʕan il-asbāb il-binyawiyye yalli waṣṣalitna la-hōn.",
+        "english": "Yeah I read it. But you know, the analysis was a bit superficial. It didn't talk about the structural causes that brought us here."
+      },
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "معك حق. يعني مثلاً، ما حدا عم يحكي عن الفساد المؤسساتي والمحاصصة يلّي عم تاكل البلد من جوّا.",
+        "transliteration": "Maʕik ḥaʔʔ. Yaʕni masalan, mā ḥada ʕam yaḥki ʕan il-fasād il-muʔassasāti wil-muḥāṣaṣa yalli ʕam tākol il-balad min juwwa.",
+        "english": "You're right. For example, no one is talking about the institutional corruption and sectarian power-sharing that's eating the country from the inside."
+      },
+      {
+        "speaker": "Dina",
+        "speakerRole": "b",
+        "arabic": "من ناحية تانية، في صحفيين مستقلين عم يعملو شغل جبّار. المشكلة إنو الناس ما عم تقرا.",
+        "transliteration": "Min nāḥye tānye, fī ṣuḥufiyyīn mustaʔillīn ʕam yaʕmlo shughl jabbār. Il-mushkle inno in-nās mā ʕam tiʔra.",
+        "english": "On the other hand, there are independent journalists doing tremendous work. The problem is people aren't reading."
+      },
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "لأنو الناس تعبت. لمّا كل يوم تفتح التلفزيون وتسمع أخبار سلبية، بتوصل لمرحلة بتقول خلص كفى.",
+        "transliteration": "Laʔinno in-nās tiʕbit. Lamma kill yōm tiftaḥ it-tilifzyōn w-tismaʕ akhbār salbiyye, btūṣal la-marḥale btʔūl khalaṣ kafa.",
+        "english": "Because people are exhausted. When every day you turn on the TV and hear negative news, you reach a point where you say enough is enough."
+      },
+      {
+        "speaker": "Dina",
+        "speakerRole": "b",
+        "arabic": "بفهم، بس إذا ما ضلّينا واعيين ومنتبهين، مين رح يحاسب المسؤولين؟",
+        "transliteration": "Bafham, bas iza mā ḍallēna wāʕyīn w-mintibhīn, mīn raḥ yḥāsib il-masʔūlīn?",
+        "english": "I understand, but if we don't stay aware and attentive, who will hold the officials accountable?"
+      },
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "كلامك منطقي. بالنهاية، الوعي هو أول خطوة للتغيير. حتى لو التغيير بطيء.",
+        "transliteration": "Kalāmik manṭiʔi. Bin-nihāye, il-waʕy huwwe awwal khuṭwe lat-taghyīr. Ḥatta law it-taghyīr baṭīʔ.",
+        "english": "Your words are logical. In the end, awareness is the first step toward change. Even if the change is slow."
+      },
+      {
+        "speaker": "Dina",
+        "speakerRole": "b",
+        "arabic": "وكمان لازم نفرّق بين الأخبار الحقيقية والإشاعات. وسائل التواصل الاجتماعي صارت أخطر من أي شي.",
+        "transliteration": "W-kamān lāzim nfarriʔ bēn il-akhbār il-ḥaʔīʔiyye wil-ishāʕāt. Wasāʔil it-tawāṣul il-ijtimāʕi ṣārit akhṭar min ayy shi.",
+        "english": "And we also need to distinguish between real news and rumors. Social media has become more dangerous than anything."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-life-abroad-vs-lebanon",
+    "phaseId": 5,
+    "title": "Life Abroad vs Lebanon",
+    "context": "Two diaspora Lebanese — one recently moved back to Lebanon, the other still abroad — compare their experiences with honesty and nostalgia.",
+    "lines": [
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "صار عندي سنتين برّا، وبصراحة، حياتي تنظمت بشكل ما كنت متخيّلتو.",
+        "transliteration": "Ṣār ʕindi sinntēn barra, w-bṣarāḥa, ḥayāti tnaẓẓamit b-shakl mā kinit mtikhayylitō.",
+        "english": "I've been abroad for two years now, and honestly, my life has been organized in a way I never imagined."
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "بفهم عليكي. بس أنا رجعت عالبنان من سنة، ورغم كل المشاكل، حاسس إنّي برجعت لحالي.",
+        "transliteration": "Bafham ʕalēki. Bas ana rjʕit ʕa-Lubnān min sine, w-raghm kill il-mashākil, ḥāsis inni b-rjʕit la-ḥāli.",
+        "english": "I understand you. But I came back to Lebanon a year ago, and despite all the problems, I feel like I've returned to myself."
+      },
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "شو يعني رجعت لحالك؟ يعني ما كنت مبسوط برّا؟",
+        "transliteration": "Shū yaʕni rjʕit la-ḥālak? Yaʕni mā kinit mabsūṭ barra?",
+        "english": "What do you mean you returned to yourself? You weren't happy abroad?"
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "كنت مرتاح مادياً، بس اجتماعياً كنت ميّت. يعني الجيران ما بيسلّمو عليك، والأكل بلا طعمة، والعيلة بعيدة.",
+        "transliteration": "Kinit mirtāḥ māddiyyan, bas ijtimāʕiyyan kinit mayyit. Yaʕni ij-jīrān mā bisallmo ʕalēk, wil-akl bala ṭaʕme, wil-ʕēle bʕīde.",
+        "english": "I was comfortable financially, but socially I was dead. The neighbors don't greet you, the food has no flavor, and family is far away."
+      },
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "هيدا صحيح. بس من ناحية تانية، هون في كهربا ٢٤ ساعة ومي نظيفة وحقوقك محفوظة.",
+        "transliteration": "Hēda ṣaḥīḥ. Bas min nāḥye tānye, hōn fī kahraba arbaʕ w-ʕishrīn sēʕa w-mayy nẓīfe w-ḥuʔūʔak maḥfūẓa.",
+        "english": "That's true. But on the other hand, here there's 24-hour electricity and clean water and your rights are protected."
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "أكيد. بس بلبنان في شي ما بتلاقيه بأي محل تاني — الدفا الإنساني. لمّا تروحي على الفرن وصاحبو يحكيلك عن عيلتو.",
+        "transliteration": "Akīd. Bas b-Lubnān fī shi mā btlāʔī b-ayy maḥall tāni — id-dafa l-insāni. Lamma trūḥi ʕal-furn w-ṣāḥbō yaḥkīlik ʕan ʕēltō.",
+        "english": "Of course. But in Lebanon there's something you won't find anywhere else — the human warmth. When you go to the bakery and the owner tells you about his family."
+      },
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "والله بشتاقلها هالأشيا. بس بالنهاية، كل واحد عندو ظروفو. أنا ما كان عندي فرص شغل هونيك.",
+        "transliteration": "Wallah bishtiʔilla hal-ashya. Bas bin-nihāye, kill wāḥad ʕindō ẓurūfō. Ana mā kān ʕindi furaṣ shughl hūnīk.",
+        "english": "Honestly I miss those things. But in the end, everyone has their circumstances. I didn't have work opportunities there."
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "بالزبط. ما في جواب صح أو غلط. المهم الواحد يكون صادق مع حالو ويعرف شو بدّو بالحياة.",
+        "transliteration": "Biz-zabṭ. Mā fī jawāb ṣaḥḥ aw ghalaṭ. Il-muhimm il-wāḥad ykūn ṣādiʔ maʕ ḥālō w-yaʕrif shū baddō bil-ḥayāt.",
+        "english": "Exactly. There's no right or wrong answer. The important thing is to be honest with yourself and know what you want in life."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-professional-networking",
+    "phaseId": 5,
+    "title": "Professional Networking",
+    "context": "Two professionals meet at a business conference in Beirut and exchange experiences, blending formal and informal Lebanese Arabic.",
+    "lines": [
+      {
+        "speaker": "Samer",
+        "speakerRole": "a",
+        "arabic": "أهلاً، أنا سامر. عم شتغل بمجال التكنولوجيا. إنت بأي قطاع؟",
+        "transliteration": "Ahlan, ana Sāmer. ʕam ishtaghil b-majāl it-tiknolōjya. Inta b-ayy qiṭāʕ?",
+        "english": "Hello, I'm Samer. I work in the tech sector. What field are you in?"
+      },
+      {
+        "speaker": "Lara",
+        "speakerRole": "b",
+        "arabic": "أهلا سامر، أنا لارا. بشتغل بالاستشارات المالية. عندي شركة صغيرة بالأشرفية.",
+        "transliteration": "Ahla Sāmer, ana Lāra. Bishtaghil bil-istishārāt il-māliyye. ʕindi shirke zghīre bil-Ashrafiyye.",
+        "english": "Hi Samer, I'm Lara. I work in financial consulting. I have a small firm in Ashrafieh."
+      },
+      {
+        "speaker": "Samer",
+        "speakerRole": "a",
+        "arabic": "والله مبروك. كيف السوق اللبناني؟ يعني هل في طلب كافي على الاستشارات بالوقت الحالي؟",
+        "transliteration": "Wallah mabrūk. Kīf is-sūʔ il-libnāni? Yaʕni hal fī ṭalab kāfi ʕal-istishārāt bil-waʔt il-ḥāli?",
+        "english": "Congratulations. How's the Lebanese market? I mean, is there enough demand for consulting right now?"
+      },
+      {
+        "speaker": "Lara",
+        "speakerRole": "b",
+        "arabic": "بصراحة، بعد الأزمة كتير شركات صارت بحاجة لإعادة هيكلة. فالطلب زايد بس الناس ما عندها سيولة تدفع.",
+        "transliteration": "Bṣarāḥa, baʕd il-azme ktīr sharikāt ṣārit b-ḥāje la-iʕādit haykale. Fa-ṭ-ṭalab zāyid bas in-nās mā ʕinda suyūle tidfa.",
+        "english": "Honestly, after the crisis many companies need restructuring. So demand is up but people don't have the liquidity to pay."
+      },
+      {
+        "speaker": "Samer",
+        "speakerRole": "a",
+        "arabic": "نفس الشي عنّا بالتكنولوجيا. في مواهب لبنانية خرافية، بس أغلبها عم تشتغل لشركات بالخارج عن بعد.",
+        "transliteration": "Nafs ish-shi ʕinna bit-tiknolōjya. Fī mawāhib libnāniyye khurāfiyye, bas aghlabha ʕam tishtaghil la-sharikāt bil-khārij ʕan buʕd.",
+        "english": "Same thing for us in tech. There's incredible Lebanese talent, but most of it works remotely for companies abroad."
+      },
+      {
+        "speaker": "Lara",
+        "speakerRole": "b",
+        "arabic": "هيدي مشكلة وفرصة بنفس الوقت. يعني لو فينا نخلق بيئة عمل مناسبة، هالمواهب بتبقى هون.",
+        "transliteration": "Hēdi mushkle w-furṣa b-nafs il-waʔt. Yaʕni law fīna nikhliʔ bīʔit ʕamal munāsbe, hal-mawāhib btibʔa hōn.",
+        "english": "That's a problem and an opportunity at the same time. If we could create a suitable work environment, this talent would stay here."
+      },
+      {
+        "speaker": "Samer",
+        "speakerRole": "a",
+        "arabic": "بالزبط هيدا يلّي عم فكّر فيه. عم حاول أأسس حاضنة أعمال للشباب اللبناني. شو رأيك نحكي أكتر عالموضوع؟",
+        "transliteration": "Biz-zabṭ hēda yalli ʕam fakkir fī. ʕam ḥāwil aʔassis ḥāḍinit aʕmāl lash-shabāb il-libnāni. Shū raʔyik niḥki aktar ʕal-mawḍūʕ?",
+        "english": "That's exactly what I'm thinking about. I'm trying to set up a business incubator for Lebanese youth. What do you think about discussing this more?"
+      },
+      {
+        "speaker": "Lara",
+        "speakerRole": "b",
+        "arabic": "فكرة ممتازة. خدلك كرتي، وبنحدد موعد نحكي بالتفصيل. بحس في إمكانية تعاون حقيقي بيناتنا.",
+        "transliteration": "Fikra mumtāze. Khidlak kārti, w-binḥaddid mawʕid niḥki bit-tafṣīl. Bḥiss fī imkāniyye taʕāwun ḥaʔīʔi bēnātna.",
+        "english": "Excellent idea. Take my card, and let's set a time to discuss in detail. I feel there's a real possibility for collaboration between us."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-philosophical",
+    "phaseId": 5,
+    "title": "Philosophical Conversation",
+    "context": "Two old friends share an evening on a Beirut rooftop, philosophizing about the meaning of life — Lebanese style, mixing depth with humor.",
+    "lines": [
+      {
+        "speaker": "Fadi",
+        "speakerRole": "a",
+        "arabic": "بتعرف شو، كل ما صرت أكبر كل ما صرت أفكّر: شو الهدف من كل هالسباق يلّي عايشينو؟",
+        "transliteration": "Btaʕrif shū, kill mā ṣirit akbar kill mā ṣirit afakkir: shū il-hadaf min kill has-sibāʔ yalli ʕāyshīnō?",
+        "english": "You know what, the older I get the more I think: what's the point of this whole race we're living?"
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "يعني شو عم تقصد بالزبط؟ إنو ليش عم نركض ورا الشغل والمصاري والمظاهر؟",
+        "transliteration": "Yaʕni shū ʕam tiʔṣud biz-zabṭ? Inno lēsh ʕam nirkuḍ wara sh-shughl wil-maṣāri wil-maẓāhir?",
+        "english": "What do you mean exactly? That why are we chasing work and money and appearances?"
+      },
+      {
+        "speaker": "Fadi",
+        "speakerRole": "a",
+        "arabic": "بالزبط. يعني جدّي كان يقعد عالبيت ويشرب قهوتو ويحكي مع الجيران. وكان مبسوط أكتر مننا.",
+        "transliteration": "Biz-zabṭ. Yaʕni jiddi kān yiʔʕud ʕal-bēt w-yishrab ʔahwto w-yaḥki maʕ ij-jīrān. W-kān mabsūṭ aktar minna.",
+        "english": "Exactly. My grandfather used to sit at home and drink his coffee and talk with the neighbors. And he was happier than us."
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "بس هيدا لأنو ما كان عندو خيارات. نحنا عنّا كل شي ومع هيك مش عارفين شو بدنا.",
+        "transliteration": "Bas hēda laʔinno mā kān ʕindō khayārāt. Niḥna ʕinna kill shi w-maʕ hēk mish ʕārfīn shū biddna.",
+        "english": "But that's because he didn't have choices. We have everything and yet we don't know what we want."
+      },
+      {
+        "speaker": "Fadi",
+        "speakerRole": "a",
+        "arabic": "صح. يمكن كترة الخيارات هي يلّي عم تخنقنا. بصراحة، أسعد لحظاتي لمّا بكون جالس هيك معك عالسطح.",
+        "transliteration": "Ṣaḥḥ. Yimkin kitrit il-khayārāt hiyye yalli ʕam tikhniʔna. Bṣarāḥa, asʕad laḥẓāti lamma bkūn jālis hēk maʕak ʕas-saṭḥ.",
+        "english": "True. Maybe the abundance of choices is what's suffocating us. Honestly, my happiest moments are when I'm sitting like this with you on the rooftop."
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "وأنا كمان. يمكن معنى الحياة مش شي كبير — يمكن هو هالأشيا الزغيرة يلّي ما بننتبهلها.",
+        "transliteration": "W-ana kamān. Yimkin maʕna l-ḥayāt mish shi kbīr — yimkin huwwe hal-ashya iz-zghīre yalli mā bnintibihlha.",
+        "english": "Me too. Maybe the meaning of life isn't something big — maybe it's these small things we don't pay attention to."
+      },
+      {
+        "speaker": "Fadi",
+        "speakerRole": "a",
+        "arabic": "تيتا كانت تقول: \"يلّي بقلبو سلام، الدني كلها إلو.\" وكل ما كبرت كل ما فهمت شو قصدها.",
+        "transliteration": "Tēta kānit tʔūl: \"yalli b-ʔalbō salām, id-dinyi killa ilō.\" W-kill mā kibrit kill mā fhimit shū ʔaṣadha.",
+        "english": "My grandma used to say: \"Whoever has peace in their heart, the whole world is theirs.\" And the more I grew, the more I understood what she meant."
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "تيتاتنا كانو فلاسفة وما كانو يعرفو! يلّا، فلسفة كفاية لليوم. خلّينا نطلب منقوشة.",
+        "transliteration": "Tētātna kāno falāsfe w-mā kāno yaʕrfo! Yalla, falsafe kifāye lal-yōm. Khallīna nuṭlub manʔūshe.",
+        "english": "Our grandmothers were philosophers and they didn't even know it! Come on, enough philosophy for today. Let's order a manousheh."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-business-deal",
+    "phaseId": 5,
+    "title": "Negotiating a Business Deal",
+    "context": "A restaurant owner negotiates with a food supplier over prices and terms — a formal yet warm Lebanese business exchange.",
+    "lines": [
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "أبو علي، أنا بقدّر العلاقة يلّي بيناتنا من زمان. بس بدي نحكي بصراحة عن الأسعار الجديدة.",
+        "transliteration": "Abū ʕAli, ana bʔaddir il-ʕalāʔa yalli bēnātna min zamān. Bas baddī niḥki bṣarāḥa ʕan il-asʕār ij-jdīde.",
+        "english": "Abu Ali, I appreciate the relationship we've had for a long time. But I need to talk honestly about the new prices."
+      },
+      {
+        "speaker": "Abu Ali",
+        "speakerRole": "b",
+        "arabic": "تفضّل يا كريم. أنا دايماً بابي مفتوح. شو يلّي ما عجبك؟",
+        "transliteration": "Tfaḍḍal yā Karīm. Ana dāyman bābi maftūḥ. Shū yalli mā ʕajabak?",
+        "english": "Go ahead Karim. My door is always open. What didn't you like?"
+      },
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "الزيادة يلّي عملتها — عشرين بالمية — كتير عالية. أنا ما بقدر أرفع أسعار المطعم بهالنسبة.",
+        "transliteration": "Iz-zyāde yalli ʕmiltha — ʕishrīn bil-miyye — ktīr ʕālye. Ana mā biʔdar irfaʕ asʕār il-maṭʕam b-han-nisbe.",
+        "english": "The increase you made — twenty percent — is too high. I can't raise the restaurant's prices by that much."
+      },
+      {
+        "speaker": "Abu Ali",
+        "speakerRole": "b",
+        "arabic": "يا كريم، بتعرف إنو التكاليف ارتفعت عنّا كمان. النقل والمازوت والمواد الأولية كلها غليت.",
+        "transliteration": "Yā Karīm, btaʕrif inno it-takālīf irtafaʕit ʕinna kamān. In-naʔl wil-māzūt wil-mawādd il-awwaliyye killa ghilyit.",
+        "english": "Karim, you know that costs have gone up for us too. Transport, fuel, and raw materials have all gotten more expensive."
+      },
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "بفهم عليك تماماً. بس خلّينا نلاقي حل وسط. شو رأيك عشر بالمية بدل عشرين، وأنا بزيد الكمية يلّي بطلبها؟",
+        "transliteration": "Bafham ʕalēk tamāman. Bas khallīna nlāʔi ḥall wasaṭ. Shū raʔyak ʕashr bil-miyye badāl ʕishrīn, w-ana bzīd il-kammiyye yalli buṭlubha?",
+        "english": "I fully understand. But let's find a middle ground. How about ten percent instead of twenty, and I'll increase the quantity I order?"
+      },
+      {
+        "speaker": "Abu Ali",
+        "speakerRole": "b",
+        "arabic": "عشر بالمية ما بتمشي معي. خمستعش بالمية وبعطيك شروط دفع أحسن — خمسة وأربعين يوم بدل تلاتين.",
+        "transliteration": "ʕAshr bil-miyye mā btimshi maʕi. Khamstaʕsh bil-miyye w-baʕṭīk shurūṭ dafʕ aḥsan — khamse w-arbaʕīn yōm badāl tlātīn.",
+        "english": "Ten percent doesn't work for me. Fifteen percent and I'll give you better payment terms — forty-five days instead of thirty."
+      },
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "خمستعش بالمية مع تمديد الدفع؟ هيدا عرض منطقي. بس بشرط إنو الجودة تضل زي ما هي.",
+        "transliteration": "Khamstaʕsh bil-miyye maʕ tamdīd id-dafʕ? Hēda ʕarḍ manṭiʔi. Bas b-sharṭ inno ij-jōde tḍall zay mā hiyye.",
+        "english": "Fifteen percent with extended payment? That's a reasonable offer. But on the condition that quality stays the same."
+      },
+      {
+        "speaker": "Abu Ali",
+        "speakerRole": "b",
+        "arabic": "أنا ما بفرّط بالجودة عمري — هيدي سمعتي. يلّا، تفضّل نوقّع العقد وبكرا أول شحنة عندك.",
+        "transliteration": "Ana mā bfarriṭ bil-jōde ʕumri — hēdi sumʕiti. Yalla, tfaḍḍal nwaʔʔiʕ il-ʕaʔd w-bukra awwal shaḥne ʕindak.",
+        "english": "I never compromise on quality — that's my reputation. Come, let's sign the contract and tomorrow the first shipment is at your door."
+      },
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "الله يخلّيك يا أبو علي. هيك الشغل بيمشي — بالاحترام والكلمة الصادقة.",
+        "transliteration": "Allah ykhallīk yā Abū ʕAli. Hēk ish-shughl byimshi — bil-iḥtirām wil-kilme iṣ-ṣādiʔa.",
+        "english": "God bless you Abu Ali. This is how business works — with respect and honest words."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-art-literature",
+    "phaseId": 5,
+    "title": "Discussing Art & Literature",
+    "context": "Two friends at a gallery opening in Beirut discuss books, music, and the local art scene with passion and cultural depth.",
+    "lines": [
+      {
+        "speaker": "Zeina",
+        "speakerRole": "a",
+        "arabic": "شفتي هاللوحة؟ بتذكّرني بأعمال بول غيراغوسيان. في فيها وجع بس بنفس الوقت أمل.",
+        "transliteration": "Shifti hal-lawḥa? Btizakkirni b-aʕmāl Paul Guiragossian. Fī fīha wajaʕ bas b-nafs il-waʔt amal.",
+        "english": "Did you see this painting? It reminds me of Paul Guiragossian's work. There's pain in it but at the same time hope."
+      },
+      {
+        "speaker": "Hala",
+        "speakerRole": "b",
+        "arabic": "إي والله. الفنّ اللبناني عندو هالميزة — دايماً في عمق ورا الجمال. مش بس أشكال وألوان.",
+        "transliteration": "Ē wallah. Il-fann il-libnāni ʕindō hal-mīze — dāyman fī ʕumʔ wara l-jamāl. Mish bas ashkāl w-alwān.",
+        "english": "Absolutely. Lebanese art has this characteristic — there's always depth behind the beauty. It's not just shapes and colors."
+      },
+      {
+        "speaker": "Zeina",
+        "speakerRole": "a",
+        "arabic": "ومن ناحية الأدب، شو عم تقري هالفترة؟ أنا خلّصت رواية جديدة لهدى بركات — روعة.",
+        "transliteration": "W-min nāḥyet il-adab, shū ʕam tiʔri hal-fatra? Ana khallaṣit riwāye jdīde la-Huda Barakat — rawʕa.",
+        "english": "And literature-wise, what are you reading these days? I just finished a new novel by Huda Barakat — magnificent."
+      },
+      {
+        "speaker": "Hala",
+        "speakerRole": "b",
+        "arabic": "أنا عم أقرا لإميلي نصرالله. بتحبّها لأنها بتكتب عن الغربة بطريقة بتوصل للقلب.",
+        "transliteration": "Ana ʕam iʔra la-Emily Nasrallah. Btḥibbha laʔinha btiktob ʕan il-ghurbe b-ṭarīʔa btūṣal lal-ʔalb.",
+        "english": "I'm reading Emily Nasrallah. I love her because she writes about exile in a way that reaches the heart."
+      },
+      {
+        "speaker": "Zeina",
+        "speakerRole": "a",
+        "arabic": "بتعرفي، بحسّ إنو الأدب بيعبّر عن مشاعرنا أحسن من أي شي تاني. خصوصي بالعربي — اللغة غنية كتير.",
+        "transliteration": "Btaʕrfi, bḥiss inno l-adab byiʕabbir ʕan mashāʕirna aḥsan min ayy shi tāni. Khuṣūṣi bil-ʕarabi — il-lugha ghaniyye ktīr.",
+        "english": "You know, I feel that literature expresses our feelings better than anything else. Especially in Arabic — the language is so rich."
+      },
+      {
+        "speaker": "Hala",
+        "speakerRole": "b",
+        "arabic": "صح. وكمان الموسيقى. أنا بسمع كتير لمارسيل خليفة. كلماتو مع موسيقاه بيخلقو عالم تاني.",
+        "transliteration": "Ṣaḥḥ. W-kamān il-mūsīqa. Ana bismaʕ ktīr la-Marcel Khalife. Kalimātō maʕ mūsīʔā byikhluʔo ʕālam tāni.",
+        "english": "True. And music too. I listen a lot to Marcel Khalife. His lyrics with his music create another world."
+      },
+      {
+        "speaker": "Zeina",
+        "speakerRole": "a",
+        "arabic": "المشكلة إنو الجيل الجديد ما عم يهتم بهالثقافة. كلو عالتلفون وتيك توك.",
+        "transliteration": "Il-mushkle inno ij-jīl ij-jdīd mā ʕam yihtamm b-hal-thaqāfe. Killō ʕat-tilifōn w-TikTok.",
+        "english": "The problem is the new generation isn't interested in this culture. They're all on phones and TikTok."
+      },
+      {
+        "speaker": "Hala",
+        "speakerRole": "b",
+        "arabic": "لا تقولي هيك. في شباب عم يبدعو بالفنّ الرقمي وبالموسيقى الإلكترونية. الإبداع ما وقف — تغيّر شكلو بس.",
+        "transliteration": "Lā tʔūli hēk. Fī shabāb ʕam yibdiʕo bil-fann ir-raqami w-bil-mūsīqa l-iliktrōniyye. Il-ibdāʕ mā wiʔif — tghayyar shaklō bas.",
+        "english": "Don't say that. There are young people creating amazing digital art and electronic music. Creativity hasn't stopped — it just changed its form."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-environmental-concerns",
+    "phaseId": 5,
+    "title": "Environmental Concerns",
+    "context": "Two neighbors in a Lebanese coastal town discuss the pollution crisis, garbage, and environmental degradation they witness daily.",
+    "lines": [
+      {
+        "speaker": "Walid",
+        "speakerRole": "a",
+        "arabic": "رحت عالبحر مبارح وبصراحة حسيت بالغثيان. الزبالة عالشاطئ صارت شي مخجل.",
+        "transliteration": "Ruḥt ʕal-baḥr mbāriḥ w-bṣarāḥa ḥassēt bil-ghasayān. Iz-zbēle ʕash-shāṭiʔ ṣārit shi mukhjil.",
+        "english": "I went to the sea yesterday and honestly felt nauseous. The garbage on the beach has become shameful."
+      },
+      {
+        "speaker": "Reem",
+        "speakerRole": "b",
+        "arabic": "والله مش بس الشاطئ. النهر يلّي بيمرق من عندنا صار عبارة عن مجرور مفتوح. ريحتو بتجنّن.",
+        "transliteration": "Wallah mish bas ish-shāṭiʔ. In-naher yalli byimruʔ min ʕindna ṣār ʕibāra ʕan majrūr maftūḥ. Rīḥtō btjannin.",
+        "english": "It's not just the beach. The river that passes by us has become an open sewer. The smell drives you crazy."
+      },
+      {
+        "speaker": "Walid",
+        "speakerRole": "a",
+        "arabic": "والمصايب إنو الدولة ما عندها أي خطة جدية لمعالجة النفايات. عم يحرقو الزبالة وبيسمّمو الهوا.",
+        "transliteration": "Wil-maṣāyib inno id-dawle mā ʕinda ayy khuṭṭa jaddiyye la-muʕālajit in-nifāyāt. ʕAm yaḥrʔo iz-zbēle w-biysamammo il-hawa.",
+        "english": "And the disaster is the state has no serious plan for waste management. They're burning garbage and poisoning the air."
+      },
+      {
+        "speaker": "Reem",
+        "speakerRole": "b",
+        "arabic": "بتعرف شو بيأثّر فيّي أكتر شي؟ إنو ولادنا عم يكبرو بهالبيئة. شو المستقبل يلّي عم نحضّرلهن؟",
+        "transliteration": "Btaʕrif shū byiʔaththir fiyyi aktar shi? Inno wlādna ʕam yikbro b-hal-bīʔa. Shū il-mustaʔbal yalli ʕam nḥaḍḍirlhun?",
+        "english": "You know what affects me the most? That our children are growing up in this environment. What future are we preparing for them?"
+      },
+      {
+        "speaker": "Walid",
+        "speakerRole": "a",
+        "arabic": "بس في ناس عم تحاول تعمل شي. جمعيات بيئية عم تنظّف الشواطئ وتزرع أشجار.",
+        "transliteration": "Bas fī nās ʕam tḥāwil taʕmil shi. Jamʕiyyāt bīʔiyye ʕam tnaẓẓif ish-shawāṭiʔ w-tizraʕ ashjār.",
+        "english": "But there are people trying to do something. Environmental organizations are cleaning beaches and planting trees."
+      },
+      {
+        "speaker": "Reem",
+        "speakerRole": "b",
+        "arabic": "صح، بس هيدا مش كافي. لازم يكون في قوانين صارمة وناس تطبقها. بلا محاسبة ما رح يتغيّر شي.",
+        "transliteration": "Ṣaḥḥ, bas hēda mish kāfi. Lāzim ykūn fī qawānīn ṣārme w-nās tṭabbiʔha. Bala muḥāsabe mā raḥ yitghayyar shi.",
+        "english": "True, but that's not enough. There need to be strict laws and people to enforce them. Without accountability nothing will change."
+      },
+      {
+        "speaker": "Walid",
+        "speakerRole": "a",
+        "arabic": "خلّينا على الأقل نبلش من حالنا. أنا صرت أفرز الزبالة ببيتي وما عم أستعمل أكياس بلاستيك.",
+        "transliteration": "Khallīna ʕal-aʔall niblish min ḥālna. Ana ṣirit afriz iz-zbēle b-bēti w-mā ʕam istaʕmil akyās blāstīk.",
+        "english": "Let's at least start with ourselves. I've started sorting garbage at home and I'm not using plastic bags anymore."
+      },
+      {
+        "speaker": "Reem",
+        "speakerRole": "b",
+        "arabic": "معك حق. بالنهاية، إذا كل واحد فينا غيّر عاداتو، بنكون عملنا خطوة. التغيير بيبلش من الفرد.",
+        "transliteration": "Maʕak ḥaʔʔ. Bin-nihāye, iza kill wāḥad fīna ghayyar ʕādātō, bnkūn ʕmilna khuṭwe. It-taghyīr byiblish min il-fard.",
+        "english": "You're right. In the end, if each of us changes their habits, we'll have taken a step. Change starts with the individual."
+      }
+    ]
+  },
+  {
+    "id": "p5-dialogue-generational-differences",
+    "phaseId": 5,
+    "title": "Generational Differences",
+    "context": "A grandmother and her granddaughter discuss how life, values, and society in Lebanon have changed across generations.",
+    "lines": [
+      {
+        "speaker": "Teta",
+        "speakerRole": "a",
+        "arabic": "بأيّامنا، ما كان في تلفونات ولا إنترنت. كنّا نقعد مع بعض ونحكي للصبح.",
+        "transliteration": "B-ayyāmna, mā kān fī tilifōnāt wala internet. Kinna niʔʕud maʕ baʕḍ w-niḥki laṣ-ṣubuḥ.",
+        "english": "In our days, there were no phones or internet. We used to sit together and talk until morning."
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "بعرف يا تيتا. بس الزمن تغيّر. التكنولوجيا صارت جزء من حياتنا، مش ضروري يكون شي سلبي.",
+        "transliteration": "Baʕrif yā tēta. Bas iz-zaman tghayyar. It-tiknolōjya ṣārit juzʔ min ḥayātna, mish ḍarūri ykūn shi salbi.",
+        "english": "I know teta. But times have changed. Technology has become part of our lives, it's not necessarily negative."
+      },
+      {
+        "speaker": "Teta",
+        "speakerRole": "a",
+        "arabic": "بس شو فادتكن هالتكنولوجيا إذا ما عم تحكو مع بعضكن؟ كل واحد براسو بتلفونو!",
+        "transliteration": "Bas shū fādatkon hat-tiknolōjya iza mā ʕam tiḥko maʕ baʕḍkon? Kill wāḥad b-rāsō b-tilifōnō!",
+        "english": "But what good is this technology if you don't talk to each other? Everyone is buried in their phone!"
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "معك حق بشي. بس من ناحية تانية، أنا بفضل هالتلفون قادرة إحكي مع رفقاتي بكل العالم.",
+        "transliteration": "Maʕik ḥaʔʔ b-shi. Bas min nāḥye tānye, ana b-faḍl hat-tilifōn ʔādra iḥki maʕ rifʔāti b-kill il-ʕālam.",
+        "english": "You have a point. But on the other hand, thanks to this phone I can talk to my friends all over the world."
+      },
+      {
+        "speaker": "Teta",
+        "speakerRole": "a",
+        "arabic": "وبأيامنا، البنت كانت ما بتطلع من البيت إلا مع أهلها. إنتي اليوم بتسافري لحالك وبتشتغلي — هيدا شي منيح.",
+        "transliteration": "W-b-ayyāmna, il-bint kānit mā btitlaʕ min il-bēt illa maʕ ahlha. Inti l-yōm bitsāfri la-ḥālik w-btishtaghli — hēda shi mnīḥ.",
+        "english": "And in our days, a girl wouldn't leave the house except with her family. Today you travel alone and work — that's a good thing."
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "شايفة يا تيتا؟ مش كل شي تغيّر للأسوأ. في أشيا تحسّنت، خصوصي بالنسبة للمرأة.",
+        "transliteration": "Shāyfe yā tēta? Mish kill shi tghayyar lal-aswaʔ. Fī ashya tḥassanit, khuṣūṣi bin-nisbe lal-mara.",
+        "english": "See teta? Not everything changed for the worse. Some things improved, especially for women."
+      },
+      {
+        "speaker": "Teta",
+        "speakerRole": "a",
+        "arabic": "صح. بس اللي بخاف منّو إنكن تنسو جذوركن. لازم تعرفي من وين جايي مشان تعرفي وين رايحة.",
+        "transliteration": "Ṣaḥḥ. Bas illi bkhāf minno innkon tinso jzūrkon. Lāzim taʕrfi min wēn jāyye mshān taʕrfi wēn rāyḥa.",
+        "english": "True. But what I'm afraid of is that you forget your roots. You need to know where you come from to know where you're going."
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "ما رح ننسى يا تيتا. إنتي علّمتينا أحلى القيم — الكرامة والعيلة والكرم. هالأشيا ما بتتغيّر.",
+        "transliteration": "Mā raḥ ninsa yā tēta. Inti ʕallamtīna aḥla l-ʔiyam — il-karāme wil-ʕēle wil-karam. Hal-ashya mā btitghayyar.",
+        "english": "We won't forget teta. You taught us the best values — dignity, family, and generosity. These things don't change."
+      },
+      {
+        "speaker": "Teta",
+        "speakerRole": "a",
+        "arabic": "الله يخلّيكي يا حبيبتي. بالنهاية، كل جيل عندو تحدياتو. المهم نضل نحب بعضنا ونحترم بعضنا.",
+        "transliteration": "Allah ykhallīki yā ḥabībti. Bin-nihāye, kill jīl ʕindō taḥaddiyātō. Il-muhimm nḍall nḥibb baʕḍna w-niḥtirim baʕḍna.",
+        "english": "God bless you my dear. In the end, every generation has its challenges. The important thing is we keep loving and respecting each other."
+      }
+    ]
+  }
+]

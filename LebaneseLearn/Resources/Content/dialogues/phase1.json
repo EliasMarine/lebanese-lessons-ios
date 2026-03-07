@@ -1,0 +1,209 @@
+[
+  {
+    "id": "p1-dialogue-running-into",
+    "phaseId": 1,
+    "title": "Running into Someone",
+    "context": "A chance meeting on the street — classic Lebanese social exchange.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "مرحبا! كيفك؟ مِنين رايح؟",
+        "transliteration": "Marḥaba! Kīfak? Mnēn rāyiḥ?",
+        "english": "Hello! How are you? Where are you headed?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "منيح، الحمد لله. رايح عالسوق، بدي جيب شي لأكل.",
+        "transliteration": "Mnīḥ, il-ḥamdullah. Rāyiḥ ʕis-sūʔ, baddī jīb shi laakl.",
+        "english": "Good, praise God. Going to the market, I want to get something to eat."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "يلا تكرم. إجي عنا بعدين على العشا!",
+        "transliteration": "Yalla tikram. Ijī ʕanna baʕdēn ʕal-ʕasha!",
+        "english": "Alright! Come to our place later for dinner!"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إن شاء الله! مع السلامة.",
+        "transliteration": "Inshallah! Maʕ is-salāme.",
+        "english": "God willing! Goodbye."
+      }
+    ]
+  },
+  {
+    "id": "p1-dialogue-at-table",
+    "phaseId": 1,
+    "title": "At the Table",
+    "context": "Sharing a meal — the heart of Lebanese culture.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "تفضل، كل! إيد أمك حلوة.",
+        "transliteration": "Tafaḍḍal, kol! Ēd immak ḥilwe.",
+        "english": "Please, eat! Your mother's cooking is wonderful."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "يسلمو إيديكي! الأكل أحسن من هيك ما في.",
+        "transliteration": "Yislamu ēdēki! Il-akl aḥsan min hēk mā fī.",
+        "english": "Bless your hands! Food better than this doesn't exist."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "صحتين! خذ كمان شوية حمص.",
+        "transliteration": "Saḥtēn! Khud kamān shwayye ḥummus.",
+        "english": "Cheers! Take a little more hummus."
+      }
+    ]
+  },
+  {
+    "id": "p1-dialogue-ordering-restaurant",
+    "phaseId": 1,
+    "title": "Ordering at a Restaurant",
+    "context": "Sitting down at a local Lebanese restaurant and ordering a meal.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "مرحبا، ممكن المينو لو سمحت؟",
+        "transliteration": "Marḥaba, mumkin il-menu law samaḥt?",
+        "english": "Hello, can I have the menu please?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا وسهلا! تفضل. بدك تشرب شي أول شي؟",
+        "transliteration": "Ahla w-sahla! Tafaḍḍal. Baddak tishrab shi awwal shi?",
+        "english": "Welcome! Here you go. Would you like to drink something first?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "أعطيني مي وعصير ليمون لو سمحت.",
+        "transliteration": "Aʕṭīni mayy w-ʕaṣīr laymūn law samaḥt.",
+        "english": "Give me water and a lemon juice please."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "تكرم. قررت شو بدك تاكل؟",
+        "transliteration": "Tikram. ʔarrart shū baddak tākol?",
+        "english": "Of course. Have you decided what you'd like to eat?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "شو بتنصحني فيه؟ شو أطيب شي عندكن؟",
+        "transliteration": "Shū btinṣaḥni fī? Shū aṭyab shi ʕindkon?",
+        "english": "What do you recommend? What's the tastiest thing you have?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "المشاوي عنا كتير طيبة. والفتوش طازج اليوم.",
+        "transliteration": "Il-mashāwī ʕinna ktīr ṭaybe. Wil-fattūsh ṭāzij il-yōm.",
+        "english": "Our grilled meats are really good. And the fattoush is fresh today."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "يلا، بدي مشاوي مشكلة وفتوش وحمص.",
+        "transliteration": "Yalla, baddī mashāwī mshakkale w-fattūsh w-ḥummus.",
+        "english": "Alright, I'll have mixed grill, fattoush, and hummus."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "تكرم! خمس دقايق وبيكون جاهز.",
+        "transliteration": "Tikram! Khams daʔāyiʔ w-byikūn jāhiz.",
+        "english": "Sure! Five minutes and it'll be ready."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "كتير طيب كان الأكل! ممكن الحساب لو سمحت؟",
+        "transliteration": "Ktīr ṭayyib kān il-akl! Mumkin il-ḥsāb law samaḥt?",
+        "english": "The food was delicious! Can I have the bill please?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "صحتين! الحساب مية وخمسين ألف. نوّرتنا.",
+        "transliteration": "Saḥtēn! Il-ḥsāb miyye w-khamsīn alf. Nawwartna.",
+        "english": "Cheers! The bill is 150 thousand. You honored us with your visit."
+      }
+    ]
+  },
+  {
+    "id": "p1-dialogue-asking-directions",
+    "phaseId": 1,
+    "title": "Asking for Directions",
+    "context": "Lost in the city, asking a passerby for help finding a place.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "عن إذنك، وين بيوقع البريد من هون؟",
+        "transliteration": "ʕAn iznak, wēn byūʔaʕ il-barīd min hōn?",
+        "english": "Excuse me, where is the post office from here?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "البريد؟ مش بعيد. روح دغري وبعدين لف يسار.",
+        "transliteration": "Il-barīd? Mish bʕīd. Rūḥ dughri w-baʕdēn liff yasār.",
+        "english": "The post office? Not far. Go straight then turn left."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "دغري وبعدين يسار. وبعد اليسار، بعيد هوي؟",
+        "transliteration": "Dughri w-baʕdēn yasār. W-baʕd il-yasār, bʕīd huwwe?",
+        "english": "Straight then left. And after the left turn, is it far?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "لأ، دقيقتين مشي. رح تشوف بناية كبيرة عيسارك. البريد جنبها.",
+        "transliteration": "Laʔ, daʔīʔtēn mashi. Raḥ tshūf bināye kbīre ʕa-ysārak. Il-barīd janbha.",
+        "english": "No, two minutes walking. You'll see a big building on your left. The post office is next to it."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "تمام كتير. وبتعرف إذا بيسكر بكير؟",
+        "transliteration": "Tamām ktīr. W-btaʕrif iza byisker bakkīr?",
+        "english": "Great. And do you know if it closes early?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "بيسكر الساعة تلاتة بعد الضهر. بعدك لحّاق.",
+        "transliteration": "Byisker is-sāʕa tlāte baʕd iḍ-ḍuhur. Baʕdak laḥḥāʔ.",
+        "english": "It closes at 3 PM. You still have time."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "كتير منيح. يسلمو كتير!",
+        "transliteration": "Ktīr mnīḥ. Yislamu ktīr!",
+        "english": "Very good. Thank you so much!"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا وسهلا! بالتوفيق.",
+        "transliteration": "Ahla w-sahla! Bit-tawfīʔ.",
+        "english": "You're welcome! Good luck."
+      }
+    ]
+  }
+]

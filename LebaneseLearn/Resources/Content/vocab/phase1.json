@@ -1,0 +1,2579 @@
+[
+  {
+    "id": "p1-greetings-marhaba",
+    "phaseId": 1,
+    "arabic": "مرحبا",
+    "transliteration": "marḥaba",
+    "english": "Hello",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Universal Lebanese greeting"
+  },
+  {
+    "id": "p1-greetings-ahla-w-sahla",
+    "phaseId": 1,
+    "arabic": "أهلا وسهلا",
+    "transliteration": "ahla w sahla",
+    "english": "Welcome",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Warm welcome for guests"
+  },
+  {
+    "id": "p1-greetings-kifak",
+    "phaseId": 1,
+    "arabic": "كيفك؟",
+    "transliteration": "kīfak? / kīfik?",
+    "english": "How are you?",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "m/f distinction"
+  },
+  {
+    "id": "p1-greetings-mnih",
+    "phaseId": 1,
+    "arabic": "منيح، شكراً",
+    "transliteration": "mnīḥ, shukran",
+    "english": "Good, thanks",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "منيح = distinctly Lebanese"
+  },
+  {
+    "id": "p1-greetings-yislamu",
+    "phaseId": 1,
+    "arabic": "يسلمو",
+    "transliteration": "yislamu",
+    "english": "Bless your hands",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Said to thank for food or work"
+  },
+  {
+    "id": "p1-greetings-sahten",
+    "phaseId": 1,
+    "arabic": "صحتين",
+    "transliteration": "saḥtēn",
+    "english": "Cheers / Bon appétit",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Lit. \"two healths\""
+  },
+  {
+    "id": "p1-greetings-yaatik",
+    "phaseId": 1,
+    "arabic": "يعطيك العافية",
+    "transliteration": "yaʕṭīk il-ʕāfiye",
+    "english": "God give you health",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Said to someone working"
+  },
+  {
+    "id": "p1-greetings-maasalame",
+    "phaseId": 1,
+    "arabic": "مع السلامة",
+    "transliteration": "maʕ is-salāme",
+    "english": "Goodbye",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "\"Go with safety\""
+  },
+  {
+    "id": "p1-greetings-inshallah",
+    "phaseId": 1,
+    "arabic": "إن شاء الله",
+    "transliteration": "inshallah",
+    "english": "God willing",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Tone = everything"
+  },
+  {
+    "id": "p1-greetings-yalla",
+    "phaseId": 1,
+    "arabic": "يلا",
+    "transliteration": "yalla",
+    "english": "Let's go / come on",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Most versatile Lebanese word"
+  },
+  {
+    "id": "p1-greetings-khalas",
+    "phaseId": 1,
+    "arabic": "خلص",
+    "transliteration": "khalas",
+    "english": "Done / finished / enough",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Ubiquitous closer"
+  },
+  {
+    "id": "p1-greetings-wallah",
+    "phaseId": 1,
+    "arabic": "والله",
+    "transliteration": "wallah",
+    "english": "I swear / really",
+    "category": "Greetings",
+    "partOfSpeech": "phrase",
+    "notes": "Constant emphasis filler"
+  },
+  {
+    "id": "p1-numbers-1",
+    "phaseId": 1,
+    "arabic": "واحد",
+    "transliteration": "wāḥad",
+    "english": "1",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-2",
+    "phaseId": 1,
+    "arabic": "تنين",
+    "transliteration": "tnēn",
+    "english": "2",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-3",
+    "phaseId": 1,
+    "arabic": "تلاتة",
+    "transliteration": "tlāte",
+    "english": "3",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-4",
+    "phaseId": 1,
+    "arabic": "أربعة",
+    "transliteration": "arbaʕa",
+    "english": "4",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-5",
+    "phaseId": 1,
+    "arabic": "خمسة",
+    "transliteration": "khamse",
+    "english": "5",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-6",
+    "phaseId": 1,
+    "arabic": "ستة",
+    "transliteration": "sitte",
+    "english": "6",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-7",
+    "phaseId": 1,
+    "arabic": "سبعة",
+    "transliteration": "sabʕa",
+    "english": "7",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-8",
+    "phaseId": 1,
+    "arabic": "تمانية",
+    "transliteration": "tmānye",
+    "english": "8",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-9",
+    "phaseId": 1,
+    "arabic": "تسعة",
+    "transliteration": "tisʕa",
+    "english": "9",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-10",
+    "phaseId": 1,
+    "arabic": "عشرة",
+    "transliteration": "ʕashara",
+    "english": "10",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-20",
+    "phaseId": 1,
+    "arabic": "عشرين",
+    "transliteration": "ʕishrīn",
+    "english": "20",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-100",
+    "phaseId": 1,
+    "arabic": "مية",
+    "transliteration": "mīye",
+    "english": "100",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-family-baba",
+    "phaseId": 1,
+    "arabic": "بابا",
+    "transliteration": "baba",
+    "english": "Dad",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-mama",
+    "phaseId": 1,
+    "arabic": "ماما",
+    "transliteration": "mama",
+    "english": "Mom",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-akh",
+    "phaseId": 1,
+    "arabic": "أخ",
+    "transliteration": "akh",
+    "english": "Brother",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-ukht",
+    "phaseId": 1,
+    "arabic": "أخت",
+    "transliteration": "ukht",
+    "english": "Sister",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-jidd",
+    "phaseId": 1,
+    "arabic": "جد",
+    "transliteration": "jidd",
+    "english": "Grandfather",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-teta",
+    "phaseId": 1,
+    "arabic": "تيتا",
+    "transliteration": "tēta",
+    "english": "Grandmother",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-amm",
+    "phaseId": 1,
+    "arabic": "عم",
+    "transliteration": "ʕamm",
+    "english": "Paternal uncle",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-khal",
+    "phaseId": 1,
+    "arabic": "خال",
+    "transliteration": "khāl",
+    "english": "Maternal uncle",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-ibn",
+    "phaseId": 1,
+    "arabic": "ابن",
+    "transliteration": "ibn",
+    "english": "Son",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-family-bint",
+    "phaseId": 1,
+    "arabic": "بنت",
+    "transliteration": "bint",
+    "english": "Daughter",
+    "category": "Family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-colors-ahmar",
+    "phaseId": 1,
+    "arabic": "أحمر",
+    "transliteration": "aḥmar",
+    "english": "Red",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "السيارة حمرا",
+      "transliteration": "is-sayyāra ḥamra",
+      "english": "The car is red"
+    }
+  },
+  {
+    "id": "p1-colors-azra",
+    "phaseId": 1,
+    "arabic": "أزرق",
+    "transliteration": "azraʔ",
+    "english": "Blue",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "السما زرقا",
+      "transliteration": "is-sama zarʔa",
+      "english": "The sky is blue"
+    }
+  },
+  {
+    "id": "p1-colors-akhdar",
+    "phaseId": 1,
+    "arabic": "أخضر",
+    "transliteration": "akhḍar",
+    "english": "Green",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "الشجرة خضرا",
+      "transliteration": "ish-shajara khaḍra",
+      "english": "The tree is green"
+    }
+  },
+  {
+    "id": "p1-colors-asfar",
+    "phaseId": 1,
+    "arabic": "أصفر",
+    "transliteration": "aṣfar",
+    "english": "Yellow",
+    "category": "Colors",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p1-colors-abyad",
+    "phaseId": 1,
+    "arabic": "أبيض",
+    "transliteration": "abyaḍ",
+    "english": "White",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "البيت أبيض",
+      "transliteration": "il-bēt abyaḍ",
+      "english": "The house is white"
+    }
+  },
+  {
+    "id": "p1-colors-aswad",
+    "phaseId": 1,
+    "arabic": "أسود",
+    "transliteration": "aswad",
+    "english": "Black",
+    "category": "Colors",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p1-colors-burtuali",
+    "phaseId": 1,
+    "arabic": "برتقالي",
+    "transliteration": "burtuʔāli",
+    "english": "Orange",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "notes": "From برتقال (orange fruit)"
+  },
+  {
+    "id": "p1-colors-bunni",
+    "phaseId": 1,
+    "arabic": "بني",
+    "transliteration": "bunni",
+    "english": "Brown",
+    "category": "Colors",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p1-colors-zahri",
+    "phaseId": 1,
+    "arabic": "زهري",
+    "transliteration": "zahri",
+    "english": "Pink",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "notes": "From زهر (flowers)"
+  },
+  {
+    "id": "p1-colors-banafsaji",
+    "phaseId": 1,
+    "arabic": "بنفسجي",
+    "transliteration": "banafsaji",
+    "english": "Purple",
+    "category": "Colors",
+    "partOfSpeech": "adj",
+    "notes": "From بنفسج (violet flower)"
+  },
+  {
+    "id": "p1-days-tnein",
+    "phaseId": 1,
+    "arabic": "التنين",
+    "transliteration": "it-tnēn",
+    "english": "Monday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun",
+    "notes": "Literally 'the two' (2nd day)",
+    "exampleSentence": {
+      "arabic": "بشوفك يوم التنين",
+      "transliteration": "bshūfak yōm it-tnēn",
+      "english": "I'll see you on Monday"
+    }
+  },
+  {
+    "id": "p1-days-tleta",
+    "phaseId": 1,
+    "arabic": "التلاتا",
+    "transliteration": "it-tlēta",
+    "english": "Tuesday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-days-arba",
+    "phaseId": 1,
+    "arabic": "الأربعا",
+    "transliteration": "il-arbaʕa",
+    "english": "Wednesday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-days-khamis",
+    "phaseId": 1,
+    "arabic": "الخميس",
+    "transliteration": "il-khamīs",
+    "english": "Thursday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الخميس في عطلة",
+      "transliteration": "il-khamīs fi ʕuṭle",
+      "english": "Thursday is a holiday"
+    }
+  },
+  {
+    "id": "p1-days-jomaa",
+    "phaseId": 1,
+    "arabic": "الجمعة",
+    "transliteration": "ij-jumʕa",
+    "english": "Friday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-days-sabt",
+    "phaseId": 1,
+    "arabic": "السبت",
+    "transliteration": "is-sabt",
+    "english": "Saturday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "السبت منروح عالسوق",
+      "transliteration": "is-sabt mnrūḥ ʕa-s-sūʔ",
+      "english": "On Saturday we go to the market"
+    }
+  },
+  {
+    "id": "p1-days-ahad",
+    "phaseId": 1,
+    "arabic": "الأحد",
+    "transliteration": "il-aḥad",
+    "english": "Sunday",
+    "category": "Days of the Week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-body-ras",
+    "phaseId": 1,
+    "arabic": "راس",
+    "transliteration": "rās",
+    "english": "Head",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "راسي عم يوجعني",
+      "transliteration": "rāsi ʕam yūjaʕni",
+      "english": "My head is hurting me"
+    }
+  },
+  {
+    "id": "p1-body-id",
+    "phaseId": 1,
+    "arabic": "إيد",
+    "transliteration": "īd",
+    "english": "Hand / arm",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "notes": "Covers both hand and arm in Lebanese",
+    "exampleSentence": {
+      "arabic": "إغسل إيديك",
+      "transliteration": "ighsil īdēk",
+      "english": "Wash your hands"
+    }
+  },
+  {
+    "id": "p1-body-ayn",
+    "phaseId": 1,
+    "arabic": "عين",
+    "transliteration": "ʕēn",
+    "english": "Eye",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عيونا حلوين",
+      "transliteration": "ʕyūna ḥilwīn",
+      "english": "Her eyes are beautiful"
+    }
+  },
+  {
+    "id": "p1-body-timm",
+    "phaseId": 1,
+    "arabic": "تم",
+    "transliteration": "timm",
+    "english": "Mouth",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; MSA uses فم"
+  },
+  {
+    "id": "p1-body-nif",
+    "phaseId": 1,
+    "arabic": "نيف",
+    "transliteration": "nīf",
+    "english": "Nose",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; MSA uses أنف"
+  },
+  {
+    "id": "p1-body-izin",
+    "phaseId": 1,
+    "arabic": "أذن",
+    "transliteration": "izin",
+    "english": "Ear",
+    "category": "Body Parts",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-body-batin",
+    "phaseId": 1,
+    "arabic": "بطن",
+    "transliteration": "baṭin",
+    "english": "Stomach / belly",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بطني عم توجعني",
+      "transliteration": "baṭni ʕam tūjaʕni",
+      "english": "My stomach is hurting me"
+    }
+  },
+  {
+    "id": "p1-body-dahir",
+    "phaseId": 1,
+    "arabic": "ضهر",
+    "transliteration": "ḍahir",
+    "english": "Back",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese pronunciation; MSA ظهر"
+  },
+  {
+    "id": "p1-body-ijir",
+    "phaseId": 1,
+    "arabic": "إجر",
+    "transliteration": "ijir",
+    "english": "Leg / foot",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "notes": "Covers both leg and foot in Lebanese"
+  },
+  {
+    "id": "p1-body-alb",
+    "phaseId": 1,
+    "arabic": "قلب",
+    "transliteration": "ʔalb",
+    "english": "Heart",
+    "category": "Body Parts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "من كل قلبي",
+      "transliteration": "min kill ʔalbi",
+      "english": "From all my heart"
+    }
+  },
+  {
+    "id": "p1-food-khubz",
+    "phaseId": 1,
+    "arabic": "خبز",
+    "transliteration": "khubz",
+    "english": "Bread",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "جيب خبز من الفرن",
+      "transliteration": "jīb khubz min il-firin",
+      "english": "Bring bread from the bakery"
+    }
+  },
+  {
+    "id": "p1-food-may",
+    "phaseId": 1,
+    "arabic": "ماي",
+    "transliteration": "māy",
+    "english": "Water",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; MSA uses ماء",
+    "exampleSentence": {
+      "arabic": "بدي كاسة ماي",
+      "transliteration": "baddi kāset māy",
+      "english": "I want a glass of water"
+    }
+  },
+  {
+    "id": "p1-food-ahwe",
+    "phaseId": 1,
+    "arabic": "قهوة",
+    "transliteration": "ahwe",
+    "english": "Coffee",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese coffee is a cultural institution",
+    "exampleSentence": {
+      "arabic": "بتحب تشرب قهوة؟",
+      "transliteration": "btḥibb tishrab ahwe?",
+      "english": "Do you want to drink coffee?"
+    }
+  },
+  {
+    "id": "p1-food-lahme",
+    "phaseId": 1,
+    "arabic": "لحمة",
+    "transliteration": "laḥme",
+    "english": "Meat",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food-djaj",
+    "phaseId": 1,
+    "arabic": "دجاج",
+    "transliteration": "djāj",
+    "english": "Chicken",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "اليوم طبخنا دجاج",
+      "transliteration": "il-yōm ṭbakhna djāj",
+      "english": "Today we cooked chicken"
+    }
+  },
+  {
+    "id": "p1-food-rizz",
+    "phaseId": 1,
+    "arabic": "رز",
+    "transliteration": "rizz",
+    "english": "Rice",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food-jibne",
+    "phaseId": 1,
+    "arabic": "جبنة",
+    "transliteration": "jibne",
+    "english": "Cheese",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food-halib",
+    "phaseId": 1,
+    "arabic": "حليب",
+    "transliteration": "ḥalīb",
+    "english": "Milk",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food-shay",
+    "phaseId": 1,
+    "arabic": "شاي",
+    "transliteration": "shāy",
+    "english": "Tea",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بدي فنجان شاي",
+      "transliteration": "baddi finjān shāy",
+      "english": "I want a cup of tea"
+    }
+  },
+  {
+    "id": "p1-food-fweke",
+    "phaseId": 1,
+    "arabic": "فواكه",
+    "transliteration": "fwāke",
+    "english": "Fruit",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food-khudra",
+    "phaseId": 1,
+    "arabic": "خضرا",
+    "transliteration": "khuḍra",
+    "english": "Vegetables",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food-hummus",
+    "phaseId": 1,
+    "arabic": "حمص",
+    "transliteration": "ḥummuṣ",
+    "english": "Hummus / chickpeas",
+    "category": "Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Also refers to chickpeas; a Lebanese staple",
+    "exampleSentence": {
+      "arabic": "بحب الحمص كتير",
+      "transliteration": "bḥibb il-ḥummuṣ ktīr",
+      "english": "I love hummus a lot"
+    }
+  },
+  {
+    "id": "p1-house-beit",
+    "phaseId": 1,
+    "arabic": "بيت",
+    "transliteration": "bēt",
+    "english": "House / home",
+    "category": "Around the House",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "رح روح عالبيت",
+      "transliteration": "raḥ rūḥ ʕa-l-bēt",
+      "english": "I'm going home"
+    }
+  },
+  {
+    "id": "p1-house-bab",
+    "phaseId": 1,
+    "arabic": "باب",
+    "transliteration": "bāb",
+    "english": "Door",
+    "category": "Around the House",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "سكّر الباب",
+      "transliteration": "sakkir il-bāb",
+      "english": "Close the door"
+    }
+  },
+  {
+    "id": "p1-house-shubak",
+    "phaseId": 1,
+    "arabic": "شباك",
+    "transliteration": "shibbāk",
+    "english": "Window",
+    "category": "Around the House",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-house-tawle",
+    "phaseId": 1,
+    "arabic": "طاولة",
+    "transliteration": "ṭāwle",
+    "english": "Table",
+    "category": "Around the House",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-house-kursi",
+    "phaseId": 1,
+    "arabic": "كرسي",
+    "transliteration": "kursi",
+    "english": "Chair",
+    "category": "Around the House",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-house-matbakh",
+    "phaseId": 1,
+    "arabic": "مطبخ",
+    "transliteration": "maṭbakh",
+    "english": "Kitchen",
+    "category": "Around the House",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "ماما بالمطبخ",
+      "transliteration": "māma b-il-maṭbakh",
+      "english": "Mom is in the kitchen"
+    }
+  },
+  {
+    "id": "p1-house-hammam",
+    "phaseId": 1,
+    "arabic": "حمام",
+    "transliteration": "ḥammām",
+    "english": "Bathroom",
+    "category": "Around the House",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وين الحمام؟",
+      "transliteration": "wēn il-ḥammām?",
+      "english": "Where is the bathroom?"
+    }
+  },
+  {
+    "id": "p1-house-takht",
+    "phaseId": 1,
+    "arabic": "تخت",
+    "transliteration": "takht",
+    "english": "Bed",
+    "category": "Around the House",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; MSA uses سرير"
+  },
+  {
+    "id": "p1-numbers-11",
+    "phaseId": 1,
+    "arabic": "حداعش",
+    "transliteration": "ḥdāʕash",
+    "english": "11",
+    "category": "Numbers",
+    "partOfSpeech": "number",
+    "notes": "Lebanese form; MSA إحدى عشر"
+  },
+  {
+    "id": "p1-numbers-12",
+    "phaseId": 1,
+    "arabic": "تناعش",
+    "transliteration": "tnāʕash",
+    "english": "12",
+    "category": "Numbers",
+    "partOfSpeech": "number",
+    "notes": "Lebanese form; MSA اثنا عشر"
+  },
+  {
+    "id": "p1-numbers-15",
+    "phaseId": 1,
+    "arabic": "خمستاعش",
+    "transliteration": "khamstaʕash",
+    "english": "15",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-30",
+    "phaseId": 1,
+    "arabic": "تلاتين",
+    "transliteration": "tlātīn",
+    "english": "30",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-50",
+    "phaseId": 1,
+    "arabic": "خمسين",
+    "transliteration": "khamsīn",
+    "english": "50",
+    "category": "Numbers",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "p1-numbers-1000",
+    "phaseId": 1,
+    "arabic": "ألف",
+    "transliteration": "alf",
+    "english": "1000",
+    "category": "Numbers",
+    "partOfSpeech": "number",
+    "exampleSentence": {
+      "arabic": "بدي ألف ليرة",
+      "transliteration": "baddi alf līra",
+      "english": "I want a thousand lira"
+    }
+  },
+  {
+    "id": "p1-directions-yamiin",
+    "phaseId": 1,
+    "arabic": "يَمين",
+    "transliteration": "yamīn",
+    "english": "Right",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لِفّ عَاليَمين",
+      "transliteration": "liff ʕa-l-yamīn",
+      "english": "Turn right"
+    }
+  },
+  {
+    "id": "p1-directions-shmeil",
+    "phaseId": 1,
+    "arabic": "شِمال",
+    "transliteration": "shmēl",
+    "english": "Left",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لِفّ عَالشِمال",
+      "transliteration": "liff ʕa-sh-shmēl",
+      "english": "Turn left"
+    }
+  },
+  {
+    "id": "p1-directions-dughri",
+    "phaseId": 1,
+    "arabic": "دُغري",
+    "transliteration": "dughri",
+    "english": "Straight ahead",
+    "category": "Directions",
+    "partOfSpeech": "expression",
+    "notes": "Also means 'directly' or 'frankly' in conversation",
+    "exampleSentence": {
+      "arabic": "روح دُغري",
+      "transliteration": "rūḥ dughri",
+      "english": "Go straight"
+    }
+  },
+  {
+    "id": "p1-directions-faw2",
+    "phaseId": 1,
+    "arabic": "فَوق",
+    "transliteration": "fōʔ",
+    "english": "Up / above",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشَقّة فَوق",
+      "transliteration": "ish-shaʔʔa fōʔ",
+      "english": "The apartment is upstairs"
+    }
+  },
+  {
+    "id": "p1-directions-ta7t",
+    "phaseId": 1,
+    "arabic": "تَحت",
+    "transliteration": "taḥt",
+    "english": "Down / below",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الدُكّانة تَحت",
+      "transliteration": "id-dikkēne taḥt",
+      "english": "The shop is downstairs"
+    }
+  },
+  {
+    "id": "p1-directions-eddeim",
+    "phaseId": 1,
+    "arabic": "قِدّام",
+    "transliteration": "ʔiddēm",
+    "english": "In front of",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "السيّارة قِدّام البيت",
+      "transliteration": "is-siyyāra ʔiddēm il-bēt",
+      "english": "The car is in front of the house"
+    }
+  },
+  {
+    "id": "p1-directions-wara",
+    "phaseId": 1,
+    "arabic": "وَرا",
+    "transliteration": "wara",
+    "english": "Behind",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الجنينة وَرا البيت",
+      "transliteration": "ij-jnēne wara l-bēt",
+      "english": "The garden is behind the house"
+    }
+  },
+  {
+    "id": "p1-directions-7add",
+    "phaseId": 1,
+    "arabic": "حَدّ",
+    "transliteration": "ḥadd",
+    "english": "Next to",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "البنك حَدّ الصيدليّة",
+      "transliteration": "il-bank ḥadd iṣ-ṣaydaliyye",
+      "english": "The bank is next to the pharmacy"
+    }
+  },
+  {
+    "id": "p1-directions-juwwa",
+    "phaseId": 1,
+    "arabic": "جُوّا",
+    "transliteration": "juwwa",
+    "english": "Inside",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "تَعا لَجُوّا",
+      "transliteration": "taʕa la-juwwa",
+      "english": "Come inside"
+    }
+  },
+  {
+    "id": "p1-directions-barra",
+    "phaseId": 1,
+    "arabic": "بَرّا",
+    "transliteration": "barra",
+    "english": "Outside",
+    "category": "Directions",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الوِلاد بَرّا",
+      "transliteration": "il-wlēd barra",
+      "english": "The kids are outside"
+    }
+  },
+  {
+    "id": "p1-directions-2areeb",
+    "phaseId": 1,
+    "arabic": "قَريب",
+    "transliteration": "ʔarīb",
+    "english": "Close / near",
+    "category": "Directions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "المَحَلّ قَريب",
+      "transliteration": "il-maḥall ʔarīb",
+      "english": "The shop is nearby"
+    }
+  },
+  {
+    "id": "p1-directions-b3eed",
+    "phaseId": 1,
+    "arabic": "بعيد",
+    "transliteration": "bʕīd",
+    "english": "Far",
+    "category": "Directions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "الجامعة بعيدة",
+      "transliteration": "ij-jēmʕa bʕīde",
+      "english": "The university is far"
+    }
+  },
+  {
+    "id": "p1-directions-hon",
+    "phaseId": 1,
+    "arabic": "هَون",
+    "transliteration": "hawn",
+    "english": "Here",
+    "category": "Directions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "تَعا لَهَون",
+      "transliteration": "taʕa la-hawn",
+      "english": "Come here"
+    }
+  },
+  {
+    "id": "p1-directions-huneik",
+    "phaseId": 1,
+    "arabic": "هُنيك",
+    "transliteration": "hunīk",
+    "english": "There",
+    "category": "Directions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "المَطعَم هُنيك",
+      "transliteration": "il-maṭʕam hunīk",
+      "english": "The restaurant is over there"
+    }
+  },
+  {
+    "id": "p1-clothing-2amis",
+    "phaseId": 1,
+    "arabic": "قَميص",
+    "transliteration": "ʔamīṣ",
+    "english": "Shirt",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هَيدا قَميص حِلو",
+      "transliteration": "hayda ʔamīṣ ḥilw",
+      "english": "This is a nice shirt"
+    }
+  },
+  {
+    "id": "p1-clothing-bantal",
+    "phaseId": 1,
+    "arabic": "بَنطَلون",
+    "transliteration": "banṭalōn",
+    "english": "Pants / trousers",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-clothing-fustaan",
+    "phaseId": 1,
+    "arabic": "فُستان",
+    "transliteration": "fustān",
+    "english": "Dress",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-clothing-jakkeet",
+    "phaseId": 1,
+    "arabic": "جاكيت",
+    "transliteration": "jākēt",
+    "english": "Jacket",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "From French 'jaquette'"
+  },
+  {
+    "id": "p1-clothing-kabbot",
+    "phaseId": 1,
+    "arabic": "كَبّوت",
+    "transliteration": "kabbūt",
+    "english": "Coat / overcoat",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "From French 'capote'"
+  },
+  {
+    "id": "p1-clothing-jezdein",
+    "phaseId": 1,
+    "arabic": "جَزدان",
+    "transliteration": "jazdēn",
+    "english": "Shoes",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese; also spelled جَزمة (jazme) in some regions"
+  },
+  {
+    "id": "p1-clothing-sandara",
+    "phaseId": 1,
+    "arabic": "صَندَل",
+    "transliteration": "ṣandal",
+    "english": "Sandals",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-clothing-sharwal",
+    "phaseId": 1,
+    "arabic": "شَروال",
+    "transliteration": "sharwāl",
+    "english": "Traditional baggy trousers",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "Traditional Lebanese mountain garment, still worn in some villages"
+  },
+  {
+    "id": "p1-clothing-tishshirt",
+    "phaseId": 1,
+    "arabic": "تي شيرت",
+    "transliteration": "tī shērt",
+    "english": "T-shirt",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "English loanword; everyone uses it in Lebanon"
+  },
+  {
+    "id": "p1-clothing-mantal",
+    "phaseId": 1,
+    "arabic": "مَنطَل",
+    "transliteration": "manṭal",
+    "english": "Robe / bathrobe",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-clothing-ghabbaneh",
+    "phaseId": 1,
+    "arabic": "غَبّانة",
+    "transliteration": "ghabbēne",
+    "english": "Hat / cap",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-clothing-kalsaat",
+    "phaseId": 1,
+    "arabic": "كَلسات",
+    "transliteration": "kalsēt",
+    "english": "Socks",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-clothing-shanta",
+    "phaseId": 1,
+    "arabic": "شَنطة",
+    "transliteration": "shanṭa",
+    "english": "Bag / purse",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وَين شَنطتي؟",
+      "transliteration": "wēn shanṭti?",
+      "english": "Where's my bag?"
+    }
+  },
+  {
+    "id": "p1-clothing-lebbes",
+    "phaseId": 1,
+    "arabic": "لَبِّس",
+    "transliteration": "labbis",
+    "english": "To wear / to put on",
+    "category": "Clothing",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "لَبِّس جاكيتك، بَرد بَرّا",
+      "transliteration": "labbis jākētak, bard barra",
+      "english": "Put on your jacket, it's cold outside"
+    }
+  },
+  {
+    "id": "p1-weather-shams",
+    "phaseId": 1,
+    "arabic": "شَمس",
+    "transliteration": "shams",
+    "english": "Sun",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشَمس قَويّة اليَوم",
+      "transliteration": "ish-shams ʔawiyye il-yōm",
+      "english": "The sun is strong today"
+    }
+  },
+  {
+    "id": "p1-weather-2amar",
+    "phaseId": 1,
+    "arabic": "قَمَر",
+    "transliteration": "ʔamar",
+    "english": "Moon",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "notes": "Also used as a compliment: 'ya ʔamar' (you beauty!)"
+  },
+  {
+    "id": "p1-weather-matar",
+    "phaseId": 1,
+    "arabic": "مَطَر",
+    "transliteration": "maṭar",
+    "english": "Rain",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عَم يِنزَل مَطَر",
+      "transliteration": "ʕam yinzal maṭar",
+      "english": "It's raining"
+    }
+  },
+  {
+    "id": "p1-weather-talj",
+    "phaseId": 1,
+    "arabic": "تَلج",
+    "transliteration": "talj",
+    "english": "Snow",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "notes": "Lebanon has ski resorts! Snow is common in the mountains",
+    "exampleSentence": {
+      "arabic": "في تَلج بالجَبَل",
+      "transliteration": "fī talj b-ij-jabal",
+      "english": "There's snow in the mountain"
+    }
+  },
+  {
+    "id": "p1-weather-hawa",
+    "phaseId": 1,
+    "arabic": "هَوا",
+    "transliteration": "hawa",
+    "english": "Wind / air",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في هَوا كتير اليَوم",
+      "transliteration": "fī hawa ktīr il-yōm",
+      "english": "It's very windy today"
+    }
+  },
+  {
+    "id": "p1-weather-7arr",
+    "phaseId": 1,
+    "arabic": "حَرّ",
+    "transliteration": "ḥarr",
+    "english": "Hot (weather)",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "كتير حَرّ اليَوم",
+      "transliteration": "ktīr ḥarr il-yōm",
+      "english": "It's very hot today"
+    }
+  },
+  {
+    "id": "p1-weather-bared",
+    "phaseId": 1,
+    "arabic": "بَرد",
+    "transliteration": "bard",
+    "english": "Cold (weather)",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "بَرد كتير بالشتي",
+      "transliteration": "bard ktīr b-ish-shite",
+      "english": "It's very cold in winter"
+    }
+  },
+  {
+    "id": "p1-weather-ghyoom",
+    "phaseId": 1,
+    "arabic": "غيوم",
+    "transliteration": "ghyūm",
+    "english": "Clouds / cloudy",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "السَما مغيّمة",
+      "transliteration": "is-sama mghayyame",
+      "english": "The sky is cloudy"
+    }
+  },
+  {
+    "id": "p1-weather-ra3d",
+    "phaseId": 1,
+    "arabic": "رَعد",
+    "transliteration": "raʕd",
+    "english": "Thunder",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-weather-bar2",
+    "phaseId": 1,
+    "arabic": "بَرق",
+    "transliteration": "barʔ",
+    "english": "Lightning",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-weather-sayf",
+    "phaseId": 1,
+    "arabic": "صَيف",
+    "transliteration": "ṣayf",
+    "english": "Summer",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بالصَيف مِنروح عالبَحر",
+      "transliteration": "b-iṣ-ṣayf mnirūḥ ʕa-l-baḥr",
+      "english": "In summer we go to the sea"
+    }
+  },
+  {
+    "id": "p1-weather-shiteh",
+    "phaseId": 1,
+    "arabic": "شتي",
+    "transliteration": "shite",
+    "english": "Winter",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-weather-rabii3",
+    "phaseId": 1,
+    "arabic": "ربيع",
+    "transliteration": "rabīʕ",
+    "english": "Spring",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-weather-kharif",
+    "phaseId": 1,
+    "arabic": "خَريف",
+    "transliteration": "kharīf",
+    "english": "Autumn / fall",
+    "category": "Weather & Seasons",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food2-labneh",
+    "phaseId": 1,
+    "arabic": "لَبنة",
+    "transliteration": "labne",
+    "english": "Strained yogurt",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "A staple of every Lebanese breakfast. Eaten with olive oil and bread."
+  },
+  {
+    "id": "p1-food2-hummus",
+    "phaseId": 1,
+    "arabic": "حُمُّص",
+    "transliteration": "ḥummuṣ",
+    "english": "Hummus (chickpea dip)",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese hummus is smoother and creamier than most versions"
+  },
+  {
+    "id": "p1-food2-falafel",
+    "phaseId": 1,
+    "arabic": "فَلافِل",
+    "transliteration": "falēfel",
+    "english": "Falafel",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَدّي سَندويشة فَلافِل",
+      "transliteration": "baddi sandwīshe falēfel",
+      "english": "I want a falafel sandwich"
+    }
+  },
+  {
+    "id": "p1-food2-shawarma",
+    "phaseId": 1,
+    "arabic": "شَوَرما",
+    "transliteration": "shawirma",
+    "english": "Shawarma",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese shawarma is typically chicken or beef in pita with garlic sauce"
+  },
+  {
+    "id": "p1-food2-man2oushe",
+    "phaseId": 1,
+    "arabic": "مَنقوشة",
+    "transliteration": "manʔūshe",
+    "english": "Za'atar flatbread",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "The national breakfast. Flatbread with za'atar, cheese, or both.",
+    "exampleSentence": {
+      "arabic": "بَدّي مَنقوشة زَعتَر",
+      "transliteration": "baddi manʔūshe zaʕtar",
+      "english": "I want a za'atar manoushe"
+    }
+  },
+  {
+    "id": "p1-food2-ka3ak",
+    "phaseId": 1,
+    "arabic": "كَعك",
+    "transliteration": "kaʕk",
+    "english": "Sesame bread ring",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Street food sold by vendors — bread ring with sesame seeds"
+  },
+  {
+    "id": "p1-food2-tabboule",
+    "phaseId": 1,
+    "arabic": "تَبّولة",
+    "transliteration": "tabbūle",
+    "english": "Tabbouleh (parsley salad)",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Parsley-based, not bulgur-based like other versions. A point of Lebanese pride!"
+  },
+  {
+    "id": "p1-food2-fattoush",
+    "phaseId": 1,
+    "arabic": "فَتّوش",
+    "transliteration": "fattūsh",
+    "english": "Fattoush (bread salad)",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Salad with crispy fried pita pieces and sumac dressing"
+  },
+  {
+    "id": "p1-food2-wara2-3arish",
+    "phaseId": 1,
+    "arabic": "وَرَق عَريش",
+    "transliteration": "waraʔ ʕarīsh",
+    "english": "Stuffed grape leaves",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Grape leaves stuffed with rice and meat — a mezze classic"
+  },
+  {
+    "id": "p1-food2-kibbe",
+    "phaseId": 1,
+    "arabic": "كِبّة",
+    "transliteration": "kibbe",
+    "english": "Kibbeh (bulgur & meat)",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "The national dish. Can be raw (kibbe nayyeh), fried, or baked."
+  },
+  {
+    "id": "p1-food2-mjaddara",
+    "phaseId": 1,
+    "arabic": "مجَدّرَة",
+    "transliteration": "mjaddara",
+    "english": "Lentils & rice with onions",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Humble comfort food; topped with crispy fried onions"
+  },
+  {
+    "id": "p1-food2-batata",
+    "phaseId": 1,
+    "arabic": "بَطاطا",
+    "transliteration": "baṭāṭa",
+    "english": "Potato",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَدّي بَطاطا مِئليّة",
+      "transliteration": "baddi baṭāṭa miʔliyye",
+      "english": "I want fried potatoes"
+    }
+  },
+  {
+    "id": "p1-food2-djej",
+    "phaseId": 1,
+    "arabic": "دجاج",
+    "transliteration": "djēj",
+    "english": "Chicken",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الدجاج مِشوي عَالفَحم",
+      "transliteration": "id-djēj mishwi ʕa-l-faḥm",
+      "english": "The chicken is charcoal grilled"
+    }
+  },
+  {
+    "id": "p1-food2-samak",
+    "phaseId": 1,
+    "arabic": "سَمَك",
+    "transliteration": "samak",
+    "english": "Fish",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food2-riz",
+    "phaseId": 1,
+    "arabic": "رُزّ",
+    "transliteration": "rizz",
+    "english": "Rice",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "رُزّ بِشعيريّة",
+      "transliteration": "rizz b-shaʕīriyye",
+      "english": "Rice with vermicelli"
+    }
+  },
+  {
+    "id": "p1-food2-zayt",
+    "phaseId": 1,
+    "arabic": "زيت",
+    "transliteration": "zēt",
+    "english": "Oil / olive oil",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese olive oil is world-renowned. زيت زيتون = olive oil"
+  },
+  {
+    "id": "p1-food2-zaytoun",
+    "phaseId": 1,
+    "arabic": "زيتون",
+    "transliteration": "zaytūn",
+    "english": "Olives",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food2-2ahwe",
+    "phaseId": 1,
+    "arabic": "قَهوة",
+    "transliteration": "ʔahwe",
+    "english": "Coffee",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese coffee is served strong, in small cups. Order: sēda (no sugar), wasaṭ (medium), ḥilwe (sweet).",
+    "exampleSentence": {
+      "arabic": "بَدّي فِنجان قَهوة",
+      "transliteration": "baddi finjēn ʔahwe",
+      "english": "I want a cup of coffee"
+    }
+  },
+  {
+    "id": "p1-food2-shay",
+    "phaseId": 1,
+    "arabic": "شاي",
+    "transliteration": "shāy",
+    "english": "Tea",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-food2-3aseer",
+    "phaseId": 1,
+    "arabic": "عَصير",
+    "transliteration": "ʕaṣīr",
+    "english": "Juice",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عَصير ليمون طازَة",
+      "transliteration": "ʕaṣīr laymūn ṭāza",
+      "english": "Fresh lemon juice"
+    }
+  },
+  {
+    "id": "p1-food2-mayy",
+    "phaseId": 1,
+    "arabic": "مَي",
+    "transliteration": "mayy",
+    "english": "Water",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese form; MSA uses ماء (māʔ)",
+    "exampleSentence": {
+      "arabic": "بَدّي مَي مِن فَضلَك",
+      "transliteration": "baddi mayy min faḍlak",
+      "english": "I want water please"
+    }
+  },
+  {
+    "id": "p1-food2-bira",
+    "phaseId": 1,
+    "arabic": "بيرة",
+    "transliteration": "bīra",
+    "english": "Beer",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Almaza is the famous Lebanese beer brand"
+  },
+  {
+    "id": "p1-food2-knefe",
+    "phaseId": 1,
+    "arabic": "كنافة",
+    "transliteration": "knēfe",
+    "english": "Knafeh (cheese pastry)",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Hot cheese pastry soaked in sweet syrup — a beloved Lebanese dessert"
+  },
+  {
+    "id": "p1-food2-bouzha",
+    "phaseId": 1,
+    "arabic": "بوظة",
+    "transliteration": "būẓa",
+    "english": "Ice cream",
+    "category": "More Food & Drink",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese style is stretchy, made with mastic and sahlab"
+  },
+  {
+    "id": "p1-work-sheghel",
+    "phaseId": 1,
+    "arabic": "شُغل",
+    "transliteration": "shughul",
+    "english": "Work / job",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "رايح عَالشُغل",
+      "transliteration": "rāyiḥ ʕa-sh-shughul",
+      "english": "I'm going to work"
+    }
+  },
+  {
+    "id": "p1-work-maktab",
+    "phaseId": 1,
+    "arabic": "مَكتَب",
+    "transliteration": "maktab",
+    "english": "Office / desk",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-work-mdir",
+    "phaseId": 1,
+    "arabic": "مدير",
+    "transliteration": "mdīr",
+    "english": "Boss / manager",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المدير بَدّو ياني",
+      "transliteration": "il-mdīr baddo yēni",
+      "english": "The boss wants me"
+    }
+  },
+  {
+    "id": "p1-work-zmiil",
+    "phaseId": 1,
+    "arabic": "زَميل",
+    "transliteration": "zmīl",
+    "english": "Colleague",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun",
+    "notes": "زَميلة (zmīle) for female colleague"
+  },
+  {
+    "id": "p1-work-maash",
+    "phaseId": 1,
+    "arabic": "مَعاش",
+    "transliteration": "maʕāsh",
+    "english": "Salary",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-work-ijtimaa3",
+    "phaseId": 1,
+    "arabic": "اِجتِماع",
+    "transliteration": "ijtimēʕ",
+    "english": "Meeting",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي اِجتِماع السَاعة تِنتين",
+      "transliteration": "ʕindi ijtimēʕ is-sēʕa tintēn",
+      "english": "I have a meeting at two o'clock"
+    }
+  },
+  {
+    "id": "p1-work-maw3ad",
+    "phaseId": 1,
+    "arabic": "مَوعَد",
+    "transliteration": "mawʕad",
+    "english": "Appointment",
+    "category": "Workplace Basics",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-work-meshghoul",
+    "phaseId": 1,
+    "arabic": "مَشغول",
+    "transliteration": "mashghūl",
+    "english": "Busy",
+    "category": "Workplace Basics",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "مَشغول هَلَّق",
+      "transliteration": "mashghūl hallaʔ",
+      "english": "I'm busy right now"
+    }
+  },
+  {
+    "id": "p1-work-fede",
+    "phaseId": 1,
+    "arabic": "فاضي",
+    "transliteration": "fēḍi",
+    "english": "Free / available",
+    "category": "Workplace Basics",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "إنتَ فاضي بُكرا؟",
+      "transliteration": "inta fēḍi bukra?",
+      "english": "Are you free tomorrow?"
+    }
+  },
+  {
+    "id": "p1-hygiene-saboun",
+    "phaseId": 1,
+    "arabic": "صابون",
+    "transliteration": "ṣābūn",
+    "english": "Soap",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-hygiene-manshafe",
+    "phaseId": 1,
+    "arabic": "مَنشَفة",
+    "transliteration": "manshafe",
+    "english": "Towel",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-hygiene-mushit",
+    "phaseId": 1,
+    "arabic": "مِشط",
+    "transliteration": "mushiṭ",
+    "english": "Comb / hairbrush",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-hygiene-brushet-snen",
+    "phaseId": 1,
+    "arabic": "بروشِة سنان",
+    "transliteration": "brūshit snēn",
+    "english": "Toothbrush",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun",
+    "notes": "From French 'brosse'; Lebanese hybrid"
+  },
+  {
+    "id": "p1-hygiene-mrayi",
+    "phaseId": 1,
+    "arabic": "مرايي",
+    "transliteration": "mrēye",
+    "english": "Mirror",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-hygiene-shampoo",
+    "phaseId": 1,
+    "arabic": "شامبو",
+    "transliteration": "shāmbū",
+    "english": "Shampoo",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun",
+    "notes": "English loanword used universally"
+  },
+  {
+    "id": "p1-hygiene-mayy-skhine",
+    "phaseId": 1,
+    "arabic": "مَي سخنة",
+    "transliteration": "mayy skhine",
+    "english": "Hot water",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "phrase",
+    "notes": "Common concern in Lebanon due to water heater reliance"
+  },
+  {
+    "id": "p1-hygiene-ghassil",
+    "phaseId": 1,
+    "arabic": "غَسّيل",
+    "transliteration": "ghassīl",
+    "english": "Laundry / washing",
+    "category": "Bathroom & Hygiene",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازم أعمِل غَسّيل",
+      "transliteration": "lēzim aʕmil ghassīl",
+      "english": "I need to do laundry"
+    }
+  },
+  {
+    "id": "p1-tech-talephone",
+    "phaseId": 1,
+    "arabic": "تَلَفون",
+    "transliteration": "talafōn",
+    "english": "Phone",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وين تَلَفوني؟",
+      "transliteration": "wēn talafōni?",
+      "english": "Where's my phone?"
+    }
+  },
+  {
+    "id": "p1-tech-laptop",
+    "phaseId": 1,
+    "arabic": "لابتوب",
+    "transliteration": "lābtōb",
+    "english": "Laptop",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p1-tech-internet",
+    "phaseId": 1,
+    "arabic": "إنتَرنِت",
+    "transliteration": "internet",
+    "english": "Internet",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "ما في إنتَرنِت",
+      "transliteration": "mā fī internet",
+      "english": "There's no internet"
+    }
+  },
+  {
+    "id": "p1-tech-wifi",
+    "phaseId": 1,
+    "arabic": "واي فاي",
+    "transliteration": "wāy fāy",
+    "english": "WiFi",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو كلمة السر تبع الواي فاي؟",
+      "transliteration": "shū kilmit is-sirr tabaʕ il-wāy fāy?",
+      "english": "What's the WiFi password?"
+    }
+  },
+  {
+    "id": "p1-tech-shahin",
+    "phaseId": 1,
+    "arabic": "شاحِن",
+    "transliteration": "shēḥin",
+    "english": "Charger",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندَك شاحِن؟",
+      "transliteration": "ʕindak shēḥin?",
+      "english": "Do you have a charger?"
+    }
+  },
+  {
+    "id": "p1-tech-tlefizyoun",
+    "phaseId": 1,
+    "arabic": "تلفزيون",
+    "transliteration": "tilfizyōn",
+    "english": "Television / TV",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "notes": "From French 'télévision'"
+  },
+  {
+    "id": "p1-tech-batareeye",
+    "phaseId": 1,
+    "arabic": "بَطاريّة",
+    "transliteration": "baṭṭariyye",
+    "english": "Battery",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "البَطاريّة فاضية",
+      "transliteration": "il-baṭṭariyye fēḍye",
+      "english": "The battery is dead"
+    }
+  },
+  {
+    "id": "p1-tech-screen",
+    "phaseId": 1,
+    "arabic": "شاشة",
+    "transliteration": "shēshe",
+    "english": "Screen",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-tech-kamera",
+    "phaseId": 1,
+    "arabic": "كاميرا",
+    "transliteration": "kāmēra",
+    "english": "Camera",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-tech-soura",
+    "phaseId": 1,
+    "arabic": "صورة",
+    "transliteration": "ṣūra",
+    "english": "Photo / picture",
+    "category": "Electronics & Technology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "خَلّينا ناخِد صورة",
+      "transliteration": "khallīna nēkhid ṣūra",
+      "english": "Let's take a photo"
+    }
+  },
+  {
+    "id": "p1-emotions2-mabsut",
+    "phaseId": 1,
+    "arabic": "مَبسوط",
+    "transliteration": "mabsūṭ",
+    "english": "Happy / content",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "notes": "مَبسوطة (mabsūṭa) for feminine",
+    "exampleSentence": {
+      "arabic": "أنا كتير مَبسوط",
+      "transliteration": "ana ktīr mabsūṭ",
+      "english": "I'm very happy"
+    }
+  },
+  {
+    "id": "p1-emotions2-za3len",
+    "phaseId": 1,
+    "arabic": "زَعلان",
+    "transliteration": "zaʕlēn",
+    "english": "Upset / sad",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "لَيش زَعلان؟",
+      "transliteration": "lēsh zaʕlēn?",
+      "english": "Why are you upset?"
+    }
+  },
+  {
+    "id": "p1-emotions2-2al2an",
+    "phaseId": 1,
+    "arabic": "قَلقان",
+    "transliteration": "ʔalʔēn",
+    "english": "Worried / anxious",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "ما تِئلَق، كُل شي مَنيح",
+      "transliteration": "ma tiʔlaʔ, kull shi mnīḥ",
+      "english": "Don't worry, everything is fine"
+    }
+  },
+  {
+    "id": "p1-emotions2-mshta2",
+    "phaseId": 1,
+    "arabic": "مِشتاق",
+    "transliteration": "mishtēʔ",
+    "english": "Missing someone",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "مِشتاقلَك كتير",
+      "transliteration": "mishtēʔlak ktīr",
+      "english": "I miss you a lot"
+    }
+  },
+  {
+    "id": "p1-emotions2-zeh2an",
+    "phaseId": 1,
+    "arabic": "زَهقان",
+    "transliteration": "zahʔēn",
+    "english": "Bored",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "notes": "Very commonly used in Lebanese Arabic",
+    "exampleSentence": {
+      "arabic": "زَهقان، ما في شي أعمِلو",
+      "transliteration": "zahʔēn, mā fī shi aʕmilo",
+      "english": "I'm bored, there's nothing to do"
+    }
+  },
+  {
+    "id": "p1-emotions2-khayef",
+    "phaseId": 1,
+    "arabic": "خايِف",
+    "transliteration": "khēyif",
+    "english": "Scared / afraid",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "ما تخاف",
+      "transliteration": "ma tkhēf",
+      "english": "Don't be afraid"
+    }
+  },
+  {
+    "id": "p1-emotions2-mirteh",
+    "phaseId": 1,
+    "arabic": "مِرتاح",
+    "transliteration": "mirtēḥ",
+    "english": "Comfortable / relaxed",
+    "category": "Emotions",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p1-emotions2-ghadban",
+    "phaseId": 1,
+    "arabic": "غَضبان",
+    "transliteration": "ghaḍbēn",
+    "english": "Angry",
+    "category": "Emotions",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "ليش غَضبان عليّ؟",
+      "transliteration": "lēsh ghaḍbēn ʕalayy?",
+      "english": "Why are you angry at me?"
+    }
+  },
+  {
+    "id": "p1-emotions2-mista7i",
+    "phaseId": 1,
+    "arabic": "مِستَحي",
+    "transliteration": "mistaḥi",
+    "english": "Shy / embarrassed",
+    "category": "Emotions",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p1-emotions2-mfajja2",
+    "phaseId": 1,
+    "arabic": "مفاجَأ",
+    "transliteration": "mfējaʔ",
+    "english": "Surprised",
+    "category": "Emotions",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p1-verbs-ra7",
+    "phaseId": 1,
+    "arabic": "راح",
+    "transliteration": "rāḥ",
+    "english": "To go (he went)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيروح (byirūḥ). One of the most essential Lebanese verbs.",
+    "exampleSentence": {
+      "arabic": "راح عَالسوق",
+      "transliteration": "rāḥ ʕa-s-sūʔ",
+      "english": "He went to the market"
+    }
+  },
+  {
+    "id": "p1-verbs-eja",
+    "phaseId": 1,
+    "arabic": "إجا",
+    "transliteration": "ija",
+    "english": "To come (he came)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيجي (byīji). Irregular verb.",
+    "exampleSentence": {
+      "arabic": "إجا عَالبيت",
+      "transliteration": "ija ʕa-l-bēt",
+      "english": "He came home"
+    }
+  },
+  {
+    "id": "p1-verbs-akal",
+    "phaseId": 1,
+    "arabic": "أَكَل",
+    "transliteration": "akal",
+    "english": "To eat (he ate)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بياكُل (byēkol)",
+    "exampleSentence": {
+      "arabic": "أَكَلنا كتير",
+      "transliteration": "akalna ktīr",
+      "english": "We ate a lot"
+    }
+  },
+  {
+    "id": "p1-verbs-shereb",
+    "phaseId": 1,
+    "arabic": "شِرِب",
+    "transliteration": "shirib",
+    "english": "To drink (he drank)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيِشرَب (byishrab)",
+    "exampleSentence": {
+      "arabic": "شِرِبت قَهوة الصُبح",
+      "transliteration": "shiribt ʔahwe iṣ-ṣubḥ",
+      "english": "I drank coffee this morning"
+    }
+  },
+  {
+    "id": "p1-verbs-7aka",
+    "phaseId": 1,
+    "arabic": "حَكى",
+    "transliteration": "ḥaka",
+    "english": "To speak / to talk (he spoke)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيِحكي (byiḥke). Lebanese-specific; MSA uses تكلّم",
+    "exampleSentence": {
+      "arabic": "حَكيت مَع بَيّي",
+      "transliteration": "ḥakēt maʕ bayyi",
+      "english": "I talked with my dad"
+    }
+  },
+  {
+    "id": "p1-verbs-3eref",
+    "phaseId": 1,
+    "arabic": "عِرِف",
+    "transliteration": "ʕirif",
+    "english": "To know (he knew)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيَعرِف (byaʕrif)",
+    "exampleSentence": {
+      "arabic": "ما بَعرِف",
+      "transliteration": "mā baʕrif",
+      "english": "I don't know"
+    }
+  },
+  {
+    "id": "p1-verbs-shaf",
+    "phaseId": 1,
+    "arabic": "شاف",
+    "transliteration": "shēf",
+    "english": "To see (he saw)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيشوف (byishūf). Lebanese form; MSA uses رأى",
+    "exampleSentence": {
+      "arabic": "شُفتو مبارِح",
+      "transliteration": "shufto mbēriḥ",
+      "english": "I saw him yesterday"
+    }
+  },
+  {
+    "id": "p1-verbs-seme3",
+    "phaseId": 1,
+    "arabic": "سِمِع",
+    "transliteration": "simiʕ",
+    "english": "To hear (he heard)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيِسمَع (byismaʕ)",
+    "exampleSentence": {
+      "arabic": "سِمِعت الخَبَر؟",
+      "transliteration": "simiʕt il-khabar?",
+      "english": "Did you hear the news?"
+    }
+  },
+  {
+    "id": "p1-verbs-katab",
+    "phaseId": 1,
+    "arabic": "كَتَب",
+    "transliteration": "katab",
+    "english": "To write (he wrote)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيِكتُب (byiktob)"
+  },
+  {
+    "id": "p1-verbs-2ara",
+    "phaseId": 1,
+    "arabic": "قَرَأ",
+    "transliteration": "ʔara",
+    "english": "To read (he read)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيِقرَأ (byiʔra)"
+  },
+  {
+    "id": "p1-verbs-nem",
+    "phaseId": 1,
+    "arabic": "نام",
+    "transliteration": "nēm",
+    "english": "To sleep (he slept)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بينام (bynēm)",
+    "exampleSentence": {
+      "arabic": "بَدّي نام",
+      "transliteration": "baddi nēm",
+      "english": "I want to sleep"
+    }
+  },
+  {
+    "id": "p1-verbs-fi2",
+    "phaseId": 1,
+    "arabic": "فاق",
+    "transliteration": "fēʔ",
+    "english": "To wake up (he woke up)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيفيق (byifīʔ)",
+    "exampleSentence": {
+      "arabic": "فِقت بَكّير اليَوم",
+      "transliteration": "fiʔt bakkīr il-yōm",
+      "english": "I woke up early today"
+    }
+  },
+  {
+    "id": "p1-verbs-3emel",
+    "phaseId": 1,
+    "arabic": "عِمِل",
+    "transliteration": "ʕimil",
+    "english": "To do / to make (he did)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيَعمِل (byaʕmil). Very versatile verb.",
+    "exampleSentence": {
+      "arabic": "شو عَم تَعمِل؟",
+      "transliteration": "shū ʕam taʕmil?",
+      "english": "What are you doing?"
+    }
+  },
+  {
+    "id": "p1-verbs-7abb",
+    "phaseId": 1,
+    "arabic": "حَبّ",
+    "transliteration": "ḥabb",
+    "english": "To love / to like (he loved)",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Present: بيحِبّ (byiḥibb)",
+    "exampleSentence": {
+      "arabic": "بحِبَّك كتير",
+      "transliteration": "bḥibbak ktīr",
+      "english": "I love you a lot"
+    }
+  },
+  {
+    "id": "p1-verbs-baddo",
+    "phaseId": 1,
+    "arabic": "بَدّو",
+    "transliteration": "baddo",
+    "english": "He wants",
+    "category": "Common Verbs",
+    "partOfSpeech": "verb",
+    "notes": "Not a true verb but conjugated like one: بَدّي (I want), بَدَّك (you want m.), بَدِّك (you want f.)",
+    "exampleSentence": {
+      "arabic": "شو بَدَّك؟",
+      "transliteration": "shū baddak?",
+      "english": "What do you want?"
+    }
+  },
+  {
+    "id": "p1-learning-ktab",
+    "phaseId": 1,
+    "arabic": "كتاب",
+    "transliteration": "ktēb",
+    "english": "Book",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-learning-daftar",
+    "phaseId": 1,
+    "arabic": "دَفتَر",
+    "transliteration": "daftar",
+    "english": "Notebook",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-learning-2alam",
+    "phaseId": 1,
+    "arabic": "قَلَم",
+    "transliteration": "ʔalam",
+    "english": "Pen",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندَك قَلَم؟",
+      "transliteration": "ʕindak ʔalam?",
+      "english": "Do you have a pen?"
+    }
+  },
+  {
+    "id": "p1-learning-louha",
+    "phaseId": 1,
+    "arabic": "لَوحة",
+    "transliteration": "lawḥa",
+    "english": "Board / whiteboard",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-learning-dares",
+    "phaseId": 1,
+    "arabic": "دَرس",
+    "transliteration": "dars",
+    "english": "Lesson",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-learning-madrase",
+    "phaseId": 1,
+    "arabic": "مَدرَسة",
+    "transliteration": "madrase",
+    "english": "School",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-learning-jeim3a",
+    "phaseId": 1,
+    "arabic": "جامعة",
+    "transliteration": "jēmʕa",
+    "english": "University",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun",
+    "notes": "AUB and LAU are the most famous Lebanese universities"
+  },
+  {
+    "id": "p1-learning-osta2",
+    "phaseId": 1,
+    "arabic": "أُستاذ",
+    "transliteration": "ustēz",
+    "english": "Teacher / professor",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun",
+    "notes": "Also a respectful form of address for any man"
+  },
+  {
+    "id": "p1-learning-tilmiiz",
+    "phaseId": 1,
+    "arabic": "تلميذ",
+    "transliteration": "tilmīz",
+    "english": "Student",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun",
+    "notes": "تلميذة (tilmīze) for female student"
+  },
+  {
+    "id": "p1-learning-imti7an",
+    "phaseId": 1,
+    "arabic": "اِمتِحان",
+    "transliteration": "imtiḥēn",
+    "english": "Exam / test",
+    "category": "Classroom & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي اِمتِحان بُكرا",
+      "transliteration": "ʕindi imtiḥēn bukra",
+      "english": "I have an exam tomorrow"
+    }
+  },
+  {
+    "id": "p1-animals-bisse",
+    "phaseId": 1,
+    "arabic": "بِسّة",
+    "transliteration": "bisse",
+    "english": "Cat",
+    "category": "Animals",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese; MSA uses قطّة (qiṭṭa)",
+    "exampleSentence": {
+      "arabic": "عِنّا بِسّة بالبيت",
+      "transliteration": "ʕinna bisse b-il-bēt",
+      "english": "We have a cat at home"
+    }
+  },
+  {
+    "id": "p1-animals-kalb",
+    "phaseId": 1,
+    "arabic": "كَلب",
+    "transliteration": "kalb",
+    "english": "Dog",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-3asfour",
+    "phaseId": 1,
+    "arabic": "عَصفور",
+    "transliteration": "ʕaṣfūr",
+    "english": "Bird",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-samake",
+    "phaseId": 1,
+    "arabic": "سَمَكة",
+    "transliteration": "samake",
+    "english": "Fish (single)",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-7mara",
+    "phaseId": 1,
+    "arabic": "حمارة",
+    "transliteration": "ḥmēra",
+    "english": "Donkey",
+    "category": "Animals",
+    "partOfSpeech": "noun",
+    "notes": "Still seen in some mountain villages; also a mild insult"
+  },
+  {
+    "id": "p1-animals-djeje",
+    "phaseId": 1,
+    "arabic": "دجاجة",
+    "transliteration": "djēje",
+    "english": "Chicken / hen",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-ba2ra",
+    "phaseId": 1,
+    "arabic": "بَقرة",
+    "transliteration": "baʔra",
+    "english": "Cow",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-ghanam",
+    "phaseId": 1,
+    "arabic": "غَنَم",
+    "transliteration": "ghanam",
+    "english": "Sheep",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-7ayye",
+    "phaseId": 1,
+    "arabic": "حَيّة",
+    "transliteration": "ḥayye",
+    "english": "Snake",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-nahleh",
+    "phaseId": 1,
+    "arabic": "نَحلة",
+    "transliteration": "naḥle",
+    "english": "Bee",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-farashe",
+    "phaseId": 1,
+    "arabic": "فَراشة",
+    "transliteration": "farēshe",
+    "english": "Butterfly",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p1-animals-7san",
+    "phaseId": 1,
+    "arabic": "حصان",
+    "transliteration": "ḥṣēn",
+    "english": "Horse",
+    "category": "Animals",
+    "partOfSpeech": "noun"
+  }
+]

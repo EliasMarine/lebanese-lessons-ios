@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "p6-expr-ya-ret",
+    "phaseId": 6,
+    "arabic": "يا ريت الزمن يرجع",
+    "transliteration": "yā rēt iz-zaman yirjaʕ",
+    "english": "If only time could return",
+    "category": "Diaspora Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Profound Lebanese nostalgia. Used often by emigrants."
+  },
+  {
+    "id": "p6-expr-ma-byitkassar",
+    "phaseId": 6,
+    "arabic": "لبناني ما بيتكسر",
+    "transliteration": "lubnāni mā byitkassar",
+    "english": "A Lebanese doesn't break",
+    "category": "Diaspora Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Cultural resilience, said in hardship."
+  },
+  {
+    "id": "p6-expr-byisir",
+    "phaseId": 6,
+    "arabic": "اللبناني بيصير بكل مكان",
+    "transliteration": "il-lubnāni byiṣīr b-kull makān",
+    "english": "The Lebanese thrives everywhere",
+    "category": "Diaspora Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Pride in diaspora success."
+  },
+  {
+    "id": "p6-expr-allah-yihmi",
+    "phaseId": 6,
+    "arabic": "الله يحمي لبنان",
+    "transliteration": "allah yiḥmi Lubnān",
+    "english": "God protect Lebanon",
+    "category": "Diaspora Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Said with feeling, especially by those abroad."
+  },
+  {
+    "id": "p6-politics-hkume",
+    "phaseId": 6,
+    "arabic": "حكومة",
+    "transliteration": "ḥkūme",
+    "english": "Government",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الحكومة ما عم تعمل شي",
+      "transliteration": "il-ḥkūme mā ʕam taʕmal shi",
+      "english": "The government isn't doing anything"
+    }
+  },
+  {
+    "id": "p6-politics-rais",
+    "phaseId": 6,
+    "arabic": "رئيس",
+    "transliteration": "raʔīs",
+    "english": "President",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-politics-majlis",
+    "phaseId": 6,
+    "arabic": "مجلس النواب",
+    "transliteration": "majlis in-nuwwāb",
+    "english": "Parliament",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun",
+    "notes": "Literally 'council of representatives'"
+  },
+  {
+    "id": "p6-politics-intikhabat",
+    "phaseId": 6,
+    "arabic": "انتخابات",
+    "transliteration": "intkhābāt",
+    "english": "Elections",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الانتخابات الجاية مهمة",
+      "transliteration": "il-intkhābāt ij-jēye muhimme",
+      "english": "The upcoming elections are important"
+    }
+  },
+  {
+    "id": "p6-politics-hizb",
+    "phaseId": 6,
+    "arabic": "حزب",
+    "transliteration": "ḥizb",
+    "english": "Political party",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-politics-muzahara",
+    "phaseId": 6,
+    "arabic": "مظاهرة",
+    "transliteration": "muẓāhara",
+    "english": "Demonstration / protest",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في مظاهرة بوسط البلد",
+      "transliteration": "fi muẓāhara b-wasaṭ il-balad",
+      "english": "There's a demonstration downtown"
+    }
+  },
+  {
+    "id": "p6-politics-hurriye",
+    "phaseId": 6,
+    "arabic": "حرية",
+    "transliteration": "ḥurriyye",
+    "english": "Freedom / liberty",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-politics-salam",
+    "phaseId": 6,
+    "arabic": "سلام",
+    "transliteration": "salām",
+    "english": "Peace",
+    "category": "Politics & Society",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بدنا سلام",
+      "transliteration": "biddna salām",
+      "english": "We want peace"
+    }
+  },
+  {
+    "id": "p6-culture-dabke",
+    "phaseId": 6,
+    "arabic": "دبكة",
+    "transliteration": "dabke",
+    "english": "Dabke (traditional folk dance)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Line dance performed at weddings and celebrations",
+    "exampleSentence": {
+      "arabic": "يلا ندبك",
+      "transliteration": "yalla nidbik",
+      "english": "Let's dance dabke"
+    }
+  },
+  {
+    "id": "p6-culture-ara",
+    "phaseId": 6,
+    "arabic": "عرق",
+    "transliteration": "ʕaraʔ",
+    "english": "Arak (anise-flavored spirit)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Lebanon's national alcoholic drink; served with water and ice"
+  },
+  {
+    "id": "p6-culture-tabbule",
+    "phaseId": 6,
+    "arabic": "تبولة",
+    "transliteration": "tabbūle",
+    "english": "Tabbouleh (parsley salad)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Iconic Lebanese dish; parsley-based, not bulgur-based"
+  },
+  {
+    "id": "p6-culture-kibbe",
+    "phaseId": 6,
+    "arabic": "كبة",
+    "transliteration": "kibbe",
+    "english": "Kibbeh (meat and bulgur dish)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Considered Lebanon's national dish",
+    "exampleSentence": {
+      "arabic": "إمي بتعمل أحسن كبة",
+      "transliteration": "immi btaʕmal aḥsan kibbe",
+      "english": "My mom makes the best kibbeh"
+    }
+  },
+  {
+    "id": "p6-culture-zaatar",
+    "phaseId": 6,
+    "arabic": "زعتر",
+    "transliteration": "zaʕtar",
+    "english": "Za'atar (thyme herb mix)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Dried thyme mix with sumac and sesame; eaten with olive oil and bread"
+  },
+  {
+    "id": "p6-culture-manoushe",
+    "phaseId": 6,
+    "arabic": "منقوشة",
+    "transliteration": "manʔūshe",
+    "english": "Manoushe (flatbread with toppings)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Lebanon's quintessential breakfast; usually with za'atar or cheese",
+    "exampleSentence": {
+      "arabic": "بدي منقوشة زعتر",
+      "transliteration": "baddi manʔūshe zaʕtar",
+      "english": "I want a za'atar manoushe"
+    }
+  },
+  {
+    "id": "p6-culture-knefe",
+    "phaseId": 6,
+    "arabic": "كنافة",
+    "transliteration": "knēfe",
+    "english": "Knafeh (cheese pastry dessert)",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Sweet cheese pastry soaked in syrup; famous in Tripoli"
+  },
+  {
+    "id": "p6-culture-argileh",
+    "phaseId": 6,
+    "arabic": "أرجيلة",
+    "transliteration": "argīle",
+    "english": "Hookah / water pipe",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese word; also called نرجيلة (nargīle) in other dialects",
+    "exampleSentence": {
+      "arabic": "بدك تشرب أرجيلة؟",
+      "transliteration": "baddak tishrab argīle?",
+      "english": "Do you want to smoke hookah?"
+    }
+  },
+  {
+    "id": "p6-culture-balkon",
+    "phaseId": 6,
+    "arabic": "بلكون",
+    "transliteration": "balkōn",
+    "english": "Balcony",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "French loanword (balcon); central to Lebanese social life"
+  },
+  {
+    "id": "p6-culture-dayaa",
+    "phaseId": 6,
+    "arabic": "ضيعة",
+    "transliteration": "ḍayʕa",
+    "english": "Village",
+    "category": "Lebanese Cultural Terms",
+    "partOfSpeech": "noun",
+    "notes": "Every Lebanese family has a ضيعة (ancestral village)",
+    "exampleSentence": {
+      "arabic": "رحنا عالضيعة بالصيف",
+      "transliteration": "ruḥna ʕa-ḍ-ḍayʕa b-iṣ-ṣēf",
+      "english": "We went to the village in summer"
+    }
+  },
+  {
+    "id": "p6-adv-inshallah",
+    "phaseId": 6,
+    "arabic": "إن شاء الله",
+    "transliteration": "in shāʔ allāh",
+    "english": "God willing",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Can mean genuine hope, polite maybe, or sarcastic never",
+    "exampleSentence": {
+      "arabic": "إن شاء الله منتلاقا بكرا",
+      "transliteration": "in shāʔ allāh mintalāʔa bukra",
+      "english": "God willing we'll meet tomorrow"
+    }
+  },
+  {
+    "id": "p6-adv-yahmik",
+    "phaseId": 6,
+    "arabic": "يحميك الله",
+    "transliteration": "yaḥmīk allāh",
+    "english": "May God protect you",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Said with deep affection, often by parents"
+  },
+  {
+    "id": "p6-adv-mish-shaghli",
+    "phaseId": 6,
+    "arabic": "مش شغلي",
+    "transliteration": "mish shughli",
+    "english": "Not my business",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مش شغلي شو بيعمل",
+      "transliteration": "mish shughli shū byaʕmal",
+      "english": "It's not my business what he does"
+    }
+  },
+  {
+    "id": "p6-adv-mish-mistahil",
+    "phaseId": 6,
+    "arabic": "مش مستاهل",
+    "transliteration": "mish mistāhil",
+    "english": "It's not worth it",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مش مستاهل تزعل",
+      "transliteration": "mish mistāhil tizʕal",
+      "english": "It's not worth getting upset over"
+    }
+  },
+  {
+    "id": "p6-adv-weinak-ghayib",
+    "phaseId": 6,
+    "arabic": "وينك غايب",
+    "transliteration": "wēnak ghāyib",
+    "english": "Long time no see / where have you been",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Literally 'where are you, absent one'"
+  },
+  {
+    "id": "p6-adv-shu-fi-ma-fi",
+    "phaseId": 6,
+    "arabic": "شو في ما في",
+    "transliteration": "shū fi mā fi",
+    "english": "What's new? / What's going on?",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Literally 'what is there, what isn't there'",
+    "exampleSentence": {
+      "arabic": "هلا، شو في ما في؟",
+      "transliteration": "hala, shū fi mā fi?",
+      "english": "Hey, what's new?"
+    }
+  },
+  {
+    "id": "p6-adv-dabbir-halak",
+    "phaseId": 6,
+    "arabic": "دبّر حالك",
+    "transliteration": "dabbir ḥālak",
+    "english": "Figure it out / manage yourself",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Can be encouraging or dismissive depending on tone"
+  },
+  {
+    "id": "p6-adv-khalli-balak",
+    "phaseId": 6,
+    "arabic": "خلّي بالك من حالك",
+    "transliteration": "khalli bālak min ḥālak",
+    "english": "Take care of yourself",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Common farewell expression",
+    "exampleSentence": {
+      "arabic": "يلا مع السلامة، خلّي بالك من حالك",
+      "transliteration": "yalla maʕ is-salāme, khalli bālak min ḥālak",
+      "english": "Alright goodbye, take care of yourself"
+    }
+  },
+  {
+    "id": "p6-adv-ishtaatillak",
+    "phaseId": 6,
+    "arabic": "اشتقتلك",
+    "transliteration": "ishta'tillak",
+    "english": "I miss you",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese form; MSA اشتقت لك",
+    "exampleSentence": {
+      "arabic": "كتير اشتقتلك",
+      "transliteration": "ktīr ishta'tillak",
+      "english": "I miss you so much"
+    }
+  },
+  {
+    "id": "p6-adv-mabruk",
+    "phaseId": 6,
+    "arabic": "مبروك",
+    "transliteration": "mabrūk",
+    "english": "Congratulations",
+    "category": "Advanced Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Response is الله يبارك فيك (allāh ybārik fīk)",
+    "exampleSentence": {
+      "arabic": "مبروك العرس!",
+      "transliteration": "mabrūk il-ʕurs!",
+      "english": "Congratulations on the wedding!"
+    }
+  },
+  {
+    "id": "p6-current-iqtisaad",
+    "phaseId": 6,
+    "arabic": "اِقتِصاد",
+    "transliteration": "iqtiṣād",
+    "english": "Economy",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الاقتصاد اللبناني عم يتراجع",
+      "transliteration": "il-iqtiṣād il-lubnāni ʕam yitrājaʕ",
+      "english": "The Lebanese economy is declining"
+    }
+  },
+  {
+    "id": "p6-current-tadakhkhum",
+    "phaseId": 6,
+    "arabic": "تَضَخُّم",
+    "transliteration": "taḍakhkhum",
+    "english": "Inflation",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "notes": "A major topic in Lebanese daily life since the 2019 crisis"
+  },
+  {
+    "id": "p6-current-bi2a",
+    "phaseId": 6,
+    "arabic": "بيئة",
+    "transliteration": "bīʔa",
+    "english": "Environment",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازم نحمي البيئة",
+      "transliteration": "lāzim niḥmi l-bīʔa",
+      "english": "We must protect the environment"
+    }
+  },
+  {
+    "id": "p6-current-taghyir-munakh",
+    "phaseId": 6,
+    "arabic": "تَغيير مُناخ",
+    "transliteration": "taghyīr munākh",
+    "english": "Climate change",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "notes": "Increasingly discussed as Lebanon faces water scarcity and wildfires"
+  },
+  {
+    "id": "p6-current-laji2in",
+    "phaseId": 6,
+    "arabic": "لاجِئين",
+    "transliteration": "lājiʔīn",
+    "english": "Refugees",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في كتير لاجئين بلبنان",
+      "transliteration": "fi ktīr lājiʔīn b-Lubnān",
+      "english": "There are many refugees in Lebanon"
+    }
+  },
+  {
+    "id": "p6-current-hijra",
+    "phaseId": 6,
+    "arabic": "هِجرة",
+    "transliteration": "hijra",
+    "english": "Migration / immigration",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "notes": "Used for both emigration from and immigration to Lebanon"
+  },
+  {
+    "id": "p6-current-istiqlal",
+    "phaseId": 6,
+    "arabic": "اِستِقلال",
+    "transliteration": "istiqlāl",
+    "english": "Independence",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عيد الاستقلال بتشرين التاني",
+      "transliteration": "ʕīd il-istiqlāl b-tishrīn it-tēni",
+      "english": "Independence Day is in November"
+    }
+  },
+  {
+    "id": "p6-current-amn-qawmi",
+    "phaseId": 6,
+    "arabic": "أَمن قَومي",
+    "transliteration": "amn qawmi",
+    "english": "National security",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-current-istiqrar",
+    "phaseId": 6,
+    "arabic": "اِستِقرار",
+    "transliteration": "istiqrār",
+    "english": "Stability",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "notes": "Something Lebanese people deeply yearn for"
+  },
+  {
+    "id": "p6-current-irhab",
+    "phaseId": 6,
+    "arabic": "إِرهاب",
+    "transliteration": "irhāb",
+    "english": "Terrorism",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-current-mu3ahade",
+    "phaseId": 6,
+    "arabic": "مُعاهَدة",
+    "transliteration": "muʕāhade",
+    "english": "Treaty",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-current-diplomatiyye",
+    "phaseId": 6,
+    "arabic": "دِبلوماسِيّة",
+    "transliteration": "diplomāsiyye",
+    "english": "Diplomacy",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-current-azme",
+    "phaseId": 6,
+    "arabic": "أَزمة",
+    "transliteration": "azme",
+    "english": "Crisis",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الأزمة الاقتصادية صعبة كتير",
+      "transliteration": "il-azme l-iqtiṣādiyye ṣaʕbe ktīr",
+      "english": "The economic crisis is very difficult"
+    }
+  },
+  {
+    "id": "p6-current-fasad",
+    "phaseId": 6,
+    "arabic": "فَساد",
+    "transliteration": "fasād",
+    "english": "Corruption",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "notes": "One of the most commonly discussed issues in Lebanese politics"
+  },
+  {
+    "id": "p6-current-kahraba",
+    "phaseId": 6,
+    "arabic": "كَهرَبا",
+    "transliteration": "kahraba",
+    "english": "Electricity",
+    "category": "Current Events Terminology",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الكهربا قطعت كمان مرة",
+      "transliteration": "il-kahraba ʔaṭaʕit kamēn marra",
+      "english": "The electricity cut out again"
+    }
+  },
+  {
+    "id": "p6-pol-ta2ifiyye",
+    "phaseId": 6,
+    "arabic": "طائِفِيّة",
+    "transliteration": "ṭāʔifiyye",
+    "english": "Sectarianism",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Lebanon's political system is based on confessionalism (sectarian power-sharing)",
+    "exampleSentence": {
+      "arabic": "الطائفية عم تأكل البلد",
+      "transliteration": "iṭ-ṭāʔifiyye ʕam tēkil il-balad",
+      "english": "Sectarianism is eating the country"
+    }
+  },
+  {
+    "id": "p6-pol-wehde-wataniyye",
+    "phaseId": 6,
+    "arabic": "وِحدة وَطَنِيّة",
+    "transliteration": "wiḥde waṭaniyye",
+    "english": "National unity",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-dimucratiyye",
+    "phaseId": 6,
+    "arabic": "ديمُقراطِيّة",
+    "transliteration": "dimūqrāṭiyye",
+    "english": "Democracy",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-dustur",
+    "phaseId": 6,
+    "arabic": "دُستور",
+    "transliteration": "dustūr",
+    "english": "Constitution",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الدستور اللبناني من سنة 1926",
+      "transliteration": "id-dustūr il-lubnāni min sane 1926",
+      "english": "The Lebanese constitution is from 1926"
+    }
+  },
+  {
+    "id": "p6-pol-qanun",
+    "phaseId": 6,
+    "arabic": "قانون",
+    "transliteration": "qānūn",
+    "english": "Law",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Plural: قوانين (qawānīn)"
+  },
+  {
+    "id": "p6-pol-muhami",
+    "phaseId": 6,
+    "arabic": "مُحامي",
+    "transliteration": "muḥāmi",
+    "english": "Lawyer",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-qaadi",
+    "phaseId": 6,
+    "arabic": "قاضي",
+    "transliteration": "qāḍi",
+    "english": "Judge",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-mahkame",
+    "phaseId": 6,
+    "arabic": "مَحكَمة",
+    "transliteration": "maḥkame",
+    "english": "Court",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "القضية رايحة عالمحكمة",
+      "transliteration": "il-qaḍiyye rāyḥa ʕa-l-maḥkame",
+      "english": "The case is going to court"
+    }
+  },
+  {
+    "id": "p6-pol-huquq",
+    "phaseId": 6,
+    "arabic": "حُقوق",
+    "transliteration": "ḥuqūq",
+    "english": "Rights",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "notes": "حقوق الإنسان (ḥuqūq il-insān) = human rights"
+  },
+  {
+    "id": "p6-pol-muwatin",
+    "phaseId": 6,
+    "arabic": "مُواطِن",
+    "transliteration": "muwāṭin",
+    "english": "Citizen",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-intikhab",
+    "phaseId": 6,
+    "arabic": "اِنتِخاب",
+    "transliteration": "intikhāb",
+    "english": "Election (singular)",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Singular form; see also انتخابات (intkhābāt) in Politics & Society"
+  },
+  {
+    "id": "p6-pol-naib",
+    "phaseId": 6,
+    "arabic": "نائِب",
+    "transliteration": "nāʔib",
+    "english": "Representative / Member of Parliament",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "النائب ما عمل شي لمنطقتو",
+      "transliteration": "in-nāʔib mā ʕimil shi la-manṭaqto",
+      "english": "The MP did nothing for his district"
+    }
+  },
+  {
+    "id": "p6-pol-wizara",
+    "phaseId": 6,
+    "arabic": "وِزارة",
+    "transliteration": "wizāra",
+    "english": "Ministry",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-safir",
+    "phaseId": 6,
+    "arabic": "سَفير",
+    "transliteration": "safīr",
+    "english": "Ambassador",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-pol-sifara",
+    "phaseId": 6,
+    "arabic": "سِفارة",
+    "transliteration": "sifāra",
+    "english": "Embassy",
+    "category": "Political Vocabulary Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازم روح عالسفارة بكرا",
+      "transliteration": "lāzim rūḥ ʕa-s-sifāra bukra",
+      "english": "I have to go to the embassy tomorrow"
+    }
+  },
+  {
+    "id": "p6-diaspora-ightirab",
+    "phaseId": 6,
+    "arabic": "اِغتِراب",
+    "transliteration": "ightirāb",
+    "english": "Being abroad / expatriation",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Carries a deep emotional weight; implies longing for homeland",
+    "exampleSentence": {
+      "arabic": "الاغتراب صعب بس ضروري",
+      "transliteration": "il-ightirāb ṣaʕb bass ḍarūri",
+      "english": "Being abroad is hard but necessary"
+    }
+  },
+  {
+    "id": "p6-diaspora-jawaz-safar",
+    "phaseId": 6,
+    "arabic": "جَواز سَفَر",
+    "transliteration": "jawāz safar",
+    "english": "Passport",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الجواز اللبناني ما عندو قيمة",
+      "transliteration": "ij-jawāz il-lubnāni mā ʕindo ʔīme",
+      "english": "The Lebanese passport doesn't have value"
+    }
+  },
+  {
+    "id": "p6-diaspora-iqama",
+    "phaseId": 6,
+    "arabic": "إِقامة",
+    "transliteration": "iqāme",
+    "english": "Residency / residence permit",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-diaspora-hawiyye",
+    "phaseId": 6,
+    "arabic": "هَوِيّة",
+    "transliteration": "hawiyye",
+    "english": "Identity / ID card",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Can mean both 'identity' in the abstract and 'ID card' concretely"
+  },
+  {
+    "id": "p6-diaspora-hanin",
+    "phaseId": 6,
+    "arabic": "حَنين",
+    "transliteration": "ḥanīn",
+    "english": "Nostalgia / longing",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الحنين للبلد ما بيخلص",
+      "transliteration": "il-ḥanīn la-l-balad mā byikhlaṣ",
+      "english": "The nostalgia for the homeland never ends"
+    }
+  },
+  {
+    "id": "p6-diaspora-jinsiyye",
+    "phaseId": 6,
+    "arabic": "جِنسِيّة",
+    "transliteration": "jinsiyye",
+    "english": "Nationality / citizenship",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Many diaspora Lebanese hold dual جنسية"
+  },
+  {
+    "id": "p6-diaspora-min7a",
+    "phaseId": 6,
+    "arabic": "مِنحة",
+    "transliteration": "minḥa",
+    "english": "Scholarship",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-diaspora-mughatarib",
+    "phaseId": 6,
+    "arabic": "مُغتَرِب",
+    "transliteration": "mughatarib",
+    "english": "Expatriate / emigrant",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في أكتر من 15 مليون مغترب لبناني",
+      "transliteration": "fi aktar min khamstaʕshar malyūn mughatarib lubnāni",
+      "english": "There are more than 15 million Lebanese expatriates"
+    }
+  },
+  {
+    "id": "p6-diaspora-3awda",
+    "phaseId": 6,
+    "arabic": "عَودة",
+    "transliteration": "ʕawde",
+    "english": "Return",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Every mughatarib dreams of العودة (il-ʕawde)"
+  },
+  {
+    "id": "p6-diaspora-ahl",
+    "phaseId": 6,
+    "arabic": "أَهل",
+    "transliteration": "ahel",
+    "english": "Family / parents / kin",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "اشتقت لأهلي كتير",
+      "transliteration": "ishtaʔit la-ahli ktīr",
+      "english": "I miss my family so much"
+    }
+  },
+  {
+    "id": "p6-diaspora-watan",
+    "phaseId": 6,
+    "arabic": "وَطَن",
+    "transliteration": "waṭan",
+    "english": "Homeland",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Deeply emotional word; الوطن (il-waṭan) is sacred in Lebanese culture"
+  },
+  {
+    "id": "p6-diaspora-jidhur",
+    "phaseId": 6,
+    "arabic": "جُذور",
+    "transliteration": "judhūr",
+    "english": "Roots",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "جذوري بالجبل",
+      "transliteration": "judhūri b-ij-jabal",
+      "english": "My roots are in the mountains"
+    }
+  },
+  {
+    "id": "p6-diaspora-turath",
+    "phaseId": 6,
+    "arabic": "تُراث",
+    "transliteration": "turāth",
+    "english": "Heritage",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-diaspora-3adat",
+    "phaseId": 6,
+    "arabic": "عادات وتقاليد",
+    "transliteration": "ʕādāt w-taqālīd",
+    "english": "Customs and traditions",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Always paired together as a set phrase"
+  },
+  {
+    "id": "p6-diaspora-tahwilat",
+    "phaseId": 6,
+    "arabic": "تَحويلات",
+    "transliteration": "taḥwīlāt",
+    "english": "Remittances / transfers",
+    "category": "Diaspora Life Expanded",
+    "partOfSpeech": "noun",
+    "notes": "Diaspora remittances are a lifeline for many Lebanese families",
+    "exampleSentence": {
+      "arabic": "التحويلات من برا عم تساعد كتير",
+      "transliteration": "it-taḥwīlāt min barra ʕam tsēʕid ktīr",
+      "english": "Remittances from abroad are helping a lot"
+    }
+  },
+  {
+    "id": "p6-lit-qasida",
+    "phaseId": 6,
+    "arabic": "قَصيدة",
+    "transliteration": "qaṣīde",
+    "english": "Poem / ode",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "كتب قصيدة عن لبنان",
+      "transliteration": "katab qaṣīde ʕan Lubnān",
+      "english": "He wrote a poem about Lebanon"
+    }
+  },
+  {
+    "id": "p6-lit-ghazal",
+    "phaseId": 6,
+    "arabic": "غَزَل",
+    "transliteration": "ghazal",
+    "english": "Love poetry / flirtation",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "A classical Arabic poetry genre; also used colloquially for sweet talk"
+  },
+  {
+    "id": "p6-lit-bayt-shi3r",
+    "phaseId": 6,
+    "arabic": "بَيت شِعر",
+    "transliteration": "bēt shiʕr",
+    "english": "Verse of poetry",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "Literally 'house of poetry'; a single couplet"
+  },
+  {
+    "id": "p6-lit-majaz",
+    "phaseId": 6,
+    "arabic": "مَجاز",
+    "transliteration": "majāz",
+    "english": "Metaphor / figurative language",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-lit-tashbih",
+    "phaseId": 6,
+    "arabic": "تَشبيه",
+    "transliteration": "tashbīh",
+    "english": "Simile / comparison",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-lit-ramz",
+    "phaseId": 6,
+    "arabic": "رَمز",
+    "transliteration": "ramz",
+    "english": "Symbol",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الأرزة رمز لبنان",
+      "transliteration": "il-arze ramz Lubnān",
+      "english": "The cedar is the symbol of Lebanon"
+    }
+  },
+  {
+    "id": "p6-lit-wahy",
+    "phaseId": 6,
+    "arabic": "وَحي",
+    "transliteration": "waḥy",
+    "english": "Inspiration / revelation",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "In literature means 'creative inspiration'; in religion means 'divine revelation'"
+  },
+  {
+    "id": "p6-lit-makhtuuta",
+    "phaseId": 6,
+    "arabic": "مَخطوطة",
+    "transliteration": "makhṭūṭa",
+    "english": "Manuscript",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-lit-kitaba-ibda3iyye",
+    "phaseId": 6,
+    "arabic": "كِتابة إِبداعِيّة",
+    "transliteration": "ktēbe ibdāʕiyye",
+    "english": "Creative writing",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-lit-sard",
+    "phaseId": 6,
+    "arabic": "سَرد",
+    "transliteration": "sard",
+    "english": "Narration / storytelling",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-lit-rawi",
+    "phaseId": 6,
+    "arabic": "راوي",
+    "transliteration": "rāwi",
+    "english": "Narrator / storyteller",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "Also used for the traditional hakawati (storyteller) in Lebanese cafes"
+  },
+  {
+    "id": "p6-lit-shi3r",
+    "phaseId": 6,
+    "arabic": "شِعر",
+    "transliteration": "shiʕr",
+    "english": "Poetry",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشعر اللبناني غني كتير",
+      "transliteration": "ish-shiʕr il-lubnāni ghani ktīr",
+      "english": "Lebanese poetry is very rich"
+    }
+  },
+  {
+    "id": "p6-lit-riwaye",
+    "phaseId": 6,
+    "arabic": "رِواية",
+    "transliteration": "riwāye",
+    "english": "Novel",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-lit-adab",
+    "phaseId": 6,
+    "arabic": "أَدَب",
+    "transliteration": "adab",
+    "english": "Literature",
+    "category": "Literary & Poetic Vocabulary",
+    "partOfSpeech": "noun",
+    "notes": "Also means 'manners/etiquette' in everyday speech"
+  },
+  {
+    "id": "p6-phil-haqiqa",
+    "phaseId": 6,
+    "arabic": "حَقيقة",
+    "transliteration": "ḥaqīqa",
+    "english": "Truth / reality",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الحقيقة مرّة بس لازم نواجها",
+      "transliteration": "il-ḥaqīqa murra bass lāzim nwējha",
+      "english": "The truth is bitter but we must face it"
+    }
+  },
+  {
+    "id": "p6-phil-wujud",
+    "phaseId": 6,
+    "arabic": "وُجود",
+    "transliteration": "wujūd",
+    "english": "Existence",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-phil-ma3na",
+    "phaseId": 6,
+    "arabic": "مَعنى",
+    "transliteration": "maʕna",
+    "english": "Meaning",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو معنى الحياة؟",
+      "transliteration": "shū maʕna l-ḥayē?",
+      "english": "What is the meaning of life?"
+    }
+  },
+  {
+    "id": "p6-phil-qadar",
+    "phaseId": 6,
+    "arabic": "قَدَر",
+    "transliteration": "qadar",
+    "english": "Fate / destiny",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "notes": "A fundamental concept in Arab-Islamic thought"
+  },
+  {
+    "id": "p6-phil-3adala",
+    "phaseId": 6,
+    "arabic": "عَدالة",
+    "transliteration": "ʕadāle",
+    "english": "Justice",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-phil-akhlaq",
+    "phaseId": 6,
+    "arabic": "أَخلاق",
+    "transliteration": "akhlāq",
+    "english": "Morals / ethics",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الأخلاق أهم من المصاري",
+      "transliteration": "il-akhlāq ahamm min il-maṣāri",
+      "english": "Morals are more important than money"
+    }
+  },
+  {
+    "id": "p6-phil-damir",
+    "phaseId": 6,
+    "arabic": "ضَمير",
+    "transliteration": "ḍamīr",
+    "english": "Conscience",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "notes": "ضميرو ما بيوجعو (ḍamīro mā byūjaʕo) = his conscience doesn't bother him"
+  },
+  {
+    "id": "p6-phil-iman",
+    "phaseId": 6,
+    "arabic": "إيمان",
+    "transliteration": "īmān",
+    "english": "Faith / belief",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-phil-shakk",
+    "phaseId": 6,
+    "arabic": "شَكّ",
+    "transliteration": "shakk",
+    "english": "Doubt",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشك بداية المعرفة",
+      "transliteration": "ish-shakk bdēyet il-maʕrife",
+      "english": "Doubt is the beginning of knowledge"
+    }
+  },
+  {
+    "id": "p6-phil-hikme",
+    "phaseId": 6,
+    "arabic": "حِكمة",
+    "transliteration": "ḥikme",
+    "english": "Wisdom",
+    "category": "Philosophy & Deep Thought",
+    "partOfSpeech": "noun",
+    "notes": "Also means 'proverb/saying' in everyday Lebanese"
+  },
+  {
+    "id": "p6-arts-musiqa",
+    "phaseId": 6,
+    "arabic": "موسيقى",
+    "transliteration": "mūsīqa",
+    "english": "Music",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الموسيقى اللبنانية حلوة كتير",
+      "transliteration": "il-mūsīqa l-lubnāniyye ḥilwe ktīr",
+      "english": "Lebanese music is very beautiful"
+    }
+  },
+  {
+    "id": "p6-arts-mughanni",
+    "phaseId": 6,
+    "arabic": "مُغَنّي",
+    "transliteration": "mughanni",
+    "english": "Singer",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "Feminine: مغنّية (mughanniye)"
+  },
+  {
+    "id": "p6-arts-3azif",
+    "phaseId": 6,
+    "arabic": "عازِف",
+    "transliteration": "ʕāzif",
+    "english": "Musician / instrumentalist",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-arts-3ud",
+    "phaseId": 6,
+    "arabic": "عود",
+    "transliteration": "ʕūd",
+    "english": "Oud (string instrument)",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "The quintessential Arab instrument; ancestor of the European lute",
+    "exampleSentence": {
+      "arabic": "بيعرف يعزف عود",
+      "transliteration": "byaʕrif yaʕzif ʕūd",
+      "english": "He knows how to play the oud"
+    }
+  },
+  {
+    "id": "p6-arts-darbuka",
+    "phaseId": 6,
+    "arabic": "دَربُكّة",
+    "transliteration": "darbukke",
+    "english": "Darbuka (goblet drum)",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "Essential percussion for dabke and Lebanese folk music"
+  },
+  {
+    "id": "p6-arts-mahrajan",
+    "phaseId": 6,
+    "arabic": "مَهرَجان",
+    "transliteration": "mahrajān",
+    "english": "Festival",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "مهرجانات بعلبك مشهورة بالعالم",
+      "transliteration": "mahrajānāt Baʕlbak mashhūra b-il-ʕālam",
+      "english": "The Baalbek festivals are famous worldwide"
+    }
+  },
+  {
+    "id": "p6-arts-masrah",
+    "phaseId": 6,
+    "arabic": "مَسرَح",
+    "transliteration": "masraḥ",
+    "english": "Theater",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "Lebanon has a strong theatrical tradition, especially in Beirut"
+  },
+  {
+    "id": "p6-arts-fann",
+    "phaseId": 6,
+    "arabic": "فَنّ",
+    "transliteration": "fann",
+    "english": "Art",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "فنّان (fannān) = artist"
+  },
+  {
+    "id": "p6-arts-rasm",
+    "phaseId": 6,
+    "arabic": "رَسم",
+    "transliteration": "rasm",
+    "english": "Drawing / painting",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-arts-ma3rad",
+    "phaseId": 6,
+    "arabic": "مَعرَض",
+    "transliteration": "maʕraḍ",
+    "english": "Exhibition / gallery",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في معرض فن بالجميزة",
+      "transliteration": "fi maʕraḍ fann b-il-Jmayzé",
+      "english": "There's an art exhibition in Gemmayze"
+    }
+  },
+  {
+    "id": "p6-arts-nahat",
+    "phaseId": 6,
+    "arabic": "نَحّات",
+    "transliteration": "naḥḥāt",
+    "english": "Sculptor",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-arts-tasmim",
+    "phaseId": 6,
+    "arabic": "تَصميم",
+    "transliteration": "taṣmīm",
+    "english": "Design",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "مصمّم (mṣammim) = designer"
+  },
+  {
+    "id": "p6-arts-ughniye",
+    "phaseId": 6,
+    "arabic": "أُغنِية",
+    "transliteration": "ughniye",
+    "english": "Song",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هالأغنية بتذكرني بالبلد",
+      "transliteration": "ha-l-ughniye btdhakkirni b-il-balad",
+      "english": "This song reminds me of the homeland"
+    }
+  },
+  {
+    "id": "p6-arts-nay",
+    "phaseId": 6,
+    "arabic": "ناي",
+    "transliteration": "nāy",
+    "english": "Ney (reed flute)",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "Ancient Middle Eastern wind instrument associated with Sufi music"
+  },
+  {
+    "id": "p6-arts-taswir",
+    "phaseId": 6,
+    "arabic": "تَصوير",
+    "transliteration": "taṣwīr",
+    "english": "Photography / filming",
+    "category": "Music & Arts",
+    "partOfSpeech": "noun",
+    "notes": "مصوّر (mṣawwir) = photographer"
+  },
+  {
+    "id": "p6-wisdom-sifr",
+    "phaseId": 6,
+    "arabic": "صِفر",
+    "transliteration": "ṣifr",
+    "english": "Zero / empty",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Used in proverbs: بلّش من الصفر (ballash min iṣ-ṣifr) = started from zero"
+  },
+  {
+    "id": "p6-wisdom-dahab",
+    "phaseId": 6,
+    "arabic": "دَهَب",
+    "transliteration": "dahab",
+    "english": "Gold",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "السكوت من دهب",
+      "transliteration": "is-skūt min dahab",
+      "english": "Silence is golden"
+    }
+  },
+  {
+    "id": "p6-wisdom-ghanam",
+    "phaseId": 6,
+    "arabic": "غَنَم",
+    "transliteration": "ghanam",
+    "english": "Sheep",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Appears in proverbs about following the crowd blindly"
+  },
+  {
+    "id": "p6-wisdom-dib",
+    "phaseId": 6,
+    "arabic": "ديب",
+    "transliteration": "dīb",
+    "english": "Wolf",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese form; MSA ذئب. Proverb: الديب ما بيوكل من رقبتو (the wolf never eats from its own neck)",
+    "exampleSentence": {
+      "arabic": "الديب ما بيوكل من رقبتو",
+      "transliteration": "id-dīb mā byēkil min raʔabto",
+      "english": "The wolf doesn't eat from his own flock (people protect their own)"
+    }
+  },
+  {
+    "id": "p6-wisdom-bahr",
+    "phaseId": 6,
+    "arabic": "بَحر",
+    "transliteration": "baḥr",
+    "english": "Sea",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "يلي بيخاف من البحر ما بيركب مركب (who fears the sea doesn't board a boat)"
+  },
+  {
+    "id": "p6-wisdom-na3l",
+    "phaseId": 6,
+    "arabic": "نَعل",
+    "transliteration": "naʕl",
+    "english": "Shoe / sole",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Shoes have strong cultural symbolism; throwing a shoe is deeply insulting"
+  },
+  {
+    "id": "p6-wisdom-habl",
+    "phaseId": 6,
+    "arabic": "حَبل",
+    "transliteration": "ḥabl",
+    "english": "Rope",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Proverb: الكذب حبلو قصير (lying has a short rope = lies are quickly exposed)",
+    "exampleSentence": {
+      "arabic": "الكذب حبلو قصير",
+      "transliteration": "il-kidhb ḥablo qaṣīr",
+      "english": "Lying has a short rope (lies don't last long)"
+    }
+  },
+  {
+    "id": "p6-wisdom-jisr",
+    "phaseId": 6,
+    "arabic": "جِسر",
+    "transliteration": "jisr",
+    "english": "Bridge",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-wisdom-hitan",
+    "phaseId": 6,
+    "arabic": "حيطان",
+    "transliteration": "ḥīṭān",
+    "english": "Walls",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "الحيطان إلها ودان (the walls have ears) = be careful what you say",
+    "exampleSentence": {
+      "arabic": "الحيطان إلها ودان",
+      "transliteration": "il-ḥīṭān ilha widēn",
+      "english": "The walls have ears (someone might be listening)"
+    }
+  },
+  {
+    "id": "p6-wisdom-miftah",
+    "phaseId": 6,
+    "arabic": "مِفتاح",
+    "transliteration": "miftāḥ",
+    "english": "Key",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "الصبر مفتاح الفرج (patience is the key to relief)"
+  },
+  {
+    "id": "p6-wisdom-qafl",
+    "phaseId": 6,
+    "arabic": "قُفل",
+    "transliteration": "qufl",
+    "english": "Lock",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p6-wisdom-mizan",
+    "phaseId": 6,
+    "arabic": "ميزان",
+    "transliteration": "mīzān",
+    "english": "Scale / balance",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Used metaphorically for fairness and judgment"
+  },
+  {
+    "id": "p6-wisdom-nar",
+    "phaseId": 6,
+    "arabic": "نار",
+    "transliteration": "nār",
+    "english": "Fire",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "يلي بيلعب بالنار بيحترق",
+      "transliteration": "yalli byilʕab b-in-nār byiḥtriʔ",
+      "english": "He who plays with fire gets burned"
+    }
+  },
+  {
+    "id": "p6-wisdom-halib",
+    "phaseId": 6,
+    "arabic": "حَليب",
+    "transliteration": "ḥalīb",
+    "english": "Milk",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "Proverb: يلي نفخ من الحليب بينفخ من اللبن (once burned by milk, you blow on yogurt too)"
+  },
+  {
+    "id": "p6-wisdom-3asal",
+    "phaseId": 6,
+    "arabic": "عَسَل",
+    "transliteration": "ʕasal",
+    "english": "Honey",
+    "category": "Lebanese Wisdom Sayings Context",
+    "partOfSpeech": "noun",
+    "notes": "حلو متل العسل (ḥilu mitl il-ʕasal) = sweet like honey (compliment)",
+    "exampleSentence": {
+      "arabic": "كلامك عسل",
+      "transliteration": "kalāmak ʕasal",
+      "english": "Your words are honey (you speak sweetly)"
+    }
+  }
+]

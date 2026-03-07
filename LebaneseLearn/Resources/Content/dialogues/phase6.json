@@ -1,0 +1,236 @@
+[
+  {
+    "id": "p6-dialogue-humor-banter",
+    "phaseId": 6,
+    "title": "Lebanese Humor & Banter",
+    "context": "A playful conversation between close friends, full of sarcasm, exaggeration, and classic Lebanese humor patterns.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وينك يا زلمي؟ صرلي ألف سنة ما شفتك. نسيتنا ولا شو؟",
+        "transliteration": "Wēnak yā zalame? Ṣarlī alf sane mā shuftak. Nsītna walla shū?",
+        "english": "Where have you been dude? I haven't seen you in a thousand years. Did you forget us or what?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "لأ حبيبي ما نسيتك! بس والله الشغل مآكلني أكل. ما عندي وقت حتى أتنفس.",
+        "transliteration": "Laʔ ḥabībī mā nsītak! Bas wallah ish-shughl mākilni akl. Mā ʕindī waʔt ḥatta atnafs.",
+        "english": "No habibi I didn't forget you! But honestly work is eating me alive. I don't even have time to breathe."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "شغل شغل شغل. يا خيي هيدي الحياة، مش شغل بس! شو هالعيشة اللي بلا طعمة؟",
+        "transliteration": "Shughl shughl shughl. Yā khayyi hēdi il-ḥayāt, mish shughl bas! Shū hal-ʕīshe illi bala ṭaʕme?",
+        "english": "Work work work. Bro this is life, not just work! What kind of tasteless existence is this?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "يعني بدك ياني أقعد عالقهوة وأنفخ أراكيل كل يوم متلك؟",
+        "transliteration": "Yaʕni baddak yāni uʔʕud ʕal-ʔahwe w-anfukh arākīl kill yōm mitlak?",
+        "english": "So you want me to sit at the cafe smoking hookah every day like you?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "هههه! أنا ما بنفخ أراكيل! بنفخ شي تنين بس باليوم. وبعدين هيدا اسمو networking يا أخي.",
+        "transliteration": "Hahaha! Ana mā banfukh arākīl! Banfukh shi tnayn bas bil-yōm. W-baʕdēn hēda ismo networking yā akhi.",
+        "english": "Hahaha! I don't smoke hookah! Just like two a day. And besides, this is called networking bro."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إنت مش طبيعي والله! بس اشتقتلك. يلا قلي إمتى فاضي؟",
+        "transliteration": "Inta mish ṭabīʕī wallah! Bas ishtaʔtillak. Yalla ʔillī imta fāḍi?",
+        "english": "You're unbelievable honestly! But I missed you. Come on tell me when you're free?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "شوف جدولي المزدحم... أمزح أمزح! أنا فاضي دايما. بكرا على الغدا عندي؟",
+        "transliteration": "Shūf jadwali il-muzdaḥam... amzaḥ amzaḥ! Ana fāḍi dāyman. Bukra ʕal-ghada ʕindī?",
+        "english": "Let me check my busy schedule... joking joking! I'm always free. Tomorrow for lunch at my place?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "يلا ماشي! بس إذا طبختك متل آخر مرة، بجيب معي ساندويش احتياط.",
+        "transliteration": "Yalla māshi! Bas iza ṭabkhtak mitil ākhir marra, bjīb maʕī sandwich iḥtiyāṭ.",
+        "english": "Deal! But if your cooking is like last time, I'm bringing a backup sandwich."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "يا قليل الذوق! آخر مرة كانت تحفة. بس إنت ما بتعرف تقدر الفن.",
+        "transliteration": "Yā ʔalīl iz-zōʔ! Ākhir marra kānit tuḥfe. Bas inta mā btaʕrif tʔaddir il-fann.",
+        "english": "You have no taste! Last time was a masterpiece. But you don't know how to appreciate art."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "يلا يلا يا شاف! بشوفك بكرا وبنحكم. مع السلامة يا مجنون.",
+        "transliteration": "Yalla yalla yā chef! Bshūfak bukra w-bniḥkum. Maʕ is-salāme yā majnūn.",
+        "english": "Sure sure chef! I'll see you tomorrow and we'll judge. Bye you lunatic."
+      }
+    ]
+  },
+  {
+    "id": "p6-dialogue-family-expectations",
+    "phaseId": 6,
+    "title": "Navigating Family Expectations",
+    "context": "A deep conversation about marriage pressure, career choices, and diaspora identity between two Lebanese friends abroad.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "إمي رجعت تحكيلي عن الجوازة. كل يوم بتبعتلي صور بنات من لبنان.",
+        "transliteration": "Immi rijʕit tiḥkīli ʕan ij-jawāze. Kill yōm btibʕatlī ṣuwar banāt min Lubnān.",
+        "english": "My mom started again about marriage. Every day she sends me photos of girls from Lebanon."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "ههه عادي! كل الأهل هيك. إمي بتقلي إمتى بدك تفرحنا؟ يعني عمري ٢٨ بس عندها خلص الوقت.",
+        "transliteration": "Hahaha ʕādi! Kill il-ahl hēk. Immi btiʔillī imta baddak tfarriḥna? Yaʕni ʕumri 28 bas ʕindha khiliṣ il-waʔt.",
+        "english": "Haha normal! All families are like this. My mom tells me 'when will you make us happy?' I'm 28 but according to her time has run out."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "والأصعب إنو بيقولولي ليش ما بترجع عالبنان؟ يعني كيف أفهمن إنو حياتي صارت هون؟",
+        "transliteration": "Wil-aṣʕab inno byiʔūlūli lēsh mā btrūjaʕ ʕa-Lubnān? Yaʕni kīf afahhimhon inno ḥayāti ṣārit hōn?",
+        "english": "And the hardest part is they ask why don't you come back to Lebanon? How do I explain to them that my life is here now?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "هيدي المعاناة الأبدية لكل لبناني بالغربة. بتحب بلدك بس مش قادر ترجع. وأهلك مش فاهمين ليش.",
+        "transliteration": "Hēdi il-muʕānāt il-abadiyye la-kill libnāni bil-ghurbe. Btḥibb baldak bas mish ʔādir tirjaʕ. W-ahlak mish fāhmīn lēsh.",
+        "english": "That's the eternal struggle of every Lebanese in the diaspora. You love your country but can't go back. And your family doesn't understand why."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وبعدين لما بقلن عم بشتغل مهندس بقولولي مش دكتور؟ يعني المهندس عندن ما بيتحسب.",
+        "transliteration": "W-baʕdēn lamma bʔillon ʕam bishtaghil muhandis byiʔūlūli mish duktūr? Yaʕni il-muhandis ʕindon mā byitḥasab.",
+        "english": "And when I tell them I'm working as an engineer they say 'not a doctor?' An engineer doesn't count for them."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "دكتور ولا محامي ولا ما في مستقبل! هيدا المنطق. بس أنا عم بتعلم أحط حدود بطريقة محترمة.",
+        "transliteration": "Duktūr walla muḥāmi walla mā fī mustaʔbal! Hēda il-manṭiʔ. Bas ana ʕam btaʕallam aḥuṭṭ ḥudūd b-ṭarīʔa muḥtarame.",
+        "english": "Doctor or lawyer or no future! That's the logic. But I'm learning to set boundaries respectfully."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "كيف بتعمل هيك بدون ما تزعل حدا؟ أنا كل ما بحاول بيقولولي يا قليل الأصل.",
+        "transliteration": "Kīf btaʕmal hēk bidūn mā tizʕil ḥadan? Ana kill mā bḥāwil byiʔūlūli yā ʔalīl il-aṣl.",
+        "english": "How do you do that without upsetting anyone? Every time I try they call me disrespectful."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "بحبن وبحترمن بس بقلن بوضوح إنو هيدا قراري. وبالآخر بيتفهمو لأنو بيشوفوك مبسوط.",
+        "transliteration": "Bḥibbon w-baḥtirimhon bas bʔillon b-wuḍūḥ inno hēda ʔarāri. W-bil-ākhir byitfahhamo laʔanno byishūfūk mabsūṭ.",
+        "english": "I love them and respect them but I tell them clearly this is my decision. And eventually they understand because they see you happy."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "إن شاء الله. بالآخر بدن يانا ننبسط. بس الطريقة اللبنانية بالتعبير هي درامية شوي.",
+        "transliteration": "Inshallah. Bil-ākhir biddon yāna ninbiṣiṭ. Bas iṭ-ṭarīʔa il-libnāniyye bit-taʕbīr hiyye drāmiyye shwayy.",
+        "english": "God willing. In the end they want us to be happy. But the Lebanese way of expressing it is a bit dramatic."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "شوي؟ ههه يا خيي الدراما عنا فن! بس هيك بنحبن. ما منغيرن.",
+        "transliteration": "Shwayy? Hahaha yā khayyi id-drāma ʕinna fann! Bas hēk bniḥibbon. Mā mnghayyiron.",
+        "english": "A bit? Hahaha bro drama is an art form with us! But that's how we love them. We wouldn't change them."
+      }
+    ]
+  },
+  {
+    "id": "p6-dialogue-code-switching",
+    "phaseId": 6,
+    "title": "Code-Switching Conversation",
+    "context": "A natural conversation mixing Arabic, French, and English the way young Lebanese people actually speak in everyday life.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "هاي! كيفك؟ شو عملت اليوم؟ كنت بال meeting كل النهار.",
+        "transliteration": "Hey! Kīfak? Shū ʕmalt il-yōm? Kint bil-meeting kill in-nhār.",
+        "english": "Hey! How are you? What did you do today? I was in a meeting all day."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "ولا شي exciting. كنت عم بشتغل على ال project الجديد. C'est un peu compliqué بس عم بتمشى.",
+        "transliteration": "Wala shi exciting. Kint ʕam bishtaghil ʕal-project ij-jdīd. C'est un peu compliqué bas ʕam btmashsha.",
+        "english": "Nothing exciting. I was working on the new project. It's a bit complicated but it's moving along."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "Ah bon؟ شو المشكلة؟ ال deadline قريب ولا ال client عم يغيّر رأيو كل دقيقة؟",
+        "transliteration": "Ah bon? Shū il-mushkle? Il-deadline ʔarīb walla il-client ʕam yghayyir raʔyo kill daʔīʔa?",
+        "english": "Oh really? What's the problem? The deadline is close or the client keeps changing their mind every minute?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "التنين! يعني عم يبعتلي emails كل ساعة avec des modifications جديدة. بقلو خلص decide!",
+        "transliteration": "It-tnēn! Yaʕni ʕam yibʕatlī emails kill sāʕa avec des modifications jdīde. Bʔillo khalaṣ decide!",
+        "english": "Both! He keeps sending me emails every hour with new changes. I tell him just decide already!"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "ههه that's so annoying! Anyway بدك تنزل الليلة؟ في opening لبار جديد بالجميزة.",
+        "transliteration": "Hahaha that's so annoying! Anyway baddak tinzal il-lēle? Fī opening la-bar jdīd bil-Jmayze.",
+        "english": "Haha that's so annoying! Anyway, want to go out tonight? There's an opening for a new bar in Gemmayzeh."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "Oui pourquoi pas! مين عم يروح؟ بدي أعرف مين رح يكون في.",
+        "transliteration": "Oui pourquoi pas! Mīn ʕam yrūḥ? Baddī aʕrif mīn raḥ ykūn fī.",
+        "english": "Yes why not! Who's going? I want to know who's going to be there."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "The usual crew. كارلا ونديم وال gang كلن. وبعدين شكلو المحل très chic من الصور.",
+        "transliteration": "The usual crew. Karla w-Nadīm wil-gang kullon. W-baʕdēn shaklō très chic min iṣ-ṣuwar.",
+        "english": "The usual crew. Carla and Nadim and the whole gang. And the place looks très chic from the photos."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "Nice! بس لازم أمرق عالبيت أول أغيّر. مش رح أروح بال outfit تاع الشغل.",
+        "transliteration": "Nice! Bas lāzim amruʔ ʕal-bēt awwal aghayyir. Mish raḥ arūḥ bil-outfit tāʕ ish-shughl.",
+        "english": "Nice! But I need to stop by home first to change. I'm not going in my work outfit."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "Obviously! يلا بلاقيك هونيك الساعة تسعة. Don't be late متل العادة.",
+        "transliteration": "Obviously! Yalla blāʔīk hūnīk is-sāʕa tisʕa. Don't be late mitil il-ʕāde.",
+        "english": "Obviously! Alright I'll meet you there at nine. Don't be late as usual."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "ههه يا زلمي أنا مش late، أنا fashionably late! C'est pas pareil. يلا à ce soir!",
+        "transliteration": "Hahaha yā zalame ana mish late, ana fashionably late! C'est pas pareil. Yalla à ce soir!",
+        "english": "Haha dude I'm not late, I'm fashionably late! It's not the same. Alright see you tonight!"
+      }
+    ]
+  }
+]

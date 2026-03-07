@@ -1,0 +1,532 @@
+[
+  {
+    "id": "root-ktb",
+    "root": "ك-ت-ب",
+    "rootLetters": "كتب",
+    "meaning": "writing, books",
+    "words": [
+      {
+        "arabic": "كتاب",
+        "transliteration": "ktaab",
+        "english": "book",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "كاتب",
+        "transliteration": "kaateb",
+        "english": "writer/author",
+        "form": "Active participle",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مكتبة",
+        "transliteration": "maktabe",
+        "english": "library/bookstore",
+        "form": "Place noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مكتوب",
+        "transliteration": "maktuub",
+        "english": "written/letter",
+        "form": "Passive participle",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "كتب",
+        "transliteration": "katab",
+        "english": "he wrote",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيكتب",
+        "transliteration": "byektob",
+        "english": "he writes",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "مكتب",
+        "transliteration": "maktab",
+        "english": "office/desk",
+        "form": "Place noun",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  {
+    "id": "root-drs",
+    "root": "د-ر-س",
+    "rootLetters": "درس",
+    "meaning": "studying, lessons",
+    "words": [
+      {
+        "arabic": "درس",
+        "transliteration": "dares",
+        "english": "lesson",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مدرسة",
+        "transliteration": "madrase",
+        "english": "school",
+        "form": "Place noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مدرّس",
+        "transliteration": "mdarres",
+        "english": "teacher",
+        "form": "Form II participle",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "دراسة",
+        "transliteration": "draase",
+        "english": "study/studies",
+        "form": "Verbal noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "درس",
+        "transliteration": "daras",
+        "english": "he studied",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيدرس",
+        "transliteration": "byedros",
+        "english": "he studies",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-3lm",
+    "root": "ع-ل-م",
+    "rootLetters": "علم",
+    "meaning": "knowledge, learning",
+    "words": [
+      {
+        "arabic": "علم",
+        "transliteration": "3elem",
+        "english": "knowledge/science",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "معلّم",
+        "transliteration": "m3allem",
+        "english": "teacher/master",
+        "form": "Form II participle",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "عالم",
+        "transliteration": "3aalem",
+        "english": "world/scientist",
+        "form": "Active participle",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "معلومات",
+        "transliteration": "ma3luumaat",
+        "english": "information",
+        "form": "Passive participle pl.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "تعلّم",
+        "transliteration": "t3allam",
+        "english": "he learned",
+        "form": "Form V past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "علّم",
+        "transliteration": "3allam",
+        "english": "he taught",
+        "form": "Form II past",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-hbb",
+    "root": "ح-ب-ب",
+    "rootLetters": "حبب",
+    "meaning": "love, affection",
+    "words": [
+      {
+        "arabic": "حب",
+        "transliteration": "ḥubb",
+        "english": "love",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "حبيبي",
+        "transliteration": "ḥabibi",
+        "english": "my love/darling",
+        "form": "Endearment",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "محبوب",
+        "transliteration": "maḥbuub",
+        "english": "beloved",
+        "form": "Passive participle",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "حبّ",
+        "transliteration": "ḥabb",
+        "english": "he loved",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيحب",
+        "transliteration": "byeḥebb",
+        "english": "he loves",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-akl",
+    "root": "أ-ك-ل",
+    "rootLetters": "اكل",
+    "meaning": "eating, food",
+    "words": [
+      {
+        "arabic": "أكل",
+        "transliteration": "akel",
+        "english": "food",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "أكلة",
+        "transliteration": "akle",
+        "english": "a meal/dish",
+        "form": "Instance noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مأكولات",
+        "transliteration": "ma2kulaat",
+        "english": "foods/dishes",
+        "form": "Passive participle pl.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "أكل",
+        "transliteration": "akal",
+        "english": "he ate",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بياكل",
+        "transliteration": "byaakol",
+        "english": "he eats",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-shgl",
+    "root": "ش-غ-ل",
+    "rootLetters": "شغل",
+    "meaning": "work, occupation",
+    "words": [
+      {
+        "arabic": "شغل",
+        "transliteration": "shughul",
+        "english": "work/job",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مشغول",
+        "transliteration": "mashghuul",
+        "english": "busy",
+        "form": "Passive participle",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "شغّال",
+        "transliteration": "shaghghaal",
+        "english": "working/functioning",
+        "form": "Intensive adj.",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "اشتغل",
+        "transliteration": "ishtaghal",
+        "english": "he worked",
+        "form": "Form VIII past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيشتغل",
+        "transliteration": "byeshteghel",
+        "english": "he works",
+        "form": "Form VIII present",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-hky",
+    "root": "ح-ك-ي",
+    "rootLetters": "حكي",
+    "meaning": "speaking, talking",
+    "words": [
+      {
+        "arabic": "حكي",
+        "transliteration": "ḥaki",
+        "english": "talking/speech",
+        "form": "Verbal noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "حكاية",
+        "transliteration": "ḥikaaye",
+        "english": "story",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "حكى",
+        "transliteration": "ḥaka",
+        "english": "he spoke/told",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيحكي",
+        "transliteration": "byeḥki",
+        "english": "he speaks/tells",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "تحكّى",
+        "transliteration": "tḥakka",
+        "english": "he chatted",
+        "form": "Form V past",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-shr",
+    "root": "ش-ر-ب",
+    "rootLetters": "شرب",
+    "meaning": "drinking",
+    "words": [
+      {
+        "arabic": "شراب",
+        "transliteration": "shraab",
+        "english": "drink/beverage",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مشروب",
+        "transliteration": "mashruub",
+        "english": "a drink",
+        "form": "Passive participle",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "شرب",
+        "transliteration": "shereb",
+        "english": "he drank",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيشرب",
+        "transliteration": "byeshrab",
+        "english": "he drinks",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-rhh",
+    "root": "ر-و-ح",
+    "rootLetters": "روح",
+    "meaning": "going, soul",
+    "words": [
+      {
+        "arabic": "روح",
+        "transliteration": "ruuḥ",
+        "english": "soul/spirit",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "رحت",
+        "transliteration": "reḥet",
+        "english": "I went",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بروح",
+        "transliteration": "bruuḥ",
+        "english": "I go",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "راح",
+        "transliteration": "raaḥ",
+        "english": "he went",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "رايح",
+        "transliteration": "raayeḥ",
+        "english": "going (masc.)",
+        "form": "Active participle",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "مرتاح",
+        "transliteration": "mertaaḥ",
+        "english": "comfortable/relaxed",
+        "form": "Form VIII participle",
+        "partOfSpeech": "adj"
+      }
+    ]
+  },
+  {
+    "id": "root-tlb",
+    "root": "ط-ل-ب",
+    "rootLetters": "طلب",
+    "meaning": "requesting, seeking",
+    "words": [
+      {
+        "arabic": "طلب",
+        "transliteration": "ṭalab",
+        "english": "request/order",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "طالب",
+        "transliteration": "ṭaaleb",
+        "english": "student",
+        "form": "Active participle",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "مطلوب",
+        "transliteration": "maṭluub",
+        "english": "wanted/required",
+        "form": "Passive participle",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "طلب",
+        "transliteration": "ṭalab",
+        "english": "he requested",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيطلب",
+        "transliteration": "byeṭlob",
+        "english": "he requests",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  {
+    "id": "root-smh",
+    "root": "س-م-ع",
+    "rootLetters": "سمع",
+    "meaning": "hearing, listening",
+    "words": [
+      {
+        "arabic": "سمع",
+        "transliteration": "seme3",
+        "english": "he heard",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "بيسمع",
+        "transliteration": "byesma3",
+        "english": "he hears",
+        "form": "Form I present",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "سامع",
+        "transliteration": "saame3",
+        "english": "hearing/listener",
+        "form": "Active participle",
+        "partOfSpeech": "adj"
+      },
+      {
+        "arabic": "مسموع",
+        "transliteration": "masmuuw3",
+        "english": "audible/heard",
+        "form": "Passive participle",
+        "partOfSpeech": "adj"
+      }
+    ]
+  },
+  {
+    "id": "root-byt",
+    "root": "ب-ي-ت",
+    "rootLetters": "بيت",
+    "meaning": "house, staying",
+    "words": [
+      {
+        "arabic": "بيت",
+        "transliteration": "bayt",
+        "english": "house/home",
+        "form": "Form I noun",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "بيوت",
+        "transliteration": "byuut",
+        "english": "houses",
+        "form": "Plural",
+        "partOfSpeech": "noun"
+      },
+      {
+        "arabic": "بات",
+        "transliteration": "baat",
+        "english": "he stayed overnight",
+        "form": "Form I past",
+        "partOfSpeech": "verb"
+      },
+      {
+        "arabic": "مبيّت",
+        "transliteration": "mbayyet",
+        "english": "hosted overnight",
+        "form": "Form II participle",
+        "partOfSpeech": "adj"
+      }
+    ]
+  }
+]

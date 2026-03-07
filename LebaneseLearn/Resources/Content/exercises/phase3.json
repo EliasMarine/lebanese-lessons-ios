@@ -1,0 +1,324 @@
+[
+  {
+    "id": "p3-quiz",
+    "phaseId": 3,
+    "title": "Phase 3 Quiz — Structured Conversation",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p3-q1",
+        "prompt": "How do you say \"Because\" in Lebanese?",
+        "options": [
+          "وكمان",
+          "لأنو",
+          "بعدين"
+        ],
+        "correctIndex": 1,
+        "explanation": "لأنو (la'anno) means 'because' in Lebanese Arabic. وكمان (w-kamēn) = and also. بعدين (baʕdēn) = later / afterwards."
+      },
+      {
+        "id": "p3-q2",
+        "prompt": "غربة means:",
+        "options": [
+          "Jealousy",
+          "Memory",
+          "Living far from home / exile"
+        ],
+        "correctIndex": 2,
+        "explanation": "غربة (ghurbe) refers to living away from one's homeland — a deeply felt concept in Lebanese culture due to widespread emigration. غيرة = jealousy. ذكرى = memory."
+      },
+      {
+        "id": "p3-q3",
+        "prompt": "\"In my opinion…\" in Lebanese:",
+        "options": [
+          "صراحة...",
+          "بنظري... / بعتقد إنو...",
+          "يعني..."
+        ],
+        "correctIndex": 1,
+        "explanation": "بنظري (b-naẓari) = in my view, and بعتقد إنو (baʕteqid inno) = I believe that — both express personal opinion. صراحة = honestly/frankly. يعني = I mean / like."
+      },
+      {
+        "id": "p3-q4",
+        "prompt": "يا ريت نرجع means:",
+        "options": [
+          "We will return",
+          "If only we could return",
+          "We must return"
+        ],
+        "correctIndex": 1,
+        "explanation": "يا ريت (ya rēt) expresses a wish — 'if only' or 'I wish'. So يا ريت نرجع = if only we could return. رح نرجع = we will return. لازم نرجع = we must return."
+      },
+      {
+        "id": "p3-q5",
+        "prompt": "How do you say \"I went\" in Lebanese Arabic?",
+        "options": [
+          "بروح",
+          "رحت",
+          "رح روح",
+          "عم بروح"
+        ],
+        "correctIndex": 1,
+        "explanation": "رحت (ruḥt) is the past tense of 'to go' for 'I'. بروح = I go (present habitual), رح روح = I will go (future), عم بروح = I am going (present continuous). Lebanese past tense drops the MSA prefixes."
+      },
+      {
+        "id": "p3-q6",
+        "prompt": "What does الطقس حلو اليوم mean?",
+        "promptArabic": "الطقس حلو اليوم",
+        "options": [
+          "The food is delicious today",
+          "The weather is nice today",
+          "The road is clear today",
+          "The market is busy today"
+        ],
+        "correctIndex": 1,
+        "explanation": "الطقس (iṭ-ṭa's) = the weather, حلو (ḥilu) = nice/beautiful, اليوم (il-yōm) = today. Lebanese uses حلو for weather just as it does for people and things. الأكل = the food, الطريق = the road."
+      },
+      {
+        "id": "p3-q7",
+        "prompt": "How do you say \"How much does this cost?\" in Lebanese?",
+        "options": [
+          "شو هيدا؟",
+          "قديش هيدا؟",
+          "وين هيدا؟",
+          "مين هيدا؟"
+        ],
+        "correctIndex": 1,
+        "explanation": "قديش (addēsh) means 'how much'. قديش هيدا = how much is this. شو هيدا = what is this, وين هيدا = where is this, مين هيدا = who is this. قديش is essential for shopping in Lebanon."
+      },
+      {
+        "id": "p3-q8",
+        "prompt": "What does بدي هيدا mean when shopping?",
+        "promptArabic": "بدي هيدا",
+        "options": [
+          "How much is this?",
+          "I want this one",
+          "I don't like this",
+          "Show me another one"
+        ],
+        "correctIndex": 1,
+        "explanation": "بدي (baddi) = I want, هيدا (hayda) = this. So بدي هيدا = I want this one. Very common when shopping. قديش هيدا = how much is this, ما بحبو = I don't like it, فرجيني غيرو = show me another."
+      },
+      {
+        "id": "p3-q9",
+        "prompt": "The connector \"but\" in Lebanese Arabic is:",
+        "options": [
+          "و",
+          "بس",
+          "لأنو",
+          "أو"
+        ],
+        "correctIndex": 1,
+        "explanation": "بس (bass) means 'but' in Lebanese Arabic. It can also mean 'only' or 'enough' depending on context. و (w-) = and, لأنو = because, أو (aw) = or. بس is one of the most versatile Lebanese words."
+      },
+      {
+        "id": "p3-q10",
+        "prompt": "How do you say \"It was raining yesterday\" in Lebanese?",
+        "options": [
+          "عم بتشتي اليوم",
+          "كانت عم بتشتي مبارح",
+          "رح تشتي بكرا",
+          "ما شتّت مبارح"
+        ],
+        "correctIndex": 1,
+        "explanation": "كانت عم بتشتي مبارح = it was raining yesterday. كانت (kēnit) = it was, عم بتشتي = raining (present continuous), مبارح (mbēriḥ) = yesterday. This combines past tense كان with the continuous عم."
+      },
+      {
+        "id": "p3-q11",
+        "prompt": "What does رخيص mean?",
+        "promptArabic": "رخيص",
+        "options": [
+          "Expensive",
+          "Cheap / inexpensive",
+          "Free",
+          "On sale"
+        ],
+        "correctIndex": 1,
+        "explanation": "رخيص (rkhīṣ) means cheap or inexpensive. غالي (ghēli) = expensive, ببلاش (b-balēsh) = free, تنزيلات (tanzīlēt) = sales/discounts. When bargaining in Lebanon, you might say 'كتير غالي، في أرخص؟' (too expensive, is there cheaper?)."
+      },
+      {
+        "id": "p3-q12",
+        "prompt": "How do you say \"if\" in Lebanese Arabic?",
+        "options": [
+          "لأنو",
+          "بس",
+          "إذا",
+          "يعني"
+        ],
+        "correctIndex": 2,
+        "explanation": "إذا (iza) means 'if' in Lebanese Arabic. It introduces conditional sentences: إذا بدك = if you want. لأنو = because, بس = but, يعني = meaning/like. لو (law) is also used for hypotheticals."
+      }
+    ]
+  },
+  {
+    "id": "p3-fill",
+    "phaseId": 3,
+    "title": "Phase 3 Fill in the Blank — Past Tense & Connectors",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p3-fb1",
+        "sentence": "أنا ___ عالسوق مبارح means 'I went to the market yesterday'.",
+        "blank": "___",
+        "answer": "رحت",
+        "acceptableAnswers": [
+          "ruht",
+          "re7t",
+          "ru7t",
+          "رحت"
+        ],
+        "hint": "Past tense of روح (to go) for 'I'."
+      },
+      {
+        "id": "p3-fb2",
+        "sentence": "The connector ___ means \"because\" in Lebanese.",
+        "blank": "___",
+        "answer": "لأنو",
+        "acceptableAnswers": [
+          "la2anno",
+          "la'anno",
+          "la2enno",
+          "لأنو",
+          "لانو"
+        ],
+        "hint": "Starts with ل and is unique to the Lebanese dialect."
+      },
+      {
+        "id": "p3-fb3",
+        "sentence": "بدي أشتري ___ means 'I want to buy a shirt'.",
+        "blank": "___",
+        "answer": "قميص",
+        "acceptableAnswers": [
+          "amees",
+          "amīṣ",
+          "2amees",
+          "قميص"
+        ],
+        "hint": "A clothing item you wear on your upper body."
+      },
+      {
+        "id": "p3-fb4",
+        "sentence": "مبارح كان الطقس كتير ___. means 'Yesterday the weather was very cold'.",
+        "blank": "___",
+        "answer": "بارد",
+        "acceptableAnswers": [
+          "bērid",
+          "bared",
+          "barid",
+          "بارد"
+        ],
+        "hint": "The opposite of حر (hot)."
+      },
+      {
+        "id": "p3-fb5",
+        "sentence": "قديش ___ هالبنطلون؟ means \"How much are these pants?\"",
+        "blank": "___",
+        "answer": "حق",
+        "acceptableAnswers": [
+          "7a2",
+          "ha2",
+          "حق",
+          "سعر",
+          "ḥa'"
+        ],
+        "hint": "The word for 'price' or 'cost' in Lebanese."
+      },
+      {
+        "id": "p3-fb6",
+        "sentence": "___ إنو الأكل كان طيب means 'I think that the food was delicious'.",
+        "blank": "___",
+        "answer": "بعتقد",
+        "acceptableAnswers": [
+          "ba3te2id",
+          "baʕteqid",
+          "ba3teed",
+          "بعتقد"
+        ],
+        "hint": "An opinion phrase meaning 'I believe/think'."
+      },
+      {
+        "id": "p3-fb7",
+        "sentence": "ما ___ شي مبارح means 'I didn't eat anything yesterday'.",
+        "blank": "___",
+        "answer": "أكلت",
+        "acceptableAnswers": [
+          "akalt",
+          "akalit",
+          "أكلت"
+        ],
+        "hint": "Past tense of أكل (to eat) for 'I'."
+      },
+      {
+        "id": "p3-fb8",
+        "sentence": "The word ___ means \"also\" or \"too\" in Lebanese Arabic.",
+        "blank": "___",
+        "answer": "كمان",
+        "acceptableAnswers": [
+          "kamēn",
+          "kaman",
+          "kamaan",
+          "كمان"
+        ],
+        "hint": "A very common filler word — وأنا ___ (and me too)."
+      }
+    ]
+  },
+  {
+    "id": "p3-match",
+    "phaseId": 3,
+    "title": "Phase 3 Matching — Shopping & Clothing Vocab",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "قميص",
+        "transliteration": "amīṣ",
+        "english": "Shirt"
+      },
+      {
+        "arabic": "بنطلون",
+        "transliteration": "banṭalōn",
+        "english": "Pants / trousers"
+      },
+      {
+        "arabic": "جزمة",
+        "transliteration": "jazme",
+        "english": "Shoes"
+      },
+      {
+        "arabic": "فستان",
+        "transliteration": "fustēn",
+        "english": "Dress"
+      },
+      {
+        "arabic": "جاكيت",
+        "transliteration": "jēkit",
+        "english": "Jacket"
+      },
+      {
+        "arabic": "غالي",
+        "transliteration": "ghēli",
+        "english": "Expensive"
+      },
+      {
+        "arabic": "رخيص",
+        "transliteration": "rkhīṣ",
+        "english": "Cheap / inexpensive"
+      },
+      {
+        "arabic": "قياس",
+        "transliteration": "iyēs",
+        "english": "Size"
+      },
+      {
+        "arabic": "لون",
+        "transliteration": "lōn",
+        "english": "Color"
+      },
+      {
+        "arabic": "تنزيلات",
+        "transliteration": "tanzīlēt",
+        "english": "Sales / discounts"
+      }
+    ]
+  }
+]

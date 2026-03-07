@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p3-prov-al-fadi",
+    "arabic": "عَالفَاضِي.",
+    "transliteration": "ʕal-fāḍī.",
+    "english": "For nothing / pointless.",
+    "meaning": "One of the most common Lebanese expressions. Used when something is a waste of time or effort, e.g. 'Don't argue with him, it's ʕal-fāḍī.' Also used to describe doing something without purpose."
+  },
+  {
+    "id": "p3-prov-ma-bylbe2",
+    "arabic": "مَا بيِلبَق.",
+    "transliteration": "Mā byilbaʔ.",
+    "english": "It doesn't suit / it's not appropriate.",
+    "meaning": "Used constantly in daily life to say something is improper or doesn't look right. Can refer to clothing ('that color mā byilbaʔ'), behavior, or social situations. Reflects the Lebanese emphasis on presentation and propriety."
+  },
+  {
+    "id": "p3-prov-deni-hek",
+    "arabic": "الدِّنْيِ هَيْك.",
+    "transliteration": "Id-dinye hēk.",
+    "english": "That's life / the world is like this.",
+    "meaning": "A resigned, philosophical expression used when something unfortunate happens and there's nothing to be done about it. Lebanese people say this to accept situations with grace. Similar to 'c'est la vie.'"
+  },
+  {
+    "id": "p3-prov-ahla-w-sahla",
+    "arabic": "أَهْلاً وَسَهْلاً.",
+    "transliteration": "Ahlan w-sahlan.",
+    "english": "Welcome / you are among family and ease.",
+    "meaning": "The quintessential Arab greeting of hospitality. 'Ahlan' means 'family' and 'sahlan' means 'ease' — you arrived among family on easy ground. Used to welcome guests, customers, and even strangers. Deeply embedded in Lebanese culture."
+  },
+  {
+    "id": "p3-prov-yislam-temmak",
+    "arabic": "يِسْلَم تِمَّك.",
+    "transliteration": "Yislam timmak.",
+    "english": "May your mouth be blessed.",
+    "meaning": "Said when someone says something you strongly agree with or something wise. Literally 'may God protect your mouth.' A warm, affectionate expression of approval used in everyday conversation."
+  },
+  {
+    "id": "p3-prov-allah-yisahhil",
+    "arabic": "الله يْسَهِّل.",
+    "transliteration": "Allah ysahhil.",
+    "english": "May God make it easy.",
+    "meaning": "Said when someone is about to do something difficult — an exam, a trip, a task. It's both a prayer and a way of showing you care. One of the most frequently used expressions in Lebanese daily life."
+  }
+]

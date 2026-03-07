@@ -1,0 +1,287 @@
+[
+  {
+    "id": "p6-grammar-code-switching",
+    "phaseId": 6,
+    "title": "Code-Switching Patterns",
+    "tag": "Cultural",
+    "explanation": "Lebanese Arabic naturally mixes with French and English — a legacy of Lebanon's multilingual culture. This is not slang or error; it is standard Lebanese speech. Educated speakers regularly switch between languages mid-sentence. Understanding these patterns is essential for real-world comprehension.",
+    "table": {
+      "headers": [
+        "Mixed Phrase",
+        "Phonetic",
+        "Languages",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Hi كيفك، ça va?",
+          "Hi kīfak, sa va?",
+          "EN + AR + FR",
+          "Hi, how are you?"
+        ],
+        [
+          "Merci كتير",
+          "merci ktīr",
+          "FR + AR",
+          "Thanks a lot"
+        ],
+        [
+          "يلا let's go",
+          "yalla let's go",
+          "AR + EN",
+          "Come on, let's go"
+        ],
+        [
+          "بدي بوك rendez-vous",
+          "baddi būk rendez-vous",
+          "AR + EN + FR",
+          "I want to book an appointment"
+        ],
+        [
+          "C'est normal هيك",
+          "se normal hēk",
+          "FR + AR",
+          "It's normal like that"
+        ],
+        [
+          "عندي meeting هلق",
+          "ʕandi meeting halla'",
+          "AR + EN + AR",
+          "I have a meeting now"
+        ],
+        [
+          "Bonjour، كيفك؟",
+          "bonjour, kīfak?",
+          "FR + AR",
+          "Good morning, how are you?"
+        ],
+        [
+          "خلص، bonne nuit",
+          "khalaṣ, bonne nuit",
+          "AR + FR",
+          "Alright, good night"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "رح نعمل shopping بعد الغدا",
+        "transliteration": "raḥ naʕmal shopping baʕd il-ghada",
+        "english": "We'll go shopping after lunch",
+        "breakdown": "Arabic sentence structure with English noun 'shopping' inserted naturally"
+      },
+      {
+        "arabic": "هيدا très bien، ما بدي غيرو",
+        "transliteration": "hayda très bien, mā baddi ghayro",
+        "english": "This is very good, I don't want anything else",
+        "breakdown": "Arabic demonstrative + French 'très bien' + Arabic continuation"
+      },
+      {
+        "arabic": "يلا bye، بشوفك بكرا",
+        "transliteration": "yalla bye, bshūfak bukra",
+        "english": "Alright bye, I'll see you tomorrow",
+        "breakdown": "Arabic يلا + English 'bye' + Arabic closing — typical Lebanese goodbye"
+      }
+    ]
+  },
+  {
+    "id": "p6-grammar-idiom-verbs",
+    "phaseId": 6,
+    "title": "Idiomatic Verb + Preposition Combos",
+    "tag": "Advanced",
+    "explanation": "Like English phrasal verbs, Lebanese verbs change meaning depending on the preposition that follows. The same verb root combined with different prepositions can produce completely different meanings. Memorizing these as fixed units is more effective than trying to derive the meaning from parts.",
+    "table": {
+      "headers": [
+        "Verb + Prep",
+        "Phonetic",
+        "Literal",
+        "Actual Meaning"
+      ],
+      "rows": [
+        [
+          "طلع عـ",
+          "ṭiliʕ ʕa-",
+          "came out on",
+          "turned out to be"
+        ],
+        [
+          "فات بـ",
+          "fēt b-",
+          "entered in",
+          "got involved in"
+        ],
+        [
+          "حط بـ",
+          "ḥaṭṭ b-",
+          "put in",
+          "to put into / to place"
+        ],
+        [
+          "رجع عـ",
+          "rijiʕ ʕa-",
+          "went back on",
+          "to go back on (a promise)"
+        ],
+        [
+          "خلص من",
+          "khiliṣ min",
+          "finished from",
+          "to be done with"
+        ],
+        [
+          "مسك بـ",
+          "masak b-",
+          "held onto",
+          "to grab / take hold of"
+        ],
+        [
+          "قام عـ",
+          "ʔēm ʕa-",
+          "stood on",
+          "to get up / to start doing"
+        ],
+        [
+          "نزل عـ",
+          "nizil ʕa-",
+          "came down on",
+          "to go to / head toward"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "طلع عالآخر إنو ما كان صحيح",
+        "transliteration": "ṭiliʕ ʕal-ēkhir inno mā kēn ṣaḥīḥ",
+        "english": "It turned out in the end that it wasn't true",
+        "breakdown": "طلع عـ (turned out) + الآخر (the end) + إنو (that)"
+      },
+      {
+        "arabic": "ما تفوت بموضوع مش إلك",
+        "transliteration": "mā tfūt b-mawḍūʕ mish ilak",
+        "english": "Don't get involved in something that's not your business",
+        "breakdown": "ما تفوت بـ (don't enter into) + موضوع (matter) + مش إلك (not yours)"
+      },
+      {
+        "arabic": "خلصت من الشغل بكير اليوم",
+        "transliteration": "khilṣit min ish-shughul bakkīr il-yōm",
+        "english": "I finished work early today",
+        "breakdown": "خلصت من (I finished from) + الشغل (work)"
+      },
+      {
+        "arabic": "رجع عكلامو بعد يومين",
+        "transliteration": "rijiʕ ʕa-klēmo baʕd yōmēn",
+        "english": "He went back on his word after two days",
+        "breakdown": "رجع عـ (went back on) + كلامو (his word) + بعد يومين (after two days)"
+      },
+      {
+        "arabic": "قام عالصبح وراح عالشغل",
+        "transliteration": "ʔēm ʕaṣ-ṣubiḥ w rāḥ ʕash-shughul",
+        "english": "He got up in the morning and went to work",
+        "breakdown": "قام عـ (got up) + الصبح (morning) — here عـ marks time"
+      }
+    ]
+  },
+  {
+    "id": "p6-grammar-register",
+    "phaseId": 6,
+    "title": "Register Shifting — Formal vs. Casual",
+    "tag": "Mastery",
+    "explanation": "Lebanese speakers shift between formal (MSA-influenced) and casual registers depending on context. Formal register appears in news, speeches, and respectful interactions with elders or officials. Casual register dominates among friends and family. Mastering both — and knowing when to switch — is the mark of true fluency.",
+    "table": {
+      "headers": [
+        "Situation",
+        "Formal (MSA-leaning)",
+        "Casual Lebanese",
+        "English"
+      ],
+      "rows": [
+        [
+          "Greeting",
+          "مرحبا، كيف حالك",
+          "هلا، كيفك",
+          "Hello, how are you"
+        ],
+        [
+          "Thank you",
+          "شكراً جزيلاً",
+          "يسلمو / مرسي",
+          "Thank you very much"
+        ],
+        [
+          "I want",
+          "أريد",
+          "بدي",
+          "I want"
+        ],
+        [
+          "Why",
+          "لماذا",
+          "ليش",
+          "Why"
+        ],
+        [
+          "Now",
+          "الآن",
+          "هلق / هلأ",
+          "Now"
+        ],
+        [
+          "There is not",
+          "لا يوجد",
+          "ما في",
+          "There isn't"
+        ],
+        [
+          "Please",
+          "من فضلك",
+          "إذا بتريد / بليز",
+          "Please"
+        ],
+        [
+          "I don't know",
+          "لا أعرف",
+          "ما بعرف",
+          "I don't know"
+        ],
+        [
+          "Excuse me",
+          "عفواً / المعذرة",
+          "سوري / عفواً",
+          "Sorry / Excuse me"
+        ],
+        [
+          "Goodbye",
+          "مع السلامة",
+          "يلا باي",
+          "Goodbye"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "عفواً، بقدر أسألك سؤال؟",
+        "transliteration": "ʕafwan, baʔdir isʔalak suʔēl?",
+        "english": "Excuse me, may I ask you a question? (formal/polite)",
+        "breakdown": "عفواً (excuse me, formal) + بقدر (can I) + أسألك (ask you) — polite register for strangers"
+      },
+      {
+        "arabic": "هلا، شو الأخبار؟",
+        "transliteration": "hala, shū il-akhbēr?",
+        "english": "Hey, what's up? (casual)",
+        "breakdown": "هلا (hey, very casual) + شو الأخبار (what's the news) — friend register"
+      },
+      {
+        "arabic": "حضرتك بتحب قهوة ولا شاي؟",
+        "transliteration": "ḥaḍirtak btḥebb ʔahwe walla shēy?",
+        "english": "Would you like coffee or tea? (respectful)",
+        "breakdown": "حضرتك (your presence — respectful 'you') — used with elders and officials"
+      },
+      {
+        "arabic": "بدك شي ولا مش جوعان؟",
+        "transliteration": "baddak shi walla mish jūʕēn?",
+        "english": "Want something or aren't you hungry? (casual)",
+        "breakdown": "بدك (you want, casual) + مش (not) — friend/family register, no formalities"
+      }
+    ]
+  }
+]
