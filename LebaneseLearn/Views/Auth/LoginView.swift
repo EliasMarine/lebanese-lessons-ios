@@ -47,6 +47,15 @@ struct LoginView: View {
                             .opacity(appeared ? 1 : 0)
 
                         Spacer()
+                            .frame(height: 32)
+
+                        // MARK: Preview Mode (Dev Only)
+                        #if DEBUG
+                        previewModeButton
+                            .opacity(appeared ? 1 : 0)
+                        #endif
+
+                        Spacer()
                             .frame(height: 40)
                     }
                     .padding(.horizontal, Theme.spacingLG)
@@ -189,6 +198,40 @@ struct LoginView: View {
             }
         }
     }
+
+    // MARK: - Preview Mode Button
+
+    #if DEBUG
+    private var previewModeButton: some View {
+        VStack(spacing: 8) {
+            Divider()
+                .padding(.horizontal, 40)
+
+            Button {
+                authService.loginAsPreviewUser()
+            } label: {
+                HStack(spacing: 6) {
+                    Image(systemName: "eye.fill")
+                    Text("Preview Mode")
+                        .font(.nunito(14, weight: .semibold))
+                }
+                .foregroundStyle(Theme.textSecondary(for: colorScheme))
+                .padding(.vertical, 10)
+                .padding(.horizontal, 20)
+                .background(Theme.bgSurfaceAdaptive(for: colorScheme))
+                .clipShape(Capsule())
+                .overlay(
+                    Capsule()
+                        .strokeBorder(Theme.border(for: colorScheme), lineWidth: 1)
+                )
+            }
+
+            Text("Explore the app with sample data")
+                .font(.caption2)
+                .foregroundStyle(Theme.textSecondary(for: colorScheme).opacity(0.7))
+        }
+    }
+    #endif
 
     // MARK: - Error Banner
 

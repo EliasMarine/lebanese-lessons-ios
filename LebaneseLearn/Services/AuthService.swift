@@ -25,6 +25,26 @@ final class AuthService: @unchecked Sendable {
         loadCachedUser()
     }
 
+    // MARK: - Preview / Dev Mode
+
+    /// Sign in with a mock user for UI testing in the simulator.
+    /// Bypasses the API entirely — no server connection needed.
+    func loginAsPreviewUser() {
+        let mockUser = User(
+            id: "preview-user-001",
+            name: "Test User",
+            email: "test@lebaneselearn.com",
+            totalXP: 2350,
+            level: 6,
+            levelTitle: "Conversationalist",
+            levelProgress: LevelProgress(current: 600, needed: 1050, progress: 0.57),
+            streak: 12,
+            timezone: "America/Los_Angeles"
+        )
+        self.currentUser = mockUser
+        cacheUser(mockUser)
+    }
+
     // MARK: - Authentication
 
     /// Log in with email and password. Stores token and user on success.
