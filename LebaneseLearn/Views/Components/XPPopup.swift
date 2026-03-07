@@ -87,7 +87,7 @@ extension View {
         var body: some View {
             VStack {
                 Button("Show XP") { xp = 50 }
-                    .primaryButton()
+                    .glassButtonProminent()
                     .padding()
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity)

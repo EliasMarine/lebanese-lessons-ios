@@ -1,6 +1,5 @@
 import Foundation
 import AVFoundation
-import SwiftUI
 
 // MARK: - Audio Service
 
@@ -10,8 +9,6 @@ final class AudioService: @unchecked Sendable {
     static let shared = AudioService()
 
     private var audioPlayer: AVAudioPlayer?
-    private var urlPlayer: AVPlayer?
-
     private(set) var isPlaying = false
 
     private init() {
@@ -30,28 +27,18 @@ final class AudioService: @unchecked Sendable {
         }
     }
 
-    // MARK: - TTS (Text-to-Speech via API)
+    // MARK: - TTS (ElevenLabs with System Fallback)
 
-    /// Request TTS audio from the backend and play it.
-    /// The backend uses Google Cloud TTS (ar-XA-Wavenet-B) with browser Speech Synthesis fallback.
-    func speak(text: String) async {
+    /// Speak Arabic text using ElevenLabs, falling back to system voice.
+    func speak(_ text: String) async {
         isPlaying = true
         defer { isPlaying = false }
 
         do {
-            let api = APIService.shared
-            let body = TTSRequest(text: text)
-            let response: TTSResponse = try await api.post("/api/tts", body: body)
-
-            guard let audioData = Data(base64Encoded: response.audio) else {
-                print("[AudioService] Failed to decode base64 audio data")
-                return
-            }
-
+            let audioData = try await ElevenLabsService.shared.speak(text)
             await playAudioData(audioData)
         } catch {
-            print("[AudioService] TTS request failed: \(error.localizedDescription)")
-            // Fall back to iOS built-in speech synthesis
+            print("[AudioService] ElevenLabs TTS failed, using system voice: \(error.localizedDescription)")
             speakWithSystemVoice(text: text)
         }
     }
@@ -59,7 +46,7 @@ final class AudioService: @unchecked Sendable {
     /// Fallback: use iOS built-in AVSpeechSynthesizer for Arabic TTS.
     private func speakWithSystemVoice(text: String) {
         let utterance = AVSpeechUtterance(string: text)
-        utterance.voice = AVSpeechSynthesisVoice(language: "ar-001") // Modern Standard Arabic
+        utterance.voice = AVSpeechSynthesisVoice(language: "ar-001")
         utterance.rate = AVSpeechUtteranceDefaultSpeechRate * 0.85
         utterance.pitchMultiplier = 1.0
 
@@ -76,7 +63,6 @@ final class AudioService: @unchecked Sendable {
             audioPlayer?.prepareToPlay()
             audioPlayer?.play()
 
-            // Wait for playback to finish
             while audioPlayer?.isPlaying == true {
                 try? await Task.sleep(for: .milliseconds(100))
             }
@@ -85,33 +71,9 @@ final class AudioService: @unchecked Sendable {
         }
     }
 
-    // MARK: - Play Audio from URL
-
-    /// Play audio from a remote URL (e.g., pre-recorded pronunciation clips).
-    func playAudio(from url: URL) async {
-        isPlaying = true
-        defer { isPlaying = false }
-
-        let playerItem = AVPlayerItem(url: url)
-        urlPlayer = AVPlayer(playerItem: playerItem)
-        urlPlayer?.play()
-
-        // Wait for playback to complete
-        await withCheckedContinuation { continuation in
-            NotificationCenter.default.addObserver(
-                forName: .AVPlayerItemDidPlayToEndTime,
-                object: playerItem,
-                queue: .main
-            ) { _ in
-                continuation.resume()
-            }
-        }
-    }
-
     // MARK: - Local Sound Effects
 
-    /// Play a local sound effect by name (e.g., "correct", "wrong", "level-up").
-    /// Sound files should be added to the app bundle as .mp3 or .wav.
+    /// Play a local sound effect by name.
     func playSound(named name: String) {
         guard let url = Bundle.main.url(forResource: name, withExtension: "mp3")
                 ?? Bundle.main.url(forResource: name, withExtension: "wav")
@@ -132,22 +94,9 @@ final class AudioService: @unchecked Sendable {
 
     // MARK: - Stop
 
-    /// Stop any currently playing audio.
     func stop() {
         audioPlayer?.stop()
         audioPlayer = nil
-        urlPlayer?.pause()
-        urlPlayer = nil
         isPlaying = false
     }
-}
-
-// MARK: - TTS Request / Response
-
-private struct TTSRequest: Codable, Sendable {
-    let text: String
-}
-
-private struct TTSResponse: Codable, Sendable {
-    let audio: String // base64-encoded audio data
 }

@@ -1,87 +1,40 @@
 import SwiftUI
 
-// MARK: - Main Tab View
-
-/// Bottom tab bar with 5 sections, styled with the brand accent color.
 struct MainTabView: View {
-    @State private var selectedTab: Tab = .home
+    @State private var selectedTab = 0
 
     var body: some View {
         TabView(selection: $selectedTab) {
-            ForEach(Tab.allCases) { tab in
-                tab.destination
-                    .tabItem {
-                        Label(tab.title, systemImage: tab.icon)
-                    }
-                    .tag(tab)
+            Tab("Home", systemImage: "house.fill", value: 0) {
+                NavigationStack {
+                    DashboardView()
+                }
             }
-        }
-        .tint(Theme.brand)
-    }
-}
 
-// MARK: - Tab Definition
-
-extension MainTabView {
-
-    enum Tab: String, CaseIterable, Identifiable {
-        case home
-        case lessons
-        case review
-        case leaderboard
-        case profile
-
-        var id: String { rawValue }
-
-        var title: String {
-            switch self {
-            case .home:        return "Home"
-            case .lessons:     return "Lessons"
-            case .review:      return "Review"
-            case .leaderboard: return "Leaderboard"
-            case .profile:     return "Profile"
-            }
-        }
-
-        var icon: String {
-            switch self {
-            case .home:        return "house.fill"
-            case .lessons:     return "book.fill"
-            case .review:      return "brain.head.profile"
-            case .leaderboard: return "trophy.fill"
-            case .profile:     return "person.fill"
-            }
-        }
-
-        @ViewBuilder
-        var destination: some View {
-            switch self {
-            case .home:
-                DashboardView()
-            case .lessons:
+            Tab("Learn", systemImage: "book.fill", value: 1) {
                 NavigationStack {
                     LessonsListView()
                 }
-            case .review:
+            }
+
+            Tab("Review", systemImage: "brain.head.profile", value: 2) {
                 NavigationStack {
                     ReviewDashboardView()
                 }
-            case .leaderboard:
+            }
+
+            Tab("Rank", systemImage: "trophy.fill", value: 3) {
                 NavigationStack {
                     LeaderboardView()
                 }
-            case .profile:
+            }
+
+            Tab("Profile", systemImage: "person.fill", value: 4) {
                 NavigationStack {
                     ProfileView()
                 }
             }
         }
+        .tint(Theme.brand)
     }
-}
-
-// MARK: - Preview
-
-#Preview {
-    MainTabView()
-        .environment(AuthService())
 }
