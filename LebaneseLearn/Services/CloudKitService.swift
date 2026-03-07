@@ -2,7 +2,7 @@ import Foundation
 import CloudKit
 
 @Observable
-final class CloudKitService {
+final class CloudKitService: @unchecked Sendable {
     static let shared = CloudKitService()
 
     struct LeaderboardEntry: Identifiable, Sendable {

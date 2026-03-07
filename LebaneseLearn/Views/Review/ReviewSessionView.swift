@@ -4,8 +4,12 @@ import SwiftData
 struct ReviewSessionView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(\.dismiss) private var dismiss
-    @Query(filter: #Predicate<SRSCardRecord> { $0.nextReviewAt <= .now })
-    private var dueCards: [SRSCardRecord]
+    @Query private var allCards: [SRSCardRecord]
+
+    private var dueCards: [SRSCardRecord] {
+        let now = Date.now
+        return allCards.filter { $0.nextReviewAt <= now }
+    }
     @Query private var profiles: [UserProfile]
 
     private var profile: UserProfile? { profiles.first }

@@ -1,7 +1,7 @@
 import Foundation
 
 @Observable
-final class ContentManager {
+final class ContentManager: @unchecked Sendable {
     static let shared = ContentManager()
 
     private var phasesCache: [Phase]?
