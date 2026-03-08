@@ -3,14 +3,14 @@ import SwiftData
 
 @Model
 final class ExerciseResultRecord {
-    var phaseId: Int
-    var exerciseSetId: String
-    var exerciseType: String
-    var score: Int
-    var totalQuestions: Int
-    var correctAnswers: Int
-    var timeSpentSeconds: Int
-    var completedAt: Date
+    var phaseId: Int = 0
+    var exerciseSetId: String = ""
+    var exerciseType: String = ""
+    var score: Int = 0
+    var totalQuestions: Int = 0
+    var correctAnswers: Int = 0
+    var timeSpentSeconds: Int = 0
+    var completedAt: Date = Date()
 
     init(
         phaseId: Int,

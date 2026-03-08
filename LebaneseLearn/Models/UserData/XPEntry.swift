@@ -3,10 +3,10 @@ import SwiftData
 
 @Model
 final class XPEntry {
-    var amount: Int
-    var source: String
+    var amount: Int = 0
+    var source: String = ""
     var sourceId: String?
-    var earnedAt: Date
+    var earnedAt: Date = Date()
 
     init(amount: Int, source: String, sourceId: String? = nil) {
         self.amount = amount

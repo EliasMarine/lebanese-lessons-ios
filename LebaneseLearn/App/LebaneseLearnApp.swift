@@ -3,11 +3,10 @@ import SwiftData
 
 @main
 struct LebaneseLearnApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-        .modelContainer(for: [
+    let modelContainer: ModelContainer
+
+    init() {
+        let schema = Schema([
             UserProfile.self,
             LessonProgressRecord.self,
             SRSCardRecord.self,
@@ -18,5 +17,22 @@ struct LebaneseLearnApp: App {
             CompletedItemRecord.self,
             AIConversationRecord.self,
         ])
+        let config = ModelConfiguration(
+            schema: schema,
+            isStoredInMemoryOnly: false,
+            cloudKitDatabase: .none  // Local-only — we use CloudKit manually for leaderboards
+        )
+        do {
+            modelContainer = try ModelContainer(for: schema, configurations: [config])
+        } catch {
+            fatalError("Failed to create ModelContainer: \(error)")
+        }
+    }
+
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+        .modelContainer(modelContainer)
     }
 }

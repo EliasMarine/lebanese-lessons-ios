@@ -3,14 +3,14 @@ import SwiftData
 
 @Model
 final class SRSCardRecord {
-    @Attribute(.unique) var vocabItemId: String
-    var phaseId: Int
-    var easeFactor: Double
-    var interval: Int
-    var repetitions: Int
-    var nextReviewAt: Date
+    var vocabItemId: String = ""
+    var phaseId: Int = 0
+    var easeFactor: Double = 2.5
+    var interval: Int = 0
+    var repetitions: Int = 0
+    var nextReviewAt: Date = Date()
     var lastReviewedAt: Date?
-    var createdAt: Date
+    var createdAt: Date = Date()
 
     init(vocabItemId: String, phaseId: Int) {
         self.vocabItemId = vocabItemId

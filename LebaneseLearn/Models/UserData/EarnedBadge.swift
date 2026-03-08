@@ -3,8 +3,8 @@ import SwiftData
 
 @Model
 final class EarnedBadge {
-    @Attribute(.unique) var badgeId: String
-    var earnedAt: Date
+    var badgeId: String = ""
+    var earnedAt: Date = Date()
 
     init(badgeId: String) {
         self.badgeId = badgeId

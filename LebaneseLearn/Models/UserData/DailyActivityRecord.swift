@@ -3,10 +3,10 @@ import SwiftData
 
 @Model
 final class DailyActivityRecord {
-    @Attribute(.unique) var date: String
-    var minutesStudied: Int
-    var cardsReviewed: Int
-    var exercisesCompleted: Int
+    var date: String = ""
+    var minutesStudied: Int = 0
+    var cardsReviewed: Int = 0
+    var exercisesCompleted: Int = 0
 
     init(date: String) {
         self.date = date

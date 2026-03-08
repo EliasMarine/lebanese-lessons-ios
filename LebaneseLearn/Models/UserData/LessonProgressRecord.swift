@@ -3,13 +3,13 @@ import SwiftData
 
 @Model
 final class LessonProgressRecord {
-    @Attribute(.unique) var uniqueKey: String
-    var phaseId: Int
-    var exerciseSetId: String
-    var completed: Bool
-    var bestScore: Int
-    var attempts: Int
-    var lastAttemptDate: Date
+    var uniqueKey: String = ""
+    var phaseId: Int = 0
+    var exerciseSetId: String = ""
+    var completed: Bool = false
+    var bestScore: Int = 0
+    var attempts: Int = 0
+    var lastAttemptDate: Date = Date()
 
     init(phaseId: Int, exerciseSetId: String) {
         self.uniqueKey = "\(phaseId)-\(exerciseSetId)"

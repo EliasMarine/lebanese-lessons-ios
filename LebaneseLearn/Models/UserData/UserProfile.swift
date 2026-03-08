@@ -3,18 +3,18 @@ import SwiftData
 
 @Model
 final class UserProfile {
-    var name: String
-    var totalXP: Int
-    var level: Int
-    var levelTitle: String
-    var currentXPInLevel: Int
-    var xpNeededForLevel: Int
-    var streak: Int
-    var longestStreak: Int
-    var studyGoalMinutes: Int
+    var name: String = ""
+    var totalXP: Int = 0
+    var level: Int = 1
+    var levelTitle: String = "Beginner"
+    var currentXPInLevel: Int = 0
+    var xpNeededForLevel: Int = 200
+    var streak: Int = 0
+    var longestStreak: Int = 0
+    var studyGoalMinutes: Int = 10
     var lastStudyDate: Date?
-    var hasCompletedOnboarding: Bool
-    var createdAt: Date
+    var hasCompletedOnboarding: Bool = false
+    var createdAt: Date = Date()
 
     init(
         name: String,
