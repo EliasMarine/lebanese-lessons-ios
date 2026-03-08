@@ -175,7 +175,8 @@ struct DialogueView: View {
                 .regular.tint(isEven ? Theme.electricBlue : Theme.hotPink),
                 in: .rect(cornerRadius: Theme.cardRadius)
             )
-            .frame(maxWidth: UIScreen.main.bounds.width * 0.8, alignment: isEven ? .leading : .trailing)
+            .containerRelativeFrame(.horizontal) { width, _ in width * 0.8 }
+            .frame(maxWidth: .infinity, alignment: isEven ? .leading : .trailing)
 
             if isEven { Spacer() }
         }
