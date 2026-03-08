@@ -1,0 +1,268 @@
+[
+  {
+    "id": "p5-grammar-unreal-conditional",
+    "phaseId": 5,
+    "title": "Unreal Conditional — لو (law)",
+    "tag": "Advanced",
+    "explanation": "لو (law) introduces hypothetical or unreal conditions — things that are unlikely, impossible, or contrary to fact. Compare with إذا (iza), which is for real possibilities. لو + past tense = 'if (hypothetically)...' The result clause often uses كان (kēn) + past verb.",
+    "table": {
+      "headers": [
+        "Word",
+        "Usage",
+        "Example"
+      ],
+      "rows": [
+        [
+          "إذا",
+          "Real / possible condition",
+          "إذا اجا، منحكي — If he comes, we'll talk"
+        ],
+        [
+          "لو",
+          "Unreal / hypothetical",
+          "لو اجا، كنا حكينا — If he had come, we would have talked"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "لو كنت محلك، ما كنت عملت هيك",
+        "transliteration": "law kint maḥallak, mā kint ʕmilt hēk",
+        "english": "If I were you, I wouldn't have done that",
+        "breakdown": "لو (if) + كنت محلك (I were in your place) — ما كنت عملت (I wouldn't have done) + هيك (like this)"
+      },
+      {
+        "arabic": "لو عرفت من قبل، كنت جيت",
+        "transliteration": "law ʕrift min ʔabil, kint jīt",
+        "english": "If I had known before, I would have come",
+        "breakdown": "لو (if) + عرفت (I knew) + من قبل (before) — كنت جيت (I would have come)"
+      },
+      {
+        "arabic": "لو في وقت، كنا رحنا عالجبل",
+        "transliteration": "law fī waʔt, kinna ruḥna ʕal-jabal",
+        "english": "If there were time, we would have gone to the mountains",
+        "breakdown": "لو (if) + في وقت (there were time) — كنا رحنا (we would have gone)"
+      },
+      {
+        "arabic": "لو ما حكيت، ما كان عرف",
+        "transliteration": "law mā ḥkīt, mā kēn ʕirif",
+        "english": "If I hadn't spoken, he wouldn't have found out",
+        "breakdown": "لو ما (if not) + حكيت (I spoke) — ما كان عرف (he wouldn't have known)"
+      }
+    ]
+  },
+  {
+    "id": "p5-grammar-reported-speech",
+    "phaseId": 5,
+    "title": "Reported Speech — قال إنو / قلتلو",
+    "tag": "Conversation",
+    "explanation": "To report what someone said, Lebanese Arabic uses قال (ʔēl, he said) + إنو (inno, that). The verb قال takes indirect object pronoun suffixes on the preposition لـ: قلتلو (I told him), قالتلي (she told me), قالولي (they told me). إنو may be dropped in casual speech.",
+    "table": {
+      "headers": [
+        "Form",
+        "Phonetic",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "قلتلو",
+          "ʔiltillo",
+          "I told him"
+        ],
+        [
+          "قلتلا",
+          "ʔiltilla",
+          "I told her"
+        ],
+        [
+          "قالتلي",
+          "ʔēletli",
+          "she told me"
+        ],
+        [
+          "قالولي",
+          "ʔēlūli",
+          "they told me"
+        ],
+        [
+          "قلتلن",
+          "ʔiltillon",
+          "I told them"
+        ],
+        [
+          "قلنالو",
+          "ʔilnēlo",
+          "we told him"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "قلتلا إنو مش رح فوت",
+        "transliteration": "ʔiltilla inno mish raḥ fūt",
+        "english": "I told her that I won't go in",
+        "breakdown": "قلتلا (I told her) + إنو (that) + مش رح فوت (I won't enter)"
+      },
+      {
+        "arabic": "قالولي إنو بكير",
+        "transliteration": "ʔēlūli inno bakkīr",
+        "english": "They told me it's early",
+        "breakdown": "قالولي (they told me) + إنو (that) + بكير (early)"
+      },
+      {
+        "arabic": "قالتلي إنا مريضة",
+        "transliteration": "ʔēletli inna marīḍa",
+        "english": "She told me she's sick",
+        "breakdown": "قالتلي (she told me) + إنا (that she) + مريضة (sick)"
+      },
+      {
+        "arabic": "قلنالو يستنى شوي",
+        "transliteration": "ʔilnēlo yistanna shwayy",
+        "english": "We told him to wait a bit",
+        "breakdown": "قلنالو (we told him) + يستنى (to wait) + شوي (a bit)"
+      }
+    ]
+  },
+  {
+    "id": "p5-grammar-emphasis",
+    "phaseId": 5,
+    "title": "Emphatic Structures — شو ما / وين ما / كيف ما",
+    "tag": "Native-Sounding",
+    "explanation": "Adding ما (ma) after question words creates emphatic 'ever' constructions: شو ما = whatever, وين ما = wherever, كيف ما = however. These add a sense of totality or indifference. هلقد (halʔadd) means 'this much' and أد (add) means 'as much as.'",
+    "examples": [
+      {
+        "arabic": "شو ما كان، أنا معك",
+        "transliteration": "shū ma kēn, ana maʕak",
+        "english": "Whatever happens, I'm with you",
+        "breakdown": "شو ما (whatever) + كان (it was/happens) — أنا معك (I'm with you)"
+      },
+      {
+        "arabic": "وين ما رحت، بتلاقي لبنانيين",
+        "transliteration": "wēn ma ruḥt, btlēʔi libnēniyyīn",
+        "english": "Wherever you go, you find Lebanese people",
+        "breakdown": "وين ما (wherever) + رحت (you went) — بتلاقي (you find) + لبنانيين (Lebanese)"
+      },
+      {
+        "arabic": "كيف ما بدك",
+        "transliteration": "kīf ma baddak",
+        "english": "However you want / any way you like",
+        "breakdown": "كيف ما (however) + بدك (you want)"
+      },
+      {
+        "arabic": "ما كنت متوقع هلقد حلو",
+        "transliteration": "mā kint mitwaqquʕ halʔadd ḥilu",
+        "english": "I didn't expect it to be this nice",
+        "breakdown": "ما كنت (I wasn't) + متوقع (expecting) + هلقد (this much) + حلو (nice)"
+      },
+      {
+        "arabic": "أد ما بتحاول، بيضل صعب",
+        "transliteration": "add ma btḥēwil, byiḍall ṣaʕb",
+        "english": "No matter how much you try, it stays difficult",
+        "breakdown": "أد ما (as much as) + بتحاول (you try) — بيضل (it stays) + صعب (difficult)"
+      }
+    ]
+  },
+  {
+    "id": "p5-grammar-discourse-markers",
+    "phaseId": 5,
+    "title": "Discourse Markers — The Glue of Fluency",
+    "tag": "Fluency",
+    "explanation": "Lebanese conversation is held together by small words that signal attitude, transition, or emphasis. Mastering these is what separates textbook Arabic from real Lebanese speech. They appear constantly and carry social as much as grammatical meaning.",
+    "table": {
+      "headers": [
+        "Marker",
+        "Phonetic",
+        "Meaning",
+        "When to Use"
+      ],
+      "rows": [
+        [
+          "طيب",
+          "ṭayyeb",
+          "okay / so / alright",
+          "Starting a new topic or agreeing"
+        ],
+        [
+          "هلق",
+          "halla'",
+          "now / so now",
+          "Transitioning to the present moment"
+        ],
+        [
+          "عنجد",
+          "ʕanjad",
+          "seriously / for real",
+          "Emphasizing sincerity or surprise"
+        ],
+        [
+          "خلص",
+          "khalaṣ",
+          "done / enough / that's it",
+          "Ending a topic or expressing finality"
+        ],
+        [
+          "الله",
+          "alla",
+          "wow / God",
+          "Expressing admiration or surprise"
+        ],
+        [
+          "يعني",
+          "yaʕni",
+          "I mean / like",
+          "Explaining, hedging, or filling pauses"
+        ],
+        [
+          "هيك",
+          "hēk",
+          "like this / so",
+          "Demonstrating or summarizing"
+        ],
+        [
+          "أي",
+          "ē",
+          "yeah / yes",
+          "Casual agreement"
+        ],
+        [
+          "ماشي",
+          "mēshi",
+          "alright / fine / got it",
+          "Accepting or acknowledging"
+        ],
+        [
+          "يلا",
+          "yalla",
+          "let's go / come on",
+          "Urging action or saying goodbye"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "arabic": "طيب، هلق شو منعمل؟",
+        "transliteration": "ṭayyeb, halla' shū mnaʕmal?",
+        "english": "Okay, so what do we do now?",
+        "breakdown": "طيب (okay) + هلق (now) — two markers opening a transition"
+      },
+      {
+        "arabic": "عنجد؟ ما صدقت!",
+        "transliteration": "ʕanjad? mā ṣaddaʔt!",
+        "english": "Seriously? I can't believe it!",
+        "breakdown": "عنجد (seriously) — expressing genuine surprise"
+      },
+      {
+        "arabic": "خلص، يلا نروح",
+        "transliteration": "khalaṣ, yalla nrūḥ",
+        "english": "Alright, let's go",
+        "breakdown": "خلص (done/enough) + يلا (let's go) — closing and moving on"
+      },
+      {
+        "arabic": "هيك الموضوع، يعني مش صعب",
+        "transliteration": "hēk il-mawḍūʕ, yaʕni mish ṣaʕb",
+        "english": "That's the deal, I mean it's not hard",
+        "breakdown": "هيك (like this) + يعني (I mean) — casual summarizing"
+      }
+    ]
+  }
+]

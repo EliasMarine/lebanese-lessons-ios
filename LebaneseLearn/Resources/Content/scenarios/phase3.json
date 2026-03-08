@@ -1,0 +1,649 @@
+[
+  {
+    "id": "p3-scenario-family-dinner",
+    "phaseId": 3,
+    "title": "Family Gathering Dinner",
+    "titleArabic": "عزومة عيلة",
+    "setting": "A family home nestled in the mountains above Beirut on a sunny Sunday afternoon. Your tante has invited the whole family for a big lunch. The table is being set on the terrace overlooking the valley, and the aroma of grilled meat, tabbouleh, and kibbeh fills the air.",
+    "branches": [
+      {
+        "id": "p3-scenario-family-dinner-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "يَوم الأَحَد، وْصِلت عَبيت تانتِك بِالجَبَل. العيلة كِلّا مُجتَمعة عَالغَدا. سِمعت ضِحِك وْحَكي مِن التَّراس.",
+        "transliteration": "Yōm il-aḥad, wṣilt ʕa bēt tāntak bil-jabal. Il-ʕēle killa mujtamʕa ʕal-ghada. Smiʕit ḍiḥk w ḥakī min it-terrās.",
+        "english": "Sunday — you arrive at your aunt's house in the mountains. The whole family is gathered for lunch. You hear laughter and conversation from the terrace."
+      },
+      {
+        "id": "p3-scenario-family-dinner-2",
+        "speaker": "Tante Hala",
+        "speakerRole": "b",
+        "arabic": "يييي أَهلاً وْسَهلاً حَبيبي! وْصِلت أَخيراً! تعا تعا، تفَضَّل عَالتَّراس!",
+        "transliteration": "Yīīī ahla w sahla ḥabībī! Wṣilt akhīran! Taʕa taʕa, tfaḍḍal ʕat-terrās!",
+        "english": "Ohhh welcome my dear! You finally arrived! Come come, head to the terrace!",
+        "culturalTip": "Lebanese family greetings are loud, warm, and physical — expect lots of kisses on the cheeks (usually three) and exclamations. 'Tfaḍḍal' means 'please, go ahead / come in' and is the single most important hospitality word."
+      },
+      {
+        "id": "p3-scenario-family-dinner-3",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "How do you greet your aunt?",
+        "choices": [
+          {
+            "text": "Warm greeting with apology for being late",
+            "textArabic": "أَهلاً تانتي! سوري تأَخَّرت، كان في زَحمة عَالطَّريق.",
+            "textTransliteration": "Ahla tāntī! Sorrī taʔakhkhart, kēn fī zaḥme ʕaṭ-ṭarīʔ.",
+            "nextBranchId": "p3-scenario-family-dinner-4",
+            "culturalNote": "Blaming traffic is the universal Lebanese excuse for being late — and it is almost always true."
+          },
+          {
+            "text": "Enthusiastic greeting with a compliment about the food",
+            "textArabic": "تانتي! كتير مِشتاقِلِك! شو حِلو البيت، ريحة الأَكِل خَيال!",
+            "textTransliteration": "Tāntī! Ktīr mishtāʔlik! Shū ḥilw il-bēt, rīḥit il-akl khayēl!",
+            "nextBranchId": "p3-scenario-family-dinner-4",
+            "culturalNote": "Complimenting the host's home and the smell of their cooking is deeply appreciated in Lebanese culture."
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-family-dinner-4",
+        "speaker": "3ammo Georges",
+        "speakerRole": "b",
+        "arabic": "كيفَك يا زَلَمي! شو ها الغيبة؟ ما عَم نشوفَك! يَلّا تعال اُقعُد حَدّي، خَبِّرني شو عَم تَعمُل.",
+        "transliteration": "Kīfak ya zalamī! Shū ha l-ghēbe? Ma ʕam nshūfak! Yalla taʕāl uʔʕod ḥaddī, khabbirnī shū ʕam taʕmol.",
+        "english": "How are you man! What's with the absence? We don't see you! Come sit next to me, tell me what you're up to.",
+        "culturalTip": "'ʕAmmū' (عَمّو) literally means 'uncle' but is used broadly as a term of respect and warmth for older men, even non-relatives. 'Ya zalamī' is a friendly way to say 'my man / dude.'"
+      },
+      {
+        "id": "p3-scenario-family-dinner-5",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "How do you respond to your uncle?",
+        "choices": [
+          {
+            "text": "Talk about work being busy",
+            "textArabic": "وَالله يا عَمّو الشُّغُل كتير هَالفَترة. بَس عَ أَساس رَح فَضّي حالي أَكتَر.",
+            "textTransliteration": "Walla ya ʕammū ish-shughul ktīr hal-fatra. Bass ʕa asēs raḥ faḍḍī ḥālī aktar.",
+            "nextBranchId": "p3-scenario-family-dinner-6"
+          },
+          {
+            "text": "Say you've been traveling",
+            "textArabic": "كِنت مسافِر فَترة، بَس هَلَّق رِجِعت والحَمدِلله. مِشتاق لَلعيلة كِلّا.",
+            "textTransliteration": "Kint msēfir fatra, bass hallaʔ rjiʕit wil-ḥamdilla. Mishtēʔ lal-ʕēle killa.",
+            "nextBranchId": "p3-scenario-family-dinner-6"
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-family-dinner-6",
+        "speaker": "Tante Hala",
+        "speakerRole": "b",
+        "arabic": "يَلّا شَباب ساعدوني فِرشو الطاوِلة! الأَكِل تَقريباً جاهِز. في تَبّولة وحُمُّص ومَشاوي وكِبّة.",
+        "transliteration": "Yalla shabēb sēʕdūnī firshu iṭ-ṭāwle! Il-akl taʔrīban jēhiz. Fī tabbūle w ḥummuṣ w mashēwī w kibbe.",
+        "english": "Come on guys, help me set the table! The food is almost ready. There's tabbouleh, hummus, grills, and kibbeh.",
+        "culturalTip": "In Lebanese gatherings, everyone is expected to help — setting the table, bringing dishes, clearing plates. Sitting idle while the host works would be seen as rude."
+      },
+      {
+        "id": "p3-scenario-family-dinner-7",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "أَكيد تانتي! شو بَدِّك ياني جيب؟ الصحون وِلّا الكاسات؟",
+        "transliteration": "Akīd tāntī! Shū baddik yēnī jīb? Iṣ-ṣḥūn walla il-kēsēt?",
+        "english": "Of course auntie! What do you want me to bring? The plates or the glasses?"
+      },
+      {
+        "id": "p3-scenario-family-dinner-8",
+        "speaker": "Tante Hala",
+        "speakerRole": "b",
+        "arabic": "جيب الصحون مِن المَطبَخ يا عَيني. يَلّا اُقعُدو كِلكُن! صَحتين!",
+        "transliteration": "Jīb iṣ-ṣḥūn min il-maṭbakh ya ʕaynī. Yalla uʔʕudū killkun! Ṣaḥtayn!",
+        "english": "Bring the plates from the kitchen dear. Everyone sit down! Bon appetit!"
+      },
+      {
+        "id": "p3-scenario-family-dinner-9",
+        "speaker": "3ammo Georges",
+        "speakerRole": "b",
+        "arabic": "شو رَأيَك بِالكِبّة يا ابني؟ تانتِك بتَعمُل أَحسَن كِبّة بِالجَبَل كِلّو! لا بَل بلِبنان كِلّو!",
+        "transliteration": "Shū raʔyak bil-kibbe ya ibnī? Tāntak btaʕmol aḥsan kibbe bil-jabal killo! La bal b-Lubnēn killo!",
+        "english": "What do you think of the kibbeh son? Your aunt makes the best kibbeh in the whole mountain! No, in all of Lebanon!",
+        "culturalTip": "Lebanese people take immense pride in their cooking. Complimenting the food — especially generously — is not just polite, it is expected. Understating your enjoyment would be almost offensive."
+      },
+      {
+        "id": "p3-scenario-family-dinner-10",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "How do you praise the food?",
+        "choices": [
+          {
+            "text": "Lavish compliment comparing it to restaurants",
+            "textArabic": "وَالله يا عَمّو طَبخة تانتي أَحسَن مِن أَي مَطعَم! الكِبّة بتِدوب بِالتِّم.",
+            "textTransliteration": "Walla ya ʕammū ṭabkhet tāntī aḥsan min ayy maṭʕam! Il-kibbe btdūb bit-timm.",
+            "nextBranchId": "p3-scenario-family-dinner-11",
+            "culturalNote": "Saying food 'melts in the mouth' (btdūb bit-timm) is a classic Lebanese food compliment."
+          },
+          {
+            "text": "Ask for the recipe to show deep appreciation",
+            "textArabic": "كتير طَيِّبة! يا ريت تعَلِّمني كيف بتَعمِلها، لأَنّو بَدّي عمَلها بِالبيت.",
+            "textTransliteration": "Ktīr ṭayyibe! Ya rēt tʕallmīnī kīf btaʕmlīha, laʔanno baddī ʕamalha bil-bēt.",
+            "nextBranchId": "p3-scenario-family-dinner-11",
+            "culturalNote": "Asking for the recipe is one of the highest compliments you can pay a Lebanese cook."
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-family-dinner-11",
+        "speaker": "Tante Hala",
+        "speakerRole": "b",
+        "arabic": "تِسلَم! كول كَمان، في كتير. لا تِخجَل! بَدَّك كَمان تَبّولة؟ شوَي حُمُّص كَمان؟",
+        "transliteration": "Tislam! Kūl kamēn, fī ktīr. La tikhjal! Baddak kamēn tabbūle? Shwayy ḥummuṣ kamēn?",
+        "english": "Bless you! Eat more, there's plenty. Don't be shy! Do you want more tabbouleh? A little more hummus too?",
+        "culturalTip": "In Lebanon, the host will insist you eat more — sometimes aggressively. Saying 'no' once is never enough. You must refuse at least two or three times before they accept that you are truly full. This is the famous 'refuse three times' custom."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What does 'tfaḍḍal' mean in the context of a family gathering?",
+        "options": [
+          "Goodbye, see you later",
+          "Please come in / go ahead (hospitality phrase)",
+          "The food is bad",
+          "I don't want to eat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does 'ʕammū' (عَمّو) refer to in Lebanese conversation?",
+        "options": [
+          "A stranger you dislike",
+          "Only your biological uncle",
+          "A term of respect and warmth for older men, even non-relatives",
+          "A formal title for a boss"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "Why should you refuse food multiple times before the host accepts 'no'?",
+        "options": [
+          "Because the food is not good",
+          "Because it is the Lebanese custom — hosts insist and guests refuse about three times",
+          "Because you should never eat at someone's home",
+          "Because you need permission from the eldest"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "عَزومة",
+        "transliteration": "ʕazūme",
+        "english": "gathering / invitation to eat"
+      },
+      {
+        "arabic": "أَهلاً وسَهلاً",
+        "transliteration": "ahla w sahla",
+        "english": "welcome"
+      },
+      {
+        "arabic": "تفَضَّل",
+        "transliteration": "tfaḍḍal",
+        "english": "please / go ahead / come in"
+      },
+      {
+        "arabic": "طَبخة",
+        "transliteration": "ṭabkha",
+        "english": "a cooked dish / cooking"
+      },
+      {
+        "arabic": "صَحتين",
+        "transliteration": "ṣaḥtayn",
+        "english": "bon appetit (lit. two healths)"
+      },
+      {
+        "arabic": "عَمّو",
+        "transliteration": "ʕammū",
+        "english": "uncle / respectful term for older man"
+      },
+      {
+        "arabic": "تانتي",
+        "transliteration": "tāntī",
+        "english": "auntie (from French 'tante')"
+      },
+      {
+        "arabic": "عَ أَساس",
+        "transliteration": "ʕa asēs",
+        "english": "supposedly / planning to"
+      }
+    ]
+  },
+  {
+    "id": "p3-scenario-whatsapp",
+    "phaseId": 3,
+    "title": "Making Plans on WhatsApp",
+    "titleArabic": "تنظيم عالواتساب",
+    "setting": "A WhatsApp group chat called 'Il-Shabēb' (The Crew) with your Lebanese friends. It is Wednesday evening and someone wants to plan something for the weekend. Messages start flying in.",
+    "branches": [
+      {
+        "id": "p3-scenario-whatsapp-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "يَوم الأَربعا بِاللَّيل. رَنّ تَلَفونَك — رِسالة جديدة بغروب 'الشَّباب' عَالواتساب.",
+        "transliteration": "Yōm il-arbiʕa bil-layl. Rann talafonak — risēle jdīde b-grūp 'ish-shabēb' ʕal-wātsāb.",
+        "english": "Wednesday evening. Your phone buzzes — a new message in 'The Crew' group on WhatsApp."
+      },
+      {
+        "id": "p3-scenario-whatsapp-2",
+        "speaker": "Rami",
+        "speakerRole": "b",
+        "arabic": "شَباب شو عَم تَعمُلو السَّبت؟ يَلّا نَعمُل شي! صار صَرلنا زَمان ما طِلِعنا سَوا.",
+        "transliteration": "Shabēb shū ʕam taʕmlū is-sabt? Yalla naʕmol shī! Ṣār ṣarlna zamēn ma ṭliʕna sawa.",
+        "english": "Guys what are you doing Saturday? Let's do something! It's been a while since we went out together."
+      },
+      {
+        "id": "p3-scenario-whatsapp-3",
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "أَنا مَع! بَقتَرِح نروح عَالبَحِر، الطَّقس رَح يكون حِلو إِن شاء الله. بيروت عَم تشوب!",
+        "transliteration": "Ana maʕ! Baʔtriḥ nrūḥ ʕal-baḥr, iṭ-ṭaʔs raḥ ykūn ḥilw in shāʔ Allāh. Bayrūt ʕam tshūb!",
+        "english": "I'm in! I suggest we go to the beach, the weather will be nice God willing. Beirut is boiling!",
+        "culturalTip": "Lebanese people are spontaneous planners. Group chats are the primary tool for coordinating weekend outings, and plans can change five times before they are finalized."
+      },
+      {
+        "id": "p3-scenario-whatsapp-4",
+        "speaker": "Karim",
+        "speakerRole": "b",
+        "arabic": "البَحِر بعيد يا جَماعة. شو رَأيكُن بِالجَبَل؟ مِنقِدَر نِطلَع عَالأَرِز ونِتغَدّى هنيك.",
+        "transliteration": "Il-baḥr bʕīd ya jamēʕa. Shū raʔykon bil-jabal? Mnaʔdar niṭlaʕ ʕal-arz w nitghadda hnīk.",
+        "english": "The beach is far guys. What about the mountains? We could go up to the Cedars and have lunch there."
+      },
+      {
+        "id": "p3-scenario-whatsapp-5",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Whose plan do you support?",
+        "choices": [
+          {
+            "text": "Support the beach plan",
+            "textArabic": "أَنا مَع لينا. يَلّا عَالبَحِر! الجَبَل مِنقِدَر نروحلو أَي وَقت، بَس هالطَّقس لازِم نِستَغِلّو.",
+            "textTransliteration": "Ana maʕ Līna. Yalla ʕal-baḥr! Il-jabal mnaʔdar nrūḥlo ayy waʔt, bass hal-ṭaʔs lēzim nstaghillo.",
+            "nextBranchId": "p3-scenario-whatsapp-6"
+          },
+          {
+            "text": "Support the mountain plan",
+            "textArabic": "لأ خَلّونا نِطلَع عَالجَبَل، لأَنّو بِالبَحِر في ناس كتير السَّبت. بِالجَبَل أَحلى وأَهدى.",
+            "textTransliteration": "Laʔ khallūna niṭlaʕ ʕal-jabal, laʔanno bil-baḥr fī nēs ktīr is-sabt. Bil-jabal aḥla w ahda.",
+            "nextBranchId": "p3-scenario-whatsapp-6"
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-whatsapp-6",
+        "speaker": "Rami",
+        "speakerRole": "b",
+        "arabic": "طَيِّب خَلّونا نَحسِمها — بَحِر وِلّا جَبَل؟ اللي بيِقدَر يوَصِّل يِحكي. أَنا مَعي سَيّارة بَس بتفوت ٤ بِالكتير.",
+        "transliteration": "Ṭayyeb khallūna naḥsimha — baḥr walla jabal? Illī byiʔdar ywaṣṣil yaḥkī. Ana maʕī sayyāra bass btfūt arbaʕa bil-ktīr.",
+        "english": "Okay let's decide — beach or mountain? Whoever can drive, speak up. I have a car but it fits 4 max.",
+        "culturalTip": "Car logistics dominate Lebanese group planning. With limited public transport, who can drive and how many seats they have often determines what the group does."
+      },
+      {
+        "id": "p3-scenario-whatsapp-7",
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "أَنا ما مَعي سَيّارة، بَس بِقدَر حُطّ عَالبَنزين. قَدّيش مِنّا؟",
+        "transliteration": "Ana ma maʕī sayyāra, bass baʔdar ḥuṭṭ ʕal-benzīn. Addaysh minna?",
+        "english": "I don't have a car, but I can chip in for gas. How many of us are there?"
+      },
+      {
+        "id": "p3-scenario-whatsapp-8",
+        "speaker": "Karim",
+        "speakerRole": "b",
+        "arabic": "أَنا كَمان مَعي سَيّارة. يَعني بسَيّارتين مناخُد الكِل. بَس قَدّيش الساعة بَدنا نِطلَع؟",
+        "transliteration": "Ana kamēn maʕī sayyāra. Yaʕnī b-sayyartayn mnēkhod il-kill. Bass addaysh is-sēʕa baddna niṭlaʕ?",
+        "english": "I also have a car. So with two cars we can take everyone. But what time do we want to leave?"
+      },
+      {
+        "id": "p3-scenario-whatsapp-9",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "What time do you suggest?",
+        "choices": [
+          {
+            "text": "Suggest an early start",
+            "textArabic": "يَلّا نِطلَع الساعة ٨ الصُّبح، هيك مِنوصَل بَكّير ومِنلاقي مَحَل.",
+            "textTransliteration": "Yalla niṭlaʕ is-sēʕa tmēne iṣ-ṣubiḥ, hēk mnūṣal bakkīr w mnlēʔī maḥall.",
+            "nextBranchId": "p3-scenario-whatsapp-10"
+          },
+          {
+            "text": "Suggest a relaxed late morning",
+            "textArabic": "مِش لازِم بَكّير كتير. خَلّونا نقول ١٠ ونُص، عَ أَساس الكِل يكون صاحي.",
+            "textTransliteration": "Mish lēzim bakkīr ktīr. Khallūna nʔūl ʕashara w nuṣṣ, ʕa asēs il-kill ykūn ṣāḥī.",
+            "nextBranchId": "p3-scenario-whatsapp-10",
+            "culturalNote": "In Lebanon, if you say '10:30' expect everyone to actually be ready by noon. Being fashionably late is deeply ingrained in the culture — nobody takes scheduled times literally."
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-whatsapp-10",
+        "speaker": "Rami",
+        "speakerRole": "b",
+        "arabic": "ماشي خَلَص تمام! كِل واحَد يجيب أَكلو مَعو — سَندويشات وشيبس وْمَي. وأَنا بجيب المَتّة!",
+        "transliteration": "Mēshī khalaṣ tamēm! Kill wēḥad yjīb aklo maʕo — sandwīshēt w shīps w mayy. W ana bjīb il-matte!",
+        "english": "Alright perfect! Everyone bring their own food — sandwiches, chips, and water. And I'll bring the mate!",
+        "culturalTip": "Mate (yerba mate tea) is hugely popular in Lebanon, especially in the Druze and Southern communities. It was brought by Lebanese emigrants returning from South America."
+      },
+      {
+        "id": "p3-scenario-whatsapp-11",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "تمام! أَنا بجيب الفَواكِه والعَصير. يَلّا نِتلاقى السَّبت!",
+        "transliteration": "Tamēm! Ana bjīb il-fawēkih wil-ʕaṣīr. Yalla nitlēʔa is-sabt!",
+        "english": "Perfect! I'll bring the fruit and juice. See you Saturday!"
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What does 'addaysh is-sēʕa baddna niṭlaʕ?' mean?",
+        "options": [
+          "How much does it cost to go?",
+          "What time do we want to leave?",
+          "How far is it from here?",
+          "Who is driving us?"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does car logistics dominate Lebanese group planning?",
+        "options": [
+          "Because everyone loves driving",
+          "Because cars are very cheap in Lebanon",
+          "Because public transport is limited, so who can drive determines plans",
+          "Because it is illegal to walk in Lebanon"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does 'ʕa asēs' mean in the conversation?",
+        "options": [
+          "Absolutely not",
+          "Supposedly / so that / the idea being",
+          "I refuse",
+          "Last time"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "غروب",
+        "transliteration": "grūp",
+        "english": "group (chat)"
+      },
+      {
+        "arabic": "بَحِر",
+        "transliteration": "baḥr",
+        "english": "sea / beach"
+      },
+      {
+        "arabic": "جَبَل",
+        "transliteration": "jabal",
+        "english": "mountain"
+      },
+      {
+        "arabic": "يَلّا",
+        "transliteration": "yalla",
+        "english": "let's go / come on"
+      },
+      {
+        "arabic": "مَعَك سَيّارة",
+        "transliteration": "maʕak sayyāra",
+        "english": "do you have a car?"
+      },
+      {
+        "arabic": "قَدّيش الساعة",
+        "transliteration": "addaysh is-sēʕa",
+        "english": "what time?"
+      },
+      {
+        "arabic": "مِنقِدَر",
+        "transliteration": "mnaʔdar",
+        "english": "we can"
+      },
+      {
+        "arabic": "عَ أَساس",
+        "transliteration": "ʕa asēs",
+        "english": "supposedly / so that"
+      }
+    ]
+  },
+  {
+    "id": "p3-scenario-souk",
+    "phaseId": 3,
+    "title": "Haggling at the Souk",
+    "titleArabic": "بالسوق",
+    "setting": "The old souk in Tripoli (Trablous), a labyrinth of narrow alleys lined with spice shops, fabric vendors, and souvenir stalls. It is midday and the market is alive with vendors calling out to passersby. You are looking for spices and a gift for a friend.",
+    "branches": [
+      {
+        "id": "p3-scenario-souk-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "وْصِلت عَالسوق القَديم بطَرابلُس. الزَّواريب ضَيّقين وريحة البَهارات بكِل مَحَل. في بَيّاعة عَم يِنادو عَالناس.",
+        "transliteration": "Wṣilt ʕas-sūʔ il-ʔadīm b-Ṭrāblus. Iz-zwērīb ḍayyʔīn w rīḥit il-bhārāt b-kill maḥall. Fī bayyēʕa ʕam ynēdū ʕan-nēs.",
+        "english": "You arrive at the old souk in Tripoli. The alleys are narrow and the smell of spices fills every shop. Vendors are calling out to people."
+      },
+      {
+        "id": "p3-scenario-souk-2",
+        "speaker": "Vendor",
+        "speakerRole": "b",
+        "arabic": "تفَضَّل يا أُستاز! اُدخُل شوف! عِنّا أَحسَن بَهارات بطَرابلُس كِلّا. زَعتَر، سُمّاق، كَمّون — كِلّو طازا!",
+        "transliteration": "Tfaḍḍal ya ustēz! Udkhol shūf! ʕAnna aḥsan bhārāt b-Ṭrāblus killa. Zaʕtar, summāʔ, kammūn — killo ṭāza!",
+        "english": "Come in sir! Come look! We have the best spices in all of Tripoli. Za'atar, sumac, cumin — all fresh!",
+        "culturalTip": "Souk vendors in Tripoli are masters of persuasion. They will invite you in warmly and may even offer you tea. This is part of the experience — do not feel pressured to buy."
+      },
+      {
+        "id": "p3-scenario-souk-3",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "How do you engage with the vendor?",
+        "choices": [
+          {
+            "text": "Show interest and browse casually",
+            "textArabic": "يَعطيك العافية! خَلّيني شوف شو عِندَك. عَم دَوِّر عَبهارات وشي هِدِيّة لَصاحبي.",
+            "textTransliteration": "Yaʕṭīk il-ʕēfye! Khallīnī shūf shū ʕandak. ʕAm dawwir ʕa bhārāt w shī hdiyye la-ṣāḥbī.",
+            "nextBranchId": "p3-scenario-souk-4"
+          },
+          {
+            "text": "Be direct about what you want",
+            "textArabic": "مَرحَبا! بَدّي كيلو زَعتَر وكيلو سُمّاق. وكَمان عَم بدَوِّر عَشي تِذكار حِلو.",
+            "textTransliteration": "Marḥaba! Baddī kīlo zaʕtar w kīlo summāʔ. W kamēn ʕam bdawwir ʕa shī tizkēr ḥilw.",
+            "nextBranchId": "p3-scenario-souk-4",
+            "culturalNote": "Being too direct and specific about what you want can sometimes weaken your bargaining position, as the vendor knows you are committed to buying."
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-souk-4",
+        "speaker": "Vendor",
+        "speakerRole": "b",
+        "arabic": "تفَضَّل هيدا الزَّعتَر الأَخضَر — مِن الضَّيعة مُباشَرة. وهيدا السُّمّاق أَحسَن نَوعِيّة. دوق دوق!",
+        "transliteration": "Tfaḍḍal hayda iz-zaʕtar il-akhḍar — min iḍ-ḍayʕa mubēshara. W hayda is-summāʔ aḥsan nōʕiyye. Dūʔ dūʔ!",
+        "english": "Here, this is the green za'atar — straight from the village. And this sumac is the best quality. Taste, taste!",
+        "culturalTip": "Vendors often let you taste spices and sample products before buying. 'Min iḍ-ḍayʕa' (from the village) is a selling point meaning it is homemade and authentic."
+      },
+      {
+        "id": "p3-scenario-souk-5",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "كتير طَيِّب! قَدّيش الكيلو؟",
+        "transliteration": "Ktīr ṭayyeb! Addaysh il-kīlo?",
+        "english": "Very good! How much per kilo?"
+      },
+      {
+        "id": "p3-scenario-souk-6",
+        "speaker": "Vendor",
+        "speakerRole": "b",
+        "arabic": "الزَّعتَر الكيلو بعَشِر دولار، والسُّمّاق بِتمِن دولار. بَس لأَنَّك ضَيفنا، بَعمِلَّك سِعِر حِلو.",
+        "transliteration": "Iz-zaʕtar il-kīlo b-ʕashr dolār, wis-summāʔ b-tmin dolār. Bass laʔannak ḍayfna, baʕmillak siʕr ḥilw.",
+        "english": "The za'atar is ten dollars per kilo, and the sumac is eight dollars. But because you're our guest, I'll give you a nice price."
+      },
+      {
+        "id": "p3-scenario-souk-7",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose your haggling approach:",
+        "choices": [
+          {
+            "text": "Start low and negotiate up",
+            "textArabic": "غالي شوَي يا مَعَلِّم! إِذا بتَعمِلّي الاتنين سَوا بعَشِر دولار، بوخُدُن.",
+            "textTransliteration": "Ghālī shwayy ya mʕallim! Iza btaʕmillī il-itnēn sawa b-ʕashr dolār, bēkhodon.",
+            "nextBranchId": "p3-scenario-souk-8",
+            "culturalNote": "Starting at about half the asking price is standard haggling etiquette in Lebanese souks. The vendor expects it."
+          },
+          {
+            "text": "Politely say it's expensive and hint at leaving",
+            "textArabic": "هيدا السِّعِر غالي. شِفت بِالمَحَل التاني أَرخَص. شو آخِر سِعِر عِندَك؟",
+            "textTransliteration": "Hayda is-siʕr ghālī. Shift bil-maḥall it-tēnī arkhaṣ. Shū ākhir siʕr ʕandak?",
+            "nextBranchId": "p3-scenario-souk-8",
+            "culturalNote": "Mentioning a competitor's lower price is a classic tactic. Even if you have not actually been to another shop, the vendor knows this is part of the game."
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-souk-8",
+        "speaker": "Vendor",
+        "speakerRole": "b",
+        "arabic": "يا حَبيبي هيدا سِعِر الأَصل! بَس لَعيونَك، بنَزِّلَك شوَي — الاتنين بخَمِستَعش. آخِر سِعِر!",
+        "transliteration": "Ya ḥabībī hayda siʕr il-aṣl! Bass la-ʕyūnak, bnazzillak shwayy — il-itnēn b-khamstaʕsh. Ākhir siʕr!",
+        "english": "My dear, this is the original price! But for your eyes, I'll bring it down a little — both for fifteen. Final price!",
+        "culturalTip": "'La-ʕyūnak' (for your eyes) is a classic vendor phrase meaning 'just for you as a special favor.' 'Ākhir siʕr' (final price) is rarely actually final — there is usually still room."
+      },
+      {
+        "id": "p3-scenario-souk-9",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose your next move:",
+        "choices": [
+          {
+            "text": "Use the walk-away tactic",
+            "textArabic": "لأ ما بِقدَر، غالي عَلَيّ. يَلّا شُكراً يا مَعَلِّم، بروح شوف مَحَلّات تانية.",
+            "textTransliteration": "Laʔ ma baʔdar, ghālī ʕalayyi. Yalla shukran ya mʕallim, brūḥ shūf maḥallēt tēnye.",
+            "nextBranchId": "p3-scenario-souk-10",
+            "culturalNote": "The walk-away is the most powerful haggling move. The vendor will almost always call you back with a lower price. Start walking slowly."
+          },
+          {
+            "text": "Counter with a slightly higher offer",
+            "textArabic": "خَلّيها باتناعش ومِنخَلِّص. حِلو؟ وإِذا طِلِع مِنيح، بجيبلَك زَباين كَمان.",
+            "textTransliteration": "Khallīha b-itnaʕsh w minkhalliṣ. Ḥilw? W iza ṭiliʕ mnīḥ, bjīblak zabēyin kamēn.",
+            "nextBranchId": "p3-scenario-souk-10"
+          }
+        ]
+      },
+      {
+        "id": "p3-scenario-souk-10",
+        "speaker": "Vendor",
+        "speakerRole": "b",
+        "arabic": "طَيِّب طَيِّب! تعال — خَلّيها باتناعش ونُص وبزيدلَك شوَيّة بَهارات مشَكَّلة هِدِيّة. رِضيت؟",
+        "transliteration": "Ṭayyeb ṭayyeb! Taʕāl — khallīha b-itnaʕsh w nuṣṣ w bzīdlak shwayyet bhārāt mshakkale hdiyye. Rḍīt?",
+        "english": "Okay okay! Come — let's make it twelve and a half and I'll add you a mix of assorted spices as a gift. Deal?",
+        "culturalTip": "Vendors often add a small gift (zdēde) to sweeten the deal and make both sides feel good about the transaction. Accepting graciously is the right move."
+      },
+      {
+        "id": "p3-scenario-souk-11",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "يَلّا ماشي! تِسلَم يا مَعَلِّم. هيدي أَحلى بَهارات بِالسوق!",
+        "transliteration": "Yalla mēshī! Tislam ya mʕallim. Hayde aḥla bhārāt bis-sūʔ!",
+        "english": "Alright deal! Bless you boss. These are the best spices in the souk!",
+        "culturalTip": "After settling on a price, it is good form to compliment the vendor and their products. This leaves both parties happy and is the gracious way to close a haggle."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What does 'ākhir siʕr' mean?",
+        "options": [
+          "The first price offered",
+          "Final price (though usually still negotiable)",
+          "A free gift",
+          "The cheapest item in the shop"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the 'walk-away' tactic in souk haggling?",
+        "options": [
+          "Running away without paying",
+          "Pretending to leave so the vendor calls you back with a lower price",
+          "Ignoring the vendor completely",
+          "Walking into a different souk"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does 'la-ʕyūnak' mean when a vendor says it?",
+        "options": [
+          "You have beautiful eyes",
+          "This is for your eyes only, keep it secret",
+          "Just for you / as a special favor",
+          "You are looking at it wrong"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "سوق",
+        "transliteration": "sūʔ",
+        "english": "market / souk"
+      },
+      {
+        "arabic": "قَدّيش ها",
+        "transliteration": "addaysh ha",
+        "english": "how much is this?"
+      },
+      {
+        "arabic": "غالي",
+        "transliteration": "ghālī",
+        "english": "expensive"
+      },
+      {
+        "arabic": "رخيص",
+        "transliteration": "rkhīṣ",
+        "english": "cheap"
+      },
+      {
+        "arabic": "آخِر سِعِر",
+        "transliteration": "ākhir siʕr",
+        "english": "final price"
+      },
+      {
+        "arabic": "نَزِّل شوَي",
+        "transliteration": "nazzil shwayy",
+        "english": "lower it a bit"
+      },
+      {
+        "arabic": "تفَضَّل",
+        "transliteration": "tfaḍḍal",
+        "english": "here you go / please"
+      },
+      {
+        "arabic": "مَعَلِّم",
+        "transliteration": "mʕallim",
+        "english": "boss / master (respectful term for vendor)"
+      }
+    ]
+  }
+]

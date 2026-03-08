@@ -1,0 +1,2837 @@
+[
+  {
+    "id": "p4-work-sharike",
+    "phaseId": 4,
+    "arabic": "شركة",
+    "transliteration": "sharike",
+    "english": "Company",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-mawzaf",
+    "phaseId": 4,
+    "arabic": "موظف",
+    "transliteration": "mawẓaf",
+    "english": "Employee",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-rais",
+    "phaseId": 4,
+    "arabic": "رئيس",
+    "transliteration": "raʔīs",
+    "english": "Boss / head",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-mashru",
+    "phaseId": 4,
+    "arabic": "مشروع",
+    "transliteration": "mashrūʕ",
+    "english": "Project",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-hasub",
+    "phaseId": 4,
+    "arabic": "حاسوب",
+    "transliteration": "ḥāsūb",
+    "english": "Computer",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-shabake",
+    "phaseId": 4,
+    "arabic": "شبكة",
+    "transliteration": "shabake",
+    "english": "Network",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-barnamij",
+    "phaseId": 4,
+    "arabic": "برنامج",
+    "transliteration": "barnāmij",
+    "english": "Program / software",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-bayanat",
+    "phaseId": 4,
+    "arabic": "بيانات",
+    "transliteration": "bayānāt",
+    "english": "Data",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-amn",
+    "phaseId": 4,
+    "arabic": "أمن",
+    "transliteration": "amn",
+    "english": "Security",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-work-hujum",
+    "phaseId": 4,
+    "arabic": "هجوم",
+    "transliteration": "hujūm",
+    "english": "Attack / assault",
+    "category": "Work & Technology",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-tabib",
+    "phaseId": 4,
+    "arabic": "طبيب",
+    "transliteration": "ṭabīb",
+    "english": "Doctor",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-mustashfa",
+    "phaseId": 4,
+    "arabic": "مستشفى",
+    "transliteration": "mustasfā",
+    "english": "Hospital",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-dawa",
+    "phaseId": 4,
+    "arabic": "دوا",
+    "transliteration": "dawa",
+    "english": "Medicine",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-wajaa",
+    "phaseId": 4,
+    "arabic": "وجع",
+    "transliteration": "wajaʕ",
+    "english": "Pain / hurt (Lebanese)",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-sihha",
+    "phaseId": 4,
+    "arabic": "صحة",
+    "transliteration": "ṣiḥḥa",
+    "english": "Health",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-harara",
+    "phaseId": 4,
+    "arabic": "حرارة",
+    "transliteration": "ḥarāra",
+    "english": "Fever / temperature",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-daght",
+    "phaseId": 4,
+    "arabic": "ضغط",
+    "transliteration": "ḍaght",
+    "english": "Blood pressure / stress",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-kahl",
+    "phaseId": 4,
+    "arabic": "كحل عيون",
+    "transliteration": "kaḥl ʕyūn",
+    "english": "Eye problems (general)",
+    "category": "Health & Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-zahme",
+    "phaseId": 4,
+    "arabic": "زحمة",
+    "transliteration": "zaḥme",
+    "english": "Traffic / crowds",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-hayy",
+    "phaseId": 4,
+    "arabic": "حي",
+    "transliteration": "ḥayy",
+    "english": "Neighborhood",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-tabi",
+    "phaseId": 4,
+    "arabic": "طابق",
+    "transliteration": "ṭābiq",
+    "english": "Floor / story (building)",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-mol",
+    "phaseId": 4,
+    "arabic": "مول",
+    "transliteration": "mōl",
+    "english": "Mall (from English)",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-bank",
+    "phaseId": 4,
+    "arabic": "بنك",
+    "transliteration": "bank",
+    "english": "Bank",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-dkane",
+    "phaseId": 4,
+    "arabic": "دكانة",
+    "transliteration": "dkāne",
+    "english": "Small shop / store",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-mataam",
+    "phaseId": 4,
+    "arabic": "مطعم",
+    "transliteration": "maṭʕam",
+    "english": "Restaurant",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-city-tari",
+    "phaseId": 4,
+    "arabic": "طريق",
+    "transliteration": "ṭarīʔ",
+    "english": "Road / path",
+    "category": "City Life & Places",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-mujtama",
+    "phaseId": 4,
+    "arabic": "مجتمع",
+    "transliteration": "mujtamaʕ",
+    "english": "Society / community",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-hkume",
+    "phaseId": 4,
+    "arabic": "حكومة",
+    "transliteration": "ḥkūme",
+    "english": "Government",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-azme",
+    "phaseId": 4,
+    "arabic": "أزمة",
+    "transliteration": "azme",
+    "english": "Crisis",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-hurriye",
+    "phaseId": 4,
+    "arabic": "حرية",
+    "transliteration": "ḥurrīye",
+    "english": "Freedom",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-tiqa",
+    "phaseId": 4,
+    "arabic": "ثقة",
+    "transliteration": "tiqa",
+    "english": "Trust / confidence",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-ray",
+    "phaseId": 4,
+    "arabic": "رأي",
+    "transliteration": "raʔy",
+    "english": "Opinion",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-taghyir",
+    "phaseId": 4,
+    "arabic": "تغيير",
+    "transliteration": "taghyīr",
+    "english": "Change",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-society-masuliye",
+    "phaseId": 4,
+    "arabic": "مسؤولية",
+    "transliteration": "masʔūlīye",
+    "english": "Responsibility",
+    "category": "Society & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-waja-ras",
+    "phaseId": 4,
+    "arabic": "وجع راس",
+    "transliteration": "wajaʕ rās",
+    "english": "Headache",
+    "category": "Body & Health",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عندي وجع راس فظيع",
+      "transliteration": "ʕindi wajaʕ rās faẓīʕ",
+      "english": "I have a terrible headache"
+    }
+  },
+  {
+    "id": "p4-health-rashh",
+    "phaseId": 4,
+    "arabic": "رشح",
+    "transliteration": "rashiḥ",
+    "english": "Cold (illness)",
+    "category": "Body & Health",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عندي رشح",
+      "transliteration": "ʕindi rashiḥ",
+      "english": "I have a cold"
+    }
+  },
+  {
+    "id": "p4-health-waja-batin",
+    "phaseId": 4,
+    "arabic": "وجع بطن",
+    "transliteration": "wajaʕ baṭin",
+    "english": "Stomach ache",
+    "category": "Body & Health",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-diktir",
+    "phaseId": 4,
+    "arabic": "دكتور",
+    "transliteration": "daktūr",
+    "english": "Doctor",
+    "category": "Body & Health",
+    "partOfSpeech": "noun",
+    "notes": "More common colloquially than طبيب",
+    "exampleSentence": {
+      "arabic": "لازم تروح عالدكتور",
+      "transliteration": "lāzim trūḥ ʕa-d-daktūr",
+      "english": "You need to go to the doctor"
+    }
+  },
+  {
+    "id": "p4-health-saydaliye",
+    "phaseId": 4,
+    "arabic": "صيدلية",
+    "transliteration": "ṣaydaliyye",
+    "english": "Pharmacy",
+    "category": "Body & Health",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-health-mawed",
+    "phaseId": 4,
+    "arabic": "موعد",
+    "transliteration": "mawʕid",
+    "english": "Appointment",
+    "category": "Body & Health",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عندي موعد عند الدكتور",
+      "transliteration": "ʕindi mawʕid ʕind id-daktūr",
+      "english": "I have a doctor's appointment"
+    }
+  },
+  {
+    "id": "p4-health-daman",
+    "phaseId": 4,
+    "arabic": "ضمان",
+    "transliteration": "ḍamān",
+    "english": "Insurance",
+    "category": "Body & Health",
+    "partOfSpeech": "noun",
+    "notes": "Also means guarantee"
+  },
+  {
+    "id": "p4-office-ijtimaa",
+    "phaseId": 4,
+    "arabic": "اجتماع",
+    "transliteration": "ijtimāʕ",
+    "english": "Meeting",
+    "category": "Work & Office",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عندي اجتماع الساعة عشرة",
+      "transliteration": "ʕindi ijtimāʕ is-sēʕa ʕashara",
+      "english": "I have a meeting at ten"
+    }
+  },
+  {
+    "id": "p4-office-email",
+    "phaseId": 4,
+    "arabic": "إيميل",
+    "transliteration": "īmēl",
+    "english": "Email",
+    "category": "Work & Office",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p4-office-talifon",
+    "phaseId": 4,
+    "arabic": "تلفون",
+    "transliteration": "talifōn",
+    "english": "Phone",
+    "category": "Work & Office",
+    "partOfSpeech": "noun",
+    "notes": "French loanword (téléphone)"
+  },
+  {
+    "id": "p4-office-maktab",
+    "phaseId": 4,
+    "arabic": "مكتب",
+    "transliteration": "maktab",
+    "english": "Office / desk",
+    "category": "Work & Office",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "أنا بالمكتب",
+      "transliteration": "ana b-il-maktab",
+      "english": "I'm at the office"
+    }
+  },
+  {
+    "id": "p4-office-maash",
+    "phaseId": 4,
+    "arabic": "معاش",
+    "transliteration": "maʕāsh",
+    "english": "Salary",
+    "category": "Work & Office",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-office-utle",
+    "phaseId": 4,
+    "arabic": "عطلة",
+    "transliteration": "ʕuṭle",
+    "english": "Vacation / holiday",
+    "category": "Work & Office",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بدي عطلة",
+      "transliteration": "baddi ʕuṭle",
+      "english": "I need a vacation"
+    }
+  },
+  {
+    "id": "p4-office-mawed-nihai",
+    "phaseId": 4,
+    "arabic": "موعد نهائي",
+    "transliteration": "mawʕid nihāʔi",
+    "english": "Deadline",
+    "category": "Work & Office",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-office-zamil",
+    "phaseId": 4,
+    "arabic": "زميل",
+    "transliteration": "zamīl",
+    "english": "Colleague",
+    "category": "Work & Office",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "زميلي بالشغل كتير منيح",
+      "transliteration": "zamīli b-ish-shughl ktīr mnīḥ",
+      "english": "My colleague at work is very nice"
+    }
+  },
+  {
+    "id": "p4-edu-madrase",
+    "phaseId": 4,
+    "arabic": "مدرسة",
+    "transliteration": "madrase",
+    "english": "School",
+    "category": "Education",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الولاد بالمدرسة",
+      "transliteration": "il-wlād b-il-madrase",
+      "english": "The kids are at school"
+    }
+  },
+  {
+    "id": "p4-edu-jemaa",
+    "phaseId": 4,
+    "arabic": "جامعة",
+    "transliteration": "jēmʕa",
+    "english": "University",
+    "category": "Education",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-edu-ustaz",
+    "phaseId": 4,
+    "arabic": "أستاذ",
+    "transliteration": "ustāz",
+    "english": "Teacher / professor",
+    "category": "Education",
+    "partOfSpeech": "noun",
+    "notes": "Also a respectful title for men"
+  },
+  {
+    "id": "p4-edu-taleb",
+    "phaseId": 4,
+    "arabic": "طالب",
+    "transliteration": "ṭāleb",
+    "english": "Student",
+    "category": "Education",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-edu-saff",
+    "phaseId": 4,
+    "arabic": "صف",
+    "transliteration": "ṣaff",
+    "english": "Class / classroom",
+    "category": "Education",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-edu-ktab",
+    "phaseId": 4,
+    "arabic": "كتاب",
+    "transliteration": "ktāb",
+    "english": "Book",
+    "category": "Education",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عم بقرا كتاب جديد",
+      "transliteration": "ʕam biʔra ktāb jdīd",
+      "english": "I'm reading a new book"
+    }
+  },
+  {
+    "id": "p4-edu-wajib",
+    "phaseId": 4,
+    "arabic": "واجب",
+    "transliteration": "wājib",
+    "english": "Homework / duty",
+    "category": "Education",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عملت الواجب؟",
+      "transliteration": "ʕmilt il-wājib?",
+      "english": "Did you do the homework?"
+    }
+  },
+  {
+    "id": "p4-edu-imtihan",
+    "phaseId": 4,
+    "arabic": "امتحان",
+    "transliteration": "imtiḥān",
+    "english": "Exam / test",
+    "category": "Education",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-edu-alame",
+    "phaseId": 4,
+    "arabic": "علامة",
+    "transliteration": "ʕalāme",
+    "english": "Grade / mark",
+    "category": "Education",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "أخدت علامة منيحة",
+      "transliteration": "akhadit ʕalāme mnīḥa",
+      "english": "I got a good grade"
+    }
+  },
+  {
+    "id": "p4-edu-shahade",
+    "phaseId": 4,
+    "arabic": "شهادة",
+    "transliteration": "shahāde",
+    "english": "Degree / certificate",
+    "category": "Education",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-emotions-zaalan",
+    "phaseId": 4,
+    "arabic": "زعلان",
+    "transliteration": "zaʕlān",
+    "english": "Angry / upset",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "ليش زعلان؟",
+      "transliteration": "lēsh zaʕlān?",
+      "english": "Why are you upset?"
+    }
+  },
+  {
+    "id": "p4-emotions-mfeja",
+    "phaseId": 4,
+    "arabic": "مفاجأ",
+    "transliteration": "mfājaʔ",
+    "english": "Surprised",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-emotions-mitwatter",
+    "phaseId": 4,
+    "arabic": "متوتر",
+    "transliteration": "mitwattir",
+    "english": "Nervous / tense",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "أنا متوتر من الامتحان",
+      "transliteration": "ana mitwattir min il-imtiḥān",
+      "english": "I'm nervous about the exam"
+    }
+  },
+  {
+    "id": "p4-emotions-mithammes",
+    "phaseId": 4,
+    "arabic": "متحمس",
+    "transliteration": "mitḥammes",
+    "english": "Excited / enthusiastic",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-emotions-fakhur",
+    "phaseId": 4,
+    "arabic": "فخور",
+    "transliteration": "fakhūr",
+    "english": "Proud",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "أنا فخور فيك",
+      "transliteration": "ana fakhūr fīk",
+      "english": "I'm proud of you"
+    }
+  },
+  {
+    "id": "p4-emotions-khajlan",
+    "phaseId": 4,
+    "arabic": "خجلان",
+    "transliteration": "khajlān",
+    "english": "Ashamed / embarrassed",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-emotions-gheran",
+    "phaseId": 4,
+    "arabic": "غيران",
+    "transliteration": "ghērān",
+    "english": "Jealous",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-emotions-mamnun",
+    "phaseId": 4,
+    "arabic": "ممنون",
+    "transliteration": "mamnūn",
+    "english": "Grateful / thankful",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "كتير ممنونلك",
+      "transliteration": "ktīr mamnūnlak",
+      "english": "I'm very grateful to you"
+    }
+  },
+  {
+    "id": "p4-emotions-mallan",
+    "phaseId": 4,
+    "arabic": "ملّان",
+    "transliteration": "mallān",
+    "english": "Bored",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj",
+    "notes": "Lebanese-specific form",
+    "exampleSentence": {
+      "arabic": "ملّان كتير",
+      "transliteration": "mallān ktīr",
+      "english": "I'm so bored"
+    }
+  },
+  {
+    "id": "p4-emotions-mihtar",
+    "phaseId": 4,
+    "arabic": "محتار",
+    "transliteration": "miḥtār",
+    "english": "Confused / undecided",
+    "category": "Emotions Expanded",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "محتار شو أعمل",
+      "transliteration": "miḥtār shū aʕmal",
+      "english": "I'm confused about what to do"
+    }
+  },
+  {
+    "id": "p4-biz-mu2abale",
+    "phaseId": 4,
+    "arabic": "مُقابَلة",
+    "transliteration": "muʔāble",
+    "english": "Interview",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي مُقابَلة شُغُل بُكرا",
+      "transliteration": "ʕindi muʔāble shughl bukra",
+      "english": "I have a job interview tomorrow"
+    }
+  },
+  {
+    "id": "p4-biz-sivi",
+    "phaseId": 4,
+    "arabic": "سي في",
+    "transliteration": "sī vī",
+    "english": "CV / resume",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "notes": "French loanword (curriculum vitae)"
+  },
+  {
+    "id": "p4-biz-khebra",
+    "phaseId": 4,
+    "arabic": "خِبرة",
+    "transliteration": "khibra",
+    "english": "Experience (professional)",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندَك خِبرة بْهالمَجال؟",
+      "transliteration": "ʕindak khibra b-ha-l-majāl?",
+      "english": "Do you have experience in this field?"
+    }
+  },
+  {
+    "id": "p4-biz-ta2dim",
+    "phaseId": 4,
+    "arabic": "تَقديم",
+    "transliteration": "taʔdīm",
+    "english": "To apply / application",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "قَدَّمت عَ الوَظيفة",
+      "transliteration": "ʔaddamit ʕa-l-waẓīfe",
+      "english": "I applied for the job"
+    }
+  },
+  {
+    "id": "p4-biz-taw2if",
+    "phaseId": 4,
+    "arabic": "تَوظيف",
+    "transliteration": "tawẓīf",
+    "english": "Hiring / employment",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-takhassus",
+    "phaseId": 4,
+    "arabic": "تَخَصُّص",
+    "transliteration": "takhaṣṣuṣ",
+    "english": "Specialization / major",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو تَخَصُّصَك؟",
+      "transliteration": "shū takhaṣṣuṣak?",
+      "english": "What's your specialization?"
+    }
+  },
+  {
+    "id": "p4-biz-irtiqaa",
+    "phaseId": 4,
+    "arabic": "اِرتِقاء",
+    "transliteration": "irtiʔāʔ",
+    "english": "Promotion (career)",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-istiqaale",
+    "phaseId": 4,
+    "arabic": "اِستِقالة",
+    "transliteration": "istiʔāle",
+    "english": "Resignation",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "قَدَّم اِستِقالتو",
+      "transliteration": "ʔaddim istiʔālto",
+      "english": "He submitted his resignation"
+    }
+  },
+  {
+    "id": "p4-biz-mu2assase",
+    "phaseId": 4,
+    "arabic": "مُؤَسَّسة",
+    "transliteration": "muʔassase",
+    "english": "Institution / organization",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-darribe",
+    "phaseId": 4,
+    "arabic": "ضَريبة",
+    "transliteration": "ḍarībe",
+    "english": "Tax",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الضَّرايِب كِتير عالية",
+      "transliteration": "iḍ-ḍarāyib ktīr ʕālye",
+      "english": "Taxes are very high"
+    }
+  },
+  {
+    "id": "p4-biz-ijra2aat",
+    "phaseId": 4,
+    "arabic": "إجراءات",
+    "transliteration": "ijrāʔāt",
+    "english": "Procedures / formalities",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-mudir-3aam",
+    "phaseId": 4,
+    "arabic": "مُدير عام",
+    "transliteration": "mudīr ʕāmm",
+    "english": "General manager",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-qism",
+    "phaseId": 4,
+    "arabic": "قِسِم",
+    "transliteration": "ʔisim",
+    "english": "Department / section",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "أنا بْقِسِم المَبيعات",
+      "transliteration": "ana b-ʔisim il-mabīʕāt",
+      "english": "I'm in the sales department"
+    }
+  },
+  {
+    "id": "p4-biz-waziife",
+    "phaseId": 4,
+    "arabic": "وَظيفة",
+    "transliteration": "waẓīfe",
+    "english": "Job / position",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-3aqd-sheghel",
+    "phaseId": 4,
+    "arabic": "عَقِد شُغُل",
+    "transliteration": "ʕaʔd shughl",
+    "english": "Employment contract",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-mawazane",
+    "phaseId": 4,
+    "arabic": "مْوازَنة",
+    "transliteration": "mwāzane",
+    "english": "Budget",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-tajrube",
+    "phaseId": 4,
+    "arabic": "تَجرُبة",
+    "transliteration": "tajrube",
+    "english": "Trial period / experiment",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-shu2ul",
+    "phaseId": 4,
+    "arabic": "شُغُل حُر",
+    "transliteration": "shughl ḥurr",
+    "english": "Freelance work",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "notes": "Literally 'free work'"
+  },
+  {
+    "id": "p4-biz-taqaa3ud",
+    "phaseId": 4,
+    "arabic": "تَقاعُد",
+    "transliteration": "taʔāʕud",
+    "english": "Retirement",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-ijtimaa-3amal",
+    "phaseId": 4,
+    "arabic": "اِجتِماع عَمَل",
+    "transliteration": "ijtimāʕ ʕamal",
+    "english": "Business meeting",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-sharike-khaasse",
+    "phaseId": 4,
+    "arabic": "شَرِكة خاصّة",
+    "transliteration": "sharike khāṣṣa",
+    "english": "Private company",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-idara",
+    "phaseId": 4,
+    "arabic": "إدارة",
+    "transliteration": "idāra",
+    "english": "Management / administration",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الإدارة وافَقِت عَ المَشروع",
+      "transliteration": "il-idāra wāfaʔit ʕa-l-mashrūʕ",
+      "english": "Management approved the project"
+    }
+  },
+  {
+    "id": "p4-biz-mufawadaat",
+    "phaseId": 4,
+    "arabic": "مُفاوَضات",
+    "transliteration": "mufāwaḍāt",
+    "english": "Negotiations",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-safqa",
+    "phaseId": 4,
+    "arabic": "صَفقة",
+    "transliteration": "ṣafʔa",
+    "english": "Deal / transaction",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عَمِلنا صَفقة مْنيحة",
+      "transliteration": "ʕamilna ṣafʔa mnīḥa",
+      "english": "We made a good deal"
+    }
+  },
+  {
+    "id": "p4-biz-sherka-mushtarake",
+    "phaseId": 4,
+    "arabic": "شَراكة",
+    "transliteration": "sharāke",
+    "english": "Partnership",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-tadrib",
+    "phaseId": 4,
+    "arabic": "تَدريب",
+    "transliteration": "tadrīb",
+    "english": "Training / internship",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-ziboun",
+    "phaseId": 4,
+    "arabic": "زِبون",
+    "transliteration": "zbūn",
+    "english": "Customer / client",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese form; MSA uses زبون (zabūn)",
+    "exampleSentence": {
+      "arabic": "الزبون دايماً عِندو حَق",
+      "transliteration": "iz-zbūn dāyman ʕindo ḥaʔʔ",
+      "english": "The customer is always right"
+    }
+  },
+  {
+    "id": "p4-biz-mabi3aat",
+    "phaseId": 4,
+    "arabic": "مَبيعات",
+    "transliteration": "mabīʕāt",
+    "english": "Sales",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-biz-mustahlek",
+    "phaseId": 4,
+    "arabic": "مُستَهلِك",
+    "transliteration": "mustahlik",
+    "english": "Consumer",
+    "category": "Business & Professional",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-wikaleh",
+    "phaseId": 4,
+    "arabic": "وِكالة",
+    "transliteration": "wikāle",
+    "english": "Power of attorney",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم تْعَمِّل وِكالة عِند الكاتِب بِالعَدِل",
+      "transliteration": "lāzim tʕammil wikāle ʕind il-kātib b-il-ʕadil",
+      "english": "You need to make a power of attorney at the notary"
+    }
+  },
+  {
+    "id": "p4-legal-3aqd",
+    "phaseId": 4,
+    "arabic": "عَقِد",
+    "transliteration": "ʕaʔd",
+    "english": "Contract",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-huwiyye",
+    "phaseId": 4,
+    "arabic": "هُوِيّة",
+    "transliteration": "huwiyye",
+    "english": "ID card / identity",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وَرجيني الهُوِيّة",
+      "transliteration": "warjīni l-huwiyye",
+      "english": "Show me your ID"
+    }
+  },
+  {
+    "id": "p4-legal-jawaz",
+    "phaseId": 4,
+    "arabic": "جَواز سَفَر",
+    "transliteration": "jawāz safar",
+    "english": "Passport",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-viza",
+    "phaseId": 4,
+    "arabic": "فيزا",
+    "transliteration": "vīza",
+    "english": "Visa",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "notes": "Loanword from French/English"
+  },
+  {
+    "id": "p4-legal-ta2shira",
+    "phaseId": 4,
+    "arabic": "تَأشيرة",
+    "transliteration": "taʔshīra",
+    "english": "Visa (formal Arabic)",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-mu3amale",
+    "phaseId": 4,
+    "arabic": "مُعامَلة",
+    "transliteration": "muʕāmale",
+    "english": "Paperwork / transaction",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المُعامَلة ناقِصة وَرَق",
+      "transliteration": "il-muʕāmale nāʔṣa waraʔ",
+      "english": "The paperwork is missing documents"
+    }
+  },
+  {
+    "id": "p4-legal-daman-ijtimaa3i",
+    "phaseId": 4,
+    "arabic": "ضَمان اِجتِماعي",
+    "transliteration": "ḍamān ijtimāʕi",
+    "english": "Social security",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-tasjil",
+    "phaseId": 4,
+    "arabic": "تَسجيل",
+    "transliteration": "tasjīl",
+    "english": "Registration",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-talab",
+    "phaseId": 4,
+    "arabic": "طَلَب",
+    "transliteration": "ṭalab",
+    "english": "Application / request",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "قَدَّمت طَلَب لَلسفارة",
+      "transliteration": "ʔaddamit ṭalab la-s-safāra",
+      "english": "I submitted an application to the embassy"
+    }
+  },
+  {
+    "id": "p4-legal-rasem",
+    "phaseId": 4,
+    "arabic": "رَسِم",
+    "transliteration": "rasim",
+    "english": "Fee / charge",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-wathiqa",
+    "phaseId": 4,
+    "arabic": "وَثيقة",
+    "transliteration": "wathīʔa",
+    "english": "Document",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-mahkame",
+    "phaseId": 4,
+    "arabic": "مَحكَمة",
+    "transliteration": "maḥkame",
+    "english": "Court (legal)",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-muhami",
+    "phaseId": 4,
+    "arabic": "مُحامي",
+    "transliteration": "muḥāmi",
+    "english": "Lawyer",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "لازِم تْحَكي مَع مُحامي",
+      "transliteration": "lāzim tiḥki maʕ muḥāmi",
+      "english": "You need to talk to a lawyer"
+    }
+  },
+  {
+    "id": "p4-legal-qanun",
+    "phaseId": 4,
+    "arabic": "قانون",
+    "transliteration": "ʔānūn",
+    "english": "Law",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-ikhraj-qeid",
+    "phaseId": 4,
+    "arabic": "إخراج قَيد",
+    "transliteration": "ikhrāj ʔēd",
+    "english": "Civil registry extract",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "notes": "Essential Lebanese document for all civil matters"
+  },
+  {
+    "id": "p4-legal-kateb-3adel",
+    "phaseId": 4,
+    "arabic": "كاتِب بِالعَدِل",
+    "transliteration": "kātib b-il-ʕadil",
+    "english": "Notary public",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-safara",
+    "phaseId": 4,
+    "arabic": "سِفارة",
+    "transliteration": "sfāra",
+    "english": "Embassy",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-qunsuliyye",
+    "phaseId": 4,
+    "arabic": "قُنصُلِيّة",
+    "transliteration": "ʔunṣuliyye",
+    "english": "Consulate",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-ijaze",
+    "phaseId": 4,
+    "arabic": "إجازة",
+    "transliteration": "ijāze",
+    "english": "License / permit",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "مَعَك إجازة سوق؟",
+      "transliteration": "maʕak ijāzit sōʔ?",
+      "english": "Do you have a driver's license?"
+    }
+  },
+  {
+    "id": "p4-legal-ghirame",
+    "phaseId": 4,
+    "arabic": "غَرامة",
+    "transliteration": "gharāme",
+    "english": "Fine / penalty",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-tabliigh",
+    "phaseId": 4,
+    "arabic": "تَبليغ",
+    "transliteration": "tablīgh",
+    "english": "Notification / summons",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-kefale",
+    "phaseId": 4,
+    "arabic": "كَفالة",
+    "transliteration": "kafāle",
+    "english": "Bail / guarantee",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-legal-shakwe",
+    "phaseId": 4,
+    "arabic": "شَكوى",
+    "transliteration": "shakwa",
+    "english": "Complaint (legal)",
+    "category": "Legal & Administrative",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "قَدَّمت شَكوى عَ البَلَدِيّة",
+      "transliteration": "ʔaddamit shakwa ʕa-l-baladiyye",
+      "english": "I filed a complaint with the municipality"
+    }
+  },
+  {
+    "id": "p4-advcity-binaye",
+    "phaseId": 4,
+    "arabic": "بِناية",
+    "transliteration": "bināye",
+    "english": "Building",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "البِناية فيها عَشِر طَوابِق",
+      "transliteration": "il-bināye fīha ʕashir ṭawābiʔ",
+      "english": "The building has ten floors"
+    }
+  },
+  {
+    "id": "p4-advcity-sha22a",
+    "phaseId": 4,
+    "arabic": "شَقّة",
+    "transliteration": "shaʔʔa",
+    "english": "Apartment",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-ijar",
+    "phaseId": 4,
+    "arabic": "إيجار",
+    "transliteration": "ījār",
+    "english": "Rent",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الإيجار غالي كِتير",
+      "transliteration": "il-ījār ghāli ktīr",
+      "english": "The rent is very expensive"
+    }
+  },
+  {
+    "id": "p4-advcity-malik",
+    "phaseId": 4,
+    "arabic": "مالِك",
+    "transliteration": "mālik",
+    "english": "Owner / landlord",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-musta2jir",
+    "phaseId": 4,
+    "arabic": "مُستَأجِر",
+    "transliteration": "mustaʔjir",
+    "english": "Tenant / renter",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-jisr",
+    "phaseId": 4,
+    "arabic": "جِسِر",
+    "transliteration": "jisr",
+    "english": "Bridge",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-nahr",
+    "phaseId": 4,
+    "arabic": "نَهِر",
+    "transliteration": "nahir",
+    "english": "River",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "E.g., نهر الكلب (Nahr el-Kalb) near Beirut"
+  },
+  {
+    "id": "p4-advcity-shabab",
+    "phaseId": 4,
+    "arabic": "شَباب",
+    "transliteration": "shabāb",
+    "english": "Youth / young people / guys",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشَّباب عَم يِلعَبوا فوتبول",
+      "transliteration": "ish-shabāb ʕam yilʕabu futbōl",
+      "english": "The guys are playing football"
+    }
+  },
+  {
+    "id": "p4-advcity-za2oura",
+    "phaseId": 4,
+    "arabic": "زاروبة",
+    "transliteration": "zārūbe",
+    "english": "Alley / narrow lane",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "Very Lebanese word for narrow old-town streets"
+  },
+  {
+    "id": "p4-advcity-rasif",
+    "phaseId": 4,
+    "arabic": "رَصيف",
+    "transliteration": "raṣīf",
+    "english": "Sidewalk",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-ishara",
+    "phaseId": 4,
+    "arabic": "إشارة",
+    "transliteration": "ishāra",
+    "english": "Traffic light / signal",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "إِوقَف عَ الإشارة",
+      "transliteration": "iʔwaf ʕa-l-ishāra",
+      "english": "Stop at the traffic light"
+    }
+  },
+  {
+    "id": "p4-advcity-sharee3",
+    "phaseId": 4,
+    "arabic": "شارِع",
+    "transliteration": "shāriʕ",
+    "english": "Street",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-mafra2",
+    "phaseId": 4,
+    "arabic": "مَفرَق",
+    "transliteration": "mafraʔ",
+    "english": "Intersection / junction",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-saff-siyyarat",
+    "phaseId": 4,
+    "arabic": "صَف سَيّارات",
+    "transliteration": "ṣaff sayyārāt",
+    "english": "Parking lane / row of cars",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-karaj",
+    "phaseId": 4,
+    "arabic": "كَراج",
+    "transliteration": "karāj",
+    "english": "Garage / parking lot",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "French loanword"
+  },
+  {
+    "id": "p4-advcity-baladiyye",
+    "phaseId": 4,
+    "arabic": "بَلَدِيّة",
+    "transliteration": "baladiyye",
+    "english": "Municipality",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-mahatte",
+    "phaseId": 4,
+    "arabic": "مَحَطّة",
+    "transliteration": "maḥaṭṭa",
+    "english": "Station (bus/gas)",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وَين أقرَب مَحَطّة بَنزين؟",
+      "transliteration": "wēn aʔrab maḥaṭṭa benzīn?",
+      "english": "Where is the nearest gas station?"
+    }
+  },
+  {
+    "id": "p4-advcity-autostrad",
+    "phaseId": 4,
+    "arabic": "أوتوستراد",
+    "transliteration": "ōtōstrād",
+    "english": "Highway / freeway",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "French loanword (autoroute/autostrade)"
+  },
+  {
+    "id": "p4-advcity-dawwar",
+    "phaseId": 4,
+    "arabic": "دَوّار",
+    "transliteration": "dawwār",
+    "english": "Roundabout / traffic circle",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-ascenseur",
+    "phaseId": 4,
+    "arabic": "أسَنسير",
+    "transliteration": "asansēr",
+    "english": "Elevator",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "French loanword (ascenseur)",
+    "exampleSentence": {
+      "arabic": "الأسَنسير خَربان",
+      "transliteration": "il-asansēr kharbān",
+      "english": "The elevator is broken"
+    }
+  },
+  {
+    "id": "p4-advcity-balcon",
+    "phaseId": 4,
+    "arabic": "بَلكون",
+    "transliteration": "balkōn",
+    "english": "Balcony",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "French loanword"
+  },
+  {
+    "id": "p4-advcity-jarras",
+    "phaseId": 4,
+    "arabic": "جَرَس",
+    "transliteration": "jaras",
+    "english": "Doorbell / bell",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-advcity-siyyara-ajra",
+    "phaseId": 4,
+    "arabic": "سَيّارة أُجرة",
+    "transliteration": "sayyāra ujra",
+    "english": "Taxi / cab",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "Also commonly just 'taxi' or 'servīs'"
+  },
+  {
+    "id": "p4-advcity-servis",
+    "phaseId": 4,
+    "arabic": "سِرفيس",
+    "transliteration": "sērvīs",
+    "english": "Shared taxi / service taxi",
+    "category": "Advanced City Life",
+    "partOfSpeech": "noun",
+    "notes": "Iconic Lebanese public transport; shared rides along set routes",
+    "exampleSentence": {
+      "arabic": "بوخِد سِرفيس عَ الشُّغُل",
+      "transliteration": "bōkhid sērvīs ʕa-sh-shughl",
+      "english": "I take a service taxi to work"
+    }
+  },
+  {
+    "id": "p4-tech-tatbi2",
+    "phaseId": 4,
+    "arabic": "تَطبيق",
+    "transliteration": "taṭbīʔ",
+    "english": "Application / app",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "نَزِّل هَالتَّطبيق عَ التِّلِفون",
+      "transliteration": "nazzil ha-t-taṭbīʔ ʕa-t-tilifōn",
+      "english": "Download this app on the phone"
+    }
+  },
+  {
+    "id": "p4-tech-tahdith",
+    "phaseId": 4,
+    "arabic": "تَحديث",
+    "transliteration": "taḥdīth",
+    "english": "Update",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-nuskha",
+    "phaseId": 4,
+    "arabic": "نُسخة",
+    "transliteration": "nuskha",
+    "english": "Version / copy",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-nizam",
+    "phaseId": 4,
+    "arabic": "نِظام",
+    "transliteration": "niẓām",
+    "english": "System",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-mushkle-ta2niyye",
+    "phaseId": 4,
+    "arabic": "مُشكِلة تَقنِيّة",
+    "transliteration": "mushkile taʔniyye",
+    "english": "Technical problem",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في مُشكِلة تَقنِيّة بِالموقِع",
+      "transliteration": "fī mushkile taʔniyye b-il-mawʔiʕ",
+      "english": "There's a technical problem with the website"
+    }
+  },
+  {
+    "id": "p4-tech-khususiyye",
+    "phaseId": 4,
+    "arabic": "خُصوصِيّة",
+    "transliteration": "khuṣūṣiyye",
+    "english": "Privacy",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-hisab",
+    "phaseId": 4,
+    "arabic": "حِساب",
+    "transliteration": "ḥisāb",
+    "english": "Account",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "إعمِل حِساب جِديد",
+      "transliteration": "iʕmil ḥisāb jdīd",
+      "english": "Create a new account"
+    }
+  },
+  {
+    "id": "p4-tech-kalmet-sirr",
+    "phaseId": 4,
+    "arabic": "كِلمِة سِر",
+    "transliteration": "kilmit sirr",
+    "english": "Password",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-da3em-fanni",
+    "phaseId": 4,
+    "arabic": "دَعِم فَنّي",
+    "transliteration": "daʕim fanni",
+    "english": "Technical support",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-shahen",
+    "phaseId": 4,
+    "arabic": "شاحِن",
+    "transliteration": "shāḥin",
+    "english": "Charger",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وَين الشاحِن؟ التِّلِفون عَم يِخلَص",
+      "transliteration": "wēn ish-shāḥin? it-tilifōn ʕam yikhlaṣ",
+      "english": "Where's the charger? The phone is dying"
+    }
+  },
+  {
+    "id": "p4-tech-takhzin",
+    "phaseId": 4,
+    "arabic": "تَخزين",
+    "transliteration": "takhzīn",
+    "english": "Storage",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-wifi",
+    "phaseId": 4,
+    "arabic": "وايفاي",
+    "transliteration": "wāy fāy",
+    "english": "Wi-Fi",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو كِلمِة سِر الوايفاي؟",
+      "transliteration": "shū kilmit sirr il-wāy fāy?",
+      "english": "What's the Wi-Fi password?"
+    }
+  },
+  {
+    "id": "p4-tech-mawqi3",
+    "phaseId": 4,
+    "arabic": "مَوقِع",
+    "transliteration": "mawʔiʕ",
+    "english": "Website",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-link",
+    "phaseId": 4,
+    "arabic": "لينك",
+    "transliteration": "link",
+    "english": "Link / URL",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p4-tech-share",
+    "phaseId": 4,
+    "arabic": "شير",
+    "transliteration": "shēr",
+    "english": "Share (social media)",
+    "category": "Technology & Digital",
+    "partOfSpeech": "verb",
+    "notes": "English loanword; e.g., شيرلي الصورة (share the photo with me)"
+  },
+  {
+    "id": "p4-tech-screenshot",
+    "phaseId": 4,
+    "arabic": "سكرينشوت",
+    "transliteration": "skrīnshōt",
+    "english": "Screenshot",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p4-tech-download",
+    "phaseId": 4,
+    "arabic": "تَنزيل",
+    "transliteration": "tanzīl",
+    "english": "Download",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-upload",
+    "phaseId": 4,
+    "arabic": "رَفِع",
+    "transliteration": "rafʕ",
+    "english": "Upload",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-shasha",
+    "phaseId": 4,
+    "arabic": "شاشة",
+    "transliteration": "shāshe",
+    "english": "Screen",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشاشة اِنكَسَرِت",
+      "transliteration": "ish-shāshe inkasarit",
+      "english": "The screen broke"
+    }
+  },
+  {
+    "id": "p4-tech-batariyye",
+    "phaseId": 4,
+    "arabic": "بَطّارِيّة",
+    "transliteration": "baṭṭāriyye",
+    "english": "Battery",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-printer",
+    "phaseId": 4,
+    "arabic": "طابِعة",
+    "transliteration": "ṭābiʕa",
+    "english": "Printer",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-tech-kabli",
+    "phaseId": 4,
+    "arabic": "كابِل",
+    "transliteration": "kābil",
+    "english": "Cable",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p4-tech-hacker",
+    "phaseId": 4,
+    "arabic": "هاكَر",
+    "transliteration": "hākar",
+    "english": "Hacker",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p4-tech-backup",
+    "phaseId": 4,
+    "arabic": "نُسخة اِحتِياطِيّة",
+    "transliteration": "nuskha iḥtiyāṭiyye",
+    "english": "Backup",
+    "category": "Technology & Digital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-lira",
+    "phaseId": 4,
+    "arabic": "ليرة",
+    "transliteration": "līra",
+    "english": "Lebanese pound / lira",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الليرة نِزِلت كِتير",
+      "transliteration": "il-līra nizlit ktīr",
+      "english": "The lira dropped a lot"
+    }
+  },
+  {
+    "id": "p4-finance-dollar",
+    "phaseId": 4,
+    "arabic": "دولار",
+    "transliteration": "dōlār",
+    "english": "Dollar",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-saraf",
+    "phaseId": 4,
+    "arabic": "صَرِف",
+    "transliteration": "ṣarif",
+    "english": "Exchange rate",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "قَدِّيش الصَّرِف اليوم؟",
+      "transliteration": "ʔaddēsh iṣ-ṣarif il-yōm?",
+      "english": "What's the exchange rate today?"
+    }
+  },
+  {
+    "id": "p4-finance-sarraf",
+    "phaseId": 4,
+    "arabic": "صَرّاف",
+    "transliteration": "ṣarrāf",
+    "english": "Money exchanger",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-qard",
+    "phaseId": 4,
+    "arabic": "قَرِض",
+    "transliteration": "ʔarḍ",
+    "english": "Loan",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "أخَد قَرِض مِن البَنك",
+      "transliteration": "akhad ʔarḍ min il-bank",
+      "english": "He took a loan from the bank"
+    }
+  },
+  {
+    "id": "p4-finance-dein",
+    "phaseId": 4,
+    "arabic": "دَين",
+    "transliteration": "dēn",
+    "english": "Debt",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-faktoura",
+    "phaseId": 4,
+    "arabic": "فاتورة",
+    "transliteration": "fātūra",
+    "english": "Invoice / bill",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "فاتورة الكَهرَبا وِصِلت",
+      "transliteration": "fātūrit il-kahraba wiṣlit",
+      "english": "The electricity bill arrived"
+    }
+  },
+  {
+    "id": "p4-finance-ihtiyat",
+    "phaseId": 4,
+    "arabic": "اِحتِياط",
+    "transliteration": "iḥtiyāṭ",
+    "english": "Savings / reserves",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-masarif",
+    "phaseId": 4,
+    "arabic": "مَصاريف",
+    "transliteration": "maṣārīf",
+    "english": "Expenses",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المَصاريف كِتير هَالشَّهِر",
+      "transliteration": "il-maṣārīf ktīr ha-sh-shahir",
+      "english": "Expenses are a lot this month"
+    }
+  },
+  {
+    "id": "p4-finance-dakhel",
+    "phaseId": 4,
+    "arabic": "دَخِل",
+    "transliteration": "dakhil",
+    "english": "Income",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-rab7",
+    "phaseId": 4,
+    "arabic": "رِبِح",
+    "transliteration": "ribḥ",
+    "english": "Profit",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-khasara",
+    "phaseId": 4,
+    "arabic": "خَسارة",
+    "transliteration": "khasāra",
+    "english": "Loss",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "notes": "Also used colloquially to mean 'what a shame'"
+  },
+  {
+    "id": "p4-finance-taswiq",
+    "phaseId": 4,
+    "arabic": "تَسويق",
+    "transliteration": "taswīʔ",
+    "english": "Marketing",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-si3r",
+    "phaseId": 4,
+    "arabic": "سِعِر",
+    "transliteration": "siʕir",
+    "english": "Price",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو سِعِر هَالقَميص؟",
+      "transliteration": "shū siʕir ha-l-ʔamīṣ?",
+      "english": "What's the price of this shirt?"
+    }
+  },
+  {
+    "id": "p4-finance-khasem",
+    "phaseId": 4,
+    "arabic": "خَصِم",
+    "transliteration": "khaṣim",
+    "english": "Discount",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-hisab-banki",
+    "phaseId": 4,
+    "arabic": "حِساب بَنكي",
+    "transliteration": "ḥisāb banki",
+    "english": "Bank account",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-hawale",
+    "phaseId": 4,
+    "arabic": "حَوالة",
+    "transliteration": "ḥawāle",
+    "english": "Money transfer / remittance",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَعَتلي حَوالة مِن بَرّا",
+      "transliteration": "baʕatli ḥawāle min barra",
+      "english": "He sent me a remittance from abroad"
+    }
+  },
+  {
+    "id": "p4-finance-ta2min",
+    "phaseId": 4,
+    "arabic": "تَأمين",
+    "transliteration": "taʔmīn",
+    "english": "Insurance",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-rasm-madkhul",
+    "phaseId": 4,
+    "arabic": "رَسِم دُخول",
+    "transliteration": "rasim dukhūl",
+    "english": "Entry fee / admission",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-finance-tijaara",
+    "phaseId": 4,
+    "arabic": "تِجارة",
+    "transliteration": "tijāra",
+    "english": "Trade / commerce",
+    "category": "Finance & Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-dialect-haydak",
+    "phaseId": 4,
+    "arabic": "هَيداك",
+    "transliteration": "haydāk",
+    "english": "That one (masc.)",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "pronoun",
+    "notes": "Uniquely Lebanese; MSA uses ذلك (dhālik)",
+    "exampleSentence": {
+      "arabic": "هَيداك الزَّلَمة كِتير طَيِّب",
+      "transliteration": "haydāk iz-zalame ktīr ṭayyib",
+      "english": "That man is very kind"
+    }
+  },
+  {
+    "id": "p4-dialect-haydik",
+    "phaseId": 4,
+    "arabic": "هَيديك",
+    "transliteration": "haydīk",
+    "english": "That one (fem.)",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "p4-dialect-halla2",
+    "phaseId": 4,
+    "arabic": "هَلَّق",
+    "transliteration": "hallaʔ",
+    "english": "Now",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Uniquely Lebanese; MSA uses الآن (al-ān)",
+    "exampleSentence": {
+      "arabic": "هَلَّق مِش وَقتا",
+      "transliteration": "hallaʔ mish waʔta",
+      "english": "Now is not the time"
+    }
+  },
+  {
+    "id": "p4-dialect-kifak",
+    "phaseId": 4,
+    "arabic": "كيفَك",
+    "transliteration": "kīfak",
+    "english": "How are you? (masc.)",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Iconic Lebanese greeting; fem. form: كيفِك (kīfik)"
+  },
+  {
+    "id": "p4-dialect-mni7",
+    "phaseId": 4,
+    "arabic": "مْنيح",
+    "transliteration": "mnīḥ",
+    "english": "Good / fine",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "adj",
+    "notes": "Lebanese/Syrian; other dialects use كويّس (kwayyes) or زين (zēn)",
+    "exampleSentence": {
+      "arabic": "الحَمدِلله مْنيح",
+      "transliteration": "il-ḥamdilla mnīḥ",
+      "english": "Thank God, I'm fine"
+    }
+  },
+  {
+    "id": "p4-dialect-ma32ul",
+    "phaseId": 4,
+    "arabic": "مَعقول",
+    "transliteration": "maʕʔūl",
+    "english": "Reasonable / really? / no way",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "adj",
+    "notes": "Used as an exclamation of disbelief in Lebanese",
+    "exampleSentence": {
+      "arabic": "مَعقول هَيدا صار؟",
+      "transliteration": "maʕʔūl hayda ṣār?",
+      "english": "Is it really possible this happened?"
+    }
+  },
+  {
+    "id": "p4-dialect-3al-2alil",
+    "phaseId": 4,
+    "arabic": "عَالقَليل",
+    "transliteration": "ʕa-l-ʔalīl",
+    "english": "At least",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p4-dialect-hek",
+    "phaseId": 4,
+    "arabic": "هيك",
+    "transliteration": "hēk",
+    "english": "Like this / so",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Uniquely Lebanese/Syrian; other dialects use كذا (kidha)",
+    "exampleSentence": {
+      "arabic": "ليش عَم تِعمِل هيك؟",
+      "transliteration": "lēsh ʕam tiʕmil hēk?",
+      "english": "Why are you doing it like this?"
+    }
+  },
+  {
+    "id": "p4-dialect-3am",
+    "phaseId": 4,
+    "arabic": "عَم",
+    "transliteration": "ʕam",
+    "english": "Continuous action marker (present progressive)",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese progressive marker; e.g., عم بيكتب = he is writing",
+    "exampleSentence": {
+      "arabic": "شو عَم تْعَمِل؟",
+      "transliteration": "shū ʕam tʕamil?",
+      "english": "What are you doing?"
+    }
+  },
+  {
+    "id": "p4-dialect-la2",
+    "phaseId": 4,
+    "arabic": "لَأ",
+    "transliteration": "laʔ",
+    "english": "No",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese pronunciation with glottal stop; MSA لا (lā)"
+  },
+  {
+    "id": "p4-dialect-eh",
+    "phaseId": 4,
+    "arabic": "إي",
+    "transliteration": "ē",
+    "english": "Yes",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Informal Lebanese yes; MSA uses نعم (naʕam)"
+  },
+  {
+    "id": "p4-dialect-shi",
+    "phaseId": 4,
+    "arabic": "شي",
+    "transliteration": "shi",
+    "english": "Thing / something",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese for شيء (shayʔ)",
+    "exampleSentence": {
+      "arabic": "بَدَّك شي؟",
+      "transliteration": "baddak shi?",
+      "english": "Do you want something?"
+    }
+  },
+  {
+    "id": "p4-dialect-baddi",
+    "phaseId": 4,
+    "arabic": "بَدّي",
+    "transliteration": "baddi",
+    "english": "I want",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Uniquely Lebanese/Syrian; replaces MSA أريد (urīd)",
+    "exampleSentence": {
+      "arabic": "بَدّي روح عَ البَيت",
+      "transliteration": "baddi rūḥ ʕa-l-bēt",
+      "english": "I want to go home"
+    }
+  },
+  {
+    "id": "p4-dialect-fi",
+    "phaseId": 4,
+    "arabic": "في",
+    "transliteration": "fī",
+    "english": "There is / there are",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese existential; replaces MSA يوجد (yūjad) or هناك (hunāk)"
+  },
+  {
+    "id": "p4-dialect-ma-fi",
+    "phaseId": 4,
+    "arabic": "ما في",
+    "transliteration": "mā fī",
+    "english": "There isn't / there aren't",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "ما في كَهرَبا اليوم",
+      "transliteration": "mā fī kahraba il-yōm",
+      "english": "There's no electricity today"
+    }
+  },
+  {
+    "id": "p4-dialect-yalla",
+    "phaseId": 4,
+    "arabic": "يَلّا",
+    "transliteration": "yalla",
+    "english": "Let's go / come on / hurry up",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "يَلّا نِروح",
+      "transliteration": "yalla nrūḥ",
+      "english": "Let's go!"
+    }
+  },
+  {
+    "id": "p4-dialect-bass",
+    "phaseId": 4,
+    "arabic": "بَس",
+    "transliteration": "bass",
+    "english": "But / only / enough",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Very versatile Lebanese word; can mean 'but', 'just', 'only', or 'stop/enough'"
+  },
+  {
+    "id": "p4-dialect-shu",
+    "phaseId": 4,
+    "arabic": "شو",
+    "transliteration": "shū",
+    "english": "What?",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese for ماذا (mādhā); one of the most common Lebanese words"
+  },
+  {
+    "id": "p4-dialect-wen",
+    "phaseId": 4,
+    "arabic": "وَين",
+    "transliteration": "wēn",
+    "english": "Where?",
+    "category": "Regional Dialect Words",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese for أين (ayn)",
+    "exampleSentence": {
+      "arabic": "وَين رايِح؟",
+      "transliteration": "wēn rāyiḥ?",
+      "english": "Where are you going?"
+    }
+  },
+  {
+    "id": "p4-nature-wadi",
+    "phaseId": 4,
+    "arabic": "وادي",
+    "transliteration": "wādi",
+    "english": "Valley",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "وادي قاديشا كِتير حِلو",
+      "transliteration": "wādi ʔādīshā ktīr ḥilu",
+      "english": "Qadisha Valley is very beautiful"
+    }
+  },
+  {
+    "id": "p4-nature-ghabe",
+    "phaseId": 4,
+    "arabic": "غابة",
+    "transliteration": "ghābe",
+    "english": "Forest",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-nab3",
+    "phaseId": 4,
+    "arabic": "نَبِع",
+    "transliteration": "nabʕ",
+    "english": "Spring / water source",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "notes": "Lebanon is known for its mountain springs"
+  },
+  {
+    "id": "p4-nature-mghara",
+    "phaseId": 4,
+    "arabic": "مْغارة",
+    "transliteration": "mghāra",
+    "english": "Cave",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "رُحنا عَ مْغارة جِعيتا",
+      "transliteration": "ruḥna ʕa mghārit jʕīta",
+      "english": "We went to Jeita Grotto"
+    }
+  },
+  {
+    "id": "p4-nature-sahel",
+    "phaseId": 4,
+    "arabic": "ساحِل",
+    "transliteration": "sāḥil",
+    "english": "Coast / shore",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-tall",
+    "phaseId": 4,
+    "arabic": "تَلّ",
+    "transliteration": "tall",
+    "english": "Hill",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-ard",
+    "phaseId": 4,
+    "arabic": "أرِض",
+    "transliteration": "arḍ",
+    "english": "Land / earth",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندو أرِض بِالضَّيعة",
+      "transliteration": "ʕindo arḍ b-iḍ-ḍayʕa",
+      "english": "He has land in the village"
+    }
+  },
+  {
+    "id": "p4-nature-jalid",
+    "phaseId": 4,
+    "arabic": "جَليد",
+    "transliteration": "jalīd",
+    "english": "Ice",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-dabbe",
+    "phaseId": 4,
+    "arabic": "ضَبّة",
+    "transliteration": "ḍabbe",
+    "english": "Fog",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese word; MSA uses ضباب (ḍabāb)",
+    "exampleSentence": {
+      "arabic": "في ضَبّة كِتير كْثيفة بِالجَبَل",
+      "transliteration": "fī ḍabbe ktīr kthīfe b-ij-jabal",
+      "english": "There's very thick fog in the mountains"
+    }
+  },
+  {
+    "id": "p4-nature-shajra",
+    "phaseId": 4,
+    "arabic": "شَجَرة",
+    "transliteration": "shajara",
+    "english": "Tree",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-ward",
+    "phaseId": 4,
+    "arabic": "وَرِد",
+    "transliteration": "ward",
+    "english": "Flowers / roses",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "جِبتِلِّك وَرِد",
+      "transliteration": "jibtillik ward",
+      "english": "I brought you flowers"
+    }
+  },
+  {
+    "id": "p4-nature-bustaan",
+    "phaseId": 4,
+    "arabic": "بُستان",
+    "transliteration": "bustān",
+    "english": "Orchard / garden",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-jabal",
+    "phaseId": 4,
+    "arabic": "جَبَل",
+    "transliteration": "jabal",
+    "english": "Mountain",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "طلِعنا عَ الجَبَل",
+      "transliteration": "ṭliʕna ʕa-l-jabal",
+      "english": "We went up to the mountain"
+    }
+  },
+  {
+    "id": "p4-nature-ba7r",
+    "phaseId": 4,
+    "arabic": "بَحِر",
+    "transliteration": "baḥir",
+    "english": "Sea",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-thalej",
+    "phaseId": 4,
+    "arabic": "ثَلِج",
+    "transliteration": "talij",
+    "english": "Snow",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese pronunciation drops the 'th' sound",
+    "exampleSentence": {
+      "arabic": "عَم يِتلِج بِالأرِز",
+      "transliteration": "ʕam yitlij b-il-arz",
+      "english": "It's snowing in the Cedars"
+    }
+  },
+  {
+    "id": "p4-nature-shams",
+    "phaseId": 4,
+    "arabic": "شَمِس",
+    "transliteration": "shams",
+    "english": "Sun",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-2amar",
+    "phaseId": 4,
+    "arabic": "قَمَر",
+    "transliteration": "ʔamar",
+    "english": "Moon",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "notes": "Also used as a compliment: إنتِ قمر (inti ʔamar) = you're beautiful"
+  },
+  {
+    "id": "p4-nature-hawa",
+    "phaseId": 4,
+    "arabic": "هَوا",
+    "transliteration": "hawa",
+    "english": "Air / wind",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-nature-arz",
+    "phaseId": 4,
+    "arabic": "أَرِز",
+    "transliteration": "arz",
+    "english": "Cedar tree",
+    "category": "Nature & Geography",
+    "partOfSpeech": "noun",
+    "notes": "National symbol of Lebanon; on the flag",
+    "exampleSentence": {
+      "arabic": "الأَرِز رَمِز لِبنان",
+      "transliteration": "il-arz ramiz libnān",
+      "english": "The cedar is the symbol of Lebanon"
+    }
+  },
+  {
+    "id": "p4-formal-hadratkon",
+    "phaseId": 4,
+    "arabic": "حَضرَتكُن",
+    "transliteration": "ḥaḍratkon",
+    "english": "Your honor / excellency (formal you)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Very formal/respectful way to address someone"
+  },
+  {
+    "id": "p4-formal-na3am",
+    "phaseId": 4,
+    "arabic": "نَعَم",
+    "transliteration": "naʕam",
+    "english": "Yes / sir",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Formal yes; also used when answering a call or question politely"
+  },
+  {
+    "id": "p4-formal-afwan",
+    "phaseId": 4,
+    "arabic": "عَفواً",
+    "transliteration": "ʕafwan",
+    "english": "Excuse me / you're welcome",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p4-formal-tafaddal",
+    "phaseId": 4,
+    "arabic": "تَفَضَّل",
+    "transliteration": "tafaḍḍal",
+    "english": "Please / go ahead / here you are",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "تَفَضَّل اِقعُد",
+      "transliteration": "tafaḍḍal iʔʕud",
+      "english": "Please, sit down"
+    }
+  },
+  {
+    "id": "p4-formal-bil-izin",
+    "phaseId": 4,
+    "arabic": "بِالإذِن",
+    "transliteration": "b-il-izin",
+    "english": "With your permission / excuse me",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Said when passing by someone or leaving a gathering"
+  },
+  {
+    "id": "p4-formal-3afye",
+    "phaseId": 4,
+    "arabic": "عافية",
+    "transliteration": "ʕāfye",
+    "english": "Health / well done / bless you",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Said to someone who is working or has done something; reply: الله يعافيك",
+    "exampleSentence": {
+      "arabic": "يِعطيك العافية",
+      "transliteration": "yaʕṭīk il-ʕāfye",
+      "english": "May God give you strength (well done)"
+    }
+  },
+  {
+    "id": "p4-formal-sahtein",
+    "phaseId": 4,
+    "arabic": "صَحتَين",
+    "transliteration": "ṣaḥtēn",
+    "english": "Bon appetit (literally: two healths)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Said to someone eating; reply: عَ قَلبَك (ʕa ʔalbak)"
+  },
+  {
+    "id": "p4-formal-n3iman",
+    "phaseId": 4,
+    "arabic": "نْعيماً",
+    "transliteration": "nʕīman",
+    "english": "Blessing (said after haircut/shower)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Reply: الله يِنعِم عَلَيك (alla yinʕim ʕalēk)"
+  },
+  {
+    "id": "p4-formal-inshallah",
+    "phaseId": 4,
+    "arabic": "إن شاء الله",
+    "transliteration": "inshālla",
+    "english": "God willing",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Used constantly; can also mean 'hopefully' or sometimes an indirect 'no'",
+    "exampleSentence": {
+      "arabic": "إن شاء الله مْنِلتِقي بُكرا",
+      "transliteration": "inshālla mniltiʔi bukra",
+      "english": "God willing, we'll meet tomorrow"
+    }
+  },
+  {
+    "id": "p4-formal-mashallah",
+    "phaseId": 4,
+    "arabic": "ما شاء الله",
+    "transliteration": "mā shālla",
+    "english": "God has willed it (expressing admiration)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Used to express admiration and ward off the evil eye"
+  },
+  {
+    "id": "p4-formal-allah-yir7amo",
+    "phaseId": 4,
+    "arabic": "الله يِرحَمو",
+    "transliteration": "alla yirḥamo",
+    "english": "God rest his soul",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Said when mentioning someone deceased"
+  },
+  {
+    "id": "p4-formal-allah-yisalmak",
+    "phaseId": 4,
+    "arabic": "الله يِسَلِّمَك",
+    "transliteration": "alla yisallmak",
+    "english": "God keep you safe",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Common response to يِعطيك العافية or when thanking someone"
+  },
+  {
+    "id": "p4-formal-tkaram",
+    "phaseId": 4,
+    "arabic": "تْكَرَّم",
+    "transliteration": "tkrram",
+    "english": "Please (formal) / be so kind",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p4-formal-habibi",
+    "phaseId": 4,
+    "arabic": "حَبيبي",
+    "transliteration": "ḥabībi",
+    "english": "My love / my dear (term of endearment)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Used casually among friends, family, or romantically; fem: حبيبتي (ḥabībti)",
+    "exampleSentence": {
+      "arabic": "كيفَك حَبيبي؟",
+      "transliteration": "kīfak ḥabībi?",
+      "english": "How are you, my dear?"
+    }
+  },
+  {
+    "id": "p4-formal-ahla-w-sahla",
+    "phaseId": 4,
+    "arabic": "أهلاً وسَهلاً",
+    "transliteration": "ahlan w sahlan",
+    "english": "Welcome",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p4-formal-allah-ma3ak",
+    "phaseId": 4,
+    "arabic": "الله مَعَك",
+    "transliteration": "alla maʕak",
+    "english": "God be with you (goodbye)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p4-formal-bi-hayatak",
+    "phaseId": 4,
+    "arabic": "بِحَياتَك",
+    "transliteration": "b-ḥayātak",
+    "english": "Please (begging) / I swear on your life",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Emphatic way of asking for something",
+    "exampleSentence": {
+      "arabic": "بِحَياتَك ساعِدني",
+      "transliteration": "b-ḥayātak sāʕidni",
+      "english": "Please help me (I beg you)"
+    }
+  },
+  {
+    "id": "p4-formal-ya-3ein",
+    "phaseId": 4,
+    "arabic": "يا عَيني",
+    "transliteration": "ya ʕēni",
+    "english": "Oh my (expressing sympathy/admiration)",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Literally 'oh my eye'; used to express various emotions"
+  },
+  {
+    "id": "p4-formal-mar7aba",
+    "phaseId": 4,
+    "arabic": "مَرحَبا",
+    "transliteration": "marḥaba",
+    "english": "Hello",
+    "category": "Formal Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Can be intensified: مرحبتين (marḥabtēn) = double hello"
+  },
+  {
+    "id": "p4-describe-tawil",
+    "phaseId": 4,
+    "arabic": "طَويل",
+    "transliteration": "ṭawīl",
+    "english": "Tall",
+    "category": "Describing People",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "هَيدا الزَّلَمة كِتير طَويل",
+      "transliteration": "hayda iz-zalame ktīr ṭawīl",
+      "english": "That man is very tall"
+    }
+  },
+  {
+    "id": "p4-describe-2asir",
+    "phaseId": 4,
+    "arabic": "قَصير",
+    "transliteration": "ʔaṣīr",
+    "english": "Short (height)",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-smin",
+    "phaseId": 4,
+    "arabic": "سَمين",
+    "transliteration": "samīn",
+    "english": "Fat / heavy",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-n7if",
+    "phaseId": 4,
+    "arabic": "نْحيف",
+    "transliteration": "nḥīf",
+    "english": "Thin / slim",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-7elo",
+    "phaseId": 4,
+    "arabic": "حِلو",
+    "transliteration": "ḥilu",
+    "english": "Handsome / pretty / sweet",
+    "category": "Describing People",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "كِتير حِلو هَالوَلَد",
+      "transliteration": "ktīr ḥilu ha-l-walad",
+      "english": "This boy is very handsome"
+    }
+  },
+  {
+    "id": "p4-describe-2abih",
+    "phaseId": 4,
+    "arabic": "قَبيح",
+    "transliteration": "ʔabīḥ",
+    "english": "Ugly",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-a2ra3",
+    "phaseId": 4,
+    "arabic": "أقرَع",
+    "transliteration": "aʔraʕ",
+    "english": "Bald",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-sha2ra",
+    "phaseId": 4,
+    "arabic": "شَقرا",
+    "transliteration": "shaʔra",
+    "english": "Blonde (fem.) / fair-haired",
+    "category": "Describing People",
+    "partOfSpeech": "adj",
+    "notes": "Masc: أشقر (ashʔar)"
+  },
+  {
+    "id": "p4-describe-jamal",
+    "phaseId": 4,
+    "arabic": "جَمال",
+    "transliteration": "jamāl",
+    "english": "Beauty",
+    "category": "Describing People",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p4-describe-2awe",
+    "phaseId": 4,
+    "arabic": "قَوي",
+    "transliteration": "ʔawi",
+    "english": "Strong",
+    "category": "Describing People",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "هَيدا الشَّب كِتير قَوي",
+      "transliteration": "hayda ish-shabb ktīr ʔawi",
+      "english": "This young man is very strong"
+    }
+  },
+  {
+    "id": "p4-describe-da3if",
+    "phaseId": 4,
+    "arabic": "ضَعيف",
+    "transliteration": "ḍaʕīf",
+    "english": "Weak",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-zaki",
+    "phaseId": 4,
+    "arabic": "ذَكي",
+    "transliteration": "zaki",
+    "english": "Smart / intelligent",
+    "category": "Describing People",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "بِنتو كِتير ذَكِيّة",
+      "transliteration": "binto ktīr zakiyye",
+      "english": "His daughter is very smart"
+    }
+  },
+  {
+    "id": "p4-describe-ghabi",
+    "phaseId": 4,
+    "arabic": "غَبي",
+    "transliteration": "ghabi",
+    "english": "Stupid / dumb",
+    "category": "Describing People",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p4-describe-khashoum",
+    "phaseId": 4,
+    "arabic": "خَشمو كِبير",
+    "transliteration": "khashmo kbīr",
+    "english": "Big-nosed",
+    "category": "Describing People",
+    "partOfSpeech": "phrase",
+    "notes": "Lebanese uses خشم (khashm) for nose more than أنف (anf)"
+  },
+  {
+    "id": "p4-describe-samra",
+    "phaseId": 4,
+    "arabic": "سَمرا",
+    "transliteration": "samra",
+    "english": "Dark-skinned / brunette (fem.)",
+    "category": "Describing People",
+    "partOfSpeech": "adj",
+    "notes": "Masc: أسمر (asmar); not offensive in Lebanese Arabic"
+  }
+]

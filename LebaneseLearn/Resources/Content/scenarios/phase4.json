@@ -1,0 +1,856 @@
+[
+  {
+    "id": "p4-scenario-job-interview",
+    "phaseId": 4,
+    "title": "Job Interview",
+    "titleArabic": "مقابلة شغل",
+    "setting": "A modern office building in Downtown Beirut (Solidere). You have an interview at a marketing company. You enter the lobby, check in with the receptionist, and are led to a meeting room where the hiring manager is waiting.",
+    "branches": [
+      {
+        "id": "p4-scenario-job-interview-branch-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "وِصِلْتْ عَالمَكْتَب بْوَسَط بَيروت. المَبْنى حِلْو وحَديس. فِتِّتْ عَاللّوبي ورْحِتْ عَالاِسْتِقْبال.",
+        "transliteration": "Wṣilt ʕal-maktab b-wasaṭ Bayrūt. Il-mabna ḥilw w ḥadīs. Fittit ʕal-lobby w rḥit ʕal-istiʔbēl.",
+        "english": "You arrive at the office in Downtown Beirut. The building is nice and modern. You enter the lobby and go to the reception."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-2",
+        "speaker": "Receptionist",
+        "speakerRole": "b",
+        "arabic": "أَهْلاً! كيف فيني ساعْدَك؟",
+        "transliteration": "Ahlan! Kīf fīnī sēʕdak?",
+        "english": "Hello! How can I help you?"
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-3",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to introduce yourself:",
+        "choices": [
+          {
+            "text": "I have an interview appointment at 10",
+            "textArabic": "عِنْدي مَوْعِد مُقابْلة السّاعة عَشْرة",
+            "textTransliteration": "ʕIndī mawʕid muʔāble is-sēʕa ʕashra",
+            "nextBranchId": "p4-scenario-job-interview-branch-4"
+          },
+          {
+            "text": "I'm here for a job interview with Mr. Haddad",
+            "textArabic": "أَنا هَون لَمُقابْلة شُغُل مَع السَيِّد حَدّاد",
+            "textTransliteration": "Ana hōn la-muʔāble shughul maʕ is-sayyid Ḥaddād",
+            "nextBranchId": "p4-scenario-job-interview-branch-4",
+            "culturalNote": "Using 'is-sayyid' (السيّد) is the formal way to address someone in a professional setting. In casual Lebanese, people often just use the first name."
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-4",
+        "speaker": "Receptionist",
+        "speakerRole": "b",
+        "arabic": "أَهْلاً وسَهْلاً. شو إسْمَك الكامِل؟ خَلّيني شَيِّك بِالsysteme.",
+        "transliteration": "Ahla w sahla. Shū ismak il-kēmil? Khallīnī shayyik bil-systeme.",
+        "english": "Welcome. What is your full name? Let me check the system.",
+        "culturalTip": "Code-switching between Arabic and French/English is extremely common in Lebanese professional settings. Words like 'systeme', 'rendez-vous', and 'interview' are used naturally in everyday conversation."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-5",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "إسْمي [إسْمَك]. عِنْدي rendez-vous مَع قِسِم الـmarketing.",
+        "transliteration": "Ismī [ismak]. ʕIndī rendez-vous maʕ ʔisim il-marketing.",
+        "english": "My name is [your name]. I have an appointment with the marketing department."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-6",
+        "speaker": "Receptionist",
+        "speakerRole": "b",
+        "arabic": "تَمام، لَقَيتَك عَالنِّظام. تفَضَّل اقْعُد هَون، السَيِّد حَدّاد رَح يِجي يوخْدَك بَعْد دَقايِق.",
+        "transliteration": "Tamēm, laʔaytak ʕan-niẓām. Tfaḍḍal iʔʕud hōn, is-sayyid Ḥaddād raḥ yijī yēkhdak baʕd daʔāyiʔ.",
+        "english": "Perfect, I found you in the system. Please sit here, Mr. Haddad will come get you in a few minutes."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-7",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "بَعْد خَمْس دَقايِق، إِجا السَيِّد حَدّاد. رِجّال بِالأَرْبَعينات، لابِس costume رَسْمي.",
+        "transliteration": "Baʕd khams daʔāyiʔ, ija is-sayyid Ḥaddād. Rijjēl bil-arbaʕīnēt, lēbis costume rasmī.",
+        "english": "After five minutes, Mr. Haddad arrives. A man in his forties, wearing a formal suit."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-8",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "أَهْلا وسَهْلاً فيك! أَنا نَبيل حَدّاد، مُدير قِسِم الـmarketing. تفَضَّل مَعي عَالمَكْتَب.",
+        "transliteration": "Ahla w sahla fīk! Ana Nabīl Ḥaddād, mudīr ʔisim il-marketing. Tfaḍḍal maʕī ʕal-maktab.",
+        "english": "Welcome! I am Nabeel Haddad, marketing department manager. Please come with me to the office.",
+        "culturalTip": "In Lebanese interviews, the conversation often starts informally before getting into specifics. Building rapport and personal connection matters as much as qualifications."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-9",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "خَبِّرني عَن حالَك. شو خِبْرِتَك بْمَجال الـmarketing؟ وين كِنْت تِشْتِغِل قَبْل؟",
+        "transliteration": "Khabbirnī ʕan ḥēlak. Shū khibritak b-majēl il-marketing? Wayn kint tishtighil ʔabl?",
+        "english": "Tell me about yourself. What is your experience in marketing? Where were you working before?"
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-10",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to describe your experience:",
+        "choices": [
+          {
+            "text": "I have 3 years of experience in digital marketing",
+            "textArabic": "عِنْدي تْلات سْنين خِبْرة بِالـdigital marketing. كِنْت إشْتِغِل بْشَرِكة بَيروت لِلإعْلانات",
+            "textTransliteration": "ʕIndī tlēt snīn khibra bil-digital marketing. Kint ishtighil b-sharikit Bayrūt lil-iʕlēnēt",
+            "nextBranchId": "p4-scenario-job-interview-branch-11"
+          },
+          {
+            "text": "I just graduated but I did internships",
+            "textArabic": "لِسّاتْني مِتْخَرِّج بَس عْمِلْت كَذا stage بْشَرِكات كْبيرة",
+            "textTransliteration": "Lissētnī mitkharrij bass ʕmilt kaza stage b-sharikēt kbīre",
+            "nextBranchId": "p4-scenario-job-interview-branch-11",
+            "culturalNote": "The French word 'stage' (internship) is universally used in Lebanese professional Arabic instead of the MSA word 'tadrīb'."
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-11",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "كْتير مْنيح. وشو المَهارات يَلّي عِنْدَك؟ بْتِعْرِف تِشْتِغِل عَالـsocial media وcontent creation؟",
+        "transliteration": "Ktīr mnīḥ. W shū il-mahērēt yallī ʕandak? Btiʕrif tishtighil ʕal-social media w content creation?",
+        "english": "Very good. And what skills do you have? Do you know how to work on social media and content creation?"
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-12",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "إي طَبْعاً. بَعْرِف كَمان أَعْمِل campaigns وأَحَلِّل الـdata. وبِحْكي عَرَبي وإنْكليزي وفْرَنْساوي.",
+        "transliteration": "Ē ṭabʕan. Baʕrif kamēn aʕmil campaigns w aḥallil il-data. W biḥkī ʕarabī w inglīzī w fransēwī.",
+        "english": "Yes of course. I also know how to run campaigns and analyze data. And I speak Arabic, English, and French.",
+        "culturalTip": "Trilingual ability (Arabic, French, English) is a major asset in the Lebanese job market and is often expected for professional positions, especially in marketing and business."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-13",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "حِلْو كْتير. هَلَّق خَلّيني إسْأَلَك عَن تَوَقُّعاتَك لِلمَعاش. شو الـsalaire يَلّي عَم تِتْوَقَّعو؟",
+        "transliteration": "Ḥilw ktīr. Hallaʔ khallīnī isʔalak ʕan tawaʔʔuʕētak lil-maʕēsh. Shū il-salaire yallī ʕam titwaʔʔaʕo?",
+        "english": "Very nice. Now let me ask you about your salary expectations. What salary are you expecting?"
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-14",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to handle the salary question:",
+        "choices": [
+          {
+            "text": "State a specific number confidently",
+            "textArabic": "بْحَسَب خِبْرِتي، عَم تْوَقَّع حَوالي أَلْف وخَمْسمية دولار فْرِش بِالشَّهِر",
+            "textTransliteration": "B-ḥasab khibritī, ʕam twaʔʔaʕ ḥawēlī alf w khamsumiyye dolēr fresh bish-shahar",
+            "nextBranchId": "p4-scenario-job-interview-branch-15"
+          },
+          {
+            "text": "Ask about their range first",
+            "textArabic": "بْفَضِّل أَعْرِف الـrange يَلّي عِنْدْكُن لَهالوَظيفة أَوَّل شي",
+            "textTransliteration": "Bfaḍḍil aʕrif il-range yallī ʕindkun la-hal-waẓīfe awwal shī",
+            "nextBranchId": "p4-scenario-job-interview-branch-15",
+            "culturalNote": "In Lebanon, salaries are almost always discussed in US dollars (fresh dollars), especially after the economic crisis. The Lebanese lira salary is considered separately."
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-15",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "مَنْطِقي. بْنِقْدَر نِتْفاوَض عَالتَّفاصيل بَعْدين. عِنْدَك شي سُؤال إلْنا؟",
+        "transliteration": "Manṭiʔī. Bniʔdar nitfēwaḍ ʕat-tafēṣīl baʕdayn. ʕIndak shī suʔēl ilna?",
+        "english": "That's reasonable. We can negotiate the details later. Do you have any questions for us?"
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-16",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose what to ask:",
+        "choices": [
+          {
+            "text": "Ask about work culture and team",
+            "textArabic": "كيف الجَوّ بِالشَّرِكة؟ وأَدَّيش عَدَد الفَريق يَلّي رَح إشْتِغِل مَعُن؟",
+            "textTransliteration": "Kīf ij-jaww bish-sharike? W addaysh ʕadad il-farīʔ yallī raḥ ishtighil maʕun?",
+            "nextBranchId": "p4-scenario-job-interview-branch-17"
+          },
+          {
+            "text": "Ask about growth opportunities",
+            "textArabic": "في فُرَص لِلتَّطَوُّر المِهَني وتَرْقية بِالشَّرِكة؟",
+            "textTransliteration": "Fī furaṣ lit-taṭawwur il-mihanī w tarʔiye bish-sharike?",
+            "nextBranchId": "p4-scenario-job-interview-branch-17"
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-17",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "سُؤال حِلْو. الجَوّ عِنَّا كْتير مْنيح والفَريق صْغير بَس dynamic. رَح نِتْواصَل مَعَك خِلال هَالأُسْبوع إن شاء الله.",
+        "transliteration": "Suʔēl ḥilw. Ij-jaww ʕinna ktīr mnīḥ wil-farīʔ zghīr bass dynamic. Raḥ nitwēṣal maʕak khilēl hal-usbūʕ in shāʔ Allāh.",
+        "english": "Good question. The atmosphere here is very nice and the team is small but dynamic. We will contact you during this week, God willing.",
+        "culturalTip": "When an interviewer says 'in shāʔ Allāh' (God willing) about next steps, it usually means they are genuinely interested but not making a firm commitment yet. It is a normal part of Lebanese communication, not evasion."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-18",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "شُكْراً كْتير عَوَقْتَك. تْشَرَّفْت بِالمُقابْلة. يِعْطيك العافية.",
+        "transliteration": "Shukran ktīr ʕa-waʔtak. Tsharraft bil-muʔāble. Yaʕṭīk il-ʕēfye.",
+        "english": "Thank you very much for your time. I was honored by the interview. May God give you strength."
+      },
+      {
+        "id": "p4-scenario-job-interview-branch-19",
+        "speaker": "Mr. Haddad",
+        "speakerRole": "b",
+        "arabic": "الشَّرَف إلْنا. بِالتَّوفيق! نْشوفَك قَريباً إن شاء الله.",
+        "transliteration": "Ish-sharaf ilna. Bit-tawfīʔ! Nshūfak ʔarīban in shāʔ Allāh.",
+        "english": "The honor is ours. Good luck! We'll see you soon, God willing.",
+        "culturalTip": "Wasta (واسطة) -- personal connections -- plays a big role in Lebanese hiring. Having someone recommend you inside a company is often more important than the interview itself. However, qualifications and rapport still matter greatly."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What French word is commonly used instead of 'internship' in Lebanese professional Arabic?",
+        "options": [
+          "Experience",
+          "Stage",
+          "Travail",
+          "Emploi"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "In what currency are salaries typically discussed in Lebanon?",
+        "options": [
+          "Lebanese lira only",
+          "Euro",
+          "US dollars (fresh dollars)",
+          "British pounds"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does 'tsharraft bil-muʔāble' mean?",
+        "options": [
+          "I am sorry about the interview",
+          "I was honored by the interview",
+          "I want to reschedule the interview",
+          "The interview was difficult"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "مُقابْلة",
+        "transliteration": "muʔāble",
+        "english": "interview"
+      },
+      {
+        "arabic": "شُغُل",
+        "transliteration": "shughul",
+        "english": "work / job"
+      },
+      {
+        "arabic": "خِبْرة",
+        "transliteration": "khibra",
+        "english": "experience"
+      },
+      {
+        "arabic": "مَعاش",
+        "transliteration": "maʕēsh",
+        "english": "salary"
+      },
+      {
+        "arabic": "شَرِكة",
+        "transliteration": "sharike",
+        "english": "company"
+      },
+      {
+        "arabic": "وَظيفة",
+        "transliteration": "waẓīfe",
+        "english": "position / job"
+      },
+      {
+        "arabic": "مَهارات",
+        "transliteration": "mahērēt",
+        "english": "skills"
+      },
+      {
+        "arabic": "واسْطة",
+        "transliteration": "wēsṭa",
+        "english": "connections / nepotism"
+      }
+    ]
+  },
+  {
+    "id": "p4-scenario-bank",
+    "phaseId": 4,
+    "title": "At the Bank",
+    "titleArabic": "بالبنك",
+    "setting": "A bank branch in the Hamra district of Beirut. You need to open a new dollar account and make a transfer. The bank is busy, and you take a number and wait your turn before speaking with a teller.",
+    "branches": [
+      {
+        "id": "p4-scenario-bank-branch-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "فِتِّتْ عَالبَنْك بِالحَمْرا. في ناس كْتير عَم يِسْتَنّو. أَخَدِت نِمْرة وقْعَدِت.",
+        "transliteration": "Fittit ʕal-bank bil-Ḥamra. Fī nēs ktīr ʕam yistannū. Akhadit nimra w ʔiʕdit.",
+        "english": "You enter the bank in Hamra. There are many people waiting. You take a number and sit down."
+      },
+      {
+        "id": "p4-scenario-bank-branch-2",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "بَعْد نُصّ ساعة، لِحِق دَوْرَك.",
+        "transliteration": "Baʕd nuṣṣ sēʕa, liḥiʔ dawrak.",
+        "english": "After half an hour, your turn comes.",
+        "culturalTip": "Long waits at Lebanese banks are very common, especially since the 2019 financial crisis. Patience is essential. Many people spend this time chatting with other customers."
+      },
+      {
+        "id": "p4-scenario-bank-branch-3",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "أَهْلا. شو فيني ساعْدَك اليَوم؟",
+        "transliteration": "Ahla. Shū fīnī sēʕdak il-yōm?",
+        "english": "Hello. How can I help you today?"
+      },
+      {
+        "id": "p4-scenario-bank-branch-4",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose what you need:",
+        "choices": [
+          {
+            "text": "I want to open a new dollar account",
+            "textArabic": "بَدّي إفْتَح حِساب جْديد بِالدولار",
+            "textTransliteration": "Baddī iftaḥ ḥsēb jdīd bid-dolēr",
+            "nextBranchId": "p4-scenario-bank-branch-5"
+          },
+          {
+            "text": "I need to make a transfer abroad",
+            "textArabic": "بَدّي أَعْمِل تَحْويلة عَالخارِج",
+            "textTransliteration": "Baddī aʕmil taḥwīle ʕal-khērij",
+            "nextBranchId": "p4-scenario-bank-branch-5",
+            "culturalNote": "Transferring money abroad from Lebanon has become very complicated since the banking crisis. Many people use informal transfer services (hawala) instead of banks."
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bank-branch-5",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "ماشي. لازِم يْكون مَعَك هَوِيّة أَو جَواز سَفَر، وفاتورة كَهْرَبا أَو مَي كَإثْبات عُنْوان.",
+        "transliteration": "Mēshī. Lēzim ykūn maʕak hawiyye aw jawēz safar, w fētūra kahraba aw mayy ka-isbēt ʕunwēn.",
+        "english": "Okay. You need to have an ID or passport, and an electricity or water bill as proof of address."
+      },
+      {
+        "id": "p4-scenario-bank-branch-6",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "مَعي الجَواز بَس ما مَعي فاتورة. بْيِمْشي كَشْف حِساب مِن بَنْك تاني؟",
+        "transliteration": "Maʕī ij-jawēz bass ma maʕī fētūra. Byimshī kashf ḥsēb min bank tēnī?",
+        "english": "I have my passport but I don't have a bill. Would a bank statement from another bank work?"
+      },
+      {
+        "id": "p4-scenario-bank-branch-7",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "خَلّيني إسْأَل المُدير... إي، بْيِمْشي الحال. بَس لازِم يْكون عَليه عُنْوانَك الحالي.",
+        "transliteration": "Khallīnī isʔal il-mudīr... Ē, byimshī il-ḥēl. Bass lēzim ykūn ʕalayh ʕunwēnak il-ḥēlī.",
+        "english": "Let me ask the manager... Yes, it will work. But it must have your current address on it.",
+        "culturalTip": "The phrase 'byimshī il-ḥēl' literally means 'the situation walks' -- a very common Lebanese expression meaning 'it works / it is acceptable.' It reflects the flexible, case-by-case approach to rules in Lebanese culture."
+      },
+      {
+        "id": "p4-scenario-bank-branch-8",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "هَلَّق خَلّيني إشْرَح الحِسابات يَلّي عِنَّا. في حِساب تَوفير بْفَوايِد وفي حِساب جاري بَلا فَوايِد. شو بْتْفَضِّل؟",
+        "transliteration": "Hallaʔ khallīnī ishraḥ il-ḥsēbēt yallī ʕinna. Fī ḥsēb tawfīr b-fawēyid w fī ḥsēb jērī bala fawēyid. Shū btfaḍḍil?",
+        "english": "Now let me explain the accounts we have. There is a savings account with interest and a checking account without interest. What do you prefer?"
+      },
+      {
+        "id": "p4-scenario-bank-branch-9",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose the account type:",
+        "choices": [
+          {
+            "text": "Savings account -- what is the interest rate?",
+            "textArabic": "حِساب تَوفير. قَدَّيش نِسْبة الفَوايِد؟",
+            "textTransliteration": "Ḥsēb tawfīr. Addaysh nisbit il-fawēyid?",
+            "nextBranchId": "p4-scenario-bank-branch-10"
+          },
+          {
+            "text": "Checking account -- I need easy access to my money",
+            "textArabic": "حِساب جاري، بَدّي إقْدَر إسْحَب مَصاري بِأَيّ وَقْت",
+            "textTransliteration": "Ḥsēb jērī, baddī iʔdar isḥab maṣērī b-ayy waʔt",
+            "nextBranchId": "p4-scenario-bank-branch-10"
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bank-branch-10",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "الفَوايِد عَالدولار هَلَّق حَوالي تْلاتة بِالمية سَنَوي. بَس لازِم يِبْقى الحَدّ الأَدْنى أَلْف دولار بِالحِساب.",
+        "transliteration": "Il-fawēyid ʕad-dolēr hallaʔ ḥawēlī tlēte bil-mīye sanawī. Bass lēzim yibʔa il-ḥadd il-adna alf dolēr bil-ḥsēb.",
+        "english": "Interest on dollars right now is about three percent annually. But the minimum balance of one thousand dollars must remain in the account.",
+        "culturalTip": "Since the Lebanese financial crisis, there is a crucial distinction between 'lollars' (old dollars trapped in the banking system, called 'dolēr bank') and 'fresh dollars' (new cash deposits). Always clarify which type of account you are dealing with."
+      },
+      {
+        "id": "p4-scenario-bank-branch-11",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "وشو الرُّسوم الشَّهْرِيّة عَالحِساب؟ في رُسوم عَالسَّحْب والتَّحْويل؟",
+        "transliteration": "W shū ir-rusūm ish-shahriyye ʕal-ḥsēb? Fī rusūm ʕas-saḥb wal-taḥwīl?",
+        "english": "And what are the monthly fees on the account? Are there fees for withdrawals and transfers?"
+      },
+      {
+        "id": "p4-scenario-bank-branch-12",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "الرُّسوم الشَّهْرِيّة خَمْس دولارات. والسَّحْب مِن الـATM عَليه رَسْم دولار ونُصّ. التَّحْويلات المَحَلِّيّة مَجّانِيّة.",
+        "transliteration": "Ir-rusūm ish-shahriyye khams dolērēt. Wis-saḥb min il-ATM ʕalayh rasm dolēr w nuṣṣ. It-taḥwīlēt il-maḥalliyye majjēniyye.",
+        "english": "The monthly fee is five dollars. ATM withdrawals have a fee of a dollar and a half. Local transfers are free."
+      },
+      {
+        "id": "p4-scenario-bank-branch-13",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to proceed:",
+        "choices": [
+          {
+            "text": "Okay, let's open the account",
+            "textArabic": "ماشي، يَلّا نِفْتَح الحِساب",
+            "textTransliteration": "Mēshī, yalla niftaḥ il-ḥsēb",
+            "nextBranchId": "p4-scenario-bank-branch-14"
+          },
+          {
+            "text": "Let me think about it and come back",
+            "textArabic": "خَلّيني فَكِّر فيها وبِرْجَع",
+            "textTransliteration": "Khallīnī fakkir fīha w birjaʕ",
+            "nextBranchId": "p4-scenario-bank-branch-14"
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bank-branch-14",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "تَمام. عَبّي هالفورم وأَمْضي تَحْت. بَدْنا كَمان صورة عَن الجَواز.",
+        "transliteration": "Tamēm. ʕAbbī hal-form w imḍī taḥt. Badna kamēn ṣūra ʕan ij-jawēz.",
+        "english": "Alright. Fill out this form and sign at the bottom. We also need a copy of your passport."
+      },
+      {
+        "id": "p4-scenario-bank-branch-15",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "عَبّيت الأَوراق وسَلَّمْتُن لِلمُوَظَّف. إنْتَظَرِت شْوَي وبَعْدين أَخَدِت رَقَم الحِساب الجْديد.",
+        "transliteration": "ʕAbbēt il-awrēʔ w sallamtun lil-muwaẓẓaf. Intaẓart shwayy w baʕdayn akhadit raʔm il-ḥsēb ij-jdīd.",
+        "english": "You fill out the papers and hand them to the employee. You wait a bit and then receive your new account number."
+      },
+      {
+        "id": "p4-scenario-bank-branch-16",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "تفَضَّل، هَيدا رَقَم حِسابَك. الـcard بْتوصَل خِلال أُسْبوع عَالبيت. في شي تاني؟",
+        "transliteration": "Tfaḍḍal, hayda raʔm ḥsēbak. Il-card btwuṣṣal khilēl usbūʕ ʕal-bayt. Fī shī tēnī?",
+        "english": "Here you go, this is your account number. The card will arrive at your home within a week. Anything else?"
+      },
+      {
+        "id": "p4-scenario-bank-branch-17",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "لَأ، هَيدا كِلْشي. مَرْسي كْتير عَمُساعَدْتَك.",
+        "transliteration": "Laʔ, hayda kilshī. Mersī ktīr ʕa-musēʕadtak.",
+        "english": "No, that is everything. Thank you so much for your help.",
+        "culturalTip": "Using 'mersī' (from the French 'merci') is extremely common in Lebanese Arabic, often used interchangeably with 'shukran.' It reflects the deep French influence on everyday Lebanese speech."
+      },
+      {
+        "id": "p4-scenario-bank-branch-18",
+        "speaker": "Teller",
+        "speakerRole": "b",
+        "arabic": "أَهْلاً وسَهْلاً. بِالتَّوفيق! وإذا في أَيّ شي، اتَّصِل فينا.",
+        "transliteration": "Ahla w sahla. Bit-tawfīʔ! W iza fī ayy shī, ittaṣil fīna.",
+        "english": "You are welcome. Good luck! And if there is anything, call us."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What does 'byimshī il-ḥēl' mean in Lebanese Arabic?",
+        "options": [
+          "The situation is bad",
+          "It works / it is acceptable",
+          "We need to walk there",
+          "The road is clear"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What documents does the teller require to open a bank account?",
+        "options": [
+          "Just a phone number",
+          "ID or passport and a utility bill as proof of address",
+          "Only a driver's license",
+          "A birth certificate and school diploma"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why is the distinction between 'fresh dollars' and 'lollar' important in Lebanese banking?",
+        "options": [
+          "There is no difference",
+          "Fresh dollars can be withdrawn freely while old dollars trapped in the system have restrictions",
+          "Lollars have higher interest rates",
+          "Fresh dollars can only be used online"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "بَنْك",
+        "transliteration": "bank",
+        "english": "bank"
+      },
+      {
+        "arabic": "حِساب",
+        "transliteration": "ḥsēb",
+        "english": "account"
+      },
+      {
+        "arabic": "تَوفير",
+        "transliteration": "tawfīr",
+        "english": "savings"
+      },
+      {
+        "arabic": "سَحْب",
+        "transliteration": "saḥb",
+        "english": "withdrawal"
+      },
+      {
+        "arabic": "فَوايِد",
+        "transliteration": "fawēyid",
+        "english": "interest (financial)"
+      },
+      {
+        "arabic": "دولار",
+        "transliteration": "dolēr",
+        "english": "dollar"
+      },
+      {
+        "arabic": "ليرة",
+        "transliteration": "līra",
+        "english": "lira (Lebanese pound)"
+      },
+      {
+        "arabic": "رُسوم",
+        "transliteration": "rusūm",
+        "english": "fees"
+      }
+    ]
+  },
+  {
+    "id": "p4-scenario-bureaucracy",
+    "phaseId": 4,
+    "title": "Navigating Bureaucracy",
+    "titleArabic": "معاملة رسمية",
+    "setting": "A government office (muʔassase) in Beirut. You need to get an official document -- a civil status extract (ikhraj ʔayd). The place is crowded, the process is confusing, and you need to navigate clerks, missing paperwork, and the famous Lebanese bureaucratic patience.",
+    "branches": [
+      {
+        "id": "p4-scenario-bureaucracy-branch-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "وِصِلْتْ عَالمُؤَسَّسة الحُكومِيّة الصُّبْح بَكّير. المَحَلّ مَلْيان ناس وكِلّ واحَد ماسِك وَرَق.",
+        "transliteration": "Wṣilt ʕal-muʔassase il-ḥukūmiyye iṣ-ṣubiḥ bakkīr. Il-maḥall malyēn nēs w kill wēḥad mēsik waraʔ.",
+        "english": "You arrive at the government office early in the morning. The place is full of people and everyone is holding papers.",
+        "culturalTip": "Arriving early at government offices in Lebanon is crucial. Offices often have limited hours and long queues. Many people arrive before the doors even open."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-2",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to find out where to go:",
+        "choices": [
+          {
+            "text": "Ask the security guard at the entrance",
+            "textArabic": "لَو سَمَحْت، وين بْروح لَإخْراج قَيْد؟ أَوَّل مَرّة جايي لَهون",
+            "textTransliteration": "Law samaḥt, wayn brūḥ la-ikhrēj ʔayd? Awwal marra jēyī la-hōn",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-3"
+          },
+          {
+            "text": "Look for an information desk",
+            "textArabic": "في مَكْتَب اِسْتِعْلامات هَون ولّا مين بِسْأَل؟",
+            "textTransliteration": "Fī maktab istiʕlēmēt hōn walla mīn bisʔal?",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-3"
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-3",
+        "speaker": "Security Guard",
+        "speakerRole": "b",
+        "arabic": "إخْراج قَيْد؟ الطّابِق التّاني، الشُّبّاك رَقَم أَرْبَعة. بَس خُد نِمْرة مِن عِنْد المَدْخَل أَوَّل شي.",
+        "transliteration": "Ikhrēj ʔayd? Iṭ-ṭēbiʔ it-tēnī, ish-shubbēk raʔm arbaʕa. Bass khud nimra min ʕind il-madkhal awwal shī.",
+        "english": "Civil status extract? Second floor, window number four. But take a number from the entrance first."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-4",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "طِلِعْت عَالطّابِق التّاني وقِعِدْت تِسْتَنّى. بَعْد ساعة تَقْريباً، لِحِق دَوْرَك.",
+        "transliteration": "Ṭliʕit ʕaṭ-ṭēbiʔ it-tēnī w ʔiʕdit tistanna. Baʕd sēʕa taʔrīban, liḥiʔ dawrak.",
+        "english": "You go up to the second floor and sit down to wait. After about an hour, your turn comes.",
+        "culturalTip": "Waiting an hour or more is completely normal in Lebanese government offices. Some people bring books or breakfast. The concept of 'bukra' (tomorrow) is deeply embedded in bureaucratic culture -- things are rarely resolved in one visit."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-5",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "أَهْلاً. شو بْتْريد؟",
+        "transliteration": "Ahlan. Shū btrīd?",
+        "english": "Hello. What do you need?"
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-6",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "مَرْحَبا. بَدّي إخْراج قَيْد فَرْدي. هَيدي هَوِيِّتي وهَيدي صورة عَن سِجِلّ العَيْلة.",
+        "transliteration": "Marḥaba. Baddī ikhrēj ʔayd fardī. Haydī hawiyyitī w haydī ṣūra ʕan sijill il-ʕayle.",
+        "english": "Hello. I need an individual civil status extract. Here is my ID and here is a copy of the family register."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-7",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "خَلّيني شوف... هَيدي الهَوِيّة مْنيحة. بَس وين الطّابَع المالي؟ لازِم تْجيب طَوابِع مالِيّة مِن تَحْت.",
+        "transliteration": "Khallīnī shūf... Haydī il-hawiyye mnīḥa. Bass wayn iṭ-ṭēbaʕ il-mēlī? Lēzim tjīb ṭawēbiʕ mēliyye min taḥt.",
+        "english": "Let me see... This ID is fine. But where is the fiscal stamp? You need to bring fiscal stamps from downstairs."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-8",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to respond:",
+        "choices": [
+          {
+            "text": "Politely ask where to get them",
+            "textArabic": "آه ما كِنْت عارِف. وين بْلاقي الطَّوابِع بِالزَّبْط؟ وقَدَّيش بْيْكَلّفو؟",
+            "textTransliteration": "Āh ma kint ʕērif. Wayn bilēʔī iṭ-ṭawēbiʕ biz-zabṭ? W addaysh byikallfu?",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-9"
+          },
+          {
+            "text": "Express frustration politely",
+            "textArabic": "بَس ما حَدا خَبَّرني عَنُّن قَبْل! ليش ما بْيْكون في لائِحة بِالأَوراق المَطْلوبة؟",
+            "textTransliteration": "Bass ma ḥada khabbarnī ʕannun ʔabl! Laysh ma bykūn fī lēʔiḥa bil-awrēʔ il-maṭlūbe?",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-9",
+            "culturalNote": "Being told you are missing a document after a long wait is a classic Lebanese bureaucratic experience. Staying calm and polite, while firm, gets you far better results than getting angry."
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-9",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "الطَّوابِع بِالطّابِق الأَوَّل، عِنْد الشُّبّاك يَلّي عَاليَمين. رَسْمُن عَشَر دولار أَو بِاللّيرة حَسَب السِّعْر.",
+        "transliteration": "Iṭ-ṭawēbiʕ biṭ-ṭēbiʔ il-awwal, ʕind ish-shubbēk yallī ʕal-yamīn. Rasmun ʕashar dolēr aw bil-līra ḥasab is-siʕr.",
+        "english": "The stamps are on the first floor, at the window on the right. The fee is ten dollars or in lira according to the exchange rate."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-10",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "نْزِلْت وشْريت الطَّوابِع ورْجِعْت عَالطّابِق التّاني. المُوَظَّف قالَّك إرْجَع لَعِنْدو.",
+        "transliteration": "Nzilt w sharēt iṭ-ṭawēbiʕ w rjiʕit ʕaṭ-ṭēbiʔ it-tēnī. Il-muwaẓẓaf ʔallak irjaʕ la-ʕindo.",
+        "english": "You go down, buy the stamps, and come back to the second floor. The clerk tells you to come back to him."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-11",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "تَمام. هَلَّق عَبّي هالطَّلَب. إسْمَك الكامِل، إسْم الأَب والأُمّ، وتاريخ الميلاد.",
+        "transliteration": "Tamēm. Hallaʔ ʕabbī hal-ṭalab. Ismak il-kēmil, isim il-ab wil-umm, w tērīkh il-mīlēd.",
+        "english": "Good. Now fill out this application. Your full name, father's and mother's name, and date of birth."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-12",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "تَمام، عَبّيتُن. إمْتا بْيْكون جاهِز الإخْراج قَيْد؟",
+        "transliteration": "Tamēm, ʕabbēytun. Imta bykūn jēhiz il-ikhrēj ʔayd?",
+        "english": "Done, I filled them out. When will the civil status extract be ready?"
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-13",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "",
+        "transliteration": "",
+        "english": "The clerk gives you a timeline:",
+        "choices": [
+          {
+            "text": "Come back tomorrow (the classic 'bukra')",
+            "textArabic": "تَعا بُكْرا بَعْد الضُّهْر. بْيْكون جاهِز إن شاء الله",
+            "textTransliteration": "Taʕa bukra baʕd iḍ-ḍuhur. Bykūn jēhiz in shāʔ Allāh",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-14",
+            "culturalNote": "'Bukra' (tomorrow) in Lebanese bureaucracy can mean literally tomorrow, or it can mean 'sometime in the near future.' The addition of 'in shāʔ Allāh' adds another layer of uncertainty."
+          },
+          {
+            "text": "It will be ready in an hour",
+            "textArabic": "إنْطُرْني ساعة، بْخَلِّصو هَلَّق",
+            "textTransliteration": "Inṭurnī sēʕa, bkhallṣo hallaʔ",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-14"
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-14",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to respond:",
+        "choices": [
+          {
+            "text": "Accept and ask if there is a way to speed things up",
+            "textArabic": "طَيِّب ماشي. في طَريقة نْسَرِّع المُعامَلة شْوَي؟",
+            "textTransliteration": "Ṭayyeb mēshī. Fī ṭarīʔa nsarriʕ il-muʕēmale shwayy?",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-15",
+            "culturalNote": "Asking to 'speed things up' can sometimes be an indirect reference to wasta or tipping. However, it can also simply be a legitimate question about expedited processing. Context and tone matter greatly."
+          },
+          {
+            "text": "Accept patiently and confirm what to bring",
+            "textArabic": "تَمام، بُكْرا بِرْجَع. هَل لازِم جيب شي تاني مَعي؟",
+            "textTransliteration": "Tamēm, bukra birjaʕ. Hal lēzim jīb shī tēnī maʕī?",
+            "nextBranchId": "p4-scenario-bureaucracy-branch-15"
+          }
+        ]
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-15",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "لَأ هَيدا كِلْشي. بَس جيب مَعَك الوَصْل يَلّي رَح أَعْطيك ياه هَلَّق. بَلاه ما فينا نْسَلِّمَك شي.",
+        "transliteration": "Laʔ hayda kilshī. Bass jīb maʕak il-waṣl yallī raḥ aʕṭīk yēh hallaʔ. Balēh ma fīna nsallmak shī.",
+        "english": "No, that is everything. But bring with you the receipt I am going to give you now. Without it we cannot hand you anything."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-16",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "تَمام، رَح إحْتِفِظ فيه. شُكْراً كْتير عَمُساعَدْتَك. يِعْطيك العافية.",
+        "transliteration": "Tamēm, raḥ iḥtifiẓ fīh. Shukran ktīr ʕa-musēʕadtak. Yaʕṭīk il-ʕēfye.",
+        "english": "Alright, I will keep it safe. Thank you very much for your help. May God give you strength."
+      },
+      {
+        "id": "p4-scenario-bureaucracy-branch-17",
+        "speaker": "Clerk",
+        "speakerRole": "b",
+        "arabic": "الله يْعافيك. هَيك الدَّوْلة عِنَّا -- بَدّا صَبِر! بِالتَّوفيق.",
+        "transliteration": "Allāh yʕēfīk. Hayk id-dawle ʕinna -- badda ṣabir! Bit-tawfīʔ.",
+        "english": "God bless you. That is how the government is here -- it requires patience! Good luck.",
+        "culturalTip": "Despite the frustrations of Lebanese bureaucracy, being polite and saying 'yaʕṭīk il-ʕēfye' to government employees goes a long way. They deal with frustrated people all day, and kindness can sometimes get you better service on your next visit."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What is an 'ikhrēj ʔayd' (إخراج قيد)?",
+        "options": [
+          "A driver's license",
+          "A civil status extract (official identity document)",
+          "A bank statement",
+          "A school transcript"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the clerk say was missing from the paperwork?",
+        "options": [
+          "A photograph",
+          "A fiscal stamp (ṭēbaʕ mēlī)",
+          "A birth certificate",
+          "A signature from the director"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does 'bukra' often imply in Lebanese bureaucratic contexts?",
+        "options": [
+          "Exactly tomorrow, no delay",
+          "It is cancelled",
+          "Sometime in the near future, not necessarily literally tomorrow",
+          "Next month at the earliest"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "مُعامَلة",
+        "transliteration": "muʕēmale",
+        "english": "official transaction / paperwork"
+      },
+      {
+        "arabic": "وَرَق",
+        "transliteration": "waraʔ",
+        "english": "papers / documents"
+      },
+      {
+        "arabic": "دَوْلة",
+        "transliteration": "dawle",
+        "english": "state / government"
+      },
+      {
+        "arabic": "مُوَظَّف",
+        "transliteration": "muwaẓẓaf",
+        "english": "employee / clerk"
+      },
+      {
+        "arabic": "طابَع",
+        "transliteration": "ṭēbaʕ",
+        "english": "stamp (fiscal)"
+      },
+      {
+        "arabic": "رَسْم",
+        "transliteration": "rasm",
+        "english": "fee / charge"
+      },
+      {
+        "arabic": "بُكْرا",
+        "transliteration": "bukra",
+        "english": "tomorrow (figuratively: sometime soon)"
+      },
+      {
+        "arabic": "إخْراج قَيْد",
+        "transliteration": "ikhrēj ʔayd",
+        "english": "civil status extract"
+      }
+    ]
+  }
+]

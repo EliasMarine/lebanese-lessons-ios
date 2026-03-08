@@ -1,0 +1,47 @@
+[
+  {
+    "id": "p2-grammar-baddi",
+    "phaseId": 2,
+    "title": "Pattern: بدي + verb — \"I want to…\"",
+    "explanation": "بدي (baddī) = I want. Suffix changes per person: بدك (you want), بدو (he wants), بدا (she wants), بدنا (we want).",
+    "examples": [
+      {"arabic": "بدي روح عبيروت", "transliteration": "baddi rūḥ ʕa-Bayrūt", "english": "I want to go to Beirut"},
+      {"arabic": "بدي آكل شيء حلو", "transliteration": "baddi ākol shi ḥilu", "english": "I want to eat something sweet"},
+      {"arabic": "بدك تجي معي؟", "transliteration": "baddak tīji maʕi?", "english": "Do you want to come with me?"},
+      {"arabic": "ما بدي شي", "transliteration": "mā baddī shi", "english": "I don't want anything"}
+    ]
+  },
+  {
+    "id": "p2-grammar-rah",
+    "phaseId": 2,
+    "title": "Pattern: رح + verb — Future Tense",
+    "explanation": "رح (raḥ) = will / going to. Never changes — same for all pronouns. Replaces سـ or سوف of MSA.",
+    "examples": [
+      {"arabic": "رح روح عالسوق", "transliteration": "raḥ rūḥ ʕas-sūʔ", "english": "I'm going to the market"},
+      {"arabic": "رح يكون منيح", "transliteration": "raḥ ykūn mnīḥ", "english": "It's going to be fine"},
+      {"arabic": "رح نتكلم بعدين", "transliteration": "raḥ nḥki baʕdēn", "english": "We'll talk later"}
+    ]
+  },
+  {
+    "id": "p2-grammar-kint",
+    "phaseId": 2,
+    "title": "Pattern: كنت + verb — \"I used to…\"",
+    "explanation": "كنت (kint) = I was / used to. Lebanese past continuous / habitual past.",
+    "examples": [
+      {"arabic": "كنت بعيش بلبنان", "transliteration": "kint bʕīsh b-Lubnān", "english": "I used to live in Lebanon"},
+      {"arabic": "كنا بنروح عالبحر كل صيف", "transliteration": "kinna bnrūḥ ʕal-baḥr kull ṣayf", "english": "We used to go to the sea every summer"},
+      {"arabic": "كنت بحب الكبة كتير", "transliteration": "kint bḥebb il-kibbe ktīr", "english": "I used to love kibbeh so much"}
+    ]
+  },
+  {
+    "id": "p2-grammar-aam",
+    "phaseId": 2,
+    "title": "Pattern: عم + verb — Present Progressive",
+    "explanation": "عم (ʕam) = right now, currently doing. The Lebanese \"-ing.\"",
+    "examples": [
+      {"arabic": "عم بشوف تلفزيون", "transliteration": "ʕam bshūf televisiōn", "english": "I'm watching TV (right now)"},
+      {"arabic": "شو عم بتعمل؟", "transliteration": "shū ʕam btaʕmal?", "english": "What are you doing?"},
+      {"arabic": "هو عم يحكي بالتلفون", "transliteration": "huwwe ʕam yḥki bit-telefōn", "english": "He's talking on the phone"}
+    ]
+  }
+]

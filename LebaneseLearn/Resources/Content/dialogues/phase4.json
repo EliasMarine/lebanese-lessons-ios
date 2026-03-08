@@ -1,0 +1,314 @@
+[
+  {
+    "id": "p4-dialogue-doctor-visit",
+    "phaseId": 4,
+    "title": "At the Doctor's Office",
+    "context": "Visiting the doctor to describe symptoms and get medical advice.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "أهلا دكتور. بطني عم بيوجعني من يومين وعندي غثيان.",
+        "transliteration": "Ahla duktūr. Baṭni ʕam byūjaʕni min yōmēn w-ʕindī ghasayān.",
+        "english": "Hello doctor. My stomach has been hurting for two days and I have nausea."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "من وين الوجع بالزبط؟ فوق ولا تحت؟ وشو أكلت آخر شي؟",
+        "transliteration": "Min wēn il-wajaʕ biz-zabṭ? Fōʔ walla taḥt? W-shū akalt ākhir shi?",
+        "english": "Where exactly is the pain? Upper or lower? And what was the last thing you ate?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "الوجع هون، بنص البطن. أكلت سمك مشوي مبارح بس بعدها حسيت بالوجع.",
+        "transliteration": "Il-wajaʕ hōn, b-nuṣṣ il-baṭn. Akalt samak mashwī mbāriḥ bas baʕdha ḥassēt bil-wajaʕ.",
+        "english": "The pain is here, in the middle of my stomach. I ate grilled fish yesterday and after that I felt the pain."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "عندك إسهال ولا حرارة؟",
+        "transliteration": "ʕIndak ishāl walla ḥarāra?",
+        "english": "Do you have diarrhea or a fever?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "إسهال إي، بس حرارة لأ. وكمان ما عندي شهية آكل شي.",
+        "transliteration": "Ishāl ē, bas ḥarāra laʔ. W-kamān mā ʕindī shahiyye ākol shi.",
+        "english": "Diarrhea yes, but no fever. And I also have no appetite to eat anything."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "هيدا بيبين إنو تسمم خفيف من الأكل. رح أكتبلك دوا للمعدة ومضاد حيوي.",
+        "transliteration": "Hēda byibayyen inno tasammum khafīf min il-akl. Raḥ iktublak dawa lal-maʕde w-muḍādd ḥayawī.",
+        "english": "This looks like mild food poisoning. I'll prescribe you stomach medicine and an antibiotic."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "قديش لازم آخد الدوا؟ وفي شي ما لازم آكلو؟",
+        "transliteration": "ʔAddēsh lāzim ākhud id-dawa? W-fī shi mā lāzim āklō?",
+        "english": "How long do I need to take the medicine? And is there anything I shouldn't eat?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "خود الدوا خمس أيام. وابتعد عن الأكل الدسم والحرّيف. كل رز وشوربة بس.",
+        "transliteration": "Khud id-dawa khams ayyām. W-ibtaʕid ʕan il-akl id-dasim wil-ḥarrīf. Kol ruzz w-shūrba bas.",
+        "english": "Take the medicine for five days. And stay away from fatty and spicy food. Eat only rice and soup."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "تمام دكتور. وإذا ما تحسنت شو أعمل؟",
+        "transliteration": "Tamām duktūr. W-iza mā tḥassant shū aʕmal?",
+        "english": "Okay doctor. And if I don't improve, what should I do?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إذا بعد تلات أيام ما تحسنت، تعال إرجع وبنعمل فحوصات. بس إن شاء الله بتتحسن.",
+        "transliteration": "Iza baʕd tlāt ayyām mā tḥassant, taʕāl irjaʕ w-bniʕmal fuḥūṣāt. Bas inshallah btitḥassan.",
+        "english": "If after three days you haven't improved, come back and we'll do tests. But God willing you'll get better."
+      }
+    ]
+  },
+  {
+    "id": "p4-dialogue-job-interview",
+    "phaseId": 4,
+    "title": "Job Interview",
+    "context": "A formal-ish job interview at a Lebanese company, mixing professionalism with Lebanese warmth.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "أهلا وسهلا، تفضل قعود. خبرني عن حالك وعن خبرتك.",
+        "transliteration": "Ahla w-sahla, tafaḍḍal uʔʕud. Khabirni ʕan ḥālak w-ʕan khibritak.",
+        "english": "Welcome, please sit down. Tell me about yourself and your experience."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "شكرا. أنا درست هندسة كمبيوتر بالجامعة الأميركية وعندي خبرة تلات سنين بالبرمجة.",
+        "transliteration": "Shukran. Ana darast handase kompyūter bil-Jāmʕa il-Amrīkiyye w-ʕindī khibra tlāt snīn bil-barmaje.",
+        "english": "Thank you. I studied computer engineering at AUB and I have three years of experience in programming."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "حلو. وليش تركت شغلك القديم؟",
+        "transliteration": "Ḥilu. W-lēsh tarakt shughlak il-ʔadīm?",
+        "english": "Nice. And why did you leave your previous job?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "الشركة صغّرت وما كان في مجال أتطور. عم بدوّر على فرصة أكبر أتعلم فيها.",
+        "transliteration": "Ish-sharike ṣaghghrit w-mā kān fī majāl itṭawwar. ʕam bdawwir ʕala furṣa akbar itʕallam fīha.",
+        "english": "The company downsized and there was no room to grow. I'm looking for a bigger opportunity to learn."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "منيح. عنا الشغل كتير وبدنا حدا يشتغل تحت الضغط. شو بتعرف تعمل بالتحديد؟",
+        "transliteration": "Mnīḥ. ʕInna ish-shughl ktīr w-biddna ḥadan yishtighil taḥt iḍ-ḍaght. Shū btaʕrif taʕmal bit-taḥdīd?",
+        "english": "Good. We have a lot of work and we need someone who works under pressure. What specifically can you do?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "بشتغل على الويب والموبايل. بعرف جافاسكريبت وبايثون وعملت مشاريع كبيرة.",
+        "transliteration": "Bishtaghil ʕal-web wil-mobile. Baʕrif JavaScript w-Python w-ʕmalt mashārīʕ kbīre.",
+        "english": "I work on web and mobile. I know JavaScript and Python and I've done big projects."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "كتير منيح. بالنسبة للمعاش، شو توقعاتك؟",
+        "transliteration": "Ktīr mnīḥ. Bin-nisbe lal-maʕāsh, shū twaqqaʕātak?",
+        "english": "Very good. Regarding salary, what are your expectations?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "بحسب الشغل والمسؤولية، بس بتمنى يكون في مجال للتفاوض. شو بتقدمو عادة؟",
+        "transliteration": "B-ḥasab ish-shughl wil-masʔūliyye, bas btmanna ykūn fī majāl lit-tafāwuḍ. Shū btʔaddmu ʕādatan?",
+        "english": "Depends on the work and responsibility, but I hope there's room to negotiate. What do you usually offer?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "منحكي بالتفاصيل إذا مشيت. بنرد عليك خلال أسبوع.",
+        "transliteration": "Mnḥkī bit-tafāṣīl iza mashēt. Bnrudd ʕalēk khilāl usbūʕ.",
+        "english": "We'll discuss details if you're selected. We'll get back to you within a week."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "تمام كتير. شكرا على وقتكن. بتمنى نشتغل سوا.",
+        "transliteration": "Tamām ktīr. Shukran ʕala waʔtkon. Btmanna nishtighil sawa.",
+        "english": "Great. Thank you for your time. I hope we get to work together."
+      }
+    ]
+  },
+  {
+    "id": "p4-dialogue-renting-apartment",
+    "phaseId": 4,
+    "title": "Renting an Apartment",
+    "context": "Looking at an apartment to rent, asking about features, price, and the neighborhood.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "مرحبا، أنا حكيتك عالتلفون. جاي شوف الشقة.",
+        "transliteration": "Marḥaba, ana ḥakītak ʕat-telifōn. Jāyī shūf ish-shaʔʔa.",
+        "english": "Hello, I spoke to you on the phone. I'm here to see the apartment."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا فيك! تفضل فوت. الشقة بالطابق التالت، في ليفت.",
+        "transliteration": "Ahla fīk! Tafaḍḍal fūt. Ish-shaʔʔa biṭ-ṭābiʔ it-tālit, fī lift.",
+        "english": "Welcome! Come in. The apartment is on the third floor, there's an elevator."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "قديش أوضة في؟ وفي بلكون؟",
+        "transliteration": "ʔAddēsh ōḍa fī? W-fī balkōn?",
+        "english": "How many rooms are there? And is there a balcony?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "تلات أوض نوم وصالون كبير ومطبخ. وفي بلكون كبير بيطل على الشارع.",
+        "transliteration": "Tlāt uwaḍ nōm w-ṣālōn kbīr w-maṭbakh. W-fī balkōn kbīr byiṭill ʕal-shāriʕ.",
+        "english": "Three bedrooms, a big living room, and a kitchen. And there's a big balcony overlooking the street."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "حلو كتير. وقديش الإيجار بالشهر؟",
+        "transliteration": "Ḥilu ktīr. W-ʔaddēsh il-ījār bish-shaher?",
+        "english": "Very nice. And how much is the rent per month?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "ألف دولار بالشهر مع المصاريف المشتركة. الكهربا والمي عليك.",
+        "transliteration": "Alf dolār bish-shaher maʕ il-maṣārīf il-mushtarake. Il-kahraba wil-mayy ʕalēk.",
+        "english": "A thousand dollars a month including shared expenses. Electricity and water are on you."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "شوي غالي. ما في مجال ننزل شوي بالسعر؟ والحي كيفو، هادي ولا في ضجة؟",
+        "transliteration": "Shwayy ghāli. Mā fī majāl nnazzil shwayy bis-siʕr? Wil-ḥayy kīfo, hādi walla fī ḍajje?",
+        "english": "A bit expensive. Is there room to lower the price? And how's the neighborhood, quiet or noisy?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "الحي كتير هادي وأمان. في سوبرماركت وصيدلية تحت. بالسعر بشوفلك شو فيني أعمل.",
+        "transliteration": "Il-ḥayy ktīr hādi w-amān. Fī supermarket w-ṣaydaliyye taḥt. Bis-siʕr bshūflak shū fīni aʕmal.",
+        "english": "The neighborhood is very quiet and safe. There's a supermarket and pharmacy downstairs. On the price I'll see what I can do."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "منيح. وقديش العقد؟ سنة ولا أكتر؟",
+        "transliteration": "Mnīḥ. W-ʔaddēsh il-ʕaʔd? Sane walla aktar?",
+        "english": "Good. And how long is the lease? A year or more?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "العقد سنة مع إمكانية التجديد. خبرني خلال يومين إذا بدك تاخدها.",
+        "transliteration": "Il-ʕaʔd sane maʕ imkāniyyit it-tajdīd. Khabirni khilāl yōmēn iza baddak tākhodha.",
+        "english": "The lease is one year with the option to renew. Let me know within two days if you want to take it."
+      }
+    ]
+  },
+  {
+    "id": "p4-dialogue-at-the-bank",
+    "phaseId": 4,
+    "title": "At the Bank",
+    "context": "Going to the bank to open an account and ask about exchange rates.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "مرحبا، بدي فتح حساب جديد. شو بدي جيب معي؟",
+        "transliteration": "Marḥaba, baddī ftaḥ ḥsāb jdīd. Shū baddī jīb maʕī?",
+        "english": "Hello, I want to open a new account. What do I need to bring?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا فيك. بدك جيب هويتك أو جوازك وإثبات سكن ووصل كهربا.",
+        "transliteration": "Ahla fīk. Baddak jīb hawwītak aw jawāzak w-ithbāt sakan w-waṣl kahraba.",
+        "english": "Welcome. You need your ID or passport, proof of residence, and an electricity bill."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "معي جوازي بس مش معي وصل كهربا. ممكن أجيبو بكرا؟",
+        "transliteration": "Maʕī jawāzi bas mish maʕī waṣl kahraba. Mumkin ajībo bukra?",
+        "english": "I have my passport but not the electricity bill. Can I bring it tomorrow?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إي ما في مشكلة. بنبلش الإجراءات هلق وبتكمّل بكرا.",
+        "transliteration": "Ē mā fī mushkle. Bnbalish il-ijrāʔāt hallaʔ w-btikammil bukra.",
+        "english": "Yes no problem. We'll start the procedures now and you can complete them tomorrow."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وكمان بدي أصرف دولار. قديش سعر الصرف اليوم؟",
+        "transliteration": "W-kamān baddī aṣruf dolār. ʔAddēsh siʕr iṣ-ṣarf il-yōm?",
+        "english": "And I also want to exchange dollars. What's the exchange rate today?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "سعر الصرف اليوم تسعين ألف للدولار. بدك تصرف كتير؟",
+        "transliteration": "Siʕr iṣ-ṣarf il-yōm tisʕīn alf lad-dolār. Baddak tiṣruf ktīr?",
+        "english": "The exchange rate today is 90 thousand per dollar. Do you want to exchange a lot?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بدي أصرف خمسمية دولار. وبعمل تحويل من هون لبنك تاني؟",
+        "transliteration": "Baddī aṣruf khamsmiyye dolār. W-baʕmal taḥwīl min hōn la-bank tāni?",
+        "english": "I want to exchange 500 dollars. And can I do a transfer from here to another bank?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إي طبعا. التحويل المحلي بيوصل بنفس اليوم. في رسم زغير عليه.",
+        "transliteration": "Ē ṭabʕan. It-taḥwīl il-maḥallī byūṣal b-nafs il-yōm. Fī rasm zghīr ʕalēh.",
+        "english": "Yes of course. Local transfers arrive the same day. There's a small fee for it."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "تمام، يلا خلينا نبلش. شكرا كتير على المساعدة.",
+        "transliteration": "Tamām, yalla khallīna nbalish. Shukran ktīr ʕal-musāʕade.",
+        "english": "Okay, let's get started. Thanks a lot for the help."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا وسهلا! هيدا شغلنا. تفضل إعبي هالورقة وبنكمّل.",
+        "transliteration": "Ahla w-sahla! Hēda shughulna. Tafaḍḍal iʕbī hal-waraʔa w-bnikammil.",
+        "english": "You're welcome! That's our job. Please fill out this form and we'll continue."
+      }
+    ]
+  }
+]

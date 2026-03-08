@@ -1,0 +1,58 @@
+[
+  {
+    "id": "p1-shadow-1a",
+    "arabic": "مَرحَبا، كيفَك اليوم؟",
+    "transliteration": "Marḥaba, kīfak il-yōm?",
+    "english": "Hello, how are you today?",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-1b",
+    "arabic": "أهلاً وسَهلاً فيك!",
+    "transliteration": "Ahlan w-sahlan fīk!",
+    "english": "Welcome!",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-1c",
+    "arabic": "الحَمد لله، مْنيح.",
+    "transliteration": "Il-ḥamdilla, mnīḥ.",
+    "english": "Thank God, I'm good.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-2a",
+    "arabic": "أنا اسمي كريم، وإنتَ شو اسمَك؟",
+    "transliteration": "Ana ismi Karīm, w-inta shū ismak?",
+    "english": "My name is Karim, and what's your name?",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-2b",
+    "arabic": "أنا مِن لبنان بَس ساكِن بأميركا.",
+    "transliteration": "Ana min Lubnān bas sākin b-Amrīka.",
+    "english": "I'm from Lebanon but I live in America.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-3a",
+    "arabic": "لَو سَمَحت، وين الحَمّام؟",
+    "transliteration": "Law samaḥt, wēn il-ḥammām?",
+    "english": "Excuse me, where is the bathroom?",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-3b",
+    "arabic": "بَدّي قَهوة عَرَبيّة لَو سَمَحت.",
+    "transliteration": "Baddī ʔahwe ʕarabiyye law samaḥt.",
+    "english": "I'd like an Arabic coffee, please.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p1-shadow-3c",
+    "arabic": "شُكراً كتير، الله يِعطيك العافية.",
+    "transliteration": "Shukran ktīr, alla yaʕṭīk il-ʕēfye.",
+    "english": "Thank you very much, may God give you strength.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  }
+]

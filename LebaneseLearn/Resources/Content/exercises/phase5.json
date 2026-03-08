@@ -1,0 +1,530 @@
+[
+  {
+    "id": "p5-quiz",
+    "phaseId": 5,
+    "title": "Phase 5 Quiz — Fluency Push",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p5-q1",
+        "prompt": "قلبو من دهب means:",
+        "options": [
+          "He's wealthy",
+          "He has a heart of gold / He's incredibly kind",
+          "He's old"
+        ],
+        "correctIndex": 1,
+        "explanation": "قلبو من دهب (albo min dahab) literally means 'his heart is of gold' — a Lebanese expression praising someone's kindness, not their wealth. دهب = gold refers to character, not riches."
+      },
+      {
+        "id": "p5-q2",
+        "prompt": "الصبر مفتاح الفرج means:",
+        "options": [
+          "Hard work opens all doors",
+          "Patience is the key to relief",
+          "God is always watching"
+        ],
+        "correctIndex": 1,
+        "explanation": "This is a classic Arabic proverb: الصبر (patience) + مفتاح (key) + الفرج (relief/ease). It teaches that patience leads to resolution — a deeply valued virtue in Lebanese culture."
+      },
+      {
+        "id": "p5-q3",
+        "prompt": "نوّرتو البيت is said when:",
+        "options": [
+          "Someone turns on the lights",
+          "Welcoming a guest warmly",
+          "Someone is leaving"
+        ],
+        "correctIndex": 1,
+        "explanation": "نوّرتو البيت (nawwarto l-bēt) literally means 'you lit up the house' — a warm Lebanese hospitality phrase used to welcome guests. It's figurative, not about actual lights."
+      },
+      {
+        "id": "p5-q4",
+        "prompt": "In the doctor dialogue, ضغط means:",
+        "options": [
+          "Fever",
+          "Blood pressure / stress",
+          "Medicine"
+        ],
+        "correctIndex": 1,
+        "explanation": "ضغط (daght) means pressure — used for both blood pressure (ضغط الدم) and stress in Lebanese Arabic. حرارة = fever. دوا = medicine."
+      },
+      {
+        "id": "p5-q5",
+        "prompt": "What does the conditional لو كنت بعرف mean?",
+        "promptArabic": "لو كنت بعرف",
+        "options": [
+          "If I know",
+          "If I had known (but I didn't)",
+          "When I will know",
+          "Because I know"
+        ],
+        "correctIndex": 1,
+        "explanation": "لو (law) + كنت (I was) + بعرف (I know) forms the unreal conditional — 'if I had known (but I didn't)'. لو implies the condition was NOT met, unlike إذا which is neutral. This is essential for expressing regret in Lebanese."
+      },
+      {
+        "id": "p5-q6",
+        "prompt": "What does قالتلي إنها مريضة mean?",
+        "promptArabic": "قالتلي إنها مريضة",
+        "options": [
+          "I told her she's sick",
+          "She told me that she is sick",
+          "She asked me if I'm sick",
+          "They said we are all sick"
+        ],
+        "correctIndex": 1,
+        "explanation": "قالتلي (āletli) = she told me, إنها (innha) = that she, مريضة (mrīḍa) = sick. This is reported speech in Lebanese Arabic. The suffix -لي on the verb adds 'to me', and إنّ introduces the reported clause."
+      },
+      {
+        "id": "p5-q7",
+        "prompt": "The slang expression يي means:",
+        "options": [
+          "Yes, exactly",
+          "Oh! / Wow! (surprise or dismay)",
+          "Goodbye",
+          "Please repeat"
+        ],
+        "correctIndex": 1,
+        "explanation": "يي (yii) is a Lebanese exclamation expressing surprise, dismay, or shock — similar to 'oh!' or 'wow!'. It's very colloquial and used constantly in daily speech. Sometimes drawn out as يييي for emphasis."
+      },
+      {
+        "id": "p5-q8",
+        "prompt": "ما كنت حكيتلو لو ما سألني means:",
+        "promptArabic": "ما كنت حكيتلو لو ما سألني",
+        "options": [
+          "I will tell him if he asks me",
+          "I wouldn't have told him if he hadn't asked me",
+          "I always tell him when he asks",
+          "He told me not to ask"
+        ],
+        "correctIndex": 1,
+        "explanation": "This is a past unreal conditional: ما كنت حكيتلو (I wouldn't have told him) + لو ما سألني (if he hadn't asked me). The ما...لو ما pattern creates 'wouldn't have...if not' — a key advanced structure."
+      },
+      {
+        "id": "p5-q9",
+        "prompt": "The discourse marker هلق in conversation means:",
+        "promptArabic": "هلق",
+        "options": [
+          "Yesterday",
+          "Now / so (topic shift)",
+          "Later",
+          "Always"
+        ],
+        "correctIndex": 1,
+        "explanation": "هلق (halla') primarily means 'now' but in conversation it often functions as a discourse marker meaning 'so' or 'well' when shifting topics. Example: هلق شو بدنا نعمل؟ = So, what do we do now? It's one of the most characteristically Lebanese words."
+      },
+      {
+        "id": "p5-q10",
+        "prompt": "What does the idiom عينو وسيعة mean?",
+        "promptArabic": "عينو وسيعة",
+        "options": [
+          "He has good eyesight",
+          "He's greedy / always wants more",
+          "He's observant",
+          "He's generous"
+        ],
+        "correctIndex": 1,
+        "explanation": "عينو وسيعة (ʕayno wēsʕa) literally means 'his eye is wide' — a Lebanese idiom meaning someone is greedy or never satisfied. The opposite عينو ضيقة (narrow eye) means stingy. Lebanese body-part idioms are very common."
+      },
+      {
+        "id": "p5-q11",
+        "prompt": "How do you say \"supposedly\" or \"apparently\" in Lebanese slang?",
+        "options": [
+          "يعني",
+          "هيك",
+          "مبين",
+          "شكلو"
+        ],
+        "correctIndex": 3,
+        "explanation": "شكلو (shaklo) literally means 'its appearance' but is used colloquially for 'apparently' or 'it seems like'. Example: شكلو رح تشتي = it looks like it's going to rain. يعني = like/meaning, هيك = like this, مبين = visible."
+      },
+      {
+        "id": "p5-q12",
+        "prompt": "بلا ما يحكي كلمة means:",
+        "promptArabic": "بلا ما يحكي كلمة",
+        "options": [
+          "He talked too much",
+          "Without saying a word",
+          "He spoke beautifully",
+          "After speaking briefly"
+        ],
+        "correctIndex": 1,
+        "explanation": "بلا ما (bala ma) = without, يحكي (yiḥki) = he speaks, كلمة (kilme) = a word. So بلا ما يحكي كلمة = without saying a word. بلا ما is the Lebanese way to say 'without' before a verb clause."
+      }
+    ]
+  },
+  {
+    "id": "p5-fill",
+    "phaseId": 5,
+    "title": "Phase 5 Fill in the Blank — Advanced Patterns",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p5-fb1",
+        "sentence": "___ كنت بعرف، كنت ساعدتك means 'If I had known, I would have helped you'.",
+        "blank": "___",
+        "answer": "لو",
+        "acceptableAnswers": [
+          "law",
+          "lo",
+          "لو"
+        ],
+        "hint": "The unreal conditional particle — implies the condition was NOT met."
+      },
+      {
+        "id": "p5-fb2",
+        "sentence": "قالّي ___ مش جاي بكرا means 'He told me that he is not coming tomorrow'.",
+        "blank": "___",
+        "answer": "إنو",
+        "acceptableAnswers": [
+          "inno",
+          "enno",
+          "إنو",
+          "انو"
+        ],
+        "hint": "The Lebanese complementizer meaning 'that' in reported speech."
+      },
+      {
+        "id": "p5-fb3",
+        "sentence": "The idiom ___ من دهب means \"heart of gold\".",
+        "blank": "___",
+        "answer": "قلبو",
+        "acceptableAnswers": [
+          "albo",
+          "2albo",
+          "قلبو"
+        ],
+        "hint": "The word for 'his heart' in Lebanese."
+      },
+      {
+        "id": "p5-fb4",
+        "sentence": "The slang word ___ means \"it seems / apparently\".",
+        "blank": "___",
+        "answer": "شكلو",
+        "acceptableAnswers": [
+          "shaklo",
+          "shakelo",
+          "شكلو"
+        ],
+        "hint": "Literally means 'its appearance' — very common in casual speech."
+      },
+      {
+        "id": "p5-fb5",
+        "sentence": "___ شو بدنا نعمل هلق؟ means 'So, what are we going to do now?'",
+        "blank": "___",
+        "answer": "طيب",
+        "acceptableAnswers": [
+          "tayyeb",
+          "tayeb",
+          "tayyib",
+          "طيب"
+        ],
+        "hint": "A discourse marker meaning 'ok/so/well' to introduce a new topic."
+      },
+      {
+        "id": "p5-fb6",
+        "sentence": "عينو ___ means 'he's greedy' (literally 'his eye is wide').",
+        "blank": "___",
+        "answer": "وسيعة",
+        "acceptableAnswers": [
+          "wēsʕa",
+          "wes3a",
+          "was3a",
+          "وسيعة",
+          "واسعة"
+        ],
+        "hint": "The adjective meaning 'wide' — opposite of ضيقة (narrow)."
+      },
+      {
+        "id": "p5-fb7",
+        "sentence": "ما كنت ___ لو ما حكيتلي means 'I wouldn't have known if you hadn't told me'.",
+        "blank": "___",
+        "answer": "عرفت",
+        "acceptableAnswers": [
+          "ʕrift",
+          "3rift",
+          "3reft",
+          "عرفت"
+        ],
+        "hint": "Past tense of عرف (to know) for 'I'."
+      },
+      {
+        "id": "p5-fb8",
+        "sentence": "The expression يا ___ is said when something bad happens, meaning \"What a pity!\"",
+        "blank": "___",
+        "answer": "حرام",
+        "acceptableAnswers": [
+          "7aram",
+          "haram",
+          "حرام"
+        ],
+        "hint": "Also used to express sympathy — 'poor thing!'"
+      }
+    ]
+  },
+  {
+    "id": "p5-match",
+    "phaseId": 5,
+    "title": "Phase 5 Matching — Idioms & Expressions",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "قلبو من دهب",
+        "transliteration": "albo min dahab",
+        "english": "He has a heart of gold (very kind)"
+      },
+      {
+        "arabic": "عينو وسيعة",
+        "transliteration": "ʕayno wēsʕa",
+        "english": "He's greedy (lit. 'wide eye')"
+      },
+      {
+        "arabic": "راسو ناشف",
+        "transliteration": "rāso nēshif",
+        "english": "He's stubborn (lit. 'dry head')"
+      },
+      {
+        "arabic": "إيدو طويلة",
+        "transliteration": "īdo ṭawīle",
+        "english": "He steals / is a thief (lit. 'long hand')"
+      },
+      {
+        "arabic": "لسانو طويل",
+        "transliteration": "lisēno ṭawīl",
+        "english": "He talks too much / is rude (lit. 'long tongue')"
+      },
+      {
+        "arabic": "يا حرام",
+        "transliteration": "ya ḥarām",
+        "english": "What a pity! / Poor thing!"
+      },
+      {
+        "arabic": "الله يعطيك العافية",
+        "transliteration": "alla yaʕṭīk il-ʕēfye",
+        "english": "May God give you strength"
+      },
+      {
+        "arabic": "نوّرتو البيت",
+        "transliteration": "nawwarto l-bēt",
+        "english": "You lit up the house (welcome!)"
+      },
+      {
+        "arabic": "شكلو رح تشتي",
+        "transliteration": "shaklo raḥ tishti",
+        "english": "Looks like it's going to rain"
+      },
+      {
+        "arabic": "ما بتفرق معي",
+        "transliteration": "ma btifro' maʕi",
+        "english": "It doesn't matter to me / I don't mind"
+      }
+    ]
+  },
+  {
+    "id": "p5-quiz-v2",
+    "phaseId": 5,
+    "title": "Phase 5 Quiz v2 — Media, Slang & Debate",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p5-q13",
+        "prompt": "In a news broadcast, نشرة الأخبار means:",
+        "promptArabic": "نشرة الأخبار",
+        "options": [
+          "Breaking news alert",
+          "The news bulletin / newscast",
+          "A newspaper article",
+          "A press conference"
+        ],
+        "correctIndex": 1,
+        "explanation": "نشرة الأخبار (nishrit il-akhbār) is the standard term for a news bulletin or newscast. نشرة means bulletin/broadcast and الأخبار means the news. You'll hear this at the start of every Lebanese TV news program."
+      },
+      {
+        "id": "p5-q14",
+        "prompt": "The youth slang expression أكيد أكيد is used to mean:",
+        "options": [
+          "Maybe, I'm not sure",
+          "Absolutely / for sure (emphatic)",
+          "I disagree completely",
+          "That's old news"
+        ],
+        "correctIndex": 1,
+        "explanation": "أكيد (akīd) means 'sure/certain'. Doubling it — أكيد أكيد — is a common Lebanese intensifier meaning 'absolutely, 100%'. Youth often use repetition for emphasis in colloquial speech."
+      },
+      {
+        "id": "p5-q15",
+        "prompt": "In an academic context, أطروحة refers to:",
+        "promptArabic": "أطروحة",
+        "options": [
+          "A final exam",
+          "A thesis or dissertation",
+          "A homework assignment",
+          "A study group"
+        ],
+        "correctIndex": 1,
+        "explanation": "أطروحة (uṭrūḥa) means thesis or dissertation. It comes from the root ط-ر-ح (to put forward/propose). Lebanese university students use this when discussing their academic research. رسالة is also used for a master's thesis."
+      },
+      {
+        "id": "p5-q16",
+        "prompt": "During a debate, بالعكس is used to say:",
+        "promptArabic": "بالعكس",
+        "options": [
+          "I agree with you",
+          "On the contrary / quite the opposite",
+          "Let's change the subject",
+          "You're absolutely right"
+        ],
+        "correctIndex": 1,
+        "explanation": "بالعكس (bil-ʕaks) means 'on the contrary' — a key debate expression in Lebanese Arabic. It's used to politely introduce an opposing viewpoint. العكس means 'the opposite', so بالعكس literally = 'by the opposite'."
+      },
+      {
+        "id": "p5-q17",
+        "prompt": "The expression مقهور/ة conveys a feeling of:",
+        "promptArabic": "مقهور",
+        "options": [
+          "Excitement and joy",
+          "Deep frustration or feeling wronged",
+          "Physical exhaustion",
+          "Mild annoyance"
+        ],
+        "correctIndex": 1,
+        "explanation": "مقهور (ma'hūr, m.) / مقهورة (ma'hūra, f.) describes a deep emotional state of feeling oppressed, frustrated, or wronged by an unjust situation. It's stronger than زعلان (upset) and carries a sense of helplessness. Very common in Lebanese emotional expression."
+      },
+      {
+        "id": "p5-q18",
+        "prompt": "The slang term فلّ means:",
+        "options": [
+          "He arrived",
+          "He left / bounced (slang)",
+          "He fell asleep",
+          "He got angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "فلّ (fall) is Lebanese youth slang meaning 'he left' or 'he bounced'. It's very informal. Example: فلّ من الحفلة بكّير = He bounced from the party early. The formal equivalent is راح or مشي."
+      },
+      {
+        "id": "p5-q19",
+        "prompt": "مراسل صحفي refers to:",
+        "promptArabic": "مراسل صحفي",
+        "options": [
+          "A newspaper editor",
+          "A news correspondent / reporter",
+          "A TV anchor",
+          "A photographer"
+        ],
+        "correctIndex": 1,
+        "explanation": "مراسل صحفي (murāsil ṣaḥafi) = news correspondent/reporter. مراسل comes from the root ر-س-ل (to send) — literally 'one who is sent'. صحفي means journalistic (from صحافة = journalism). This is standard media vocabulary across Arabic dialects."
+      },
+      {
+        "id": "p5-q20",
+        "prompt": "In a heated discussion, خلّيني كمّل is used to say:",
+        "promptArabic": "خلّيني كمّل",
+        "options": [
+          "Let me leave now",
+          "Let me finish (what I'm saying)",
+          "Leave me alone",
+          "Let me start over"
+        ],
+        "correctIndex": 1,
+        "explanation": "خلّيني كمّل (khallīni kammil) = 'let me finish'. خلّيني = let me / allow me, كمّل = finish/continue. This is an essential debate and conversation phrase when someone is being interrupted. Very commonly heard in Lebanese discussions and talk shows."
+      }
+    ]
+  },
+  {
+    "id": "p5-sentence-builder",
+    "phaseId": 5,
+    "title": "Phase 5 Sentence Builder — Advanced Constructions",
+    "type": "sentence-builder",
+    "sentenceBuilderData": [
+      {
+        "words": [
+          "شفت",
+          "شو",
+          "بالأخبار",
+          "اليوم",
+          "؟"
+        ],
+        "correctOrder": [
+          1,
+          0,
+          2,
+          3,
+          4
+        ],
+        "english": "Did you see what was on the news today?"
+      },
+      {
+        "words": [
+          "بالعكس",
+          "،",
+          "هيدا",
+          "أحسن",
+          "قرار"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "english": "On the contrary, this is the best decision."
+      },
+      {
+        "words": [
+          "لو",
+          "كنت",
+          "درست",
+          "أكتر",
+          "،",
+          "كنت",
+          "نجحت"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "english": "If I had studied more, I would have passed."
+      },
+      {
+        "words": [
+          "خلّيني",
+          "كمّل",
+          "الفكرة",
+          "بعدين",
+          "احكي"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "english": "Let me finish the idea, then speak."
+      },
+      {
+        "words": [
+          "قالتلي",
+          "إنها",
+          "مقهورة",
+          "من",
+          "الوضع"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "english": "She told me that she's frustrated by the situation."
+      }
+    ]
+  }
+]

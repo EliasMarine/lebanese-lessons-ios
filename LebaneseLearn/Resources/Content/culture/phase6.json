@@ -1,0 +1,36 @@
+[
+  {
+    "id": "p6-culture-fairouz",
+    "phaseId": 6,
+    "title": "Fairouz — The Soul of Lebanon",
+    "content": "Fairouz (فيروز) is more than a singer — she is the emotional center of Lebanese identity. Born in 1935, she has sung through wars, occupations, and displacement. Her voice is the first sound millions of Lebanese hear each morning, and the last thing many think of when they think of home. To understand Lebanon deeply, you must know her songs.",
+    "items": [
+      {"label": "بكتب اسمك", "value": "I Write Your Name"},
+      {"label": "يا أنا يا أنا", "value": "Me, Only Me"},
+      {"label": "شو بيقلن", "value": "What Are They Saying"}
+    ]
+  },
+  {
+    "id": "p6-culture-humor",
+    "phaseId": 6,
+    "title": "Lebanese Humor — A Cultural Superpower",
+    "content": "Lebanese people are famous for their dark, ironic humor — often in the face of genuine hardship. Understanding this humor is a mark of deep cultural literacy.",
+    "items": [
+      {"label": "Self-deprecating about Lebanon", "value": "عيش بلبنان وبتنام فارغ ومبسوط — Live in Lebanon and sleep hungry but happy — laughing at absurdity"},
+      {"label": "Exaggerating hospitality", "value": "إذا ما أكلت ثلاث مرات ما بتطلع من بيتي — If you don't eat three times you're not leaving my house"},
+      {"label": "Using \"wallah\" for emphasis even while joking", "value": "والله بدي أنام الأسبوع كلو — I swear I want to sleep the whole week — casual overstatement"},
+      {"label": "مزيون — \"it's fine\"", "value": "Said about genuinely terrible situations — a form of optimistic resignation"}
+    ]
+  },
+  {
+    "id": "p6-culture-code-switching",
+    "phaseId": 6,
+    "title": "Code-Switching — The Lebanese Superpower",
+    "content": "Lebanese Arabic naturally weaves between Arabic, French, and English. This is not a sign of poor Arabic — it's a cultural identity. Native Lebanese speakers code-switch effortlessly. You already have all three languages. Now practice letting them flow naturally together.",
+    "items": [
+      {"label": "Bonjour! Kīfak? I'm late for a meeting.", "value": "Arabic-English-French blend"},
+      {"label": "Merci ktīr — really, this was wonderful.", "value": "French-Arabic-English blend"},
+      {"label": "La situation hawnīk c'est compliqué. Yaʕni…", "value": "French-Arabic trilingual"}
+    ]
+  }
+]

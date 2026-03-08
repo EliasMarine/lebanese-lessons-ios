@@ -2,92 +2,55 @@ import SwiftUI
 
 // MARK: - Design System
 
-/// Centralized design tokens matching the web app at arabicisbeautiful.com.
+/// Centralized design tokens — Liquid Glass with vibrant popping colors.
 enum Theme {
 
-    // MARK: Brand Colors
+    // MARK: Brand Colors (Vibrant & Popping)
 
-    static let brand      = Color(hex: "#E94560")
-    static let success    = Color(hex: "#00B894")
-    static let warning    = Color(hex: "#FDCB6E")
-    static let info       = Color(hex: "#74B9FF")
-    static let xpPurple   = Color(hex: "#A29BFE")
+    static let brand       = Color(hex: "#E94560")   // Coral Red
+    static let electricBlue = Color(hex: "#00D2FF")   // Electric Blue
+    static let vividGreen  = Color(hex: "#00E676")    // Vivid Green
+    static let hotPink     = Color(hex: "#FF1493")    // Hot Pink
+    static let goldenYellow = Color(hex: "#FFD600")   // Golden Yellow
+    static let brightPurple = Color(hex: "#B388FF")   // Bright Purple
+    static let sunsetOrange = Color(hex: "#FF6D00")   // Sunset Orange
+
+    // Legacy aliases
+    static let success     = vividGreen
+    static let warning     = goldenYellow
+    static let info        = electricBlue
+    static let xpPurple    = brightPurple
 
     // MARK: Dim / Badge Background Variants
 
-    static let brandDim   = brand.opacity(0.15)
-    static let successDim = success.opacity(0.15)
-    static let warningDim = warning.opacity(0.15)
-    static let infoDim    = info.opacity(0.15)
-    static let xpDim      = xpPurple.opacity(0.15)
+    static let brandDim    = brand.opacity(0.15)
+    static let successDim  = success.opacity(0.15)
+    static let warningDim  = warning.opacity(0.15)
+    static let infoDim     = info.opacity(0.15)
+    static let xpDim       = xpPurple.opacity(0.15)
 
-    // MARK: Background Colors
+    // MARK: Phase Gradients
 
-    /// Main page background.
-    static let bgMain = Color("bgMain", bundle: nil)
+    static let phaseGradients: [Int: [Color]] = [
+        1: [brand, hotPink],
+        2: [sunsetOrange, goldenYellow],
+        3: [electricBlue, brightPurple],
+        4: [vividGreen, electricBlue],
+        5: [brightPurple, hotPink],
+        6: [goldenYellow, sunsetOrange],
+    ]
 
-    /// Card / elevated surface background.
-    static let bgCard = Color("bgCard", bundle: nil)
-
-    /// Secondary surface (e.g. input fields).
-    static let bgSurface = Color("bgSurface", bundle: nil)
-
-    // MARK: Adaptive Background Helpers (fallback when color assets are missing)
-
-    static func bgMainAdaptive(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color(hex: "#0F0F1A")
-            : Color(hex: "#F8F9FA")
-    }
-
-    static func bgCardAdaptive(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color(hex: "#1A1A2E")
-            : Color.white
-    }
-
-    static func bgSurfaceAdaptive(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color(hex: "#16213E")
-            : Color(hex: "#F1F3F5")
-    }
-
-    // MARK: Text Colors
-
-    static func textPrimary(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color.white
-            : Color(hex: "#2D3436")
-    }
-
-    static func textSecondary(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color(hex: "#B2BEC3")
-            : Color(hex: "#636E72")
-    }
-
-    // MARK: Border Colors
-
-    static func border(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color.white.opacity(0.08)
-            : Color.black.opacity(0.06)
-    }
-
-    // MARK: Shadows
-
-    static func cardShadow(for colorScheme: ColorScheme) -> Color {
-        colorScheme == .dark
-            ? Color.black.opacity(0.4)
-            : Color.black.opacity(0.06)
+    static func phaseGradient(for phaseId: Int) -> LinearGradient {
+        let colors = phaseGradients[phaseId] ?? [brand, hotPink]
+        return LinearGradient(colors: colors, startPoint: .topLeading, endPoint: .bottomTrailing)
     }
 
     // MARK: Corner Radii
 
-    static let cardRadius: CGFloat = 16
-    static let buttonRadius: CGFloat = 12
-    static let badgeRadius: CGFloat = 8
-    static let inputRadius: CGFloat = 10
+    static let cardRadius: CGFloat = 20
+    static let buttonRadius: CGFloat = 14
+    static let badgeRadius: CGFloat = 10
+    static let inputRadius: CGFloat = 12
 
     // MARK: Spacing
 
@@ -96,6 +59,61 @@ enum Theme {
     static let spacingMD: CGFloat = 16
     static let spacingLG: CGFloat = 24
     static let spacingXL: CGFloat = 32
+}
+
+// MARK: - Liquid Glass View Modifiers
+
+extension View {
+
+    /// Standard glass card with rounded corners.
+    func glassCard() -> some View {
+        self
+            .padding(Theme.spacingMD)
+            .glassEffect(in: .rect(cornerRadius: Theme.cardRadius))
+    }
+
+    /// Tinted glass card with a brand color accent.
+    func glassCard(tint: Color) -> some View {
+        self
+            .padding(Theme.spacingMD)
+            .glassEffect(.regular.tint(tint), in: .rect(cornerRadius: Theme.cardRadius))
+    }
+
+    /// Interactive glass button style.
+    func glassButton() -> some View {
+        self
+            .padding(.horizontal, Theme.spacingMD)
+            .padding(.vertical, Theme.spacingSM)
+            .glassEffect(.regular.interactive(), in: .capsule)
+    }
+
+    /// Prominent glass button with tint.
+    func glassButtonProminent(tint: Color = Theme.brand) -> some View {
+        self
+            .padding(.horizontal, Theme.spacingLG)
+            .padding(.vertical, Theme.spacingMD)
+            .glassEffect(.regular.tint(tint).interactive(), in: .capsule)
+    }
+
+    /// XP badge pill.
+    func xpBadge() -> some View {
+        self
+            .font(.nunito(13, weight: .bold))
+            .foregroundStyle(Theme.xpPurple)
+            .padding(.horizontal, 10)
+            .padding(.vertical, 4)
+            .glassEffect(.regular.tint(Theme.xpPurple), in: .capsule)
+    }
+
+    /// Streak flame badge.
+    func streakBadge() -> some View {
+        self
+            .font(.nunito(13, weight: .bold))
+            .foregroundStyle(Theme.sunsetOrange)
+            .padding(.horizontal, 10)
+            .padding(.vertical, 4)
+            .glassEffect(.regular.tint(Theme.sunsetOrange), in: .capsule)
+    }
 }
 
 // MARK: - Font Helpers

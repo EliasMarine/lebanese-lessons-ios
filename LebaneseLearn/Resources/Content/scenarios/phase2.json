@@ -1,0 +1,704 @@
+[
+  {
+    "id": "p2-scenario-manoushe",
+    "phaseId": 2,
+    "title": "At the Man2oushe Shop",
+    "titleArabic": "عند الفرن",
+    "setting": "A busy neighborhood bakery (furn) in Beirut early in the morning. The smell of fresh za'atar and cheese fills the air. You walk up to the counter to order breakfast.",
+    "branches": [
+      {
+        "id": "p2-scenario-manoushe-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "الصبح بكير، وصلت عالفرن. في ناس عم يطلبو مناقيش.",
+        "transliteration": "Iṣ-ṣubiḥ bakkīr, wṣilt ʕal-furn. Fī nās ʕam yuṭlubū manāqīsh.",
+        "english": "Early morning, you arrive at the bakery. People are ordering manoushe."
+      },
+      {
+        "id": "p2-scenario-manoushe-2",
+        "speaker": "Baker",
+        "speakerRole": "b",
+        "arabic": "أهلا وسهلا! شو بتحب تاخد؟",
+        "transliteration": "Ahla w sahla! Shū btiḥibb tēkhod?",
+        "english": "Welcome! What would you like to have?",
+        "culturalTip": "Lebanese bakeries are called 'furn' (فرن). Manoushe is the most popular breakfast food — a flatbread with toppings baked fresh to order."
+      },
+      {
+        "id": "p2-scenario-manoushe-3",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose what to order:",
+        "choices": [
+          {
+            "text": "A za'atar manoushe please",
+            "textArabic": "منقوشة زعتر، إذا بتريد",
+            "textTransliteration": "Manʔūshe zaʕtar, iza btrīd",
+            "nextBranchId": "p2-scenario-manoushe-4"
+          },
+          {
+            "text": "Cheese and za'atar together",
+            "textArabic": "منقوشة زعتر وجبنة سوا",
+            "textTransliteration": "Manʔūshe zaʕtar w jibne sawa",
+            "nextBranchId": "p2-scenario-manoushe-4",
+            "culturalNote": "Mixing za'atar and cheese on one manoushe is very common and called 'mnousse' by some."
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-manoushe-4",
+        "speaker": "Baker",
+        "speakerRole": "b",
+        "arabic": "طيّب! بدّك ياها كبيرة ولّا زغيرة؟",
+        "transliteration": "Ṭayyeb! Baddak yēha kbīre walla zghīre?",
+        "english": "Okay! Do you want it big or small?"
+      },
+      {
+        "id": "p2-scenario-manoushe-5",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose the size:",
+        "choices": [
+          {
+            "text": "Big one, I'm hungry!",
+            "textArabic": "كبيرة، أنا جوعان!",
+            "textTransliteration": "Kbīre, ana jūʕān!",
+            "nextBranchId": "p2-scenario-manoushe-6"
+          },
+          {
+            "text": "Small one is enough",
+            "textArabic": "زغيرة بتكفّي",
+            "textTransliteration": "Zghīre btikaffī",
+            "nextBranchId": "p2-scenario-manoushe-6"
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-manoushe-6",
+        "speaker": "Baker",
+        "speakerRole": "b",
+        "arabic": "بدّك شي تاني؟ عنّا لبنة وعنّا عصير ليمون.",
+        "transliteration": "Baddak shī tēnī? ʕAnna labne w ʕanna ʕaṣīr laymūn.",
+        "english": "Do you want anything else? We have labneh and we have lemonade.",
+        "culturalTip": "Labneh (strained yogurt) spread on flatbread is another classic Lebanese breakfast item, often drizzled with olive oil."
+      },
+      {
+        "id": "p2-scenario-manoushe-7",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "لأ شكرًا، بس هيك.",
+        "transliteration": "Laʔ shukran, bass hayk.",
+        "english": "No thank you, just that."
+      },
+      {
+        "id": "p2-scenario-manoushe-8",
+        "speaker": "Baker",
+        "speakerRole": "b",
+        "arabic": "تكرم! دقيقة وبتكون جاهزة.",
+        "transliteration": "Tikram! Daʔīʔa w btikūn jēhze.",
+        "english": "Of course! One minute and it'll be ready.",
+        "culturalTip": "The word 'tikram' (تكرم) means 'you are honored' and is used like 'of course' or 'at your service' in Lebanese Arabic."
+      },
+      {
+        "id": "p2-scenario-manoushe-9",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "الخبّاز حطّ المنقوشة بالفرن. بعد شوي طلعت جاهزة.",
+        "transliteration": "Il-khabbāz ḥaṭṭ il-manʔūshe bil-furn. Baʕd shwayy ṭilʕit jēhze.",
+        "english": "The baker puts the manoushe in the oven. After a bit, it comes out ready."
+      },
+      {
+        "id": "p2-scenario-manoushe-10",
+        "speaker": "Baker",
+        "speakerRole": "b",
+        "arabic": "تفضّل! هيدي إلك. صارو عشرين ألف ليرة.",
+        "transliteration": "Tfaḍḍal! Hayde ilak. Ṣārū ʕishrīn alf līra.",
+        "english": "Here you go! This is yours. That's twenty thousand lira."
+      },
+      {
+        "id": "p2-scenario-manoushe-11",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to respond:",
+        "choices": [
+          {
+            "text": "Here you go, keep the change",
+            "textArabic": "تفضّل، خلّي الباقي إلك",
+            "textTransliteration": "Tfaḍḍal, khallī il-bēʔī ilak",
+            "nextBranchId": "p2-scenario-manoushe-12",
+            "culturalNote": "Telling someone to keep the change is a nice gesture. Small tips are appreciated at bakeries."
+          },
+          {
+            "text": "Here you go, thank you",
+            "textArabic": "تفضّل، يسلمو",
+            "textTransliteration": "Tfaḍḍal, yislamū",
+            "nextBranchId": "p2-scenario-manoushe-12"
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-manoushe-12",
+        "speaker": "Baker",
+        "speakerRole": "b",
+        "arabic": "صحتين! تعا كل يوم عنّا!",
+        "transliteration": "Ṣaḥtayn! Taʕa kull yōm ʕanna!",
+        "english": "Bon appetit! Come every day to us!",
+        "culturalTip": "'Sahtayn' (صحتين) literally means 'two healths' and is the standard way to wish someone a good meal in Lebanese Arabic."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What does 'shū btiḥibb tēkhod?' mean?",
+        "options": [
+          "Where are you going?",
+          "What would you like to have?",
+          "How much does it cost?",
+          "Is it ready yet?"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does 'tikram' express?",
+        "options": [
+          "Sorry, we don't have that",
+          "Of course / at your service",
+          "Wait a moment",
+          "Come back tomorrow"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does 'sahtayn' mean when said after ordering food?",
+        "options": [
+          "Goodbye",
+          "You're welcome",
+          "Bon appetit / enjoy your meal",
+          "Thank you very much"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "How do you say 'small one is enough' in Lebanese Arabic?",
+        "options": [
+          "Kbīre, ana jūʕān!",
+          "Zghīre btikaffī",
+          "Bass hayk",
+          "Baddī wāḥad"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "فرن",
+        "transliteration": "furn",
+        "english": "bakery / oven"
+      },
+      {
+        "arabic": "منقوشة",
+        "transliteration": "manʔūshe",
+        "english": "manoushe (flatbread)"
+      },
+      {
+        "arabic": "زعتر",
+        "transliteration": "zaʕtar",
+        "english": "thyme mix (za'atar)"
+      },
+      {
+        "arabic": "جبنة",
+        "transliteration": "jibne",
+        "english": "cheese"
+      },
+      {
+        "arabic": "كبيرة",
+        "transliteration": "kbīre",
+        "english": "big (f.)"
+      },
+      {
+        "arabic": "زغيرة",
+        "transliteration": "zghīre",
+        "english": "small (f.)"
+      },
+      {
+        "arabic": "تكرم",
+        "transliteration": "tikram",
+        "english": "of course / at your service"
+      },
+      {
+        "arabic": "صحتين",
+        "transliteration": "ṣaḥtayn",
+        "english": "bon appetit (lit. two healths)"
+      }
+    ]
+  },
+  {
+    "id": "p2-scenario-service",
+    "phaseId": 2,
+    "title": "Taking a Service Taxi",
+    "titleArabic": "بالسرفيس",
+    "setting": "A busy street in Beirut. You need to get to Hamra. You see a shared taxi (service) approaching and wave it down.",
+    "branches": [
+      {
+        "id": "p2-scenario-service-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "إنت واقف عالطريق بالأشرفية. بدّك تروح عالحمرا. شفت سرفيس جايي.",
+        "transliteration": "Inta wēʔif ʕaṭ-ṭarīʔ bil-Ashrafiyye. Baddak trūḥ ʕal-Ḥamra. Shift servīs jēyī.",
+        "english": "You are standing on the road in Ashrafieh. You want to go to Hamra. You see a service taxi coming.",
+        "culturalTip": "A 'service' (سرفيس) is a shared taxi in Lebanon. You stand on the side of the road, wave one down, and tell the driver your destination through the window. If they're going your way, they nod and you get in."
+      },
+      {
+        "id": "p2-scenario-service-2",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "سرفيس! عالحمرا؟",
+        "transliteration": "Servīs! ʕal-Ḥamra?",
+        "english": "Service! To Hamra?"
+      },
+      {
+        "id": "p2-scenario-service-3",
+        "speaker": "Driver",
+        "speakerRole": "b",
+        "arabic": "يلّا اطلع! وين بالحمرا بالزبط؟",
+        "transliteration": "Yalla iṭlaʕ! Wayn bil-Ḥamra biz-zabṭ?",
+        "english": "Come on, get in! Where in Hamra exactly?"
+      },
+      {
+        "id": "p2-scenario-service-4",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose where you're going:",
+        "choices": [
+          {
+            "text": "Near the main street",
+            "textArabic": "قريب من الشارع الرئيسي",
+            "textTransliteration": "Arīb min ish-shēriʕ ir-raʔīsī",
+            "nextBranchId": "p2-scenario-service-5"
+          },
+          {
+            "text": "By the AUB gate",
+            "textArabic": "عند بوّابة الجامعة الأميركية",
+            "textTransliteration": "ʕAnd bawwēbit il-jēmʕa il-amīrkiyye",
+            "nextBranchId": "p2-scenario-service-5",
+            "culturalNote": "AUB (American University of Beirut) is a famous landmark in Hamra. Using landmarks for directions is very common in Lebanon."
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-service-5",
+        "speaker": "Driver",
+        "speakerRole": "b",
+        "arabic": "ماشي. بوصّلك. هالطريق فيها شوية زحمة اليوم.",
+        "transliteration": "Mēshī. Bwaṣṣlak. Haṭ-ṭarīʔ fīha shwayyet zaḥme il-yōm.",
+        "english": "Fine. I'll get you there. This road has a bit of traffic today.",
+        "culturalTip": "Traffic (zaḥme) is a constant topic of conversation in Beirut. Commenting on it is a reliable way to make small talk."
+      },
+      {
+        "id": "p2-scenario-service-6",
+        "speaker": "Driver",
+        "speakerRole": "b",
+        "arabic": "إنت من وين؟ مش من هون؟",
+        "transliteration": "Inta min wayn? Mish min hōn?",
+        "english": "Where are you from? Not from here?"
+      },
+      {
+        "id": "p2-scenario-service-7",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to answer:",
+        "choices": [
+          {
+            "text": "I'm from America, learning Arabic",
+            "textArabic": "أنا من أميركا، عم بتعلّم عربي",
+            "textTransliteration": "Ana min Amīrka, ʕam bitʕallam ʕarabī",
+            "nextBranchId": "p2-scenario-service-8"
+          },
+          {
+            "text": "My family is Lebanese but I grew up abroad",
+            "textArabic": "أهلي لبنانيّة بس أنا تربيت برّا",
+            "textTransliteration": "Ahlī libnēniyye bass ana trabbēt barra",
+            "nextBranchId": "p2-scenario-service-8",
+            "culturalNote": "Many Lebanese people live abroad. Taxi drivers love hearing that someone is reconnecting with their roots."
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-service-8",
+        "speaker": "Driver",
+        "speakerRole": "b",
+        "arabic": "أهلا وسهلا فيك بلبنان! حلو إنّك عم تتعلّم.",
+        "transliteration": "Ahla w sahla fīk b-Lubnān! Ḥilw innak ʕam titʕallam.",
+        "english": "Welcome to Lebanon! Nice that you're learning."
+      },
+      {
+        "id": "p2-scenario-service-9",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "وصلتو عالحمرا. السرفيس وقف.",
+        "transliteration": "Wṣaltū ʕal-Ḥamra. Is-servīs waʔaf.",
+        "english": "You arrive in Hamra. The service stops."
+      },
+      {
+        "id": "p2-scenario-service-10",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "هون منيح. قدّيش؟",
+        "transliteration": "Hōn mnīḥ. Addaysh?",
+        "english": "Here is good. How much?"
+      },
+      {
+        "id": "p2-scenario-service-11",
+        "speaker": "Driver",
+        "speakerRole": "b",
+        "arabic": "مية ألف ليرة.",
+        "transliteration": "Miyye alf līra.",
+        "english": "One hundred thousand lira.",
+        "culturalTip": "Service taxi prices are generally known by locals. It is okay to ask 'addaysh?' (how much?) if you are unsure."
+      },
+      {
+        "id": "p2-scenario-service-12",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "تفضّل. يسلمو، يعطيك العافية!",
+        "transliteration": "Tfaḍḍal. Yislamū, yaʕṭīk il-ʕēfye!",
+        "english": "Here you go. Thanks, may God give you strength!",
+        "culturalTip": "'Yaʕtīk il-ʕēfye' (يعطيك العافية) literally means 'may God give you wellness/strength.' It is commonly said to anyone who is working, as a sign of respect."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "How do you hail a service taxi in Lebanon?",
+        "options": [
+          "You call a number and book one",
+          "You stand on the road, wave it down, and say your destination",
+          "You go to a taxi station and wait in line",
+          "You use an app on your phone"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does 'addaysh?' mean?",
+        "options": [
+          "Where is it?",
+          "Are we there?",
+          "How much?",
+          "How far?"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does 'yaʕṭīk il-ʕēfye' express?",
+        "options": [
+          "Have a good day",
+          "May God give you strength (said to a working person)",
+          "Goodbye forever",
+          "Please hurry up"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is 'zaḥme'?",
+        "options": [
+          "A neighborhood in Beirut",
+          "A type of food",
+          "Traffic / congestion",
+          "A greeting"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "سرفيس",
+        "transliteration": "servīs",
+        "english": "shared taxi"
+      },
+      {
+        "arabic": "طريق",
+        "transliteration": "ṭarīʔ",
+        "english": "road"
+      },
+      {
+        "arabic": "زحمة",
+        "transliteration": "zaḥme",
+        "english": "traffic / congestion"
+      },
+      {
+        "arabic": "قدّيش",
+        "transliteration": "addaysh",
+        "english": "how much?"
+      },
+      {
+        "arabic": "هون",
+        "transliteration": "hōn",
+        "english": "here"
+      },
+      {
+        "arabic": "يلّا",
+        "transliteration": "yalla",
+        "english": "let's go / come on"
+      },
+      {
+        "arabic": "يعطيك العافية",
+        "transliteration": "yaʕṭīk il-ʕēfye",
+        "english": "may God give you strength"
+      },
+      {
+        "arabic": "ماشي",
+        "transliteration": "mēshī",
+        "english": "okay / fine"
+      }
+    ]
+  },
+  {
+    "id": "p2-scenario-pharmacy",
+    "phaseId": 2,
+    "title": "At the Pharmacy",
+    "titleArabic": "بالصيدلية",
+    "setting": "You're not feeling well and walk into a pharmacy (saydaliyye) in your neighborhood. The pharmacist greets you from behind the counter.",
+    "branches": [
+      {
+        "id": "p2-scenario-pharmacy-1",
+        "speaker": "Narrator",
+        "speakerRole": "narrator",
+        "arabic": "رأسك عم يوجعك ومعدتك مش منيحة. فتت عالصيدلية.",
+        "transliteration": "Rāsak ʕam yūjaʕak w maʕdtak mish mnīḥa. Fitt ʕaṣ-ṣaydaliyye.",
+        "english": "Your head hurts and your stomach is not good. You walk into the pharmacy."
+      },
+      {
+        "id": "p2-scenario-pharmacy-2",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "أهلين! شو في؟ كيف فيني ساعدك؟",
+        "transliteration": "Ahlēn! Shū fī? Kīf fīnī sēʕdak?",
+        "english": "Hello! What's going on? How can I help you?",
+        "culturalTip": "In Lebanon, pharmacists often act as a first point of medical advice. Many common medicines are available without a prescription."
+      },
+      {
+        "id": "p2-scenario-pharmacy-3",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to describe your problem:",
+        "choices": [
+          {
+            "text": "My head hurts a lot",
+            "textArabic": "راسي عم يوجعني كتير",
+            "textTransliteration": "Rāsī ʕam yūjaʕnī ktīr",
+            "nextBranchId": "p2-scenario-pharmacy-4"
+          },
+          {
+            "text": "My stomach hurts and I feel nauseous",
+            "textArabic": "معدتي عم توجعني وحاسس بغثيان",
+            "textTransliteration": "Maʕdtī ʕam tūjaʕnī w ḥēsis b-ghasyēn",
+            "nextBranchId": "p2-scenario-pharmacy-4"
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-pharmacy-4",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "من إمتا عم توجعك؟",
+        "transliteration": "Min imta ʕam tūjaʕak?",
+        "english": "Since when has it been hurting?"
+      },
+      {
+        "id": "p2-scenario-pharmacy-5",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose your answer:",
+        "choices": [
+          {
+            "text": "Since this morning",
+            "textArabic": "من الصبح",
+            "textTransliteration": "Min iṣ-ṣubiḥ",
+            "nextBranchId": "p2-scenario-pharmacy-6"
+          },
+          {
+            "text": "Since yesterday",
+            "textArabic": "من مبارح",
+            "textTransliteration": "Min mbēriḥ",
+            "nextBranchId": "p2-scenario-pharmacy-6"
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-pharmacy-6",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "عندك حرارة؟",
+        "transliteration": "ʕAndak ḥarāra?",
+        "english": "Do you have a fever?"
+      },
+      {
+        "id": "p2-scenario-pharmacy-7",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "ما بعرف، بس حاسس حالي تعبان.",
+        "transliteration": "Ma baʕrif, bass ḥēsis ḥālī taʕbān.",
+        "english": "I don't know, but I feel tired."
+      },
+      {
+        "id": "p2-scenario-pharmacy-8",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "خود هالحبوب. وحدة الصبح ووحدة بالليل بعد الأكل. وإشرب مي كتير.",
+        "transliteration": "Khūd hal-ḥbūb. Waḥde iṣ-ṣubiḥ w waḥde bil-layl baʕd il-akl. W ishrab mayy ktīr.",
+        "english": "Take these pills. One in the morning and one at night after eating. And drink lots of water.",
+        "culturalTip": "Lebanese pharmacists will usually give you specific instructions on how to take medicine, often quite directly and in detail."
+      },
+      {
+        "id": "p2-scenario-pharmacy-9",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "",
+        "transliteration": "",
+        "english": "Choose how to respond:",
+        "choices": [
+          {
+            "text": "Is there anything stronger?",
+            "textArabic": "في شي أقوى؟",
+            "textTransliteration": "Fī shī aʔwa?",
+            "nextBranchId": "p2-scenario-pharmacy-10"
+          },
+          {
+            "text": "Okay, that's fine. How much?",
+            "textArabic": "طيّب ماشي. قدّيش؟",
+            "textTransliteration": "Ṭayyeb mēshī. Addaysh?",
+            "nextBranchId": "p2-scenario-pharmacy-10"
+          }
+        ]
+      },
+      {
+        "id": "p2-scenario-pharmacy-10",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "هيدي كافيين. جرّبن أوّل، وإذا ما تحسّنت، روح عالدكتور.",
+        "transliteration": "Hayde kēfyīn. Jarribon awwal, w iza ma tḥassanit, rūḥ ʕad-daktūr.",
+        "english": "These are sufficient. Try them first, and if you don't improve, go to the doctor."
+      },
+      {
+        "id": "p2-scenario-pharmacy-11",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "صارو تلتمية ألف ليرة.",
+        "transliteration": "Ṣārū tlatmiyye alf līra.",
+        "english": "That's three hundred thousand lira."
+      },
+      {
+        "id": "p2-scenario-pharmacy-12",
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "تفضّل. يسلمو كتير!",
+        "transliteration": "Tfaḍḍal. Yislamū ktīr!",
+        "english": "Here you go. Thank you very much!"
+      },
+      {
+        "id": "p2-scenario-pharmacy-13",
+        "speaker": "Pharmacist",
+        "speakerRole": "b",
+        "arabic": "سلامتك! إن شاء الله بتتحسّن بسرعة.",
+        "transliteration": "Salēmtak! In shāʔ Allāh btitḥassan b-surʕa.",
+        "english": "Get well! God willing, you'll improve quickly.",
+        "culturalTip": "'Salēmtak' (سلامتك) is said to someone who is sick or hurt. It means 'your safety' and expresses concern and well wishes."
+      }
+    ],
+    "comprehensionCheck": [
+      {
+        "question": "What does 'shū fī?' mean in this context?",
+        "options": [
+          "What do you want to buy?",
+          "What's going on? / What's the matter?",
+          "Where does it hurt?",
+          "Do you have a prescription?"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the pharmacist say to take the pills?",
+        "options": [
+          "Two in the morning only",
+          "One before bed",
+          "One in the morning and one at night after eating",
+          "Three times a day with food"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does 'salēmtak' mean?",
+        "options": [
+          "Goodbye",
+          "Get well / wishing you safety",
+          "Good morning",
+          "See you soon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How do you say 'since yesterday' in Lebanese Arabic?",
+        "options": [
+          "Min iṣ-ṣubiḥ",
+          "Min bukra",
+          "Min mbēriḥ",
+          "Min il-yōm"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "vocabSummary": [
+      {
+        "arabic": "صيدلية",
+        "transliteration": "ṣaydaliyye",
+        "english": "pharmacy"
+      },
+      {
+        "arabic": "راسي عم يوجعني",
+        "transliteration": "rāsī ʕam yūjaʕnī",
+        "english": "my head hurts"
+      },
+      {
+        "arabic": "معدة",
+        "transliteration": "maʕde",
+        "english": "stomach"
+      },
+      {
+        "arabic": "حبوب",
+        "transliteration": "ḥbūb",
+        "english": "pills / medicine"
+      },
+      {
+        "arabic": "حرارة",
+        "transliteration": "ḥarāra",
+        "english": "fever / temperature"
+      },
+      {
+        "arabic": "تعبان",
+        "transliteration": "taʕbān",
+        "english": "tired / unwell"
+      },
+      {
+        "arabic": "سلامتك",
+        "transliteration": "salēmtak",
+        "english": "get well (lit. your safety)"
+      },
+      {
+        "arabic": "من مبارح",
+        "transliteration": "min mbēriḥ",
+        "english": "since yesterday"
+      }
+    ]
+  }
+]

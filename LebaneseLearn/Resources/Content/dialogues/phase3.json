@@ -1,0 +1,737 @@
+[
+  {
+    "id": "p3-dialogue-catching-up",
+    "phaseId": 3,
+    "title": "Catching Up After a Long Time",
+    "context": "Running into an old friend or relative after a long absence.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "مرحبا والله! مش شايفك من زمان، كيفك؟",
+        "transliteration": "Marḥaba wallah! Mish shāyfak min zamān, kīfak?",
+        "english": "Wow hello! Haven't seen you in ages, how are you?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "منيح الحمد لله! صراحة مشغول كتير. شو أخبارك إنت؟",
+        "transliteration": "Mnīḥ il-ḥamdullah! Ṣarāḥa mashghūl ktīr. Shū akhbārak inta?",
+        "english": "Good, thank God! Honestly been really busy. Your news?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "عم بدور على شغل جديد. يعني الوضع تعبان بس بتمنى يتحسن.",
+        "transliteration": "ʕam bdūr ʕala shughl jdīd. Yaʕni il-waḍ taʕbān bas btimanna yitḥassan.",
+        "english": "I'm looking for a new job. I mean, things are tough but hopefully improving."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إن شاء الله! أنت شاطر والله، رح تلاقي شي منيح. ما تقلق.",
+        "transliteration": "Inshallah! Inta shāṭer wallah, raḥ tlāʔi shi mnīḥ. Ma tʔlaʔ.",
+        "english": "God willing! You're capable, you'll find something good. Don't worry."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-past",
+    "phaseId": 3,
+    "title": "Talking About the Past",
+    "context": "Reminiscing about childhood in Beirut with someone who shared those times.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بتذكر لما كنا صغار ببيروت؟",
+        "transliteration": "Btizakkar lamma kinna zghar b-Bayrūt?",
+        "english": "Do you remember when we were young in Beirut?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "آه والله! كنا نتلهى بالزواريب كل يوم. ذكريات حلوة كتير.",
+        "transliteration": "Āh wallah! Kinna ntlahha biz-zawārib kull yōm. Zikrayāt ḥilwe ktīr.",
+        "english": "Oh yes! We used to play in the alleys every day. Such sweet memories."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "والأكل! كانت إمي بتعمل الكبة كل يوم جمعة.",
+        "transliteration": "Wil-akl! Kānit immī btaʕmal il-kibbe kull yōm jumaʕa.",
+        "english": "And the food! My mom would make kibbeh every Friday."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "يا ريت نرجع لهيك وقت. الحياة كانت أبسط.",
+        "transliteration": "Yā rēt nirjaʕ la-hēk waʔt. Il-ḥayāt kānit absat.",
+        "english": "If only we could go back to those times. Life was simpler."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-talking-family",
+    "phaseId": 3,
+    "title": "Talking About Family",
+    "context": "Describing family members, where they live, and what they do for a living.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "قديش في عندك إخوة؟",
+        "transliteration": "ʔAddēsh fī ʕindak ikhwe?",
+        "english": "How many siblings do you have?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "عندي أخ وختين. أخي الكبير عايش بالسعودية وختي الزغيرة لسّا بالجامعة.",
+        "transliteration": "ʕIndī akh w-ikhtēn. Akhi il-kbīr ʕāyish bis-Saʕūdiyye w-ikhti iz-zghīre lissa bil-jāmʕa.",
+        "english": "I have a brother and two sisters. My older brother lives in Saudi and my younger sister is still at university."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وختك التانية شو بتعمل؟",
+        "transliteration": "W-ikhtik it-tānye shū btaʕmal?",
+        "english": "And your other sister, what does she do?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "هيي معلمة بمدرسة ببيروت. متجوزة وعندها ولدين.",
+        "transliteration": "Hiyye mʕallme b-madrase b-Bayrūt. Mjawwaze w-ʕindha waladēn.",
+        "english": "She's a teacher at a school in Beirut. Married with two kids."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "حلو! وأهلك وينن هلق؟ لسا بالضيعة؟",
+        "transliteration": "Ḥilu! W-ahlak wēnon hallaʔ? Lissa biḍ-ḍayʕa?",
+        "english": "Nice! And where are your parents now? Still in the village?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إي، بيي وإمي لسا بالضيعة. ما بيحبو المدينة. بيقولو كتير ضجة.",
+        "transliteration": "Ē, bayyi w-immi lissa biḍ-ḍayʕa. Mā byiḥibbu il-mdīne. Biʔūlo ktīr ḍajje.",
+        "english": "Yes, my dad and mom are still in the village. They don't like the city. They say it's too noisy."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "معن حق! أنا كمان بشتاق للضيعة. الهوا والأكل الطازج...",
+        "transliteration": "Maʕon ḥaʔʔ! Ana kamān bishtāʔ laḍ-ḍayʕa. Il-hawa wil-akl iṭ-ṭāzij...",
+        "english": "They're right! I also miss the village. The air and the fresh food..."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إي والله. كل ما بروح بقلن خذوني معكن! بس الشغل ببيروت.",
+        "transliteration": "Ē wallah. Kill mā brūḥ bʔillon khudūni maʕkon! Bas ish-shughl b-Bayrūt.",
+        "english": "Honestly yes. Every time I visit I tell them take me with you! But work is in Beirut."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-childhood-memories",
+    "phaseId": 3,
+    "title": "Sharing Childhood Memories",
+    "context": "Two friends reminiscing about growing up, school, and their neighborhood.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "بتتذكر مدرستنا القديمة؟ مرقت من قدّامها مبارح.",
+        "transliteration": "Btitzzakkar madrастna il-ʔadīme? Mrʔet min ʔuddāmha mbāriḥ.",
+        "english": "Do you remember our old school? I passed by it yesterday."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "كيف لأ! كنا نلعب بالساحة كل الفرصة. والأستاذ فادي كان يزعق علينا!",
+        "transliteration": "Kīf laʔ! Kinna nilʕab bis-sāḥa kull il-furṣa. Wil-ustāz Fādi kān yuzʕuʔ ʕalēna!",
+        "english": "Of course! We used to play in the yard every recess. And Mr. Fadi would yell at us!"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "هههه إي! وبتتذكر لما كنا نشتري سندويشة فلافل من أبو حسين بعد المدرسة؟",
+        "transliteration": "Hahaha ē! W-btitzzakkar lamma kinna nishtiri sandwīshet falāfil min Abu Ḥusēn baʕd il-madrase?",
+        "english": "Hahaha yes! And remember when we'd buy falafel sandwiches from Abu Hussein after school?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أطيب فلافل بالحارة كلها! كان يعطينا زيادة لأنو يعرف بيي.",
+        "transliteration": "Aṭyab falāfil bil-ḥāra kullha! Kān yaʕṭīna zyāde laʔanno yaʕrif bayyi.",
+        "english": "The best falafel in the whole neighborhood! He'd give us extra because he knew my dad."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "وبالصيف كنا نروح عالبركة ونقعد لحد ما يعتم.",
+        "transliteration": "W-biṣ-ṣayf kinna nrūḥ ʕal-birke w-nuʔʕud la-ḥadd mā yiʕtim.",
+        "english": "And in summer we'd go to the pool and stay until it got dark."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "وإمي كانت تعصب لأنو كنت أرجع عتمان. كانت تقلي وين كنت يا حيوان!",
+        "transliteration": "W-immi kānit tiʕṣab laʔanno kint irjaʕ ʕatmān. Kānit tiʔillī wēn kint ya ḥaywān!",
+        "english": "And my mom would get angry because I'd come back after dark. She'd say 'where were you, you animal!'"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "هيك كانت الأمهات! بس هلق منشتاق لهالأيام.",
+        "transliteration": "Hēk kānit il-ummahāt! Bas hallaʔ mnishtāʔ la-hal-ayyām.",
+        "english": "That's how moms were! But now we miss those days."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أيام ما كان في همّ. لا شغل، لا فواتير، لا مسؤولية. بس لعب وأكل.",
+        "transliteration": "Ayyām mā kān fī hamm. Lā shughl, lā fawātīr, lā masʔūliyye. Bas laʕb w-akl.",
+        "english": "Days with no worries. No work, no bills, no responsibility. Just playing and eating."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-food-opinions",
+    "phaseId": 3,
+    "title": "Expressing Opinions About Food",
+    "context": "Two friends debating which restaurant in Beirut has the best food. Food is central to Lebanese social life and everyone has strong opinions.",
+    "lines": [
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "بتعرف شو، أحسن مطعم مشاوي ببيروت هوّي عند أبو ربيع. ما في متلو.",
+        "transliteration": "Btaʕrif shū, aḥsan maṭʕam mashāwi b-Bayrūt huwwe ʕind Abu Rabīʕ. Mā fī mitlo.",
+        "english": "You know what, the best grill restaurant in Beirut is Abu Rabiʕ's place. Nothing compares."
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "شو عم تحكي! يعني إم الشريف بتعمل كبة نيّي بتجنّن. ما حدا بيقدر عليها.",
+        "transliteration": "Shū ʕam taḥki! Yaʕni Imm ish-Sharīf btaʕmal kibbe nayyé btjannin. Mā ḥada byiʔdar ʕalēha.",
+        "english": "What are you saying! Imm el-Sharif makes raw kibbeh that's insane. Nobody can beat her."
+      },
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "الكبة النيّي شي وّالمشاوي شي تاني. بس إذا بدّك أطيب شيش طاووق، روحي عند أبو ربيع.",
+        "transliteration": "Il-kibbe in-nayyé shi wil-mashāwi shi tāni. Bas iza biddik aṭyab shīsh ṭāwūʔ, rūḥi ʕind Abu Rabīʕ.",
+        "english": "Raw kibbeh is one thing and grills are another. But if you want the best shish tawook, go to Abu Rabiʕ."
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "ماشي، بس أنا برأيي أحسن أكل هوّي اللي بتعملو الأمهات بالبيت. ولا مطعم بيقدر ينافس.",
+        "transliteration": "Māshi, bas ana braʔyi aḥsan akl huwwe illi btaʕmlo il-ummahāt bil-bēt. Wala maṭʕam byiʔdar ynāfis.",
+        "english": "Fine, but in my opinion the best food is what mothers make at home. No restaurant can compete."
+      },
+      {
+        "speaker": "Rami",
+        "speakerRole": "a",
+        "arabic": "هيدي معك حق فيها مية بالمية. أكل إمي ما إلو حل.",
+        "transliteration": "Haydi maʕik ḥaʔʔ fīha miyye bil-miyye. Akl immi mā ilo ḥall.",
+        "english": "You're a hundred percent right about that. My mom's food is unbeatable."
+      },
+      {
+        "speaker": "Lina",
+        "speakerRole": "b",
+        "arabic": "يلّا خلّينا نروح نتغدّا سوا هالأسبوع. أنا بختار المطعم هالمرّة!",
+        "transliteration": "Yalla khallīna nrūḥ nitghadda sawa hal-usbūʕ. Ana bikhtar il-maṭʕam hal-marra!",
+        "english": "Come on, let's go have lunch together this week. I'm picking the restaurant this time!"
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-funny-story",
+    "phaseId": 3,
+    "title": "Telling a Funny Story",
+    "context": "A friend narrates something embarrassing that happened to them, using past tense. Storytelling is a huge part of Lebanese social gatherings.",
+    "lines": [
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "لازم إحكيلك شو صار معي مبارح. والله فضيحة!",
+        "transliteration": "Lāzim iḥkīlak shū ṣār maʕi mbāriḥ. Wallah faḍīḥa!",
+        "english": "I have to tell you what happened to me yesterday. Honestly, a disaster!"
+      },
+      {
+        "speaker": "Sami",
+        "speakerRole": "b",
+        "arabic": "شو صار؟ إحكيلي بسرعة!",
+        "transliteration": "Shū ṣār? Iḥkīli b-surʕa!",
+        "english": "What happened? Tell me quick!"
+      },
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "كنت بالسوبرماركت، وشفت واحد قلت هيدا صاحبي جورج. رحت ضربتو على كتفو وقلتلو كيفك يا حبيبي!",
+        "transliteration": "Kint bis-sūpermarkēt, w-shift wāḥad ʔilt hayda ṣāḥbi Jōrj. Riḥt ḍarabto ʕala katfo w-ʔiltillo kīfak yā ḥabībi!",
+        "english": "I was at the supermarket, and I saw someone I thought was my friend George. I went and slapped him on the shoulder and said 'how are you darling!'"
+      },
+      {
+        "speaker": "Sami",
+        "speakerRole": "b",
+        "arabic": "لأ! وطلع مش هوّي؟",
+        "transliteration": "Laʔ! W-ṭiliʕ mish huwwe?",
+        "english": "No! And it turned out it wasn't him?"
+      },
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "والله طلع زلمة غريب! طلّع فيّي وقلّي مدام أنا ما بعرفك. حسّيت حالي بدّي موت من الخجل!",
+        "transliteration": "Wallah ṭiliʕ zalame gharīb! Ṭallaʕ fiyyi w-ʔilli madām ana mā baʕrfik. Ḥassēt ḥāli biddi mūt min il-khajal!",
+        "english": "It turned out to be a total stranger! He looked at me and said 'ma'am, I don't know you.' I felt like I could die of embarrassment!"
+      },
+      {
+        "speaker": "Sami",
+        "speakerRole": "b",
+        "arabic": "هههههه يا حرام! والله شي يموّت من الضحك. شو عملتي بعدين؟",
+        "transliteration": "Hahahaha yā ḥarām! Wallah shi ymawwit min iḍ-ḍaḥk. Shū ʕmilti baʕdēn?",
+        "english": "Hahahaha poor you! That's hilarious. What did you do after?"
+      },
+      {
+        "speaker": "Nadia",
+        "speakerRole": "a",
+        "arabic": "ركضت يعني! تركت الغراض وطلعت من السوبرماركت. ما بقدر أرجع لهونيك!",
+        "transliteration": "Rkaḍit yaʕni! Tarakt il-ghrāḍ w-ṭliʕt min is-sūpermarkēt. Mā biʔdar irjaʕ la-hunīk!",
+        "english": "I ran! Left my stuff and walked out of the supermarket. I can't go back there!"
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-weekend-plans",
+    "phaseId": 3,
+    "title": "Making Weekend Plans",
+    "context": "Two friends trying to decide what to do over the weekend. Lebanese weekends often involve mountains, beach, or long family lunches.",
+    "lines": [
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "شو ناوي تعمل هالويكاند؟ في شي بالبال؟",
+        "transliteration": "Shū nāwi taʕmal hal-wīkānd? Fī shi bil-bāl?",
+        "english": "What are you planning to do this weekend? Got anything in mind?"
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "والله ما عندي شي. يعني ممكن نطلع عالجبل نتمشّى شوي. الطقس حلو.",
+        "transliteration": "Wallah mā ʕindi shi. Yaʕni mumkin niṭlaʕ ʕal-jabal nitmashsha shway. Iṭ-ṭaʔs ḥilu.",
+        "english": "Honestly I have nothing. I mean we could go up to the mountains for a walk. The weather is nice."
+      },
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "فكرة حلوة! وبعدين منوقّف عند هديك المحل اللي بيعملو منقوشة زعتر عالصاج.",
+        "transliteration": "Fikra ḥilwe! W-baʕdēn mnwaʔʔif ʕind hadīk il-maḥall illi byaʕmlo manʔūshet zaʕtar ʕaṣ-ṣāj.",
+        "english": "Nice idea! And then we stop at that place that makes zaatar manoushe on the saj."
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "آه جوعتني! بس يعني بتقدر تصحى بكّير السبت؟ بعرفك بتنام لبعد الضهر.",
+        "transliteration": "Āh jawwaʕtni! Bas yaʕni btiʔdar tiṣḥa bakkīr is-sabt? Baʕrfak bitnām la-baʕd iḍ-ḍuhur.",
+        "english": "Ah you're making me hungry! But can you actually wake up early on Saturday? I know you sleep till afternoon."
+      },
+      {
+        "speaker": "Karim",
+        "speakerRole": "a",
+        "arabic": "لأ هالمرّة غير. بحطّ عشر منبّهات إذا لازم. الساعة تمانة منيح؟",
+        "transliteration": "Laʔ hal-marra ghēr. Bḥuṭṭ ʕashir mnabbihāt iza lāzim. Is-sāʕa tmēne mnīḥ?",
+        "english": "No, this time is different. I'll set ten alarms if I have to. Is eight o'clock good?"
+      },
+      {
+        "speaker": "Maya",
+        "speakerRole": "b",
+        "arabic": "ماشي! يلّا بشوفك السبت. بس إذا تأخرت أنا رايحة بلاك.",
+        "transliteration": "Māshi! Yalla bshūfak is-sabt. Bas iza taʔakhkhart ana rāyḥa balāk.",
+        "english": "Deal! See you Saturday then. But if you're late I'm going without you."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-phone-mom",
+    "phaseId": 3,
+    "title": "Phone Conversation with Mom",
+    "context": "The classic Lebanese mom phone call — checking if you ate, when you're visiting, and guilt-tripping. A universally relatable experience.",
+    "lines": [
+      {
+        "speaker": "Mama",
+        "speakerRole": "a",
+        "arabic": "ألو حبيبي! وينك؟ ليش ما عم تردّ عالتلفون؟ قلقتني!",
+        "transliteration": "Alo ḥabībi! Wēnak? Lēsh mā ʕam trudd ʕat-talafōn? ʔalaʔtini!",
+        "english": "Hello darling! Where are you? Why aren't you answering the phone? You worried me!"
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "يا ماما كنت بالشغل! ما فيني إحكي كل ساعة.",
+        "transliteration": "Yā māma kint bish-shughl! Mā fīni iḥki kull sēʕa.",
+        "english": "Mom I was at work! I can't talk every hour."
+      },
+      {
+        "speaker": "Mama",
+        "speakerRole": "a",
+        "arabic": "ماشي ماشي. تغدّيت؟ أكيد ما أكلت شي. عم تنحف كتير.",
+        "transliteration": "Māshi māshi. Tghaddēt? Akīd mā akalt shi. ʕAm tinḥaf ktīr.",
+        "english": "Fine fine. Did you have lunch? I'm sure you didn't eat anything. You're getting too thin."
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "أكلت ماما، أكلت! ساندويش من الدكّان.",
+        "transliteration": "Akalt māma, akalt! Sandwīsh min id-dikkēn.",
+        "english": "I ate mom, I ate! A sandwich from the shop."
+      },
+      {
+        "speaker": "Mama",
+        "speakerRole": "a",
+        "arabic": "ساندويش؟ هيدا مش أكل! تعا عالبيت الأحد عم بعمل ملوخيّة وفرّوج مشوي. ومحشي كوسا كمان.",
+        "transliteration": "Sandwīsh? Hayda mish akl! Taʕa ʕal-bēt il-aḥad ʕam baʕmal mulūkhiyye w-farrūj mashwi. W-maḥshi kūsa kamēn.",
+        "english": "A sandwich? That's not food! Come home Sunday, I'm making molokhia and grilled chicken. And stuffed zucchini too."
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "إن شاء الله ماما. بحاول مرق بعد الضهر.",
+        "transliteration": "Inshallah māma. Bḥāwil murʔ baʕd iḍ-ḍuhur.",
+        "english": "God willing mom. I'll try to pass by in the afternoon."
+      },
+      {
+        "speaker": "Mama",
+        "speakerRole": "a",
+        "arabic": "شو يعني بتحاول؟ تعا وما تتأخّر! وجيب معك خبز من الفرن.",
+        "transliteration": "Shū yaʕni btḥāwil? Taʕa w-mā titʔakhkhar! W-jīb maʕak khubz min il-firin.",
+        "english": "What do you mean you'll try? Come and don't be late! And bring bread from the bakery."
+      },
+      {
+        "speaker": "Tarek",
+        "speakerRole": "b",
+        "arabic": "حاضر يا ماما. يلّا بحبّك. باي!",
+        "transliteration": "Ḥāḍir yā māma. Yalla bḥibbik. Bāy!",
+        "english": "Sure thing mom. Love you. Bye!"
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-tv-show",
+    "phaseId": 3,
+    "title": "Discussing a TV Show",
+    "context": "Two friends chatting about a Lebanese TV series they have been watching. Lebanese dramas and comedies are popular across the Arab world.",
+    "lines": [
+      {
+        "speaker": "Hiba",
+        "speakerRole": "a",
+        "arabic": "شفتي الحلقة الأخيرة من المسلسل مبارح بالليل؟",
+        "transliteration": "Shifti il-ḥalʔa il-akhīra min il-musalsal mbāriḥ bil-lēl?",
+        "english": "Did you watch the last episode of the series last night?"
+      },
+      {
+        "speaker": "Dalia",
+        "speakerRole": "b",
+        "arabic": "لأ لسا! ما تحكيلي شو صار، ما بدّي سبويلر!",
+        "transliteration": "Laʔ lissa! Mā tiḥkīli shū ṣār, mā biddi sboyler!",
+        "english": "Not yet! Don't tell me what happened, I don't want spoilers!"
+      },
+      {
+        "speaker": "Hiba",
+        "speakerRole": "a",
+        "arabic": "بس والله الحلقة كانت مجنونة! يعني ما توقّعت هالشي أبداً.",
+        "transliteration": "Bas wallah il-ḥalʔa kānit majnūne! Yaʕni mā twaqqaʕt hal-shi abadan.",
+        "english": "But honestly the episode was crazy! I mean I didn't expect that at all."
+      },
+      {
+        "speaker": "Dalia",
+        "speakerRole": "b",
+        "arabic": "خلص خلص! بشوفها الليلة. بس قلّيلي، التمثيل كان منيح؟",
+        "transliteration": "Khalaṣ khalaṣ! Bshūfha il-lēle. Bas ʔillīli, it-tamthīl kān mnīḥ?",
+        "english": "Stop stop! I'll watch it tonight. But tell me, was the acting good?"
+      },
+      {
+        "speaker": "Hiba",
+        "speakerRole": "a",
+        "arabic": "كتير! هيدي الممثّلة الجديدة والله شاطرة. بتحسّي إنّو حقيقي مش تمثيل.",
+        "transliteration": "Ktīr! Haydi il-mumaththile ij-jdīde wallah shāṭra. Btḥissi inno ḥaʔīʔi mish tamthīl.",
+        "english": "Very! That new actress is really talented. You feel like it's real, not acting."
+      },
+      {
+        "speaker": "Dalia",
+        "speakerRole": "b",
+        "arabic": "يلّا الليلة بحط البيجاما وبتفرّج. خبّريني بكرا منحكي عنها.",
+        "transliteration": "Yalla il-lēle bḥuṭṭ il-bījāma w-bitfarraj. Khabbriīni bukra minḥki ʕanha.",
+        "english": "Alright, tonight I'll put on my pajamas and watch. Text me tomorrow and we'll talk about it."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-at-wedding",
+    "phaseId": 3,
+    "title": "At a Wedding",
+    "context": "Socializing at a Lebanese wedding, which typically involves lavish food, dabke dancing, and lots of comments about who's next to get married.",
+    "lines": [
+      {
+        "speaker": "Rima",
+        "speakerRole": "a",
+        "arabic": "شو هالعرس الحلو! العروس كتير حلوة الله يسعدها.",
+        "transliteration": "Shū hal-ʕirs il-ḥilu! Il-ʕarūs ktīr ḥilwe alla yisʕidha.",
+        "english": "What a beautiful wedding! The bride is so pretty, God bless her."
+      },
+      {
+        "speaker": "Jad",
+        "speakerRole": "b",
+        "arabic": "إي والله. والأكل يا ريتك شايفة! مازات وكبّة ومشاوي ما بتخلص.",
+        "transliteration": "Ē wallah. Wil-akl yā rētak shēyfe! Mazzāt w-kibbe w-mashāwi mā btikhlaṣ.",
+        "english": "Absolutely. And the food, you should see! Mezze, kibbeh, and grills nonstop."
+      },
+      {
+        "speaker": "Rima",
+        "speakerRole": "a",
+        "arabic": "هلق بتجي خالتي تقلّي إمتى دورك يا ريما؟ كل عرس نفس القصّة.",
+        "transliteration": "Hallaʔ btiji khālti tiʔilli ēmta dawrak yā Rīma? Kull ʕirs nafs il-ʔiṣṣa.",
+        "english": "Now my aunt is going to come ask me 'when is your turn, Rima?' Same story at every wedding."
+      },
+      {
+        "speaker": "Jad",
+        "speakerRole": "b",
+        "arabic": "هههه قلّيلها إنشالله قريب وخلص الموضوع. يلّا تعي نرقص دبكة!",
+        "transliteration": "Hahaha ʔillīlha inshalla ʔarīb w-khalaṣ il-mawḍūʕ. Yalla taʕi nurʔuṣ dabke!",
+        "english": "Hahaha just tell her hopefully soon and end the conversation. Come on, let's dance dabke!"
+      },
+      {
+        "speaker": "Rima",
+        "speakerRole": "a",
+        "arabic": "يلّا! بس خلّيني إلبس صبّاطي المريح أوّل. مش رح إقدر أرقص بهالكعب.",
+        "transliteration": "Yalla! Bas khallīni ilbas ṣabbāṭi il-mrīḥ awwal. Mish raḥ iʔdar urʔuṣ b-hal-kaʕb.",
+        "english": "Let's go! But let me put on my comfortable shoes first. I can't dance in these heels."
+      },
+      {
+        "speaker": "Jad",
+        "speakerRole": "b",
+        "arabic": "وبعد الدبكة لازم ناخد صورة مع العريس والعروس. ما منرجع بلا صور!",
+        "transliteration": "W-baʕd id-dabke lāzim nēkhod ṣūra maʕ il-ʕarīs wil-ʕarūs. Mā mnirjaʕ bala ṣuwar!",
+        "english": "And after the dabke we have to take a photo with the bride and groom. We can't leave without photos!"
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-help-moving",
+    "phaseId": 3,
+    "title": "Asking for Help Moving",
+    "context": "Asking a close friend for help moving apartments. In Lebanon, friends and family are the first resort for moving help before hiring professionals.",
+    "lines": [
+      {
+        "speaker": "Omar",
+        "speakerRole": "a",
+        "arabic": "يا صاحبي بدّي أطلب منّك معروف كبير. بس ما تزعل.",
+        "transliteration": "Yā ṣāḥbi biddi uṭlub minnak maʕrūf kbīr. Bas mā tizʕal.",
+        "english": "My friend, I need to ask a big favor. But don't be upset."
+      },
+      {
+        "speaker": "Fadi",
+        "speakerRole": "b",
+        "arabic": "قول ما تستحي! شو في؟",
+        "transliteration": "ʔūl mā tistaḥi! Shū fī?",
+        "english": "Go ahead, don't be shy! What's up?"
+      },
+      {
+        "speaker": "Omar",
+        "speakerRole": "a",
+        "arabic": "عم بنقل بيت السبت الجاي. بتقدر تساعدني أشيل الغراض؟ عندي كنبايات وتخت كبير.",
+        "transliteration": "ʕAm binʔul bēt is-sabt ij-jēy. Btiʔdar tsēʕidni ashīl il-ghrāḍ? ʕIndi kanabāyēt w-takht kbīr.",
+        "english": "I'm moving apartments next Saturday. Can you help me carry stuff? I have couches and a big bed."
+      },
+      {
+        "speaker": "Fadi",
+        "speakerRole": "b",
+        "arabic": "ما في مشكلة أبداً! بس جيب معك شباب تانيين كمان، أنا ضهري ما بيتحمّل.",
+        "transliteration": "Mā fī mushkile abadan! Bas jīb maʕak shabāb tānyīn kamēn, ana ḍahri mā byitḥammal.",
+        "english": "No problem at all! But bring other guys too, my back can't handle it alone."
+      },
+      {
+        "speaker": "Omar",
+        "speakerRole": "a",
+        "arabic": "أكيد! طلبت من خالد وعلي كمان. وبعد ما نخلص بعزمكن عمنقوشة وبيرة.",
+        "transliteration": "Akīd! Ṭalabt min Khālid w-ʕAli kamēn. W-baʕd mā nkhaliṣ baʕzimkon ʕa-manʔūshe w-bīra.",
+        "english": "Sure! I asked Khaled and Ali too. And after we finish I'll treat you all to manoushe and beer."
+      },
+      {
+        "speaker": "Fadi",
+        "speakerRole": "b",
+        "arabic": "هلق حكيت! هيدي أحلى جملة سمعتها اليوم. بشوفك السبت الصبح.",
+        "transliteration": "Hallaʔ ḥkīt! Haydi aḥla jumle smiʕtha il-yōm. Bshūfak is-sabt iṣ-ṣubuḥ.",
+        "english": "Now you're talking! That's the best sentence I heard today. See you Saturday morning."
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-traffic",
+    "phaseId": 3,
+    "title": "Complaining About Traffic",
+    "context": "Beirut's traffic is legendary for its chaos. Complaining about it is practically a national pastime and a universal bonding experience.",
+    "lines": [
+      {
+        "speaker": "Tony",
+        "speakerRole": "a",
+        "arabic": "أخي قعدت ساعة ونص عالطريق من الأشرفية لحمرا. والله تجنّنت!",
+        "transliteration": "Akhi ʔaʕadit sēʕa w-nuṣṣ ʕaṭ-ṭarīʔ min il-Ashrafiyye la-Ḥamra. Wallah tjannant!",
+        "english": "Bro, I sat an hour and a half on the road from Ashrafieh to Hamra. I literally went crazy!"
+      },
+      {
+        "speaker": "Zeina",
+        "speakerRole": "b",
+        "arabic": "ولا تقلّي! أنا مبارح أخدت ساعتين عالأوتوستراد. كان في حادث وسكّروا الطريق.",
+        "transliteration": "Wala tʔilli! Ana mbāriḥ akhadt sēʕtēn ʕal-ōtōstrād. Kān fī ḥēdis w-sakkaro iṭ-ṭarīʔ.",
+        "english": "Don't even tell me! Yesterday it took me two hours on the highway. There was an accident and they closed the road."
+      },
+      {
+        "speaker": "Tony",
+        "speakerRole": "a",
+        "arabic": "والزمامير ما بتوقّف! واحد ورايي ضلّو يزمّر عشر دقايق. يعني وين بدّي روح؟",
+        "transliteration": "Wiz-zamāmīr mā btwaʔʔaf! Wāḥad warāyi ḍallo yzammir ʕashir daʔāyiʔ. Yaʕni wēn biddi rūḥ?",
+        "english": "And the honking never stops! Someone behind me kept honking for ten minutes. Where am I supposed to go?"
+      },
+      {
+        "speaker": "Zeina",
+        "speakerRole": "b",
+        "arabic": "هيك هنّي اللبنانيّة! بيفكرو الزمّور بيحلّ السير. والباركينغ، ما تحكيني!",
+        "transliteration": "Hēk hinne il-libnāniyye! Byifkiro iz-zammūr byiḥill is-sēr. Wil-bārkīng, mā taḥkīni!",
+        "english": "That's how Lebanese people are! They think honking solves traffic. And parking, don't get me started!"
+      },
+      {
+        "speaker": "Tony",
+        "speakerRole": "a",
+        "arabic": "صح! دوّرت نص ساعة عموقف. بالآخر ركنت بمحل ممنوع وأخدت مخالفة!",
+        "transliteration": "Ṣaḥḥ! Dawwart nuṣṣ sēʕa ʕa-mawʔaf. Bil-ākhir rkant b-maḥall mamnūʕ w-akhadt mukhālafe!",
+        "english": "Right! I circled for half an hour looking for parking. In the end I parked in a no-parking zone and got a ticket!"
+      },
+      {
+        "speaker": "Zeina",
+        "speakerRole": "b",
+        "arabic": "يلّا شو بدّنا نعمل. هيدي بيروت. لازم نتعوّد أو نفلّ من البلد!",
+        "transliteration": "Yalla shū biddna naʕmal. Haydi Bayrūt. Lāzim nitʕawwad aw nfill min il-balad!",
+        "english": "Well, what can we do. This is Beirut. We either get used to it or leave the country!"
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-birthday-party",
+    "phaseId": 3,
+    "title": "Planning a Birthday Party",
+    "context": "Two friends organizing a surprise birthday party. Lebanese celebrations are known for going all out with food, decorations, and gatherings.",
+    "lines": [
+      {
+        "speaker": "Sara",
+        "speakerRole": "a",
+        "arabic": "هلق عيد ميلاد ريما الأسبوع الجاي. لازم نعملّها سوربرايز!",
+        "transliteration": "Hallaʔ ʕīd mīlēd Rīma il-usbūʕ ij-jēy. Lāzim naʕmillha sorbrayze!",
+        "english": "So Rima's birthday is next week. We have to throw her a surprise!"
+      },
+      {
+        "speaker": "Ali",
+        "speakerRole": "b",
+        "arabic": "فكرة حلوة! وين بدّنا نعملها؟ ببيتي في محل.",
+        "transliteration": "Fikra ḥilwe! Wēn biddna naʕmilha? B-bēti fī maḥall.",
+        "english": "Great idea! Where should we do it? My place has room."
+      },
+      {
+        "speaker": "Sara",
+        "speakerRole": "a",
+        "arabic": "تمام! أنا بجيب الكاتو والبالونات. إنت شوف مين بيقدر يجي.",
+        "transliteration": "Tamām! Ana bjīb il-kāto wil-bālōnāt. Inta shūf mīn byiʔdar yīji.",
+        "english": "Perfect! I'll bring the cake and balloons. You figure out who can come."
+      },
+      {
+        "speaker": "Ali",
+        "speakerRole": "b",
+        "arabic": "ماشي. بعملّها غروب عالواتساب بس من دونها. المهم ما حدا يفضحنا!",
+        "transliteration": "Māshi. Baʕmillha grūb ʕal-wātsāb bas min dūnha. Il-muhimm mā ḥada yifḍaḥna!",
+        "english": "Got it. I'll make a WhatsApp group without her. The important thing is nobody gives it away!"
+      },
+      {
+        "speaker": "Sara",
+        "speakerRole": "a",
+        "arabic": "بالزبط! وبدّنا أكل كمان. بطلب بيتزا ومنقوشة. وأنت جيب المشروبات.",
+        "transliteration": "Biz-zabṭ! W-biddna akl kamēn. Buṭlub bītza w-manʔūshe. W-inta jīb il-mashrūbāt.",
+        "english": "Exactly! And we need food too. I'll order pizza and manoushe. And you bring the drinks."
+      },
+      {
+        "speaker": "Ali",
+        "speakerRole": "b",
+        "arabic": "وكيف بدّنا نجيبها عالبيت بلا ما تشكّ؟",
+        "transliteration": "W-kīf biddna njībha ʕal-bēt bala mā tshikk?",
+        "english": "And how are we going to get her to the house without her getting suspicious?"
+      },
+      {
+        "speaker": "Sara",
+        "speakerRole": "a",
+        "arabic": "بقلّها تعي نتغدّا سوا. وهيي لما بتوصل بنقلّها سوربرايز! بتموت من الفرحة.",
+        "transliteration": "Bʔillha taʕi nitghadda sawa. W-hiyye lamma btwṣal bniʔillha sorbrayze! Btmūt min il-farḥa.",
+        "english": "I'll tell her come let's have lunch together. And when she arrives we yell surprise! She'll die of happiness."
+      },
+      {
+        "speaker": "Ali",
+        "speakerRole": "b",
+        "arabic": "يلّا خلص اتّفقنا. بلّشنا نحضّر من بكرا!",
+        "transliteration": "Yalla khalaṣ ittafaʔna. Ballashna nḥaḍḍir min bukra!",
+        "english": "Alright, it's a plan. Let's start preparing tomorrow!"
+      }
+    ]
+  },
+  {
+    "id": "p3-dialogue-weather",
+    "phaseId": 3,
+    "title": "Talking About the Weather",
+    "context": "Discussing seasonal weather in Lebanon, where you can ski in the mountains and swim at the beach on the same day. Weather often determines weekend plans.",
+    "lines": [
+      {
+        "speaker": "Nour",
+        "speakerRole": "a",
+        "arabic": "شو هالبرد اليوم! يعني مش طبيعي. حاسّة حالي بالثلّاجة.",
+        "transliteration": "Shū hal-bard il-yōm! Yaʕni mish ṭabīʕi. Ḥēsse ḥāli bit-tallēje.",
+        "english": "It's so cold today! I mean, this isn't normal. I feel like I'm in a fridge."
+      },
+      {
+        "speaker": "Wael",
+        "speakerRole": "b",
+        "arabic": "إي هلق بنص كانون! شو بدّك؟ بكرا في تلج عالجبل.",
+        "transliteration": "Ē hallaʔ b-nuṣṣ Kānūn! Shū biddik? Bukra fī talj ʕal-jabal.",
+        "english": "Well yeah, it's the middle of January! What do you expect? Tomorrow there's snow in the mountains."
+      },
+      {
+        "speaker": "Nour",
+        "speakerRole": "a",
+        "arabic": "والله؟ يلّا نروح نتزلّج! من زمان ما رحنا عالأرز.",
+        "transliteration": "Wallah? Yalla nrūḥ nitzallaj! Min zamān mā ruḥna ʕal-Arz.",
+        "english": "Really? Let's go skiing! It's been a while since we went to the Cedars."
+      },
+      {
+        "speaker": "Wael",
+        "speakerRole": "b",
+        "arabic": "بس الطريق بتخوّف بالتلج. لازم سلاسل عالدواليب.",
+        "transliteration": "Bas iṭ-ṭarīʔ btkhawwif bit-talj. Lāzim salāsil ʕad-dawālīb.",
+        "english": "But the road is scary in the snow. You need chains on the tires."
+      },
+      {
+        "speaker": "Nour",
+        "speakerRole": "a",
+        "arabic": "ما تقلق أنا بسوق. وبعد التزلّج منشرب سحلب ساخن عند المحل هونيك.",
+        "transliteration": "Mā tiʔlaʔ ana bsūʔ. W-baʕd it-tazalluj minshrab saḥlab sākhin ʕind il-maḥall hunīk.",
+        "english": "Don't worry, I'll drive. And after skiing we'll have hot sahlab at that shop there."
+      },
+      {
+        "speaker": "Wael",
+        "speakerRole": "b",
+        "arabic": "ماشي! وبالربيع بنروح عالبحر. هيدا أحلى شي بلبنان — تلج وبحر بنفس البلد!",
+        "transliteration": "Māshi! W-bir-rabīʕ bnirūḥ ʕal-baḥr. Hayda aḥla shi b-Lubnān — talj w-baḥr b-nafs il-balad!",
+        "english": "Deal! And in spring we'll go to the beach. That's the best thing about Lebanon — snow and sea in the same country!"
+      }
+    ]
+  }
+]

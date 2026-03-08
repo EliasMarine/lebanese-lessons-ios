@@ -1,0 +1,64 @@
+[
+  {
+    "id": "p1-culture-loanwords",
+    "phaseId": 1,
+    "title": "French & English Loanwords in Daily Speech",
+    "content": "Lebanese Arabic naturally incorporates French and English words in daily speech. This is a unique cultural feature, not a sign of poor Arabic.",
+    "items": [
+      {
+        "label": "Merci ktīr",
+        "value": "Thank you very much",
+        "origin": "French merci + Arabic"
+      },
+      {
+        "label": "Bonjour / Bonsoir",
+        "value": "Good morning / evening",
+        "origin": "French — very common"
+      },
+      {
+        "label": "Mōbīl",
+        "value": "Cell phone",
+        "origin": "English \"mobile\""
+      },
+      {
+        "label": "Yaʕni",
+        "value": "I mean / like / so…",
+        "origin": "Arabic filler, ubiquitous"
+      },
+      {
+        "label": "Hayde / hayda",
+        "value": "This one (f./m.)",
+        "origin": "Very Lebanese deixis"
+      },
+      {
+        "label": "Wālaw",
+        "value": "No way / wow",
+        "origin": "Lebanese exclamation"
+      }
+    ]
+  },
+  {
+    "id": "p1-culture-social-customs",
+    "phaseId": 1,
+    "title": "Social Customs That Shape Language",
+    "content": "Lebanese culture has deep social customs embedded in everyday language. Understanding these is essential to speaking naturally.",
+    "items": [
+      {
+        "label": "Hospitality phrases are non-negotiable",
+        "value": "Phrases like تفضل, يسلمو, and عا رأسي are social glue. Refusing food must be done gently and repeatedly before it's accepted."
+      },
+      {
+        "label": "Inshallah has registers",
+        "value": "Genuine hope, polite deflection, or \"absolutely not\" — context and tone are everything."
+      },
+      {
+        "label": "Compliment ritual",
+        "value": "When someone compliments something you own, respond: هو إلك (huwwe ilak) — \"it's yours!\" A ritualistic offer you don't mean literally, but must say."
+      },
+      {
+        "label": "الله يرحمو (allah yirḥamu)",
+        "value": "\"May God have mercy on him/her\" — said whenever a deceased person is mentioned. Never skip this."
+      }
+    ]
+  }
+]

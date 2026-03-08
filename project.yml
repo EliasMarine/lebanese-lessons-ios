@@ -2,7 +2,7 @@ name: LebaneseLearn
 options:
   bundleIdPrefix: com.arabicisbeautiful
   deploymentTarget:
-    iOS: "17.0"
+    iOS: "26.0"
   generateEmptyDirectories: true
   groupSortPosition: top
 
@@ -19,7 +19,19 @@ targets:
     type: application
     platform: iOS
     sources:
-      - LebaneseLearn
+      - path: LebaneseLearn
+        excludes:
+          - Resources/Content
+      - path: LebaneseLearn/Resources/Content
+        type: folder
+        buildPhase: resources
+    entitlements:
+      path: LebaneseLearn/App/LebaneseLearn.entitlements
+      properties:
+        com.apple.developer.icloud-container-identifiers:
+          - iCloud.com.arabicisbeautiful.app
+        com.apple.developer.icloud-services:
+          - CloudKit
     settings:
       base:
         INFOPLIST_FILE: LebaneseLearn/App/Info.plist

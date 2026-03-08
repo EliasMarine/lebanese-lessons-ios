@@ -1,0 +1,259 @@
+[
+  {
+    "id": "p2-dialogue-phone-opening",
+    "phaseId": 2,
+    "title": "Phone Call — Opening",
+    "context": "Starting a phone call with a family member to practice Arabic.",
+    "lines": [
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "ألو! مرحبا!",
+        "transliteration": "Alo! Marḥaba!",
+        "english": "Hello!"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "كيفك؟ شو أخبارك؟",
+        "transliteration": "Kīfak? Shū akhbārak?",
+        "english": "How are you? What's your news?"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "اشتقتلك كتير",
+        "transliteration": "Ishtaʔtillak ktīr",
+        "english": "I miss you a lot"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "عم بتمرن عالعربي",
+        "transliteration": "ʕam btammarran ʕal-ʕarabi",
+        "english": "I'm practicing Arabic"
+      }
+    ]
+  },
+  {
+    "id": "p2-dialogue-phone-questions",
+    "phaseId": 2,
+    "title": "Phone Call — Questions to Keep Them Talking",
+    "context": "Keeping the conversation going by asking engaging questions.",
+    "lines": [
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "شو عملت اليوم؟",
+        "transliteration": "Shū ʕmalt il-yōm?",
+        "english": "What did you do today?"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "كيف الأهل كلن؟",
+        "transliteration": "Kīf il-ahl kullon?",
+        "english": "How is everyone?"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "شو أكلتو؟",
+        "transliteration": "Shū akaltū?",
+        "english": "What did you eat?"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "كيف الأحوال بلبنان؟",
+        "transliteration": "Kīf il-aḥwāl b-Lubnān?",
+        "english": "How are things in Lebanon?"
+      }
+    ]
+  },
+  {
+    "id": "p2-dialogue-phone-survival",
+    "phaseId": 2,
+    "title": "Phone Call — Survival Phrases When Stuck",
+    "context": "Phrases to use when you get stuck during conversation.",
+    "lines": [
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "ما فهمت",
+        "transliteration": "Mā fhimt",
+        "english": "I didn't understand"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "ممكن تعيد؟",
+        "transliteration": "Mumkin tʕīd?",
+        "english": "Can you repeat?"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "بالهدو أكتر",
+        "transliteration": "Bil-hada aktar",
+        "english": "More slowly please"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "لسا عم بتعلم!",
+        "transliteration": "Lissa ʕam btaʕallam!",
+        "english": "I'm still learning!"
+      },
+      {
+        "speaker": "You",
+        "speakerRole": "a",
+        "arabic": "استنى، خلني فكر",
+        "transliteration": "Istanna, khallīni fakker",
+        "english": "Wait, let me think"
+      }
+    ]
+  },
+  {
+    "id": "p2-dialogue-weekend-plans",
+    "phaseId": 2,
+    "title": "Making Plans for the Weekend",
+    "context": "Two friends deciding what to do over the weekend.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "شو بدك تعمل هالويكند؟ في شي ببالك؟",
+        "transliteration": "Shū baddak taʕmal hal-weekend? Fī shi b-bālak?",
+        "english": "What do you want to do this weekend? Anything in mind?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "والله ما عندي شي. شو رأيك نطلع على البحر؟",
+        "transliteration": "Wallah mā ʕindī shi. Shū raʔyak nuṭlaʕ ʕal-baḥr?",
+        "english": "Honestly I have nothing. What do you think, shall we go to the beach?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "البحر؟ بعد الجو بارد شوي. شو رأيك نروح على مطعم أحسن؟",
+        "transliteration": "Il-baḥr? Baʕd ij-jaww bārid shwayy. Shū raʔyak nrūḥ ʕala maṭʕam aḥsan?",
+        "english": "The beach? The weather is still a bit cold. How about we go to a restaurant instead?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "فكرة حلوة! بتعرف محل جديد فتح بالجميزة؟ كلن عم يحكو عنو.",
+        "transliteration": "Fikra ḥilwe! Btaʕrif maḥall jdīd fataḥ bil-Jmayze? Kullon ʕam yiḥko ʕanno.",
+        "english": "Nice idea! You know a new place opened in Gemmayzeh? Everyone is talking about it."
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "آه سمعت فيه! يلا خلص منروح. أي ساعة منلتقى؟",
+        "transliteration": "Āh smiʕt fī! Yalla khalaṣ mnrūḥ. Ayy sāʕa mniltiʔī?",
+        "english": "Yeah I heard of it! Let's go then. What time shall we meet?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "شو رأيك الساعة سبعة ونص المسا؟",
+        "transliteration": "Shū raʔyak is-sāʕa sabʕa w-nuṣṣ il-masa?",
+        "english": "How about 7:30 in the evening?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "تمام. بابعتلك الموقع عالواتساب. بدك أحجز أولا؟",
+        "transliteration": "Tamām. Ba-bʕatlak il-mawqiʕ ʕal-WhatsApp. Baddak aḥjiz awwalan?",
+        "english": "Perfect. I'll send you the location on WhatsApp. Want me to reserve first?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "إي أحسن إحجز. السبت بيكون في عالم كتير. يلا بشوفك!",
+        "transliteration": "Ē aḥsan iḥjiz. Is-sabt byikūn fī ʕālam ktīr. Yalla bshūfak!",
+        "english": "Yes better reserve. Saturday will be crowded. Alright, see you!"
+      }
+    ]
+  },
+  {
+    "id": "p2-dialogue-grocery-store",
+    "phaseId": 2,
+    "title": "At the Grocery Store",
+    "context": "Shopping at a local grocery store, asking about items and prices.",
+    "lines": [
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "مرحبا، عندك بندورة طازجة اليوم؟",
+        "transliteration": "Marḥaba, ʕindak banadura ṭāzje il-yōm?",
+        "english": "Hello, do you have fresh tomatoes today?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا! إي عندنا بندورة كتير حلوة. بدك كيلو ولا أكتر؟",
+        "transliteration": "Ahla! Ē ʕinna banadura ktīr ḥilwe. Baddak kīlo walla aktar?",
+        "english": "Hello! Yes we have really nice tomatoes. Want a kilo or more?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "أعطيني كيلوين بندورة ونص كيلو خيار. قديش حقن؟",
+        "transliteration": "Aʕṭīni kīlowēn banadura w-nuṣṣ kīlo khyār. ʔAddēsh ḥaʔʔon?",
+        "english": "Give me two kilos of tomatoes and half a kilo of cucumbers. How much are they?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "البندورة بخمسين ألف الكيلو والخيار بأربعين. بدك شي تاني؟",
+        "transliteration": "Il-banadura b-khamsīn alf il-kīlo wil-khyār b-arbaʕīn. Baddak shi tāni?",
+        "english": "Tomatoes are 50 thousand per kilo and cucumbers are 40. Need anything else?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "إي، وين الخبز العربي؟ وبدي كمان لبنة.",
+        "transliteration": "Ē, wēn il-khubz il-ʕarabi? W-baddī kamān labne.",
+        "english": "Yes, where is the Arabic bread? And I also need labneh."
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "الخبز عالآخر عاليمين واللبنة بالبراد. بدك اللبنة الكبيرة ولا الزغيرة؟",
+        "transliteration": "Il-khubz ʕal-ākhir ʕal-yamīn wil-labne bil-barrād. Baddak il-labne il-kbīre walla iz-zghīre?",
+        "english": "The bread is at the back on the right and the labneh is in the fridge. Want the big or small labneh?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "الكبيرة أحسن. قديش الكل سوا؟",
+        "transliteration": "Il-kbīre aḥsan. ʔAddēsh il-kull sawa?",
+        "english": "The big one is better. How much is everything together?"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "الكل ميتين وعشرين ألف. بدك كيس؟",
+        "transliteration": "Il-kull mītēn w-ʕishrīn alf. Baddak kīs?",
+        "english": "Everything is 220 thousand. Do you want a bag?"
+      },
+      {
+        "speaker": "A",
+        "speakerRole": "a",
+        "arabic": "إي لو سمحت. تفضل. يسلمو!",
+        "transliteration": "Ē law samaḥt. Tafaḍḍal. Yislamu!",
+        "english": "Yes please. Here you go. Thanks!"
+      },
+      {
+        "speaker": "B",
+        "speakerRole": "b",
+        "arabic": "أهلا فيك! نوّرت.",
+        "transliteration": "Ahla fīk! Nawwart.",
+        "english": "You're welcome! You honored us."
+      }
+    ]
+  }
+]

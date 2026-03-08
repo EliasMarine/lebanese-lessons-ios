@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p3-shadow-1a",
+    "arabic": "بْرَأيي، هالمَطعَم أحسَن مَطعَم بالمنطَقة.",
+    "transliteration": "B-raʔyī, hal-maṭʕam aḥsan maṭʕam bil-manṭaʔa.",
+    "english": "In my opinion, this restaurant is the best in the area.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-1b",
+    "arabic": "مش ضَروري نِتِّفِق عَ كِلشي، بَس لازِم نِحتِرِم بَعض.",
+    "transliteration": "Mish ḍarūri nittifiq ʕa kilshi, bas lāzim niḥtirim baʕḍ.",
+    "english": "We don't have to agree on everything, but we need to respect each other.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-1c",
+    "arabic": "أنا هيك بْفَكِّر، بَس ممكِن كون غَلطان.",
+    "transliteration": "Ana hēk bfakkir, bas mumkin kūn ghalṭān.",
+    "english": "That's what I think, but I could be wrong.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-2a",
+    "arabic": "مبارِح صار معي شي كتير مُضحِك، خَلّيني خَبِّرَك.",
+    "transliteration": "Mbāriḥ ṣār maʕī shi ktīr muḍḥik, khallīni khabbirak.",
+    "english": "Yesterday something really funny happened to me, let me tell you.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-2b",
+    "arabic": "وبَعدين تِصَوَّرو شو صار؟ ضَهَرَت إمّو مِن وَرا الباب!",
+    "transliteration": "W-baʕdēn tiṣawwaru shū ṣār? Ḍahharit immo min wara il-bāb!",
+    "english": "And then guess what happened? His mom appeared from behind the door!",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-3a",
+    "arabic": "شو رَأيَك نِطلَع عَ عَشا هالسَبت؟ في مَحَل جديد فَتَح بالجِمّيزة.",
+    "transliteration": "Shū raʔyak niṭlaʕ ʕa ʕasha has-sabt? Fī maḥall jdīd fataḥ bil-Jmēze.",
+    "english": "What do you think about going out to dinner this Saturday? A new place opened in Gemmayze.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-3b",
+    "arabic": "خَلّيني شوف إذا في وَقت وبِرِدّ عليك بُكرا.",
+    "transliteration": "Khallīni shūf iza fī waʔt w-bridd ʕalēk bukra.",
+    "english": "Let me see if there's time and I'll get back to you tomorrow.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-4a",
+    "arabic": "آلو؟ مين عم يِحكي؟ عَ مين بَدَّك تِحكي؟",
+    "transliteration": "Ālo? Mīn ʕam yiḥki? ʕA mīn baddak tiḥki?",
+    "english": "Hello? Who is speaking? Who do you want to talk to?",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-4b",
+    "arabic": "مَعلِش، بَعتِلّي رِسالة عَ الواتساب أحسَن.",
+    "transliteration": "Maʕlish, baʕtilli risāle ʕal-WhatsApp aḥsan.",
+    "english": "It's fine, send me a message on WhatsApp instead.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  },
+  {
+    "id": "p3-shadow-4c",
+    "arabic": "بَدّي قَطِع هَلَّق، عم يِتصِلّو فيّي مِن الشُّغُل.",
+    "transliteration": "Baddī ʔaṭṭiʕ hallaʔ, ʕam yittaṣṣalu fiyyī min ish-shughl.",
+    "english": "I need to hang up now, they're calling me from work.",
+    "steps": ["Read", "Aloud", "Recorded", "x5"]
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "id": "p1-verb-kan",
+    "phaseId": 1,
+    "verb": "ken",
+    "verbArabic": "كان",
+    "meaning": "to be",
+    "pastTense": {
+      "ana": "kint",
+      "enta": "kint",
+      "ente": "kinte",
+      "huwwe": "ken",
+      "hiyye": "kenit",
+      "ne7na": "kinna",
+      "ento": "kinto",
+      "henne": "keno"
+    },
+    "presentTense": {
+      "ana": "bkun",
+      "enta": "btkun",
+      "ente": "btkune",
+      "huwwe": "bykun",
+      "hiyye": "btkun",
+      "ne7na": "mnkun",
+      "ento": "btkuno",
+      "henne": "bykuno"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "كِنْت بِالبَيْت مْبَارِح",
+        "transliteration": "kint bi-l-beyt mberih",
+        "english": "I was at home yesterday."
+      },
+      {
+        "arabic": "كِنَّا عَمْ نَاكُل لَمَّا إجَا",
+        "transliteration": "kinna 3am nekol lamma eja",
+        "english": "We were eating when he came."
+      },
+      {
+        "arabic": "كَانِت تِلْمِيذِة مْنِيحَة",
+        "transliteration": "kenit tilmize mni7a",
+        "english": "She was a good student."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-baddo",
+    "phaseId": 1,
+    "verb": "baddo",
+    "verbArabic": "بدّو",
+    "meaning": "to want",
+    "pastTense": {
+      "ana": "ken badde",
+      "enta": "ken baddak",
+      "ente": "ken baddik",
+      "huwwe": "ken baddo",
+      "hiyye": "kenit badda",
+      "ne7na": "kinna baddna",
+      "ento": "kinto baddkon",
+      "henne": "keno baddon"
+    },
+    "presentTense": {
+      "ana": "badde",
+      "enta": "baddak",
+      "ente": "baddik",
+      "huwwe": "baddo",
+      "hiyye": "badda",
+      "ne7na": "baddna",
+      "ento": "baddkon",
+      "henne": "baddon"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "بَدِّي رُوحْ عَالبَيْت",
+        "transliteration": "badde ru7 3a-l-beyt",
+        "english": "I want to go home."
+      },
+      {
+        "arabic": "شُو بَدَّك تَاكُل؟",
+        "transliteration": "shu baddak tekol?",
+        "english": "What do you want to eat?"
+      },
+      {
+        "arabic": "بَدْنَا نِتْعَلَّم عَرَبِي",
+        "transliteration": "baddna nit3allam 3arabe",
+        "english": "We want to learn Arabic."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-ra7",
+    "phaseId": 1,
+    "verb": "ra7",
+    "verbArabic": "راح",
+    "meaning": "to go",
+    "pastTense": {
+      "ana": "ru7t",
+      "enta": "ru7t",
+      "ente": "ru7te",
+      "huwwe": "ra7",
+      "hiyye": "ra7it",
+      "ne7na": "ru7na",
+      "ento": "ru7to",
+      "henne": "ra7o"
+    },
+    "presentTense": {
+      "ana": "bru7",
+      "enta": "btru7",
+      "ente": "btru7e",
+      "huwwe": "byru7",
+      "hiyye": "btru7",
+      "ne7na": "mnru7",
+      "ento": "btru7o",
+      "henne": "byru7o"
+    },
+    "imperative": {
+      "singular_m": "ru7",
+      "singular_f": "ru7e",
+      "plural": "ru7o"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "رُحْت عَالسُّوق الصُّبْح",
+        "transliteration": "ru7t 3a-s-su2 l-sub7",
+        "english": "I went to the market this morning."
+      },
+      {
+        "arabic": "وَيْن بْتْرُوحْ كِل يَوْم؟",
+        "transliteration": "weyn btru7 kil yawm?",
+        "english": "Where do you go every day?"
+      },
+      {
+        "arabic": "رُوحْ جِيبْلِي مَي",
+        "transliteration": "ru7 jiblé may",
+        "english": "Go get me water."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-eja",
+    "phaseId": 1,
+    "verb": "eja",
+    "verbArabic": "إجا",
+    "meaning": "to come",
+    "pastTense": {
+      "ana": "jit",
+      "enta": "jit",
+      "ente": "jite",
+      "huwwe": "eja",
+      "hiyye": "ejit",
+      "ne7na": "jina",
+      "ento": "jito",
+      "henne": "ejo"
+    },
+    "presentTense": {
+      "ana": "bije",
+      "enta": "btije",
+      "ente": "btije",
+      "huwwe": "byije",
+      "hiyye": "btije",
+      "ne7na": "mnije",
+      "ento": "btijo",
+      "henne": "byijo"
+    },
+    "imperative": {
+      "singular_m": "ta3a",
+      "singular_f": "ta3e",
+      "plural": "ta3o"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "إمْتَا جِيت عَلْبَيْت؟",
+        "transliteration": "emta jit 3a-l-beyt?",
+        "english": "When did you come home?"
+      },
+      {
+        "arabic": "تَعَا هَوْن!",
+        "transliteration": "ta3a hawn!",
+        "english": "Come here!"
+      },
+      {
+        "arabic": "هِيِّي مَا إجِت اليَوْم",
+        "transliteration": "hiyye ma ejit l-yawm",
+        "english": "She didn't come today."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-akal",
+    "phaseId": 1,
+    "verb": "akal",
+    "verbArabic": "أكل",
+    "meaning": "to eat",
+    "pastTense": {
+      "ana": "akalt",
+      "enta": "akalt",
+      "ente": "akalte",
+      "huwwe": "akal",
+      "hiyye": "akalit",
+      "ne7na": "akalna",
+      "ento": "akalto",
+      "henne": "akalo"
+    },
+    "presentTense": {
+      "ana": "bekol",
+      "enta": "btekol",
+      "ente": "btekle",
+      "huwwe": "byekol",
+      "hiyye": "btekol",
+      "ne7na": "mnekol",
+      "ento": "bteklo",
+      "henne": "byeklo"
+    },
+    "imperative": {
+      "singular_m": "kol",
+      "singular_f": "kele",
+      "plural": "kelo"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "أَكَلْت مَنُوشِة عَالصُّبِح",
+        "transliteration": "akalt manushe 3a-l-sub7",
+        "english": "I ate a manoushe in the morning."
+      },
+      {
+        "arabic": "شُو بْتَاكُل عَالغَدَا؟",
+        "transliteration": "shu btekol 3a-l-ghada?",
+        "english": "What are you eating for lunch?"
+      },
+      {
+        "arabic": "كُول! الأَكِل طَيِّب",
+        "transliteration": "kol! l-akel tayyib",
+        "english": "Eat! The food is delicious."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-shirib",
+    "phaseId": 1,
+    "verb": "shirib",
+    "verbArabic": "شرب",
+    "meaning": "to drink",
+    "pastTense": {
+      "ana": "shribt",
+      "enta": "shribt",
+      "ente": "shribte",
+      "huwwe": "shirib",
+      "hiyye": "shirbit",
+      "ne7na": "shribna",
+      "ento": "shribto",
+      "henne": "shirbo"
+    },
+    "presentTense": {
+      "ana": "beshrab",
+      "enta": "bteshrab",
+      "ente": "bteshrabe",
+      "huwwe": "byeshrab",
+      "hiyye": "bteshrab",
+      "ne7na": "mneshrab",
+      "ento": "bteshrabo",
+      "henne": "byeshrabo"
+    },
+    "imperative": {
+      "singular_m": "shrab",
+      "singular_f": "shrabe",
+      "plural": "shrabo"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "شْرِبْت أَهْوِة الصُّبِح",
+        "transliteration": "shribt ahwe l-sub7",
+        "english": "I drank coffee this morning."
+      },
+      {
+        "arabic": "بْتِشْرَب شَاي وَلَّا أَهْوِة؟",
+        "transliteration": "bteshrab shay walla ahwe?",
+        "english": "Do you drink tea or coffee?"
+      },
+      {
+        "arabic": "شْرَب مَي، الدِّنْيِي حَرّ",
+        "transliteration": "shrab may, l-dinye 7arr",
+        "english": "Drink water, it's hot out."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-7aka",
+    "phaseId": 1,
+    "verb": "7aka",
+    "verbArabic": "حكى",
+    "meaning": "to speak / to talk",
+    "pastTense": {
+      "ana": "7kit",
+      "enta": "7kit",
+      "ente": "7kite",
+      "huwwe": "7aka",
+      "hiyye": "7akit",
+      "ne7na": "7kina",
+      "ento": "7kito",
+      "henne": "7ako"
+    },
+    "presentTense": {
+      "ana": "be7ke",
+      "enta": "bte7ke",
+      "ente": "bte7ke",
+      "huwwe": "bye7ke",
+      "hiyye": "bte7ke",
+      "ne7na": "mne7ke",
+      "ento": "bte7ko",
+      "henne": "bye7ko"
+    },
+    "imperative": {
+      "singular_m": "e7ke",
+      "singular_f": "e7ke",
+      "plural": "e7ko"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "حْكِيت مَعُو مْبَارِح",
+        "transliteration": "7kit ma3o mberih",
+        "english": "I talked with him yesterday."
+      },
+      {
+        "arabic": "بْتِحْكِي عَرَبِي؟",
+        "transliteration": "bte7ke 3arabe?",
+        "english": "Do you speak Arabic?"
+      },
+      {
+        "arabic": "إحْكِي أَبْطَا، مَا فْهِمِت",
+        "transliteration": "e7ke abta2, ma fhimit",
+        "english": "Speak slower, I didn't understand."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-3erif",
+    "phaseId": 1,
+    "verb": "3erif",
+    "verbArabic": "عرف",
+    "meaning": "to know",
+    "pastTense": {
+      "ana": "3rift",
+      "enta": "3rift",
+      "ente": "3rifte",
+      "huwwe": "3irif",
+      "hiyye": "3irfit",
+      "ne7na": "3rifna",
+      "ento": "3rifto",
+      "henne": "3irfo"
+    },
+    "presentTense": {
+      "ana": "ba3rif",
+      "enta": "bta3rif",
+      "ente": "bta3rfe",
+      "huwwe": "bya3rif",
+      "hiyye": "bta3rif",
+      "ne7na": "mna3rif",
+      "ento": "bta3rfo",
+      "henne": "bya3rfo"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "بَعْرِف وَيْن سَاكِن",
+        "transliteration": "ba3rif weyn sekin",
+        "english": "I know where he lives."
+      },
+      {
+        "arabic": "مَا بَعْرِف شُو صَار",
+        "transliteration": "ma ba3rif shu sar",
+        "english": "I don't know what happened."
+      },
+      {
+        "arabic": "بْتَعْرِف هَالزَّلَمِة؟",
+        "transliteration": "bta3rif ha-l-zalame?",
+        "english": "Do you know this man?"
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-shef",
+    "phaseId": 1,
+    "verb": "shef",
+    "verbArabic": "شاف",
+    "meaning": "to see",
+    "pastTense": {
+      "ana": "shift",
+      "enta": "shift",
+      "ente": "shifte",
+      "huwwe": "shef",
+      "hiyye": "shefit",
+      "ne7na": "shifna",
+      "ento": "shifto",
+      "henne": "shefo"
+    },
+    "presentTense": {
+      "ana": "bshuf",
+      "enta": "btshuf",
+      "ente": "btshufe",
+      "huwwe": "byshuf",
+      "hiyye": "btshuf",
+      "ne7na": "mnshuf",
+      "ento": "btshufo",
+      "henne": "byshufo"
+    },
+    "imperative": {
+      "singular_m": "shuf",
+      "singular_f": "shufe",
+      "plural": "shufo"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "شِفْت الفِيلِم الجْدِيد؟",
+        "transliteration": "shift l-film l-jdid?",
+        "english": "Did you see the new movie?"
+      },
+      {
+        "arabic": "شُوف هَالمَنْظَر، أَدَّيْش حِلْو!",
+        "transliteration": "shuf ha-l-manzar, addeish 7ilu!",
+        "english": "Look at this view, how beautiful!"
+      },
+      {
+        "arabic": "مَا شِفْنَا حَدَا بِالشَّارِع",
+        "transliteration": "ma shifna 7ada bi-l-sheri3",
+        "english": "We didn't see anyone on the street."
+      }
+    ]
+  },
+  {
+    "id": "p1-verb-seme3",
+    "phaseId": 1,
+    "verb": "seme3",
+    "verbArabic": "سمع",
+    "meaning": "to hear",
+    "pastTense": {
+      "ana": "sme3t",
+      "enta": "sme3t",
+      "ente": "sme3te",
+      "huwwe": "seme3",
+      "hiyye": "sem3it",
+      "ne7na": "sme3na",
+      "ento": "sme3to",
+      "henne": "sem3o"
+    },
+    "presentTense": {
+      "ana": "besma3",
+      "enta": "btesma3",
+      "ente": "btesma3e",
+      "huwwe": "byesma3",
+      "hiyye": "btesma3",
+      "ne7na": "mnesma3",
+      "ento": "btesma3o",
+      "henne": "byesma3o"
+    },
+    "imperative": {
+      "singular_m": "sma3",
+      "singular_f": "sma3e",
+      "plural": "sma3o"
+    },
+    "exampleSentences": [
+      {
+        "arabic": "سْمِعْت الخَبَر؟",
+        "transliteration": "sme3t l-khabar?",
+        "english": "Did you hear the news?"
+      },
+      {
+        "arabic": "مَا بِسْمَع مْنِيح، إحْكِي أَعْلَى",
+        "transliteration": "ma besma3 mni7, e7ke a3la",
+        "english": "I can't hear well, speak louder."
+      },
+      {
+        "arabic": "إسْمَع هَالأُغْنِيِّة، كْتِير حِلْوِة",
+        "transliteration": "sma3 ha-l-ughniyye, ktir 7ilwe",
+        "english": "Listen to this song, it's very nice."
+      }
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "p4-quiz",
+    "phaseId": 4,
+    "title": "Phase 4 Quiz — Expanding Vocabulary",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p4-q1",
+        "prompt": "What does زحمة (zaḥme) mean?",
+        "options": [
+          "Neighborhood",
+          "Traffic / crowds",
+          "Shopping mall"
+        ],
+        "correctIndex": 1,
+        "explanation": "زحمة (zaḥme) means traffic or crowdedness — one of the most common complaints in Lebanese daily life. حي = neighborhood. مول = shopping mall."
+      },
+      {
+        "id": "p4-q2",
+        "prompt": "وجع in Lebanese means:",
+        "options": [
+          "Doctor",
+          "Pain / something hurts",
+          "Medicine"
+        ],
+        "correctIndex": 1,
+        "explanation": "وجع (wajaʕ) means pain or ache. You'll hear راسي عم يوجعني (my head hurts). دكتور = doctor. دوا = medicine."
+      },
+      {
+        "id": "p4-q3",
+        "prompt": "Which Lebanese singer is considered essential cultural listening for language learners?",
+        "options": [
+          "Mashrou' Leila",
+          "Fairouz",
+          "Ziad Rahbani"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fairouz is the iconic voice of Lebanon — her songs use beautiful Lebanese dialect and are deeply tied to Lebanese identity. Mashrou' Leila and Ziad Rahbani are also important, but Fairouz is the essential starting point."
+      },
+      {
+        "id": "p4-q4",
+        "prompt": "حرية means:",
+        "options": [
+          "Responsibility",
+          "Trust",
+          "Freedom"
+        ],
+        "correctIndex": 2,
+        "explanation": "حرية (ḥurriye) means freedom or liberty. مسؤولية = responsibility. ثقة = trust."
+      },
+      {
+        "id": "p4-q5",
+        "prompt": "What is the Anki spaced repetition target for Month 3?",
+        "options": [
+          "100 cards",
+          "250 cards",
+          "500 cards reviewed, 200+ mature"
+        ],
+        "correctIndex": 2,
+        "explanation": "By Month 3, the goal is 500 cards reviewed with 200+ mature cards, ensuring long-term retention through spaced repetition. Earlier months build up gradually from fewer cards."
+      },
+      {
+        "id": "p4-q6",
+        "prompt": "What does the verb pattern إنـ / انـ indicate in Lebanese Arabic?",
+        "promptArabic": "إنـ / انـ",
+        "options": [
+          "Causative — making someone do something",
+          "Reflexive / passive — something done to oneself",
+          "Habitual action",
+          "Future intention"
+        ],
+        "correctIndex": 1,
+        "explanation": "The انـ (in-) prefix creates reflexive or passive meanings in Lebanese Arabic. For example: كسر (kasar) = he broke, انكسر (inkasar) = it got broken. This pattern is very productive in Lebanese dialect."
+      },
+      {
+        "id": "p4-q7",
+        "prompt": "How do you say \"better than\" in Lebanese?",
+        "options": [
+          "أحسن من",
+          "أسوأ من",
+          "متل",
+          "غير"
+        ],
+        "correctIndex": 0,
+        "explanation": "أحسن من (aḥsan min) means 'better than'. أسوأ من = worse than, متل (mitil) = like/same as, غير (ghēr) = other/different. Lebanese comparatives often follow the أفعل pattern: أكبر = bigger, أصغر = smaller."
+      },
+      {
+        "id": "p4-q8",
+        "prompt": "يلّي in Lebanese Arabic is used to mean:",
+        "promptArabic": "يلّي",
+        "options": [
+          "Let's go",
+          "Who / that / which (relative pronoun)",
+          "Please",
+          "Maybe"
+        ],
+        "correctIndex": 1,
+        "explanation": "يلّي (yalli) is the Lebanese relative pronoun meaning 'who', 'that', or 'which'. Example: الزلمة يلّي شفتو = the man that I saw. يلّا (yalla) = let's go, لو سمحت = please, يمكن = maybe."
+      },
+      {
+        "id": "p4-q9",
+        "prompt": "What does طبيب أسنان mean?",
+        "promptArabic": "طبيب أسنان",
+        "options": [
+          "Eye doctor",
+          "Dentist",
+          "Pharmacist",
+          "Surgeon"
+        ],
+        "correctIndex": 1,
+        "explanation": "طبيب أسنان (ṭabīb asnēn) literally means 'teeth doctor' = dentist. طبيب عيون = eye doctor, صيدلي = pharmacist, جرّاح = surgeon. In daily speech, Lebanese often just say دكتور سنان."
+      },
+      {
+        "id": "p4-q10",
+        "prompt": "شغل in Lebanese Arabic means:",
+        "promptArabic": "شغل",
+        "options": [
+          "School",
+          "Work / job",
+          "Money",
+          "Office"
+        ],
+        "correctIndex": 1,
+        "explanation": "شغل (shughul) means work or job. مدرسة = school, مصاري = money, مكتب = office. شغل is used both for the concept of work and as 'stuff/things' in some contexts (شغلات = things)."
+      },
+      {
+        "id": "p4-q11",
+        "prompt": "How do you say \"I have a headache\" in Lebanese?",
+        "options": [
+          "راسي عم يوجعني",
+          "بطني عم توجعني",
+          "عندي حرارة",
+          "مريض كتير"
+        ],
+        "correctIndex": 0,
+        "explanation": "راسي عم يوجعني (rāsi ʕam yūjaʕni) = my head is hurting me. بطني عم توجعني = my stomach is hurting me, عندي حرارة = I have a fever, مريض كتير = very sick. The pattern is: body part + عم يوجعني."
+      },
+      {
+        "id": "p4-q12",
+        "prompt": "What does the passive construction انضرب mean?",
+        "promptArabic": "انضرب",
+        "options": [
+          "He hit someone",
+          "He got hit",
+          "He will hit",
+          "He wants to hit"
+        ],
+        "correctIndex": 1,
+        "explanation": "انضرب (inḍarab) = he got hit. The انـ prefix creates the passive voice. ضرب (ḍarab) = he hit (active), رح يضرب = he will hit, بدو يضرب = he wants to hit. This passive pattern is more common in Lebanese than MSA passive forms."
+      },
+      {
+        "id": "p4-q13",
+        "prompt": "How do you say \"university\" in Lebanese Arabic?",
+        "options": [
+          "مدرسة",
+          "جامعة",
+          "مكتبة",
+          "صف"
+        ],
+        "correctIndex": 1,
+        "explanation": "جامعة (jēmʕa) means university. مدرسة (madrase) = school, مكتبة (maktabe) = library/bookstore, صف (ṣaff) = class/classroom. The American University of Beirut (AUB) is الجامعة الأميركية."
+      }
+    ]
+  },
+  {
+    "id": "p4-fill",
+    "phaseId": 4,
+    "title": "Phase 4 Fill in the Blank — Relative Clauses & Comparisons",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p4-fb1",
+        "sentence": "البنت ___ شفتها بالمطعم هي أختي means 'The girl that I saw at the restaurant is my sister'.",
+        "blank": "___",
+        "answer": "يلّي",
+        "acceptableAnswers": [
+          "yalli",
+          "yelli",
+          "يلّي",
+          "يلي"
+        ],
+        "hint": "The Lebanese relative pronoun meaning 'that/who/which'."
+      },
+      {
+        "id": "p4-fb2",
+        "sentence": "بيروت ___ من طرابلس means 'Beirut is bigger than Tripoli'.",
+        "blank": "___",
+        "answer": "أكبر",
+        "acceptableAnswers": [
+          "akbar",
+          "أكبر"
+        ],
+        "hint": "The comparative form of كبير (big)."
+      },
+      {
+        "id": "p4-fb3",
+        "sentence": "بدي ___ عند الدكتور means 'I want to go to the doctor'.",
+        "blank": "___",
+        "answer": "روح",
+        "acceptableAnswers": [
+          "rūḥ",
+          "rooh",
+          "roo7",
+          "روح"
+        ],
+        "hint": "The verb for 'go' after بدي."
+      },
+      {
+        "id": "p4-fb4",
+        "sentence": "هو ___ مني بالعربي means 'He is better than me in Arabic'.",
+        "blank": "___",
+        "answer": "أحسن",
+        "acceptableAnswers": [
+          "ahsan",
+          "a7san",
+          "أحسن"
+        ],
+        "hint": "The comparative form meaning 'better'."
+      },
+      {
+        "id": "p4-fb5",
+        "sentence": "عندي ___ بإيدي means 'I have pain in my hand'.",
+        "blank": "___",
+        "answer": "وجع",
+        "acceptableAnswers": [
+          "wajaʕ",
+          "waja3",
+          "وجع"
+        ],
+        "hint": "The word for 'pain' or 'ache'."
+      },
+      {
+        "id": "p4-fb6",
+        "sentence": "هي بت ___ بالجامعة means 'She studies at the university'.",
+        "blank": "___",
+        "answer": "تدرس",
+        "acceptableAnswers": [
+          "tidros",
+          "tedros",
+          "تدرس",
+          "بتدرس"
+        ],
+        "hint": "The verb for 'study' conjugated for 'she'."
+      },
+      {
+        "id": "p4-fb7",
+        "sentence": "الكتاب ___ قريتو كان كتير منيح means 'The book that I read was very good'.",
+        "blank": "___",
+        "answer": "يلّي",
+        "acceptableAnswers": [
+          "yalli",
+          "yelli",
+          "يلّي",
+          "يلي"
+        ],
+        "hint": "Same relative pronoun as in question 1."
+      },
+      {
+        "id": "p4-fb8",
+        "sentence": "البيت ___ من المكتب means 'The house is closer than the office'.",
+        "blank": "___",
+        "answer": "أقرب",
+        "acceptableAnswers": [
+          "a2rab",
+          "aqrab",
+          "أقرب"
+        ],
+        "hint": "The comparative form of قريب (close/near)."
+      }
+    ]
+  },
+  {
+    "id": "p4-match",
+    "phaseId": 4,
+    "title": "Phase 4 Matching — Work & Education Vocab",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "شغل",
+        "transliteration": "shughul",
+        "english": "Work / job"
+      },
+      {
+        "arabic": "مكتب",
+        "transliteration": "maktab",
+        "english": "Office"
+      },
+      {
+        "arabic": "معلّم",
+        "transliteration": "mʕallim",
+        "english": "Teacher"
+      },
+      {
+        "arabic": "جامعة",
+        "transliteration": "jēmʕa",
+        "english": "University"
+      },
+      {
+        "arabic": "طالب",
+        "transliteration": "ṭēlib",
+        "english": "Student"
+      },
+      {
+        "arabic": "معاش",
+        "transliteration": "maʕēsh",
+        "english": "Salary"
+      },
+      {
+        "arabic": "اجتماع",
+        "transliteration": "ijtimēʕ",
+        "english": "Meeting"
+      },
+      {
+        "arabic": "مدير",
+        "transliteration": "mudīr",
+        "english": "Manager / director"
+      },
+      {
+        "arabic": "مهندس",
+        "transliteration": "muhandis",
+        "english": "Engineer"
+      },
+      {
+        "arabic": "محامي",
+        "transliteration": "muḥēmi",
+        "english": "Lawyer"
+      }
+    ]
+  }
+]

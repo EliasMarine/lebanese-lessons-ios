@@ -1,0 +1,2845 @@
+[
+  {
+    "id": "p3-conn-bas",
+    "phaseId": 3,
+    "arabic": "بس",
+    "transliteration": "bas",
+    "english": "But / Only / Just",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Most common contrast word"
+  },
+  {
+    "id": "p3-conn-wkaman",
+    "phaseId": 3,
+    "arabic": "وكمان",
+    "transliteration": "w-kamān",
+    "english": "And also",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Adding information"
+  },
+  {
+    "id": "p3-conn-laanno",
+    "phaseId": 3,
+    "arabic": "لأنو",
+    "transliteration": "laʔanno",
+    "english": "Because",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Giving reasons"
+  },
+  {
+    "id": "p3-conn-baaden",
+    "phaseId": 3,
+    "arabic": "بعدين",
+    "transliteration": "baʕdēn",
+    "english": "Then / After that",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Sequencing events"
+  },
+  {
+    "id": "p3-conn-masalan",
+    "phaseId": 3,
+    "arabic": "متلًا",
+    "transliteration": "masalan",
+    "english": "For example",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Giving examples"
+  },
+  {
+    "id": "p3-conn-yaani",
+    "phaseId": 3,
+    "arabic": "يعني",
+    "transliteration": "yaʕni",
+    "english": "I mean / like / so",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Filler — use constantly"
+  },
+  {
+    "id": "p3-conn-saraha",
+    "phaseId": 3,
+    "arabic": "صراحة",
+    "transliteration": "ṣarāḥa",
+    "english": "Honestly / Frankly",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Opening honest statement"
+  },
+  {
+    "id": "p3-conn-awwalshi",
+    "phaseId": 3,
+    "arabic": "أول شي",
+    "transliteration": "awwal shi",
+    "english": "First of all",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Starting a list"
+  },
+  {
+    "id": "p3-conn-tayyeb",
+    "phaseId": 3,
+    "arabic": "طيب",
+    "transliteration": "ṭayyeb",
+    "english": "OK / Alright",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Moving forward"
+  },
+  {
+    "id": "p3-conn-heda-hu",
+    "phaseId": 3,
+    "arabic": "هيدا هو",
+    "transliteration": "hēda hū",
+    "english": "That's it / Exactly",
+    "category": "Connectors",
+    "partOfSpeech": "expression",
+    "notes": "Confirming, agreeing"
+  },
+  {
+    "id": "p3-topic-family-ahli",
+    "phaseId": 3,
+    "arabic": "أهلي عايشين بلبنان",
+    "transliteration": "ahli ʕāyshīn b-Lubnān",
+    "english": "My parents live in Lebanon",
+    "category": "Topics - Family",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-family-siblings",
+    "phaseId": 3,
+    "arabic": "عندي اثنين إخوة",
+    "transliteration": "ʕindi tnēn ikhwe",
+    "english": "I have two siblings",
+    "category": "Topics - Family",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-family-miss",
+    "phaseId": 3,
+    "arabic": "عم بوحشوني كتير",
+    "transliteration": "ʕam bwaḥshuní ktīr",
+    "english": "I miss them a lot",
+    "category": "Topics - Family",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-family-mother",
+    "phaseId": 3,
+    "arabic": "إمي حنونة كتير",
+    "transliteration": "immī ḥanūne ktīr",
+    "english": "My mother is very caring",
+    "category": "Topics - Family",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-child-grewup",
+    "phaseId": 3,
+    "arabic": "كبرت بلبنان",
+    "transliteration": "kbirt b-Lubnān",
+    "english": "I grew up in Lebanon",
+    "category": "Topics - Childhood",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-child-moved",
+    "phaseId": 3,
+    "arabic": "انتقلت لأمريكا وعمري تمانية",
+    "transliteration": "intaʔalt la-Amrīka w-ʕumri tmāniye",
+    "english": "I moved to America when I was 8",
+    "category": "Topics - Childhood",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-child-play",
+    "phaseId": 3,
+    "arabic": "كنا نلعب بالشارع",
+    "transliteration": "kinna nlʕab bish-shāriʕ",
+    "english": "We used to play in the street",
+    "category": "Topics - Childhood",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-child-summers",
+    "phaseId": 3,
+    "arabic": "الصيف كان رهيب",
+    "transliteration": "iṣ-ṣayf kān rahīb",
+    "english": "The summers were amazing",
+    "category": "Topics - Childhood",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-child-remember",
+    "phaseId": 3,
+    "arabic": "ما نسيت شي",
+    "transliteration": "mā nsīt shi",
+    "english": "I haven't forgotten anything",
+    "category": "Topics - Childhood",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-work-cyber",
+    "phaseId": 3,
+    "arabic": "بشتغل بمجال الأمن المعلوماتي",
+    "transliteration": "bishtghil b-majāl il-amn il-maʕlūmāti",
+    "english": "I work in cybersecurity",
+    "category": "Topics - Work",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-work-technical",
+    "phaseId": 3,
+    "arabic": "شغلي تقني",
+    "transliteration": "shughli taʔni",
+    "english": "My work is technical",
+    "category": "Topics - Work",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-work-searching",
+    "phaseId": 3,
+    "arabic": "هلق عم بدور على شغل",
+    "transliteration": "hallaʔ ʕam bdūr ʕala shughl",
+    "english": "I'm job searching right now",
+    "category": "Topics - Work",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-work-home",
+    "phaseId": 3,
+    "arabic": "بشتغل من البيت",
+    "transliteration": "bishtghil min il-bēt",
+    "english": "I work from home",
+    "category": "Topics - Work",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-food-love",
+    "phaseId": 3,
+    "arabic": "بعشق الأكل اللبناني",
+    "transliteration": "baʕshaʔ il-akl il-lubnāni",
+    "english": "I love Lebanese food",
+    "category": "Topics - Food",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-food-kibbe",
+    "phaseId": 3,
+    "arabic": "إمي بتعمل أحسن كبة",
+    "transliteration": "immī btaʕmal aḥsan kibbe",
+    "english": "My mother makes the best kibbeh",
+    "category": "Topics - Food",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-food-bread",
+    "phaseId": 3,
+    "arabic": "ما في شي متل الخبز اللبناني",
+    "transliteration": "mā fi shi mitl il-khubz il-lubnāni",
+    "english": "Nothing compares to Lebanese bread",
+    "category": "Topics - Food",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-food-flavors",
+    "phaseId": 3,
+    "arabic": "عم بوحشني الطعم",
+    "transliteration": "ʕam bwaḥshnī iṭ-ṭaʕm",
+    "english": "I miss the flavors",
+    "category": "Topics - Food",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-usa-different",
+    "phaseId": 3,
+    "arabic": "أمريكا مختلفة كتير عن لبنان",
+    "transliteration": "Amrīka mukhtalfe ktīr ʕan Lubnān",
+    "english": "America is very different from Lebanon",
+    "category": "Topics - Life in America",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-usa-home",
+    "phaseId": 3,
+    "arabic": "بس صار بيتي كمان",
+    "transliteration": "bas ṣār bēti kamān",
+    "english": "But it's become my home too",
+    "category": "Topics - Life in America",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-usa-cultures",
+    "phaseId": 3,
+    "arabic": "عندي التقافتين مع بعض",
+    "transliteration": "ʕindi it-taʔāftēn maʕ baʕḍ",
+    "english": "I carry both cultures",
+    "category": "Topics - Life in America",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-opinion-bnazari",
+    "phaseId": 3,
+    "arabic": "بنظري…",
+    "transliteration": "b-naẓarī…",
+    "english": "In my opinion…",
+    "category": "Topics - Opinions",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-opinion-baatid",
+    "phaseId": 3,
+    "arabic": "بعتقد إنو…",
+    "transliteration": "baʕtiʔid inno…",
+    "english": "I think that…",
+    "category": "Topics - Opinions",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-opinion-agree",
+    "phaseId": 3,
+    "arabic": "موافق / مش موافق",
+    "transliteration": "wāfʔ / mish wāfʔ",
+    "english": "I agree / I disagree",
+    "category": "Topics - Opinions",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-topic-opinion-honestly",
+    "phaseId": 3,
+    "arabic": "صراحة…",
+    "transliteration": "ṣarāḥa…",
+    "english": "Honestly…",
+    "category": "Topics - Opinions",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "p3-emotions-fakhur",
+    "phaseId": 3,
+    "arabic": "فخور",
+    "transliteration": "fakhūr",
+    "english": "Proud",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-hani",
+    "phaseId": 3,
+    "arabic": "حانق",
+    "transliteration": "ḥāniʔ",
+    "english": "Angry / frustrated",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-nadim",
+    "phaseId": 3,
+    "arabic": "نادم",
+    "transliteration": "nādim",
+    "english": "Regretful",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-mushta",
+    "phaseId": 3,
+    "arabic": "مشتاق",
+    "transliteration": "mushtāʔ",
+    "english": "Longing / missing",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-hayer",
+    "phaseId": 3,
+    "arabic": "حائر",
+    "transliteration": "ḥāyer",
+    "english": "Confused / lost",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-alan",
+    "phaseId": 3,
+    "arabic": "قلقان",
+    "transliteration": "ʔalʔān",
+    "english": "Worried / anxious",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-mamnun",
+    "phaseId": 3,
+    "arabic": "ممنون",
+    "transliteration": "mamnūn",
+    "english": "Grateful",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-emotions-gheran",
+    "phaseId": 3,
+    "arabic": "غيران",
+    "transliteration": "ghērān",
+    "english": "Jealous",
+    "category": "Emotions - Full Range",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-abstract-watan",
+    "phaseId": 3,
+    "arabic": "وطن",
+    "transliteration": "waṭan",
+    "english": "Homeland",
+    "category": "Life & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-abstract-ghurbe",
+    "phaseId": 3,
+    "arabic": "غربة",
+    "transliteration": "ghurbe",
+    "english": "Exile / living far from home",
+    "category": "Life & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-abstract-zakra",
+    "phaseId": 3,
+    "arabic": "ذاكرة",
+    "transliteration": "zākra",
+    "english": "Memory",
+    "category": "Life & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-abstract-helem",
+    "phaseId": 3,
+    "arabic": "حلم",
+    "transliteration": "ḥelem",
+    "english": "Dream",
+    "category": "Life & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-abstract-najah",
+    "phaseId": 3,
+    "arabic": "نجاح",
+    "transliteration": "najāḥ",
+    "english": "Success",
+    "category": "Life & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-abstract-mustabal",
+    "phaseId": 3,
+    "arabic": "مستقبل",
+    "transliteration": "mustaʔbal",
+    "english": "Future",
+    "category": "Life & Abstract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-abstract-karim",
+    "phaseId": 3,
+    "arabic": "كريم",
+    "transliteration": "karīm",
+    "english": "Generous",
+    "category": "Life & Abstract",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-abstract-shater",
+    "phaseId": 3,
+    "arabic": "شاطر",
+    "transliteration": "shāṭer",
+    "english": "Smart / capable",
+    "category": "Life & Abstract",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-weather-shams",
+    "phaseId": 3,
+    "arabic": "شمس",
+    "transliteration": "shams",
+    "english": "Sun",
+    "category": "Weather & Nature",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الشمس قوية اليوم",
+      "transliteration": "ish-shams ʔawiyye il-yōm",
+      "english": "The sun is strong today"
+    }
+  },
+  {
+    "id": "p3-weather-shti",
+    "phaseId": 3,
+    "arabic": "شتي",
+    "transliteration": "shti",
+    "english": "Rain",
+    "category": "Weather & Nature",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; MSA uses مطر",
+    "exampleSentence": {
+      "arabic": "عم تشتي برا",
+      "transliteration": "ʕam tishti barra",
+      "english": "It's raining outside"
+    }
+  },
+  {
+    "id": "p3-weather-hawa",
+    "phaseId": 3,
+    "arabic": "هوا",
+    "transliteration": "hawa",
+    "english": "Wind / air",
+    "category": "Weather & Nature",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-weather-talj",
+    "phaseId": 3,
+    "arabic": "تلج",
+    "transliteration": "talj",
+    "english": "Snow",
+    "category": "Weather & Nature",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في تلج بالجبل",
+      "transliteration": "fi talj b-ij-jabal",
+      "english": "There's snow on the mountain"
+    }
+  },
+  {
+    "id": "p3-weather-harr",
+    "phaseId": 3,
+    "arabic": "حر",
+    "transliteration": "ḥarr",
+    "english": "Hot (weather)",
+    "category": "Weather & Nature",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "كتير حر اليوم",
+      "transliteration": "ktīr ḥarr il-yōm",
+      "english": "It's very hot today"
+    }
+  },
+  {
+    "id": "p3-weather-bard",
+    "phaseId": 3,
+    "arabic": "برد",
+    "transliteration": "bard",
+    "english": "Cold (weather)",
+    "category": "Weather & Nature",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-weather-gheme",
+    "phaseId": 3,
+    "arabic": "غيمة",
+    "transliteration": "ghēme",
+    "english": "Cloud",
+    "category": "Weather & Nature",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-weather-sama",
+    "phaseId": 3,
+    "arabic": "سما",
+    "transliteration": "sama",
+    "english": "Sky",
+    "category": "Weather & Nature",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese pronunciation; MSA سماء"
+  },
+  {
+    "id": "p3-clothing-amis",
+    "phaseId": 3,
+    "arabic": "قميص",
+    "transliteration": "ʔamīṣ",
+    "english": "Shirt",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-clothing-bantalon",
+    "phaseId": 3,
+    "arabic": "بنطلون",
+    "transliteration": "banṭalōn",
+    "english": "Pants / trousers",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "French loanword (pantalon)"
+  },
+  {
+    "id": "p3-clothing-sarmaye",
+    "phaseId": 3,
+    "arabic": "صرماية",
+    "transliteration": "ṣarmāye",
+    "english": "Shoes",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; also كندرة (kundara) in some regions",
+    "exampleSentence": {
+      "arabic": "وين صرمايتي؟",
+      "transliteration": "wēn ṣarmāyti?",
+      "english": "Where are my shoes?"
+    }
+  },
+  {
+    "id": "p3-clothing-fustan",
+    "phaseId": 3,
+    "arabic": "فستان",
+    "transliteration": "fustān",
+    "english": "Dress",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الفستان كتير حلو",
+      "transliteration": "il-fustān ktīr ḥilu",
+      "english": "The dress is very beautiful"
+    }
+  },
+  {
+    "id": "p3-clothing-jakit",
+    "phaseId": 3,
+    "arabic": "جاكيت",
+    "transliteration": "jākit",
+    "english": "Jacket",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p3-clothing-takiye",
+    "phaseId": 3,
+    "arabic": "طاقية",
+    "transliteration": "ṭāʔiyye",
+    "english": "Hat / beanie",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-clothing-shal",
+    "phaseId": 3,
+    "arabic": "شال",
+    "transliteration": "shāl",
+    "english": "Scarf / shawl",
+    "category": "Clothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-clothing-shanta",
+    "phaseId": 3,
+    "arabic": "شنطة",
+    "transliteration": "shanṭa",
+    "english": "Bag / purse",
+    "category": "Clothing",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "نسيت شنطتي بالسيارة",
+      "transliteration": "nsīt shanṭti b-is-sayyāra",
+      "english": "I forgot my bag in the car"
+    }
+  },
+  {
+    "id": "p3-shopping-masari",
+    "phaseId": 3,
+    "arabic": "مصاري",
+    "transliteration": "maṣāri",
+    "english": "Money",
+    "category": "Shopping",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; MSA uses فلوس or نقود",
+    "exampleSentence": {
+      "arabic": "ما معي مصاري",
+      "transliteration": "mā maʕi maṣāri",
+      "english": "I don't have money on me"
+    }
+  },
+  {
+    "id": "p3-shopping-ghali",
+    "phaseId": 3,
+    "arabic": "غالي",
+    "transliteration": "ghāli",
+    "english": "Expensive",
+    "category": "Shopping",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "هيدا غالي كتير",
+      "transliteration": "hayda ghāli ktīr",
+      "english": "This is very expensive"
+    }
+  },
+  {
+    "id": "p3-shopping-rkhis",
+    "phaseId": 3,
+    "arabic": "رخيص",
+    "transliteration": "rkhīṣ",
+    "english": "Cheap",
+    "category": "Shopping",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-shopping-addesh",
+    "phaseId": 3,
+    "arabic": "قديش؟",
+    "transliteration": "ʔaddēsh?",
+    "english": "How much?",
+    "category": "Shopping",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "قديش هيدا؟",
+      "transliteration": "ʔaddēsh hayda?",
+      "english": "How much is this?"
+    }
+  },
+  {
+    "id": "p3-shopping-su",
+    "phaseId": 3,
+    "arabic": "سوق",
+    "transliteration": "sūʔ",
+    "english": "Market / souq",
+    "category": "Shopping",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-shopping-dkane",
+    "phaseId": 3,
+    "arabic": "دكانة",
+    "transliteration": "dkāne",
+    "english": "Shop / small store",
+    "category": "Shopping",
+    "partOfSpeech": "noun",
+    "notes": "The typical corner shop in Lebanon"
+  },
+  {
+    "id": "p3-shopping-dafaa",
+    "phaseId": 3,
+    "arabic": "دفع",
+    "transliteration": "dafaʕ",
+    "english": "To pay",
+    "category": "Shopping",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "أنا بدفع",
+      "transliteration": "ana bidfaʕ",
+      "english": "I'll pay"
+    }
+  },
+  {
+    "id": "p3-shopping-wasl",
+    "phaseId": 3,
+    "arabic": "وصل",
+    "transliteration": "waṣl",
+    "english": "Receipt",
+    "category": "Shopping",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-shopping-sier",
+    "phaseId": 3,
+    "arabic": "سعر",
+    "transliteration": "siʕr",
+    "english": "Price",
+    "category": "Shopping",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-shopping-tanzilat",
+    "phaseId": 3,
+    "arabic": "تنزيلات",
+    "transliteration": "tanzīlāt",
+    "english": "Sales / discounts",
+    "category": "Shopping",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في تنزيلات بالمول",
+      "transliteration": "fi tanzīlāt b-il-mōl",
+      "english": "There are sales at the mall"
+    }
+  },
+  {
+    "id": "p3-transport-sayyara",
+    "phaseId": 3,
+    "arabic": "سيارة",
+    "transliteration": "sayyāra",
+    "english": "Car",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "السيارة بالباركينغ",
+      "transliteration": "is-sayyāra b-il-bārkīng",
+      "english": "The car is in the parking lot"
+    }
+  },
+  {
+    "id": "p3-transport-bass",
+    "phaseId": 3,
+    "arabic": "باص",
+    "transliteration": "bāṣ",
+    "english": "Bus",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p3-transport-servis",
+    "phaseId": 3,
+    "arabic": "سرفيس",
+    "transliteration": "sērvīs",
+    "english": "Shared taxi / service taxi",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "notes": "French loanword; the main public transport in Lebanon"
+  },
+  {
+    "id": "p3-transport-tayyara",
+    "phaseId": 3,
+    "arabic": "طيارة",
+    "transliteration": "ṭayyāra",
+    "english": "Airplane",
+    "category": "Transportation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-transport-tari",
+    "phaseId": 3,
+    "arabic": "طريق",
+    "transliteration": "ṭarīʔ",
+    "english": "Road / way",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الطريق طويلة",
+      "transliteration": "iṭ-ṭarīʔ ṭawīle",
+      "english": "The road is long"
+    }
+  },
+  {
+    "id": "p3-transport-zahme",
+    "phaseId": 3,
+    "arabic": "زحمة",
+    "transliteration": "zaḥme",
+    "english": "Traffic / congestion",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "في زحمة عالأوتوستراد",
+      "transliteration": "fi zaḥme ʕa-l-ōtōstrād",
+      "english": "There's traffic on the highway"
+    }
+  },
+  {
+    "id": "p3-transport-barking",
+    "phaseId": 3,
+    "arabic": "باركينغ",
+    "transliteration": "bārkīng",
+    "english": "Parking",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p3-transport-mahatta",
+    "phaseId": 3,
+    "arabic": "محطة بنزين",
+    "transliteration": "maḥaṭṭa benzīn",
+    "english": "Gas station",
+    "category": "Transportation",
+    "partOfSpeech": "noun",
+    "notes": "بنزين is a French loanword (benzine)"
+  },
+  {
+    "id": "p3-opinion-baatid",
+    "phaseId": 3,
+    "arabic": "بعتقد",
+    "transliteration": "baʕtiʔid",
+    "english": "I think",
+    "category": "Expressing Opinions",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "بعتقد إنو صح",
+      "transliteration": "baʕtiʔid inno ṣaḥḥ",
+      "english": "I think it's correct"
+    }
+  },
+  {
+    "id": "p3-opinion-brayi",
+    "phaseId": 3,
+    "arabic": "برأيي",
+    "transliteration": "b-raʔyi",
+    "english": "In my opinion",
+    "category": "Expressing Opinions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opinion-yimkin",
+    "phaseId": 3,
+    "arabic": "يمكن",
+    "transliteration": "yimkin",
+    "english": "Maybe / perhaps",
+    "category": "Expressing Opinions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "يمكن يجي بكرا",
+      "transliteration": "yimkin yīji bukra",
+      "english": "Maybe he'll come tomorrow"
+    }
+  },
+  {
+    "id": "p3-opinion-akid",
+    "phaseId": 3,
+    "arabic": "أكيد",
+    "transliteration": "akīd",
+    "english": "Of course / definitely",
+    "category": "Expressing Opinions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opinion-maak-ha",
+    "phaseId": 3,
+    "arabic": "معك حق",
+    "transliteration": "maʕak ḥaʔʔ",
+    "english": "You're right / I agree",
+    "category": "Expressing Opinions",
+    "partOfSpeech": "expression",
+    "notes": "Literally 'you have the right'",
+    "exampleSentence": {
+      "arabic": "والله معك حق",
+      "transliteration": "wallah maʕak ḥaʔʔ",
+      "english": "Honestly, you're right"
+    }
+  },
+  {
+    "id": "p3-opinion-mish-mwafe",
+    "phaseId": 3,
+    "arabic": "مش موافق",
+    "transliteration": "mish mwāfaʔ",
+    "english": "I disagree",
+    "category": "Expressing Opinions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-sheyif-inno",
+    "phaseId": 3,
+    "arabic": "أَنا شَايِف إِنّو",
+    "transliteration": "ana shēyif inno",
+    "english": "I see that / I think that",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "أَنا شَايِف إِنّو هَيدا أَحسَن",
+      "transliteration": "ana shēyif inno hayda aḥsan",
+      "english": "I see that this is better"
+    }
+  },
+  {
+    "id": "p3-opexp-mnel2a",
+    "phaseId": 3,
+    "arabic": "مِنلاقي",
+    "transliteration": "mnilāʔi",
+    "english": "We find / we see",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "verb",
+    "notes": "Used when presenting a shared observation"
+  },
+  {
+    "id": "p3-opexp-7asab-ra2yi",
+    "phaseId": 3,
+    "arabic": "حَسَب رَأيي",
+    "transliteration": "ḥasab raʔyi",
+    "english": "According to my opinion",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "حَسَب رَأيي لازِم نِستَنّا",
+      "transliteration": "ḥasab raʔyi lāzim nistanna",
+      "english": "In my opinion, we should wait"
+    }
+  },
+  {
+    "id": "p3-opexp-bas-ba7iss",
+    "phaseId": 3,
+    "arabic": "بَس أَنا بحِسّ",
+    "transliteration": "bas ana bḥiss",
+    "english": "But I feel",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-ma-ba7iss-hayk",
+    "phaseId": 3,
+    "arabic": "ما بحِسّ هَيك",
+    "transliteration": "mā bḥiss hēk",
+    "english": "I don't feel that way",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-tawil-balak",
+    "phaseId": 3,
+    "arabic": "طَوِّل بالَك",
+    "transliteration": "ṭawwil bālak",
+    "english": "Be patient",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Literally 'make your mind long'",
+    "exampleSentence": {
+      "arabic": "طَوِّل بالَك شْوَي",
+      "transliteration": "ṭawwil bālak shway",
+      "english": "Be a little patient"
+    }
+  },
+  {
+    "id": "p3-opexp-shu-ra2yak",
+    "phaseId": 3,
+    "arabic": "شو رَأيَك؟",
+    "transliteration": "shu raʔyak?",
+    "english": "What do you think?",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "شو رَأيَك نروح عَ البَحِر؟",
+      "transliteration": "shu raʔyak nrūḥ ʕa-l-baḥr?",
+      "english": "What do you think, shall we go to the sea?"
+    }
+  },
+  {
+    "id": "p3-opexp-mish-daruri",
+    "phaseId": 3,
+    "arabic": "مِش ضَروري",
+    "transliteration": "mish ḍarūri",
+    "english": "Not necessarily",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-3ala-fikra",
+    "phaseId": 3,
+    "arabic": "عَ الفِكرَة",
+    "transliteration": "ʕa-l-fikra",
+    "english": "By the way",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-ana-mwefe2",
+    "phaseId": 3,
+    "arabic": "أَنا مْوافِق مِية بِالمِية",
+    "transliteration": "ana mwāfiʔ miyye b-il-miyye",
+    "english": "I agree 100%",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-hayde-mish-3adil",
+    "phaseId": 3,
+    "arabic": "هَيدي مِش عادِل",
+    "transliteration": "haydi mish ʕādil",
+    "english": "That's not fair",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-la-wein-baddo-yousel",
+    "phaseId": 3,
+    "arabic": "لَوين بَدّو يوصَل؟",
+    "transliteration": "la-wēn baddo yūṣal?",
+    "english": "Where is this going to lead?",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-sah-bass",
+    "phaseId": 3,
+    "arabic": "صَح بَس...",
+    "transliteration": "ṣaḥḥ bas...",
+    "english": "True, but...",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "notes": "Agreeing partially before countering"
+  },
+  {
+    "id": "p3-opexp-bnazari-ana",
+    "phaseId": 3,
+    "arabic": "بْنَظَري أَنا",
+    "transliteration": "b-naẓari ana",
+    "english": "From my perspective",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-ma-bwaafe2",
+    "phaseId": 3,
+    "arabic": "ما بْوافِق عَ هَيدا الحَكي",
+    "transliteration": "mā bwāfiʔ ʕa hayda il-ḥaki",
+    "english": "I don't agree with this talk",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "سامِحني بَس ما بْوافِق عَ هَيدا الحَكي",
+      "transliteration": "sāmiḥni bas mā bwāfiʔ ʕa hayda il-ḥaki",
+      "english": "Excuse me but I don't agree with this talk"
+    }
+  },
+  {
+    "id": "p3-opexp-3indi-ra2y-teni",
+    "phaseId": 3,
+    "arabic": "عِندي رَأي تاني",
+    "transliteration": "ʕindi raʔy tāni",
+    "english": "I have a different opinion",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-manno-ghala6",
+    "phaseId": 3,
+    "arabic": "مَنّو غَلَط",
+    "transliteration": "manno ghalaṭ",
+    "english": "It's not wrong",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-bitzakkar",
+    "phaseId": 3,
+    "arabic": "بِتزَكَّر؟",
+    "transliteration": "btizakkar?",
+    "english": "Do you remember?",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-bi-ikhtissar",
+    "phaseId": 3,
+    "arabic": "بِاخْتِصار",
+    "transliteration": "b-ikhtiṣār",
+    "english": "In short / to summarize",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-opexp-mish-lazim",
+    "phaseId": 3,
+    "arabic": "مِش لازِم",
+    "transliteration": "mish lāzim",
+    "english": "It's not necessary / shouldn't",
+    "category": "Opinion Expressions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مِش لازِم تِحكي هَيك",
+      "transliteration": "mish lāzim tiḥki hēk",
+      "english": "You shouldn't talk like that"
+    }
+  },
+  {
+    "id": "p3-story-marra-wa7de",
+    "phaseId": 3,
+    "arabic": "مَرَّة وَحْدِة",
+    "transliteration": "marra waḥde",
+    "english": "One time / once",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مَرَّة وَحْدِة كُنت رايِح عَ بيروت",
+      "transliteration": "marra waḥde kint rāyiḥ ʕa Bēyrūt",
+      "english": "One time I was going to Beirut"
+    }
+  },
+  {
+    "id": "p3-story-bhal-wa2t",
+    "phaseId": 3,
+    "arabic": "بْهَالوَقِت",
+    "transliteration": "b-hal-waʔt",
+    "english": "At that time",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-faj2a",
+    "phaseId": 3,
+    "arabic": "فَجأَة",
+    "transliteration": "fajʔa",
+    "english": "Suddenly",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "فَجأَة سِمِعنا صَوت كبير",
+      "transliteration": "fajʔa smiʕna ṣōt kbīr",
+      "english": "Suddenly we heard a loud sound"
+    }
+  },
+  {
+    "id": "p3-story-la7a2",
+    "phaseId": 3,
+    "arabic": "لَحَق",
+    "transliteration": "laḥaʔ",
+    "english": "Then / afterward",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-2issa",
+    "phaseId": 3,
+    "arabic": "قِصَّة",
+    "transliteration": "ʔiṣṣa",
+    "english": "Story",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَدّي إحكيلَك قِصَّة",
+      "transliteration": "baddi iḥkīlak ʔiṣṣa",
+      "english": "I want to tell you a story"
+    }
+  },
+  {
+    "id": "p3-story-7kayet",
+    "phaseId": 3,
+    "arabic": "حْكايِة",
+    "transliteration": "ḥkāye",
+    "english": "Tale / story",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "noun",
+    "notes": "More folksy / informal than قِصَّة"
+  },
+  {
+    "id": "p3-story-kenn-fi",
+    "phaseId": 3,
+    "arabic": "كانْ في",
+    "transliteration": "kēn fi",
+    "english": "There was / there were",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "كانْ في واحِد عايِش بِالضَيعة",
+      "transliteration": "kēn fi wāḥad ʕāyish b-iḍ-ḍayʕa",
+      "english": "There was a man living in the village"
+    }
+  },
+  {
+    "id": "p3-story-min-yawmha",
+    "phaseId": 3,
+    "arabic": "مِن يَومها",
+    "transliteration": "min yawmha",
+    "english": "From that day",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-niheyit-il-2issa",
+    "phaseId": 3,
+    "arabic": "نِهايِة القِصَّة",
+    "transliteration": "nihāyit il-ʔiṣṣa",
+    "english": "End of the story",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-abel-ma",
+    "phaseId": 3,
+    "arabic": "قَبِل ما",
+    "transliteration": "ʔabil ma",
+    "english": "Before",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "قَبِل ما يوصَل، اتَّصَلت فيه",
+      "transliteration": "ʔabil ma yūṣal, ittaṣalit fī",
+      "english": "Before he arrived, I called him"
+    }
+  },
+  {
+    "id": "p3-story-ba3d-ma",
+    "phaseId": 3,
+    "arabic": "بَعِد ما",
+    "transliteration": "baʕd ma",
+    "english": "After",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-lamma",
+    "phaseId": 3,
+    "arabic": "لَمّا",
+    "transliteration": "lamma",
+    "english": "When",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "لَمّا وصِلنا كانْ بَلَّش يِشتي",
+      "transliteration": "lamma wṣilna kēn ballash yishti",
+      "english": "When we arrived it had started raining"
+    }
+  },
+  {
+    "id": "p3-story-3al-akhir",
+    "phaseId": 3,
+    "arabic": "عَ الآخِر",
+    "transliteration": "ʕa-l-ākhir",
+    "english": "In the end / finally",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-tkhayyal",
+    "phaseId": 3,
+    "arabic": "تْخَيَّل!",
+    "transliteration": "tkhayyal!",
+    "english": "Imagine!",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "notes": "Used to build suspense"
+  },
+  {
+    "id": "p3-story-ma-7ada-sadda2",
+    "phaseId": 3,
+    "arabic": "ما حَدا صَدَّق",
+    "transliteration": "mā ḥada ṣaddaʔ",
+    "english": "Nobody believed it",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-il-mohimm",
+    "phaseId": 3,
+    "arabic": "المُهِم",
+    "transliteration": "il-muhimm",
+    "english": "The important thing / anyway",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "notes": "Used to get back on topic when telling a story"
+  },
+  {
+    "id": "p3-story-w-hek",
+    "phaseId": 3,
+    "arabic": "وْهَيك",
+    "transliteration": "w-hēk",
+    "english": "And so / and like that",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-ija-balo",
+    "phaseId": 3,
+    "arabic": "إِجا بْبالو",
+    "transliteration": "ija b-bālo",
+    "english": "It occurred to him / he got the idea",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "إِجا بْبالو يْروح يِتمَشّا",
+      "transliteration": "ija b-bālo yrūḥ yitmashsha",
+      "english": "He got the idea to go for a walk"
+    }
+  },
+  {
+    "id": "p3-story-taba3an",
+    "phaseId": 3,
+    "arabic": "طَبعاً",
+    "transliteration": "ṭabʕan",
+    "english": "Of course / naturally",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-story-w-ba3den-shu-sar",
+    "phaseId": 3,
+    "arabic": "وْبَعدين شو صار؟",
+    "transliteration": "w-baʕdēn shu ṣār?",
+    "english": "And then what happened?",
+    "category": "Storytelling & Narration",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-phone-rasseil-sawtiye",
+    "phaseId": 3,
+    "arabic": "رَسايِل صَوتِيّة",
+    "transliteration": "rasāyil ṣawtiyye",
+    "english": "Voice messages",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَعتِلّي رَسايِل صَوتِيّة",
+      "transliteration": "baʕtilli rasāyil ṣawtiyye",
+      "english": "Send me voice messages"
+    }
+  },
+  {
+    "id": "p3-phone-videocall",
+    "phaseId": 3,
+    "arabic": "فيديو كول",
+    "transliteration": "vīdyo kōl",
+    "english": "Video call",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "notes": "English loanword used as-is"
+  },
+  {
+    "id": "p3-phone-group",
+    "phaseId": 3,
+    "arabic": "غروب",
+    "transliteration": "grūb",
+    "english": "Group chat",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "ضيفني عَ الغروب",
+      "transliteration": "ḍīfni ʕa-l-grūb",
+      "english": "Add me to the group"
+    }
+  },
+  {
+    "id": "p3-phone-sticker",
+    "phaseId": 3,
+    "arabic": "ستيكَر",
+    "transliteration": "stīkar",
+    "english": "Sticker",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-phone-online",
+    "phaseId": 3,
+    "arabic": "أونلاين",
+    "transliteration": "ōnlāyn",
+    "english": "Online",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "adj",
+    "exampleSentence": {
+      "arabic": "هُوِّي أونلاين هَلَّق",
+      "transliteration": "huwwe ōnlāyn hallaʔ",
+      "english": "He's online now"
+    }
+  },
+  {
+    "id": "p3-phone-offline",
+    "phaseId": 3,
+    "arabic": "أوفلاين",
+    "transliteration": "ōflāyn",
+    "english": "Offline",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-phone-block",
+    "phaseId": 3,
+    "arabic": "بلوك",
+    "transliteration": "blōk",
+    "english": "Block (someone)",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "عِمِلتِلّو بلوك",
+      "transliteration": "ʕimiltillo blōk",
+      "english": "She blocked him"
+    }
+  },
+  {
+    "id": "p3-phone-add",
+    "phaseId": 3,
+    "arabic": "أَضيف",
+    "transliteration": "aḍīf",
+    "english": "To add (contact/group)",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p3-phone-voice-note",
+    "phaseId": 3,
+    "arabic": "فويس نوت",
+    "transliteration": "voys nōt",
+    "english": "Voice note",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "notes": "English loanword; interchangeable with رسالة صوتية"
+  },
+  {
+    "id": "p3-phone-screenshot",
+    "phaseId": 3,
+    "arabic": "سكرين شوت",
+    "transliteration": "skrīn shōt",
+    "english": "Screenshot",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "ابعَتلي سكرين شوت",
+      "transliteration": "ibʕatli skrīn shōt",
+      "english": "Send me a screenshot"
+    }
+  },
+  {
+    "id": "p3-phone-wifi",
+    "phaseId": 3,
+    "arabic": "واي فاي",
+    "transliteration": "wāy fāy",
+    "english": "WiFi",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو باسوورد الواي فاي؟",
+      "transliteration": "shu bāswōrd il-wāy fāy?",
+      "english": "What's the WiFi password?"
+    }
+  },
+  {
+    "id": "p3-phone-data",
+    "phaseId": 3,
+    "arabic": "داتا",
+    "transliteration": "dāta",
+    "english": "Mobile data",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "خِلصِت الداتا",
+      "transliteration": "khilṣit id-dāta",
+      "english": "The data ran out"
+    }
+  },
+  {
+    "id": "p3-phone-charge",
+    "phaseId": 3,
+    "arabic": "شارج",
+    "transliteration": "shārj",
+    "english": "Charge (phone)",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "التَّلفون بَدّو شارج",
+      "transliteration": "it-talafōn baddo shārj",
+      "english": "The phone needs charging"
+    }
+  },
+  {
+    "id": "p3-phone-seen",
+    "phaseId": 3,
+    "arabic": "سين",
+    "transliteration": "sīn",
+    "english": "Seen (read receipt)",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "notes": "When someone reads your message but doesn't reply",
+    "exampleSentence": {
+      "arabic": "عِمِلّي سين وَما رَدّ",
+      "transliteration": "ʕimilli sīn w-mā radd",
+      "english": "He saw my message and didn't reply"
+    }
+  },
+  {
+    "id": "p3-phone-ib3atli",
+    "phaseId": 3,
+    "arabic": "ابعَتلي",
+    "transliteration": "ibʕatli",
+    "english": "Send me",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p3-phone-rinn",
+    "phaseId": 3,
+    "arabic": "رِنّ عَلَيّ",
+    "transliteration": "rinn ʕalayy",
+    "english": "Call me / ring me",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "رِنّ عَلَيّ لَمّا توصَل",
+      "transliteration": "rinn ʕalayy lamma tūṣal",
+      "english": "Call me when you arrive"
+    }
+  },
+  {
+    "id": "p3-phone-status",
+    "phaseId": 3,
+    "arabic": "ستاتوس",
+    "transliteration": "stātūs",
+    "english": "Status (WhatsApp story)",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-phone-tiktok",
+    "phaseId": 3,
+    "arabic": "تيك توك",
+    "transliteration": "tīk tōk",
+    "english": "TikTok",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-phone-link",
+    "phaseId": 3,
+    "arabic": "لينك",
+    "transliteration": "līnk",
+    "english": "Link / URL",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "ابعَتلي اللينك",
+      "transliteration": "ibʕatli il-līnk",
+      "english": "Send me the link"
+    }
+  },
+  {
+    "id": "p3-phone-tag",
+    "phaseId": 3,
+    "arabic": "تاغ",
+    "transliteration": "tāgh",
+    "english": "Tag (mention someone)",
+    "category": "Phone & WhatsApp Language",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p3-plans-baddna-netle2a",
+    "phaseId": 3,
+    "arabic": "بَدّنا نِتلاقا",
+    "transliteration": "baddna nitlāʔa",
+    "english": "We should meet up",
+    "category": "Making Plans",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "بَدّنا نِتلاقا قَريب",
+      "transliteration": "baddna nitlāʔa ʔarīb",
+      "english": "We should meet up soon"
+    }
+  },
+  {
+    "id": "p3-plans-bel-weekend",
+    "phaseId": 3,
+    "arabic": "بِالويكِند",
+    "transliteration": "b-il-wīkend",
+    "english": "On the weekend",
+    "category": "Making Plans",
+    "partOfSpeech": "expression",
+    "notes": "English loanword widely used"
+  },
+  {
+    "id": "p3-plans-7ajazna",
+    "phaseId": 3,
+    "arabic": "حَجَزنا",
+    "transliteration": "ḥajazna",
+    "english": "We booked / reserved",
+    "category": "Making Plans",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "حَجَزنا طاوِلة بِالمَطعَم",
+      "transliteration": "ḥajazna ṭāwle b-il-maṭʕam",
+      "english": "We booked a table at the restaurant"
+    }
+  },
+  {
+    "id": "p3-plans-min-wa2t-la-wa2t",
+    "phaseId": 3,
+    "arabic": "مِن وَقِت لَوَقِت",
+    "transliteration": "min waʔt la-waʔt",
+    "english": "From time to time",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-bakkir",
+    "phaseId": 3,
+    "arabic": "بَكّير",
+    "transliteration": "bakkīr",
+    "english": "Early (in the morning)",
+    "category": "Making Plans",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "بَدّي فيق بَكّير بُكرا",
+      "transliteration": "baddi fīʔ bakkīr bukra",
+      "english": "I want to wake up early tomorrow"
+    }
+  },
+  {
+    "id": "p3-plans-ba3d-ed-dohr",
+    "phaseId": 3,
+    "arabic": "بَعِد الضُّهِر",
+    "transliteration": "baʕd iḍ-ḍuhur",
+    "english": "In the afternoon",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-ma-fi-mshkeleh",
+    "phaseId": 3,
+    "arabic": "ما في مِشكِلة",
+    "transliteration": "mā fi mushkile",
+    "english": "No problem",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-yalla-min-hon",
+    "phaseId": 3,
+    "arabic": "يَلّا مِن هون",
+    "transliteration": "yalla min hōn",
+    "english": "Let's go from here",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-shu-3am-ta3mol",
+    "phaseId": 3,
+    "arabic": "شو عَم تَعمِل بُكرا؟",
+    "transliteration": "shu ʕam taʕmil bukra?",
+    "english": "What are you doing tomorrow?",
+    "category": "Making Plans",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "شو عَم تَعمِل بُكرا بِاللَيل؟",
+      "transliteration": "shu ʕam taʕmil bukra b-il-lēl?",
+      "english": "What are you doing tomorrow night?"
+    }
+  },
+  {
+    "id": "p3-plans-khalina-nrou7",
+    "phaseId": 3,
+    "arabic": "خَلّينا نْروح",
+    "transliteration": "khallīna nrūḥ",
+    "english": "Let's go",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-wein-mnitle2a",
+    "phaseId": 3,
+    "arabic": "وين مْنِتلاقا؟",
+    "transliteration": "wēn mnitlāʔa?",
+    "english": "Where shall we meet?",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-ayya-se3a",
+    "phaseId": 3,
+    "arabic": "أَيّا ساعة؟",
+    "transliteration": "ayya sēʕa?",
+    "english": "What time?",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-mna2dar",
+    "phaseId": 3,
+    "arabic": "مْنِقدَر نأَجِّلها؟",
+    "transliteration": "mniʔdar nʔajjilha?",
+    "english": "Can we postpone it?",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-mish-fadye",
+    "phaseId": 3,
+    "arabic": "مِش فاضي",
+    "transliteration": "mish fāḍi",
+    "english": "I'm not free / I'm busy",
+    "category": "Making Plans",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مِش فاضي هَلَّق بَس بُكرا مْنِحكي",
+      "transliteration": "mish fāḍi hallaʔ bas bukra mniḥki",
+      "english": "I'm busy now but tomorrow we'll talk"
+    }
+  },
+  {
+    "id": "p3-plans-b3atli-il-location",
+    "phaseId": 3,
+    "arabic": "ابعَتلي اللوكيشِن",
+    "transliteration": "ibʕatli il-lōkēshin",
+    "english": "Send me the location",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-taekharna",
+    "phaseId": 3,
+    "arabic": "تأَخَّرنا",
+    "transliteration": "taʔakhkharna",
+    "english": "We're late",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-mawoud",
+    "phaseId": 3,
+    "arabic": "مَوعود",
+    "transliteration": "mawʕūd",
+    "english": "I have plans / I'm committed",
+    "category": "Making Plans",
+    "partOfSpeech": "adj",
+    "notes": "Literally 'promised'; used to say you have other plans"
+  },
+  {
+    "id": "p3-plans-cancel",
+    "phaseId": 3,
+    "arabic": "كانسِل",
+    "transliteration": "kānsil",
+    "english": "Cancel",
+    "category": "Making Plans",
+    "partOfSpeech": "verb",
+    "notes": "English loanword"
+  },
+  {
+    "id": "p3-plans-yalla-na3mol-shi",
+    "phaseId": 3,
+    "arabic": "يَلّا نَعمِل شي",
+    "transliteration": "yalla naʕmil shi",
+    "english": "Let's do something",
+    "category": "Making Plans",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-plans-3azumtak",
+    "phaseId": 3,
+    "arabic": "عَزَمتَك",
+    "transliteration": "ʕazamtak",
+    "english": "I'm inviting you / my treat",
+    "category": "Making Plans",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "عَزَمتَك عَ العَشا",
+      "transliteration": "ʕazamtak ʕa-l-ʕasha",
+      "english": "I'm inviting you to dinner (my treat)"
+    }
+  },
+  {
+    "id": "p3-edu-safha",
+    "phaseId": 3,
+    "arabic": "صَفحَة",
+    "transliteration": "ṣafḥa",
+    "english": "Page",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "افتَح صَفحَة عَشرين",
+      "transliteration": "iftaḥ ṣafḥa ʕishrīn",
+      "english": "Open page twenty"
+    }
+  },
+  {
+    "id": "p3-edu-daftar",
+    "phaseId": 3,
+    "arabic": "دَفتَر",
+    "transliteration": "daftar",
+    "english": "Notebook",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-mawdou3",
+    "phaseId": 3,
+    "arabic": "مَوضوع",
+    "transliteration": "mawḍūʕ",
+    "english": "Topic / subject",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "المَوضوع مِش سَهِل",
+      "transliteration": "il-mawḍūʕ mish sahil",
+      "english": "The topic is not easy"
+    }
+  },
+  {
+    "id": "p3-edu-shara7",
+    "phaseId": 3,
+    "arabic": "شَرَح",
+    "transliteration": "sharaḥ",
+    "english": "To explain",
+    "category": "Education & Learning",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "المْعَلِّم شَرَح الدَرِس",
+      "transliteration": "il-mʕallim sharaḥ id-daris",
+      "english": "The teacher explained the lesson"
+    }
+  },
+  {
+    "id": "p3-edu-fa2ra",
+    "phaseId": 3,
+    "arabic": "فَقرَة",
+    "transliteration": "faʔra",
+    "english": "Paragraph",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-imti7an",
+    "phaseId": 3,
+    "arabic": "اِمتِحان",
+    "transliteration": "imtiḥān",
+    "english": "Exam / test",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "عِندي اِمتِحان بُكرا",
+      "transliteration": "ʕindi imtiḥān bukra",
+      "english": "I have an exam tomorrow"
+    }
+  },
+  {
+    "id": "p3-edu-mas2ale",
+    "phaseId": 3,
+    "arabic": "مَسأَلة",
+    "transliteration": "masʔale",
+    "english": "Problem / question (academic)",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-daraje",
+    "phaseId": 3,
+    "arabic": "دَرَجة",
+    "transliteration": "daraje",
+    "english": "Grade / mark",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "شو أَخَدت دَرَجة؟",
+      "transliteration": "shu akhadit daraje?",
+      "english": "What grade did you get?"
+    }
+  },
+  {
+    "id": "p3-edu-takharruj",
+    "phaseId": 3,
+    "arabic": "تَخَرُّج",
+    "transliteration": "takharruj",
+    "english": "Graduation",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-7isab",
+    "phaseId": 3,
+    "arabic": "حِساب",
+    "transliteration": "ḥisāb",
+    "english": "Math / arithmetic",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-m3allim",
+    "phaseId": 3,
+    "arabic": "مْعَلِّم",
+    "transliteration": "mʕallim",
+    "english": "Teacher",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "notes": "Also used colloquially as a term of respect ('boss')"
+  },
+  {
+    "id": "p3-edu-tilmiz",
+    "phaseId": 3,
+    "arabic": "تِلميذ",
+    "transliteration": "tilmīz",
+    "english": "Student / pupil",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-wazife",
+    "phaseId": 3,
+    "arabic": "وَظيفة",
+    "transliteration": "waẓīfe",
+    "english": "Homework / assignment",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "ما عْمِلت الوَظيفة",
+      "transliteration": "mā ʕmilit il-waẓīfe",
+      "english": "I didn't do the homework"
+    }
+  },
+  {
+    "id": "p3-edu-daris",
+    "phaseId": 3,
+    "arabic": "دَرِس",
+    "transliteration": "daris",
+    "english": "Lesson",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-jam3a",
+    "phaseId": 3,
+    "arabic": "جامْعة",
+    "transliteration": "jēmʕa",
+    "english": "University",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-madrse",
+    "phaseId": 3,
+    "arabic": "مَدرَسة",
+    "transliteration": "madrase",
+    "english": "School",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-alam",
+    "phaseId": 3,
+    "arabic": "قَلَم",
+    "transliteration": "ʔalam",
+    "english": "Pen / pencil",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-edu-kteb",
+    "phaseId": 3,
+    "arabic": "كْتاب",
+    "transliteration": "ktēb",
+    "english": "Book",
+    "category": "Education & Learning",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هَيدا الكْتاب كتير مْفيد",
+      "transliteration": "hayda il-ktēb ktīr mfīd",
+      "english": "This book is very useful"
+    }
+  },
+  {
+    "id": "p3-edu-fehim",
+    "phaseId": 3,
+    "arabic": "فِهِم",
+    "transliteration": "fhim",
+    "english": "To understand",
+    "category": "Education & Learning",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "ما فِهِمت شي",
+      "transliteration": "mā fhimt shi",
+      "english": "I didn't understand anything"
+    }
+  },
+  {
+    "id": "p3-edu-sa2al",
+    "phaseId": 3,
+    "arabic": "سَأَل",
+    "transliteration": "saʔal",
+    "english": "To ask (a question)",
+    "category": "Education & Learning",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p3-react-mish-ma32oul",
+    "phaseId": 3,
+    "arabic": "مِش مَعقول!",
+    "transliteration": "mish maʕʔūl!",
+    "english": "Unbelievable! / No way!",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مِش مَعقول شو حِلوِة!",
+      "transliteration": "mish maʕʔūl shu ḥilwe!",
+      "english": "Unbelievably beautiful!"
+    }
+  },
+  {
+    "id": "p3-react-ma-sadda2t",
+    "phaseId": 3,
+    "arabic": "ما صَدَّقِت",
+    "transliteration": "mā ṣaddaʔit",
+    "english": "I couldn't believe it",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-react-wallah",
+    "phaseId": 3,
+    "arabic": "وَلله؟",
+    "transliteration": "wallah?",
+    "english": "Really? / Seriously?",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "notes": "Used as a question to express disbelief"
+  },
+  {
+    "id": "p3-react-jad",
+    "phaseId": 3,
+    "arabic": "جَد؟",
+    "transliteration": "jadd?",
+    "english": "Seriously? / For real?",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-react-la2-shu",
+    "phaseId": 3,
+    "arabic": "لَأ شو!",
+    "transliteration": "laʔ shu!",
+    "english": "No way! / Come on!",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-react-7aram",
+    "phaseId": 3,
+    "arabic": "حَرام",
+    "transliteration": "ḥarām",
+    "english": "What a shame / poor thing",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "notes": "Used to express pity or sympathy, not only religious meaning",
+    "exampleSentence": {
+      "arabic": "حَرام الوْلاد عَم يِتعَذَّبو",
+      "transliteration": "ḥarām il-wlād ʕam yitʕazzabo",
+      "english": "Poor kids, they're suffering"
+    }
+  },
+  {
+    "id": "p3-react-ya-latif",
+    "phaseId": 3,
+    "arabic": "يا لَطيف!",
+    "transliteration": "yā laṭīf!",
+    "english": "Oh dear! / Oh my!",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "notes": "Expression of surprise, concern or exasperation"
+  },
+  {
+    "id": "p3-react-tfeh",
+    "phaseId": 3,
+    "arabic": "تْفِه!",
+    "transliteration": "tfeh!",
+    "english": "Ugh! / Yuck!",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-react-ya-3ayni",
+    "phaseId": 3,
+    "arabic": "يا عَيني!",
+    "transliteration": "yā ʕēyni!",
+    "english": "Oh how sweet! / Aww!",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "notes": "Literally 'oh my eye' — expression of affection or sympathy"
+  },
+  {
+    "id": "p3-react-yee",
+    "phaseId": 3,
+    "arabic": "يي!",
+    "transliteration": "yīī!",
+    "english": "Oh! / Wow! (surprise)",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-react-hayde-zeyede",
+    "phaseId": 3,
+    "arabic": "هَيدي زيادِة",
+    "transliteration": "haydi zyēde",
+    "english": "That's too much / that's over the top",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-react-min-jad",
+    "phaseId": 3,
+    "arabic": "مِن جَد",
+    "transliteration": "min jadd",
+    "english": "For real / I'm serious",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مِن جَد عَم إحكي",
+      "transliteration": "min jadd ʕam iḥki",
+      "english": "I'm being serious (in what I'm saying)"
+    }
+  },
+  {
+    "id": "p3-react-alla",
+    "phaseId": 3,
+    "arabic": "آلله!",
+    "transliteration": "āllah!",
+    "english": "Wow! / Oh God! (admiration)",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "expression",
+    "notes": "Drawn-out 'Allah' expressing admiration"
+  },
+  {
+    "id": "p3-react-3ajabni",
+    "phaseId": 3,
+    "arabic": "عَجَبني",
+    "transliteration": "ʕajabni",
+    "english": "I liked it / it impressed me",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "كتير عَجَبني هَيدا المَطعَم",
+      "transliteration": "ktīr ʕajabni hayda il-maṭʕam",
+      "english": "I really liked this restaurant"
+    }
+  },
+  {
+    "id": "p3-react-mabsut",
+    "phaseId": 3,
+    "arabic": "مَبسوط",
+    "transliteration": "mabsūṭ",
+    "english": "Happy / pleased",
+    "category": "Feelings & Reactions",
+    "partOfSpeech": "adj"
+  },
+  {
+    "id": "p3-social-sadi2",
+    "phaseId": 3,
+    "arabic": "صَديق",
+    "transliteration": "ṣadīʔ",
+    "english": "Friend",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هُوِّي صَديقي مِن زْغير",
+      "transliteration": "huwwe ṣadīʔi min zghīr",
+      "english": "He's been my friend since childhood"
+    }
+  },
+  {
+    "id": "p3-social-jar",
+    "phaseId": 3,
+    "arabic": "جار",
+    "transliteration": "jār",
+    "english": "Neighbor",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "الجيران كتير مْناح",
+      "transliteration": "ij-jīrān ktīr mnāḥ",
+      "english": "The neighbors are very nice"
+    }
+  },
+  {
+    "id": "p3-social-ma3rife",
+    "phaseId": 3,
+    "arabic": "مَعرِفة",
+    "transliteration": "maʕrife",
+    "english": "Acquaintance",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "notes": "Someone you know but not a close friend"
+  },
+  {
+    "id": "p3-social-khatibe",
+    "phaseId": 3,
+    "arabic": "خَطيبة",
+    "transliteration": "khaṭībe",
+    "english": "Fiancee (f.) / girlfriend",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-khatib",
+    "phaseId": 3,
+    "arabic": "خَطيب",
+    "transliteration": "khaṭīb",
+    "english": "Fiance (m.) / boyfriend",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-3aris",
+    "phaseId": 3,
+    "arabic": "عَريس",
+    "transliteration": "ʕarīs",
+    "english": "Groom",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-3arouse",
+    "phaseId": 3,
+    "arabic": "عَروسة",
+    "transliteration": "ʕarūse",
+    "english": "Bride",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-zamel",
+    "phaseId": 3,
+    "arabic": "زَميل",
+    "transliteration": "zamīl",
+    "english": "Colleague",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-rfi2",
+    "phaseId": 3,
+    "arabic": "رْفيق",
+    "transliteration": "rfīʔ",
+    "english": "Buddy / close friend",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "notes": "More casual/intimate than صديق",
+    "exampleSentence": {
+      "arabic": "رْفيقي الله يْخَلّيلي ياه",
+      "transliteration": "rfīʔi alla ykhallīli yē",
+      "english": "My buddy, God bless him"
+    }
+  },
+  {
+    "id": "p3-social-2arīb",
+    "phaseId": 3,
+    "arabic": "قَريب",
+    "transliteration": "ʔarīb",
+    "english": "Relative / close",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "هُوِّي قَريبي",
+      "transliteration": "huwwe ʔarībi",
+      "english": "He's my relative"
+    }
+  },
+  {
+    "id": "p3-social-nsib",
+    "phaseId": 3,
+    "arabic": "نْسيب",
+    "transliteration": "nsīb",
+    "english": "In-law (male)",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-nsibe",
+    "phaseId": 3,
+    "arabic": "نْسيبة",
+    "transliteration": "nsībe",
+    "english": "In-law (female)",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-3irs",
+    "phaseId": 3,
+    "arabic": "عِرِس",
+    "transliteration": "ʕirs",
+    "english": "Wedding",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "العِرِس كانْ كتير حِلو",
+      "transliteration": "il-ʕirs kēn ktīr ḥilu",
+      "english": "The wedding was very beautiful"
+    }
+  },
+  {
+    "id": "p3-social-khibriye",
+    "phaseId": 3,
+    "arabic": "خِبرِيّة",
+    "transliteration": "khibriyye",
+    "english": "Engagement party",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-social-3azume",
+    "phaseId": 3,
+    "arabic": "عَزومة",
+    "transliteration": "ʕazūme",
+    "english": "Gathering / dinner invitation",
+    "category": "Relationships & Social",
+    "partOfSpeech": "noun",
+    "notes": "A social meal where someone hosts/treats"
+  },
+  {
+    "id": "p3-filler-meshi",
+    "phaseId": 3,
+    "arabic": "ماشي",
+    "transliteration": "māshi",
+    "english": "OK / fine / alright",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-filler-khalas",
+    "phaseId": 3,
+    "arabic": "خَلَص",
+    "transliteration": "khalaṣ",
+    "english": "Done / enough / that's it",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "خَلَص ما بَدّي إحكي",
+      "transliteration": "khalaṣ mā baddi iḥki",
+      "english": "Enough, I don't want to talk"
+    }
+  },
+  {
+    "id": "p3-filler-3adi",
+    "phaseId": 3,
+    "arabic": "عادي",
+    "transliteration": "ʕādi",
+    "english": "Normal / it's fine / no big deal",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "عادي ما تِقلَق",
+      "transliteration": "ʕādi mā tiʔlaʔ",
+      "english": "It's fine, don't worry"
+    }
+  },
+  {
+    "id": "p3-filler-tab",
+    "phaseId": 3,
+    "arabic": "طَب",
+    "transliteration": "ṭab",
+    "english": "Then / so / well",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "notes": "Filler used to transition in conversation",
+    "exampleSentence": {
+      "arabic": "طَب شو نَعمِل؟",
+      "transliteration": "ṭab shu naʕmil?",
+      "english": "So what do we do?"
+    }
+  },
+  {
+    "id": "p3-filler-hala2",
+    "phaseId": 3,
+    "arabic": "هَلَّق",
+    "transliteration": "hallaʔ",
+    "english": "Now / at this point",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese for 'now'; also used as a discourse marker"
+  },
+  {
+    "id": "p3-filler-wallah-swear",
+    "phaseId": 3,
+    "arabic": "وَلله",
+    "transliteration": "wallah",
+    "english": "I swear / honestly",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "notes": "Used constantly as an intensifier, not always literal"
+  },
+  {
+    "id": "p3-filler-w-ba3dein",
+    "phaseId": 3,
+    "arabic": "وْبَعدين؟",
+    "transliteration": "w-baʕdēn?",
+    "english": "And then what? / So what?",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-filler-2ahh",
+    "phaseId": 3,
+    "arabic": "آه",
+    "transliteration": "āhh",
+    "english": "Oh! / Ah! (realization)",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-filler-hayde",
+    "phaseId": 3,
+    "arabic": "هَيدي",
+    "transliteration": "haydi",
+    "english": "This (f.) / like this",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "pronoun",
+    "notes": "Also used as a filler: 'this thing' / 'you know'"
+  },
+  {
+    "id": "p3-filler-shu-baarifni",
+    "phaseId": 3,
+    "arabic": "شو بَعرِفني",
+    "transliteration": "shu baʕrifni",
+    "english": "How should I know / I dunno",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-filler-ya3ne",
+    "phaseId": 3,
+    "arabic": "يَعني هَيك",
+    "transliteration": "yaʕni hēk",
+    "english": "I mean, like that / sort of",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-filler-kifak-mish",
+    "phaseId": 3,
+    "arabic": "كيفَك مِش هَيك؟",
+    "transliteration": "kīfak mish hēk?",
+    "english": "Right? / Isn't it so?",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "notes": "Tag question seeking agreement"
+  },
+  {
+    "id": "p3-filler-3an-jad",
+    "phaseId": 3,
+    "arabic": "عَن جَد",
+    "transliteration": "ʕan jadd",
+    "english": "Really / truly / for real",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "عَن جَد؟ ما عَم تِمزَح؟",
+      "transliteration": "ʕan jadd? mā ʕam timzaḥ?",
+      "english": "For real? You're not joking?"
+    }
+  },
+  {
+    "id": "p3-filler-la-hala2",
+    "phaseId": 3,
+    "arabic": "لَ هَلَّق",
+    "transliteration": "la-hallaʔ",
+    "english": "Until now / still",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-filler-bi-suraa",
+    "phaseId": 3,
+    "arabic": "بِسُرعا",
+    "transliteration": "b-surʕa",
+    "english": "Quickly / in short",
+    "category": "Filler Words & Discourse Markers",
+    "partOfSpeech": "expression",
+    "notes": "Used when rushing through a story"
+  },
+  {
+    "id": "p3-cook-2ala",
+    "phaseId": 3,
+    "arabic": "قَلى",
+    "transliteration": "ʔala",
+    "english": "To fry",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "قَلى البَيض بِالزَيت",
+      "transliteration": "ʔala il-bēḍ b-iz-zēt",
+      "english": "He fried the eggs in oil"
+    }
+  },
+  {
+    "id": "p3-cook-shawa",
+    "phaseId": 3,
+    "arabic": "شَوى",
+    "transliteration": "shawa",
+    "english": "To grill",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "verb",
+    "exampleSentence": {
+      "arabic": "خَلّينا نِشوي لَحمة",
+      "transliteration": "khallīna nishwi laḥme",
+      "english": "Let's grill some meat"
+    }
+  },
+  {
+    "id": "p3-cook-sala2",
+    "phaseId": 3,
+    "arabic": "سَلَق",
+    "transliteration": "salaʔ",
+    "english": "To boil",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p3-cook-7ammas",
+    "phaseId": 3,
+    "arabic": "حَمَّص",
+    "transliteration": "ḥammaṣ",
+    "english": "To roast / to toast",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "p3-cook-mele7",
+    "phaseId": 3,
+    "arabic": "مِلِح",
+    "transliteration": "miliḥ",
+    "english": "Salt",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-cook-bhar",
+    "phaseId": 3,
+    "arabic": "بْهار",
+    "transliteration": "bhār",
+    "english": "Spice",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-cook-zayt-zaytoun",
+    "phaseId": 3,
+    "arabic": "زَيت زَيتون",
+    "transliteration": "zēt zaytūn",
+    "english": "Olive oil",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "حُطّ زَيت زَيتون عَ السَلَطة",
+      "transliteration": "ḥuṭṭ zēt zaytūn ʕa-s-salaṭa",
+      "english": "Put olive oil on the salad"
+    }
+  },
+  {
+    "id": "p3-cook-toom",
+    "phaseId": 3,
+    "arabic": "توم",
+    "transliteration": "tūm",
+    "english": "Garlic",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun",
+    "notes": "Also the name of a famous garlic sauce"
+  },
+  {
+    "id": "p3-cook-basle",
+    "phaseId": 3,
+    "arabic": "بَصلة",
+    "transliteration": "baṣle",
+    "english": "Onion",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-cook-bandoora",
+    "phaseId": 3,
+    "arabic": "بَندورة",
+    "transliteration": "bandōra",
+    "english": "Tomato",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun",
+    "notes": "Lebanese-specific; other dialects say طماطم"
+  },
+  {
+    "id": "p3-cook-khiyar",
+    "phaseId": 3,
+    "arabic": "خْيار",
+    "transliteration": "khyār",
+    "english": "Cucumber",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-cook-batata",
+    "phaseId": 3,
+    "arabic": "بَطاطا",
+    "transliteration": "baṭāṭa",
+    "english": "Potato",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun",
+    "exampleSentence": {
+      "arabic": "بَدّي اِقلي بَطاطا",
+      "transliteration": "baddi iʔli baṭāṭa",
+      "english": "I want to fry potatoes"
+    }
+  },
+  {
+    "id": "p3-cook-tanjara",
+    "phaseId": 3,
+    "arabic": "طَنجَرة",
+    "transliteration": "ṭanjara",
+    "english": "Pot / cooking pot",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-cook-ma2leye",
+    "phaseId": 3,
+    "arabic": "مَقلاية",
+    "transliteration": "maʔlēye",
+    "english": "Frying pan",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-cook-sakkin",
+    "phaseId": 3,
+    "arabic": "سِكّين",
+    "transliteration": "sikkīn",
+    "english": "Knife",
+    "category": "Cooking & Kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "p3-connex-ma3-inno",
+    "phaseId": 3,
+    "arabic": "مَع إِنّو",
+    "transliteration": "maʕ inno",
+    "english": "Even though / although",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مَع إِنّو تْعِب، كَمَّل شُغلو",
+      "transliteration": "maʕ inno tʕib, kammal shughlo",
+      "english": "Even though he was tired, he finished his work"
+    }
+  },
+  {
+    "id": "p3-connex-bi-ma-inno",
+    "phaseId": 3,
+    "arabic": "بْما إِنّو",
+    "transliteration": "b-ma inno",
+    "english": "Since / given that",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "بْما إِنّو عِندَك سَيّارة، وَصِّلني",
+      "transliteration": "b-ma inno ʕindak sayyāra, waṣṣilni",
+      "english": "Since you have a car, give me a ride"
+    }
+  },
+  {
+    "id": "p3-connex-li-hayk",
+    "phaseId": 3,
+    "arabic": "لَهَيك",
+    "transliteration": "la-hēk",
+    "english": "Therefore / that's why",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-illa-iza",
+    "phaseId": 3,
+    "arabic": "إِلّا إِذا",
+    "transliteration": "illa iza",
+    "english": "Unless",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "مْنِروح، إِلّا إِذا شِتي",
+      "transliteration": "mnirūḥ, illa iza shiti",
+      "english": "We'll go, unless it rains"
+    }
+  },
+  {
+    "id": "p3-connex-7atta",
+    "phaseId": 3,
+    "arabic": "حَتّى",
+    "transliteration": "ḥatta",
+    "english": "Even / until",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "حَتّى هُوِّي ما كانْ يَعرِف",
+      "transliteration": "ḥatta huwwe mā kēn yaʕrif",
+      "english": "Even he didn't know"
+    }
+  },
+  {
+    "id": "p3-connex-bi-nafs-il-wa2t",
+    "phaseId": 3,
+    "arabic": "بْنَفس الوَقِت",
+    "transliteration": "b-nafs il-waʔt",
+    "english": "At the same time",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-min-nahye-tenieh",
+    "phaseId": 3,
+    "arabic": "مِن ناحيِة تانيِة",
+    "transliteration": "min nāḥye tānye",
+    "english": "On the other hand",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-aw",
+    "phaseId": 3,
+    "arabic": "أَو",
+    "transliteration": "aw",
+    "english": "Or",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-willa",
+    "phaseId": 3,
+    "arabic": "وِلّا",
+    "transliteration": "willa",
+    "english": "Or / otherwise",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "notes": "More colloquial than أَو",
+    "exampleSentence": {
+      "arabic": "بَدَّك شاي وِلّا قَهوة؟",
+      "transliteration": "baddak shāy willa ʔahwe?",
+      "english": "Do you want tea or coffee?"
+    }
+  },
+  {
+    "id": "p3-connex-bi-sabab",
+    "phaseId": 3,
+    "arabic": "بْسَبَب",
+    "transliteration": "b-sabab",
+    "english": "Because of / due to",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "تأَخَّرنا بْسَبَب الزَحمة",
+      "transliteration": "taʔakhkharna b-sabab iz-zaḥme",
+      "english": "We were late because of the traffic"
+    }
+  },
+  {
+    "id": "p3-connex-rghm-inno",
+    "phaseId": 3,
+    "arabic": "رَغِم إِنّو",
+    "transliteration": "raghm inno",
+    "english": "Despite the fact that",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-ta-ma",
+    "phaseId": 3,
+    "arabic": "تَ ما",
+    "transliteration": "ta ma",
+    "english": "So that / in order to",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "notes": "Lebanese-specific connector",
+    "exampleSentence": {
+      "arabic": "روح بَكّير تَ ما تِلحَق",
+      "transliteration": "rūḥ bakkīr ta ma tilḥaʔ",
+      "english": "Go early so that you make it on time"
+    }
+  },
+  {
+    "id": "p3-connex-iza-ken",
+    "phaseId": 3,
+    "arabic": "إِذا كانْ",
+    "transliteration": "iza kēn",
+    "english": "If it was / if",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-ghēr-hēk",
+    "phaseId": 3,
+    "arabic": "غير هَيك",
+    "transliteration": "ghēr hēk",
+    "english": "Other than that / otherwise",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression"
+  },
+  {
+    "id": "p3-connex-bikhsous",
+    "phaseId": 3,
+    "arabic": "بْخُصوص",
+    "transliteration": "b-khuṣūṣ",
+    "english": "Regarding / concerning",
+    "category": "Connectors Expanded",
+    "partOfSpeech": "expression",
+    "exampleSentence": {
+      "arabic": "بْخُصوص المَوضوع يَلّي حْكينا عَنّو",
+      "transliteration": "b-khuṣūṣ il-mawḍūʕ yalli ḥkīna ʕanno",
+      "english": "Regarding the topic we talked about"
+    }
+  }
+]

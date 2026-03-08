@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "p1-msa-greetings",
+    "phaseId": 1,
+    "category": "Basic Greetings",
+    "items": [
+      {
+        "concept": "Hello",
+        "msa": {
+          "arabic": "اَلسَّلَامُ عَلَيْكُمْ",
+          "transliteration": "as-salāmu ʕalaykum"
+        },
+        "lebanese": {
+          "arabic": "مَرْحَبَا",
+          "transliteration": "marḥaba"
+        },
+        "notes": "MSA uses the formal Islamic greeting; Lebanese commonly uses 'marḥaba' for casual hello. 'Salām' is also used in Lebanese but shortened."
+      },
+      {
+        "concept": "Goodbye",
+        "msa": {
+          "arabic": "مَعَ السَّلَامَةِ",
+          "transliteration": "maʕa as-salāma"
+        },
+        "lebanese": {
+          "arabic": "يَلَّا بَايْ",
+          "transliteration": "yalla bāy"
+        },
+        "notes": "Lebanese often uses the French-influenced 'bāy' (bye) or 'yalla bāy'. 'Maʕ salēme' also exists but is less casual."
+      },
+      {
+        "concept": "Good morning",
+        "msa": {
+          "arabic": "صَبَاحُ الْخَيْرِ",
+          "transliteration": "ṣabāḥu al-khayr"
+        },
+        "lebanese": {
+          "arabic": "صْبَاحْ الْخِيرْ",
+          "transliteration": "ṣbāḥ il-khēr"
+        },
+        "notes": "Very similar in both, but Lebanese drops the case endings and shortens the vowels. The response in Lebanese is 'ṣbāḥ in-nūr'."
+      },
+      {
+        "concept": "How are you?",
+        "msa": {
+          "arabic": "كَيْفَ حَالُكَ؟",
+          "transliteration": "kayfa ḥāluka?"
+        },
+        "lebanese": {
+          "arabic": "كِيفَكْ؟",
+          "transliteration": "kīfak?"
+        },
+        "notes": "Lebanese contracts 'kayfa ḥāluka' into the single word 'kīfak' (m) / 'kīfik' (f). Much shorter and more fluid."
+      },
+      {
+        "concept": "Fine / Good",
+        "msa": {
+          "arabic": "بِخَيْرٍ، اَلْحَمْدُ لِلَّهِ",
+          "transliteration": "bi-khayrin, al-ḥamdu lillāh"
+        },
+        "lebanese": {
+          "arabic": "مْنِيحْ، الْحَمْدِ لِلَّه",
+          "transliteration": "mnīḥ, il-ḥamdi lillah"
+        },
+        "notes": "Lebanese uses 'mnīḥ' (good/fine), which has no MSA equivalent. It comes from a Syriac-Aramaic root. MSA uses 'bi-khayr' (in goodness)."
+      }
+    ]
+  },
+  {
+    "id": "p1-msa-questions",
+    "phaseId": 1,
+    "category": "Question Words",
+    "items": [
+      {
+        "concept": "What?",
+        "msa": {
+          "arabic": "مَاذَا؟",
+          "transliteration": "mādhā?"
+        },
+        "lebanese": {
+          "arabic": "شُو؟",
+          "transliteration": "shū?"
+        },
+        "notes": "One of the most distinctive differences. MSA 'mādhā' becomes Lebanese 'shū', derived from 'ayyu shayʔ' (which thing)."
+      },
+      {
+        "concept": "Where?",
+        "msa": {
+          "arabic": "أَيْنَ؟",
+          "transliteration": "ʔayna?"
+        },
+        "lebanese": {
+          "arabic": "وِينْ؟",
+          "transliteration": "wēn?"
+        },
+        "notes": "MSA 'ʔayna' becomes Lebanese 'wēn', a contracted form. Very common across Levantine dialects."
+      },
+      {
+        "concept": "When?",
+        "msa": {
+          "arabic": "مَتَى؟",
+          "transliteration": "matā?"
+        },
+        "lebanese": {
+          "arabic": "إِيمْتَا؟",
+          "transliteration": "ʔēmta?"
+        },
+        "notes": "Lebanese adds a prefix 'ʔē-' to 'matā'. Also heard as 'ʔēmtēn' in some regions."
+      },
+      {
+        "concept": "How?",
+        "msa": {
+          "arabic": "كَيْفَ؟",
+          "transliteration": "kayfa?"
+        },
+        "lebanese": {
+          "arabic": "كِيفْ؟",
+          "transliteration": "kīf?"
+        },
+        "notes": "Similar root, but Lebanese simplifies the vowels and drops case endings. 'Kīf' is universal in Lebanese."
+      },
+      {
+        "concept": "Why?",
+        "msa": {
+          "arabic": "لِمَاذَا؟",
+          "transliteration": "limādhā?"
+        },
+        "lebanese": {
+          "arabic": "لِيشْ؟",
+          "transliteration": "lēsh?"
+        },
+        "notes": "MSA 'limādhā' contracts to 'lēsh' in Lebanese, from 'li-ayyi shayʔ' (for what thing)."
+      },
+      {
+        "concept": "Who?",
+        "msa": {
+          "arabic": "مَنْ؟",
+          "transliteration": "man?"
+        },
+        "lebanese": {
+          "arabic": "مِينْ؟",
+          "transliteration": "mīn?"
+        },
+        "notes": "Similar root but vowel shift from 'a' to 'ī'. Lebanese 'mīn' is used across all Levantine dialects."
+      }
+    ]
+  },
+  {
+    "id": "p1-msa-basic-verbs",
+    "phaseId": 1,
+    "category": "Basic Verbs",
+    "items": [
+      {
+        "concept": "To go",
+        "msa": {
+          "arabic": "يَذْهَبُ",
+          "transliteration": "yadh-habu"
+        },
+        "lebanese": {
+          "arabic": "يِرُوحْ",
+          "transliteration": "yirūḥ"
+        },
+        "notes": "Completely different verbs. MSA uses 'dhahaba'; Lebanese uses 'rāḥ' (lit. 'to fly/go away'), which also means 'went'."
+      },
+      {
+        "concept": "To come",
+        "msa": {
+          "arabic": "يَأْتِي",
+          "transliteration": "yaʔtī"
+        },
+        "lebanese": {
+          "arabic": "يِجِي",
+          "transliteration": "yiji"
+        },
+        "notes": "MSA 'yaʔtī' becomes 'yiji' in Lebanese, from the root j-y-ʔ. The hamza is dropped and vowels shift."
+      },
+      {
+        "concept": "To see",
+        "msa": {
+          "arabic": "يَرَى",
+          "transliteration": "yarā"
+        },
+        "lebanese": {
+          "arabic": "يِشُوفْ",
+          "transliteration": "yishūf"
+        },
+        "notes": "Different verbs entirely. MSA uses 'raʔā' (to see); Lebanese uses 'shāf' (to look/see), common across Levantine Arabic."
+      },
+      {
+        "concept": "To eat",
+        "msa": {
+          "arabic": "يَأْكُلُ",
+          "transliteration": "yaʔkulu"
+        },
+        "lebanese": {
+          "arabic": "يَاكُلْ",
+          "transliteration": "yēkol"
+        },
+        "notes": "Same root (ʔ-k-l) but Lebanese drops the hamza and simplifies vowels. Pronunciation is noticeably different."
+      },
+      {
+        "concept": "To drink",
+        "msa": {
+          "arabic": "يَشْرَبُ",
+          "transliteration": "yashrabu"
+        },
+        "lebanese": {
+          "arabic": "يِشْرَبْ",
+          "transliteration": "yishrab"
+        },
+        "notes": "Same root (sh-r-b). Lebanese drops case endings and shifts the initial vowel from 'ya-' to 'yi-'."
+      },
+      {
+        "concept": "To speak",
+        "msa": {
+          "arabic": "يَتَكَلَّمُ",
+          "transliteration": "yatakallamu"
+        },
+        "lebanese": {
+          "arabic": "يِحْكِي",
+          "transliteration": "yiḥki"
+        },
+        "notes": "Different verbs. MSA uses Form V 'takallama'; Lebanese uses 'ḥaka' (to narrate/talk), a simpler form."
+      }
+    ]
+  },
+  {
+    "id": "p1-msa-pronouns",
+    "phaseId": 1,
+    "category": "Common Pronouns",
+    "items": [
+      {
+        "concept": "I",
+        "msa": {
+          "arabic": "أَنَا",
+          "transliteration": "ʔanā"
+        },
+        "lebanese": {
+          "arabic": "أَنَا",
+          "transliteration": "ʔana"
+        },
+        "notes": "Almost identical. Lebanese shortens the final vowel slightly: 'ʔana' vs MSA 'ʔanā'."
+      },
+      {
+        "concept": "You (masculine)",
+        "msa": {
+          "arabic": "أَنْتَ",
+          "transliteration": "ʔanta"
+        },
+        "lebanese": {
+          "arabic": "إِنْتَ",
+          "transliteration": "ʔinta"
+        },
+        "notes": "Lebanese shifts the hamza vowel from 'a' to 'i': 'ʔinta' instead of 'ʔanta'."
+      },
+      {
+        "concept": "You (feminine)",
+        "msa": {
+          "arabic": "أَنْتِ",
+          "transliteration": "ʔanti"
+        },
+        "lebanese": {
+          "arabic": "إِنْتِي",
+          "transliteration": "ʔinti"
+        },
+        "notes": "Same vowel shift as masculine: 'ʔinti' instead of 'ʔanti'. Sometimes extended to 'ʔintī'."
+      },
+      {
+        "concept": "He",
+        "msa": {
+          "arabic": "هُوَ",
+          "transliteration": "huwa"
+        },
+        "lebanese": {
+          "arabic": "هُوِّي",
+          "transliteration": "huwwe"
+        },
+        "notes": "Lebanese adds an emphatic ending '-we' to become 'huwwe'. Very characteristic of Lebanese dialect."
+      },
+      {
+        "concept": "She",
+        "msa": {
+          "arabic": "هِيَ",
+          "transliteration": "hiya"
+        },
+        "lebanese": {
+          "arabic": "هِيِّي",
+          "transliteration": "hiyye"
+        },
+        "notes": "Parallel to 'huwwe', the feminine becomes 'hiyye' in Lebanese, adding the '-ye' ending."
+      },
+      {
+        "concept": "We",
+        "msa": {
+          "arabic": "نَحْنُ",
+          "transliteration": "naḥnu"
+        },
+        "lebanese": {
+          "arabic": "نِحْنَا",
+          "transliteration": "niḥna"
+        },
+        "notes": "Lebanese shifts to 'niḥna'. The vowel change and final '-a' are distinctive Lebanese features."
+      }
+    ]
+  },
+  {
+    "id": "p1-msa-numbers",
+    "phaseId": 1,
+    "category": "Numbers",
+    "items": [
+      {
+        "concept": "One",
+        "msa": {
+          "arabic": "وَاحِدٌ",
+          "transliteration": "wāḥidun"
+        },
+        "lebanese": {
+          "arabic": "وَاحَدْ",
+          "transliteration": "wāḥad"
+        },
+        "notes": "Same root but Lebanese drops the tanwīn (nunation) ending and shifts the vowel from 'i' to 'a'."
+      },
+      {
+        "concept": "Two",
+        "msa": {
+          "arabic": "اِثْنَانِ",
+          "transliteration": "ithnāni"
+        },
+        "lebanese": {
+          "arabic": "تْنِينْ",
+          "transliteration": "tnēn"
+        },
+        "notes": "Significantly shortened in Lebanese. The initial hamza and 'th' sound become just 't', and the whole word contracts."
+      },
+      {
+        "concept": "Three",
+        "msa": {
+          "arabic": "ثَلَاثَةٌ",
+          "transliteration": "thalāthah"
+        },
+        "lebanese": {
+          "arabic": "تْلَاتِي",
+          "transliteration": "tlēte"
+        },
+        "notes": "Lebanese replaces 'th' (ث) with 't' throughout, a hallmark of Lebanese phonology. MSA 'thalāthah' becomes 'tlēte'."
+      },
+      {
+        "concept": "Four",
+        "msa": {
+          "arabic": "أَرْبَعَةٌ",
+          "transliteration": "ʔarbaʕah"
+        },
+        "lebanese": {
+          "arabic": "أَرْبْعَا",
+          "transliteration": "ʔarbʕa"
+        },
+        "notes": "Similar but Lebanese compresses the vowels and drops endings. The 'ʕayn' remains prominent in both."
+      },
+      {
+        "concept": "Five",
+        "msa": {
+          "arabic": "خَمْسَةٌ",
+          "transliteration": "khamsah"
+        },
+        "lebanese": {
+          "arabic": "خَمْسِي",
+          "transliteration": "khamse"
+        },
+        "notes": "Minor differences: Lebanese drops the tanwīn and the final vowel shifts. Pronunciation is close between the two."
+      }
+    ]
+  },
+  {
+    "id": "p2-msa-daily-verbs",
+    "phaseId": 2,
+    "category": "Daily Verbs",
+    "items": [
+      {
+        "concept": "To buy",
+        "msa": {
+          "arabic": "يَشْتَرِي",
+          "transliteration": "yashtarī"
+        },
+        "lebanese": {
+          "arabic": "يِشْتِرِي",
+          "transliteration": "yishtiri"
+        },
+        "notes": "Same root (sh-t-r-y) but Lebanese shifts the prefix vowel from 'ya-' to 'yi-' and shortens internal vowels."
+      },
+      {
+        "concept": "To open",
+        "msa": {
+          "arabic": "يَفْتَحُ",
+          "transliteration": "yaftaḥu"
+        },
+        "lebanese": {
+          "arabic": "يِفْتَحْ",
+          "transliteration": "yiftaḥ"
+        },
+        "notes": "Same root (f-t-ḥ). Lebanese drops the final case vowel and uses the 'yi-' prefix pattern."
+      },
+      {
+        "concept": "To close",
+        "msa": {
+          "arabic": "يُغْلِقُ",
+          "transliteration": "yughliqu"
+        },
+        "lebanese": {
+          "arabic": "يِسْكِرْ",
+          "transliteration": "yiskir"
+        },
+        "notes": "Different verbs entirely. MSA uses 'ʔaghlaqa' (Form IV); Lebanese uses 'sakar' (to lock/close), from a different root."
+      },
+      {
+        "concept": "To cook",
+        "msa": {
+          "arabic": "يَطْبُخُ",
+          "transliteration": "yaṭbukhu"
+        },
+        "lebanese": {
+          "arabic": "يِطْبُخْ",
+          "transliteration": "yiṭbokh"
+        },
+        "notes": "Same root (ṭ-b-kh). Minimal difference -- mainly the prefix vowel shift and dropped endings typical of Lebanese."
+      },
+      {
+        "concept": "To wash",
+        "msa": {
+          "arabic": "يَغْسِلُ",
+          "transliteration": "yaghsilu"
+        },
+        "lebanese": {
+          "arabic": "يِغْسِلْ",
+          "transliteration": "yighsil"
+        },
+        "notes": "Same root (gh-s-l). Lebanese follows the standard pattern: 'yi-' prefix and no case endings."
+      },
+      {
+        "concept": "To sleep",
+        "msa": {
+          "arabic": "يَنَامُ",
+          "transliteration": "yanāmu"
+        },
+        "lebanese": {
+          "arabic": "يْنَامْ",
+          "transliteration": "ynēm"
+        },
+        "notes": "Same root (n-w-m). Lebanese shortens the vowel pattern and drops endings. Often heard as 'ynēm' with an 'ē' vowel."
+      }
+    ]
+  },
+  {
+    "id": "p2-msa-prepositions",
+    "phaseId": 2,
+    "category": "Prepositions",
+    "items": [
+      {
+        "concept": "On / On top of",
+        "msa": {
+          "arabic": "عَلَى",
+          "transliteration": "ʕalā"
+        },
+        "lebanese": {
+          "arabic": "عَا",
+          "transliteration": "ʕa"
+        },
+        "notes": "Lebanese dramatically shortens 'ʕalā' to just 'ʕa'. One of the most recognizable Lebanese contractions."
+      },
+      {
+        "concept": "In / Inside",
+        "msa": {
+          "arabic": "فِي",
+          "transliteration": "fī"
+        },
+        "lebanese": {
+          "arabic": "بْـ",
+          "transliteration": "b-"
+        },
+        "notes": "Lebanese often replaces 'fī' with the prefix 'b-' attached directly to the next word. 'Fī' still exists but means 'there is'."
+      },
+      {
+        "concept": "To / Toward",
+        "msa": {
+          "arabic": "إِلَى",
+          "transliteration": "ʔilā"
+        },
+        "lebanese": {
+          "arabic": "لَـ / عَا",
+          "transliteration": "la- / ʕa"
+        },
+        "notes": "Lebanese replaces 'ʔilā' with 'la-' (prefix) or 'ʕa' depending on context. 'ʔilā' is not used in spoken Lebanese."
+      },
+      {
+        "concept": "From",
+        "msa": {
+          "arabic": "مِنْ",
+          "transliteration": "min"
+        },
+        "lebanese": {
+          "arabic": "مِنْ",
+          "transliteration": "min"
+        },
+        "notes": "Identical in both MSA and Lebanese. One of the few prepositions that remains unchanged."
+      },
+      {
+        "concept": "With",
+        "msa": {
+          "arabic": "مَعَ",
+          "transliteration": "maʕa"
+        },
+        "lebanese": {
+          "arabic": "مَعْ",
+          "transliteration": "maʕ"
+        },
+        "notes": "Very similar. Lebanese just drops the final short vowel: 'maʕ' instead of 'maʕa'."
+      },
+      {
+        "concept": "Near / Close to",
+        "msa": {
+          "arabic": "بِالْقُرْبِ مِنْ",
+          "transliteration": "bil-qurbi min"
+        },
+        "lebanese": {
+          "arabic": "قَرِيبْ مِنْ",
+          "transliteration": "ʔarīb min"
+        },
+        "notes": "Lebanese uses the simpler adjective form 'ʔarīb' (close). Note: Lebanese often pronounces 'q' as a glottal stop 'ʔ'."
+      }
+    ]
+  },
+  {
+    "id": "p2-msa-negation",
+    "phaseId": 2,
+    "category": "Negation",
+    "items": [
+      {
+        "concept": "Not (simple negation)",
+        "msa": {
+          "arabic": "لَا / لَيْسَ",
+          "transliteration": "lā / laysa"
+        },
+        "lebanese": {
+          "arabic": "مَا / مُو",
+          "transliteration": "ma / mū"
+        },
+        "notes": "MSA uses 'lā' for verbs and 'laysa' for nouns. Lebanese primarily uses 'ma' before verbs and 'mū' or 'mish' for nouns."
+      },
+      {
+        "concept": "Don't (circumfix negation)",
+        "msa": {
+          "arabic": "لَا تَفْعَلْ",
+          "transliteration": "lā tafʕal"
+        },
+        "lebanese": {
+          "arabic": "مَا تِفْعَلْشْ",
+          "transliteration": "ma tifʕalsh"
+        },
+        "notes": "Lebanese wraps the verb in 'ma...sh' (circumfix negation), e.g., 'ma trūḥsh' (don't go). This is a defining feature of Lebanese grammar."
+      },
+      {
+        "concept": "There isn't / There is no",
+        "msa": {
+          "arabic": "لَا يُوجَدُ",
+          "transliteration": "lā yūjadu"
+        },
+        "lebanese": {
+          "arabic": "مَا فِي",
+          "transliteration": "ma fī"
+        },
+        "notes": "'Ma fī' literally means 'not there-is'. It is one of the most used expressions in Lebanese. MSA uses the passive verb 'yūjadu'."
+      },
+      {
+        "concept": "Not yet",
+        "msa": {
+          "arabic": "لَمْ ... بَعْدُ",
+          "transliteration": "lam ... baʕdu"
+        },
+        "lebanese": {
+          "arabic": "لِسَّا مَا",
+          "transliteration": "lissa ma"
+        },
+        "notes": "Lebanese uses 'lissa' (still) + 'ma' (not) before the verb. MSA uses 'lam' (jussive particle) + 'baʕdu' (yet)."
+      }
+    ]
+  },
+  {
+    "id": "p2-msa-food",
+    "phaseId": 2,
+    "category": "Food & Drink",
+    "items": [
+      {
+        "concept": "Water",
+        "msa": {
+          "arabic": "مَاءٌ",
+          "transliteration": "māʔun"
+        },
+        "lebanese": {
+          "arabic": "مَيّْ",
+          "transliteration": "mayy"
+        },
+        "notes": "Lebanese 'mayy' comes from the same root but takes a different noun form. You will never hear 'māʔ' in everyday Lebanese speech."
+      },
+      {
+        "concept": "Bread",
+        "msa": {
+          "arabic": "خُبْزٌ",
+          "transliteration": "khubzun"
+        },
+        "lebanese": {
+          "arabic": "خِبْزِي",
+          "transliteration": "khibze"
+        },
+        "notes": "Same root (kh-b-z). Lebanese shifts the first vowel and drops the tanwīn. The difference is mainly phonetic."
+      },
+      {
+        "concept": "Coffee",
+        "msa": {
+          "arabic": "قَهْوَةٌ",
+          "transliteration": "qahwah"
+        },
+        "lebanese": {
+          "arabic": "قَهْوِي",
+          "transliteration": "ʔahwe"
+        },
+        "notes": "Lebanese pronounces 'q' as a glottal stop: 'ʔahwe' instead of 'qahwah'. This q-to-glottal shift is a key Lebanese sound change."
+      },
+      {
+        "concept": "Milk",
+        "msa": {
+          "arabic": "حَلِيبٌ",
+          "transliteration": "ḥalībun"
+        },
+        "lebanese": {
+          "arabic": "حَلِيبْ",
+          "transliteration": "ḥalīb"
+        },
+        "notes": "Nearly identical. Lebanese only drops the tanwīn ending. One of the closer MSA-Lebanese pairs."
+      },
+      {
+        "concept": "Meat",
+        "msa": {
+          "arabic": "لَحْمٌ",
+          "transliteration": "laḥmun"
+        },
+        "lebanese": {
+          "arabic": "لَحْمِي",
+          "transliteration": "laḥme"
+        },
+        "notes": "Same root (l-ḥ-m). Lebanese drops tanwīn and adds the characteristic '-e' ending."
+      },
+      {
+        "concept": "Rice",
+        "msa": {
+          "arabic": "أَرُزٌّ",
+          "transliteration": "ʔaruzzun"
+        },
+        "lebanese": {
+          "arabic": "رُزّْ",
+          "transliteration": "rizz"
+        },
+        "notes": "Lebanese drops the initial hamza and simplifies to 'rizz'. Shorter and more direct pronunciation."
+      }
+    ]
+  },
+  {
+    "id": "p2-msa-time",
+    "phaseId": 2,
+    "category": "Time Expressions",
+    "items": [
+      {
+        "concept": "Now",
+        "msa": {
+          "arabic": "اَلْآنَ",
+          "transliteration": "al-ʔāna"
+        },
+        "lebanese": {
+          "arabic": "هَلَّقْ",
+          "transliteration": "hallaʔ"
+        },
+        "notes": "Completely different words. Lebanese 'hallaʔ' (from 'hādhā al-waqt' = this time) replaces MSA 'al-ʔāna'. Very distinctive."
+      },
+      {
+        "concept": "Tomorrow",
+        "msa": {
+          "arabic": "غَدًا",
+          "transliteration": "ghadan"
+        },
+        "lebanese": {
+          "arabic": "بُكْرَا",
+          "transliteration": "bukra"
+        },
+        "notes": "Different words. MSA 'ghadan' is never used in spoken Lebanese. 'Bukra' is universal across Levantine dialects."
+      },
+      {
+        "concept": "Yesterday",
+        "msa": {
+          "arabic": "أَمْسِ",
+          "transliteration": "ʔamsi"
+        },
+        "lebanese": {
+          "arabic": "مْبَارِحْ",
+          "transliteration": "mbēriḥ"
+        },
+        "notes": "Completely different. Lebanese 'mbēriḥ' has no clear MSA cognate. MSA 'ʔamsi' sounds literary to Lebanese ears."
+      },
+      {
+        "concept": "Today",
+        "msa": {
+          "arabic": "اَلْيَوْمَ",
+          "transliteration": "al-yawma"
+        },
+        "lebanese": {
+          "arabic": "الْيَوْمْ",
+          "transliteration": "il-yōm"
+        },
+        "notes": "Same word with minor phonetic changes: 'il-' instead of 'al-', dropped case ending, and slight vowel shift."
+      },
+      {
+        "concept": "Later",
+        "msa": {
+          "arabic": "لَاحِقًا",
+          "transliteration": "lāḥiqan"
+        },
+        "lebanese": {
+          "arabic": "بَعْدِينْ",
+          "transliteration": "baʕdēn"
+        },
+        "notes": "Lebanese uses 'baʕdēn' (after-that) which comes from 'baʕda ḥīn'. MSA 'lāḥiqan' is not used in speech."
+      }
+    ]
+  },
+  {
+    "id": "p3-msa-connectors",
+    "phaseId": 3,
+    "category": "Connectors",
+    "items": [
+      {
+        "concept": "But",
+        "msa": {
+          "arabic": "لَكِنَّ",
+          "transliteration": "lākinna"
+        },
+        "lebanese": {
+          "arabic": "بَسْ",
+          "transliteration": "bass"
+        },
+        "notes": "Lebanese 'bass' replaces MSA 'lākinna/walākin'. 'Bass' also means 'enough/only', making it one of the most versatile Lebanese words."
+      },
+      {
+        "concept": "Because",
+        "msa": {
+          "arabic": "لِأَنَّ",
+          "transliteration": "liʔanna"
+        },
+        "lebanese": {
+          "arabic": "لِأَنُّو",
+          "transliteration": "laʔanno"
+        },
+        "notes": "Lebanese modifies 'liʔanna' to 'laʔanno' (with pronoun suffix). Also shortened to just 'la-' before some phrases."
+      },
+      {
+        "concept": "When",
+        "msa": {
+          "arabic": "عِنْدَمَا",
+          "transliteration": "ʕindamā"
+        },
+        "lebanese": {
+          "arabic": "لَمَّا",
+          "transliteration": "lamma"
+        },
+        "notes": "Lebanese uses 'lamma' (from MSA 'lammā'). MSA 'ʕindamā' and 'ḥīnamā' are too formal for spoken Lebanese."
+      },
+      {
+        "concept": "If",
+        "msa": {
+          "arabic": "إِذَا",
+          "transliteration": "ʔidhā"
+        },
+        "lebanese": {
+          "arabic": "إِذَا",
+          "transliteration": "ʔiza"
+        },
+        "notes": "Same word but Lebanese pronounces 'dh' (ذ) as 'z'. This th/dh-to-z shift is systematic in Lebanese phonology."
+      },
+      {
+        "concept": "So / Therefore",
+        "msa": {
+          "arabic": "لِذَلِكَ",
+          "transliteration": "lidhālika"
+        },
+        "lebanese": {
+          "arabic": "فَـ / هَيْكْ",
+          "transliteration": "fa- / hēk"
+        },
+        "notes": "Lebanese uses 'fa-' (same as MSA conjunction) or 'hēk' (like that/so). 'Lidhālika' is too formal for speech."
+      },
+      {
+        "concept": "Then / After that",
+        "msa": {
+          "arabic": "ثُمَّ",
+          "transliteration": "thumma"
+        },
+        "lebanese": {
+          "arabic": "بَعْدِينْ",
+          "transliteration": "baʕdēn"
+        },
+        "notes": "MSA 'thumma' is rarely heard in Lebanese. 'Baʕdēn' (afterwards) serves as the main sequential connector."
+      }
+    ]
+  },
+  {
+    "id": "p3-msa-tense",
+    "phaseId": 3,
+    "category": "Tense Markers",
+    "items": [
+      {
+        "concept": "Present progressive (doing now)",
+        "msa": {
+          "arabic": "يَفْعَلُ الْآنَ",
+          "transliteration": "yafʕalu al-ʔāna"
+        },
+        "lebanese": {
+          "arabic": "عَمْ يِفْعَلْ",
+          "transliteration": "ʕam yifʕal"
+        },
+        "notes": "Lebanese uses the particle 'ʕam' (or 'ʕam-b-') before the verb to indicate ongoing action. MSA has no direct equivalent particle."
+      },
+      {
+        "concept": "Future tense",
+        "msa": {
+          "arabic": "سَوْفَ يَفْعَلُ",
+          "transliteration": "sawfa yafʕalu"
+        },
+        "lebanese": {
+          "arabic": "رَحْ يِفْعَلْ",
+          "transliteration": "raḥ yifʕal"
+        },
+        "notes": "MSA uses 'sawfa' or 'sa-' prefix. Lebanese uses 'raḥ' (from 'rāyiḥ' = going to). Very similar to English 'going to'."
+      },
+      {
+        "concept": "Habitual present",
+        "msa": {
+          "arabic": "يَفْعَلُ عَادَةً",
+          "transliteration": "yafʕalu ʕādatan"
+        },
+        "lebanese": {
+          "arabic": "بِيِفْعَلْ",
+          "transliteration": "byifʕal"
+        },
+        "notes": "Lebanese adds the prefix 'b-' to indicate habitual action: 'byiḥki' = he (usually) speaks. This 'b-' prefix is a core Lebanese feature."
+      },
+      {
+        "concept": "Conditional (would)",
+        "msa": {
+          "arabic": "لَوْ فَعَلَ",
+          "transliteration": "law faʕala"
+        },
+        "lebanese": {
+          "arabic": "لَوْ فِعِلْ",
+          "transliteration": "law fiʕil"
+        },
+        "notes": "Both use 'law' for hypothetical conditionals. The verb form changes but the structure is similar. 'Law' is universal across Arabic varieties."
+      }
+    ]
+  },
+  {
+    "id": "p3-msa-relative",
+    "phaseId": 3,
+    "category": "Relative Clauses",
+    "items": [
+      {
+        "concept": "Who / Which / That (relative pronoun)",
+        "msa": {
+          "arabic": "اَلَّذِي / اَلَّتِي",
+          "transliteration": "alladhī / allatī"
+        },
+        "lebanese": {
+          "arabic": "يَلِّي",
+          "transliteration": "yalli"
+        },
+        "notes": "MSA has gendered relative pronouns (alladhī m., allatī f., etc.). Lebanese simplifies all to one word: 'yalli', used for all genders and numbers."
+      },
+      {
+        "concept": "The one who",
+        "msa": {
+          "arabic": "مَنْ",
+          "transliteration": "man"
+        },
+        "lebanese": {
+          "arabic": "يَلِّي",
+          "transliteration": "yalli"
+        },
+        "notes": "Lebanese uses the same 'yalli' where MSA would use 'man' for people. Context determines the meaning."
+      },
+      {
+        "concept": "That which / What (relative)",
+        "msa": {
+          "arabic": "مَا",
+          "transliteration": "mā"
+        },
+        "lebanese": {
+          "arabic": "يَلِّي / شُو يَلِّي",
+          "transliteration": "yalli / shū yalli"
+        },
+        "notes": "MSA 'mā' as a relative pronoun becomes 'yalli' or 'shū yalli' in Lebanese. 'Yalli' is the universal relative marker."
+      }
+    ]
+  },
+  {
+    "id": "p3-msa-opinions",
+    "phaseId": 3,
+    "category": "Opinion Expressions",
+    "items": [
+      {
+        "concept": "I think",
+        "msa": {
+          "arabic": "أَعْتَقِدُ أَنَّ",
+          "transliteration": "ʔaʕtaqidu ʔanna"
+        },
+        "lebanese": {
+          "arabic": "بِفْتِكِرْ إِنُّو",
+          "transliteration": "biftikir ʔinno"
+        },
+        "notes": "MSA uses Form VIII 'iʕtaqada'; Lebanese uses 'ftakar' with the habitual 'b-' prefix. 'ʔInno' replaces 'ʔanna'."
+      },
+      {
+        "concept": "In my opinion",
+        "msa": {
+          "arabic": "فِي رَأْيِي",
+          "transliteration": "fī raʔyī"
+        },
+        "lebanese": {
+          "arabic": "بِرَأْيِي",
+          "transliteration": "bi-raʔyi"
+        },
+        "notes": "Very similar. Lebanese uses 'bi-' instead of 'fī' as the preposition, a common substitution throughout Lebanese."
+      },
+      {
+        "concept": "It seems / It looks like",
+        "msa": {
+          "arabic": "يَبْدُو أَنَّ",
+          "transliteration": "yabdū ʔanna"
+        },
+        "lebanese": {
+          "arabic": "كِإِنُّو",
+          "transliteration": "kaʔinno"
+        },
+        "notes": "Lebanese 'kaʔinno' (as-if) is used broadly where MSA uses 'yabdū' (it appears). Also heard as 'ka-ʔinno' or 'kinno'."
+      },
+      {
+        "concept": "I agree",
+        "msa": {
+          "arabic": "أُوَافِقُ",
+          "transliteration": "ʔuwāfiqu"
+        },
+        "lebanese": {
+          "arabic": "مَعَكْ حَقّْ",
+          "transliteration": "maʕak ḥaʔʔ"
+        },
+        "notes": "Lebanese uses the phrase 'maʕak ḥaʔʔ' (you have right/truth) rather than the MSA verb 'wāfaqa' (to agree)."
+      }
+    ]
+  },
+  {
+    "id": "p3-msa-exclamations",
+    "phaseId": 3,
+    "category": "Exclamations",
+    "items": [
+      {
+        "concept": "Wow / Amazing",
+        "msa": {
+          "arabic": "يَا لَلْعَجَبِ",
+          "transliteration": "yā lal-ʕajab"
+        },
+        "lebanese": {
+          "arabic": "يِيي",
+          "transliteration": "yīīī"
+        },
+        "notes": "Lebanese uses the elongated 'yīīī' or 'allah' for surprise. MSA's literary exclamation 'yā lal-ʕajab' is too formal for speech."
+      },
+      {
+        "concept": "Oh no!",
+        "msa": {
+          "arabic": "يَا لَلْأَسَفِ",
+          "transliteration": "yā lal-ʔasaf"
+        },
+        "lebanese": {
+          "arabic": "يَا حَرَامْ",
+          "transliteration": "ya ḥarām"
+        },
+        "notes": "'Ya ḥarām' literally means 'oh, what a pity/sin'. It expresses sympathy or dismay and is deeply embedded in Lebanese culture."
+      },
+      {
+        "concept": "Seriously? / Really?",
+        "msa": {
+          "arabic": "حَقًّا؟",
+          "transliteration": "ḥaqqan?"
+        },
+        "lebanese": {
+          "arabic": "جَدّْ؟",
+          "transliteration": "jadd?"
+        },
+        "notes": "Lebanese uses 'jadd?' (serious?) or 'bel-jadd?' (for-real?). Also common: 'maʕʔūl?' (is it reasonable?)."
+      },
+      {
+        "concept": "God willing",
+        "msa": {
+          "arabic": "إِنْ شَاءَ اللَّهُ",
+          "transliteration": "ʔin shāʔa allāh"
+        },
+        "lebanese": {
+          "arabic": "إِنْشَالَّا",
+          "transliteration": "ʔinshalla"
+        },
+        "notes": "Same phrase but Lebanese contracts it into one fluid word: 'ʔinshalla'. Used constantly in daily speech for future plans or hope."
+      },
+      {
+        "concept": "Thank God",
+        "msa": {
+          "arabic": "اَلْحَمْدُ لِلَّهِ",
+          "transliteration": "al-ḥamdu lillāhi"
+        },
+        "lebanese": {
+          "arabic": "الْحَمْدِ لِلَّه",
+          "transliteration": "il-ḥamdi llah"
+        },
+        "notes": "Nearly identical. Lebanese drops case endings and uses 'il-' instead of 'al-'. Used after meals, good news, or recovery from illness."
+      }
+    ]
+  },
+  {
+    "id": "p4-msa-formal",
+    "phaseId": 4,
+    "category": "Formal Registers",
+    "items": [
+      {
+        "concept": "Sir / Mr.",
+        "msa": {
+          "arabic": "سَيِّدِي",
+          "transliteration": "sayyidī"
+        },
+        "lebanese": {
+          "arabic": "أُسْتَاذ",
+          "transliteration": "ʔustēz"
+        },
+        "notes": "Lebanese commonly uses 'ʔustēz' (professor/teacher) as a respectful address for any man, even strangers. MSA 'sayyidī' is very formal."
+      },
+      {
+        "concept": "Madam / Mrs.",
+        "msa": {
+          "arabic": "سَيِّدَتِي",
+          "transliteration": "sayyidatī"
+        },
+        "lebanese": {
+          "arabic": "مَدَامْ",
+          "transliteration": "madām"
+        },
+        "notes": "Lebanese borrowed 'madām' from French. It is the standard polite address for women. MSA 'sayyidatī' sounds overly formal."
+      },
+      {
+        "concept": "Excuse me",
+        "msa": {
+          "arabic": "عَفْوًا / اِسْمَحْ لِي",
+          "transliteration": "ʕafwan / ismaḥ lī"
+        },
+        "lebanese": {
+          "arabic": "بَعْدْ إِذْنَكْ",
+          "transliteration": "baʕd ʔiznak"
+        },
+        "notes": "Lebanese uses 'baʕd ʔiznak' (with your permission) for polite interruption. 'ʕAfwan' is used more for 'you're welcome' in Lebanese."
+      },
+      {
+        "concept": "Please",
+        "msa": {
+          "arabic": "مِنْ فَضْلِكَ",
+          "transliteration": "min faḍlika"
+        },
+        "lebanese": {
+          "arabic": "إِذَا بْتِرِيدْ / لَوْ سَمَحْتْ",
+          "transliteration": "ʔiza btrīd / law samaḥt"
+        },
+        "notes": "Lebanese uses 'law samaḥt' (if you allow) or 'ʔiza btrīd' (if you want). 'Min faḍlak' also exists but sounds semi-formal."
+      },
+      {
+        "concept": "Certainly / Of course",
+        "msa": {
+          "arabic": "بِالتَّأْكِيدِ",
+          "transliteration": "bit-taʔkīd"
+        },
+        "lebanese": {
+          "arabic": "أَكِيدْ",
+          "transliteration": "ʔakīd"
+        },
+        "notes": "Lebanese shortens to 'ʔakīd' (sure/certain). Also common: 'ṭabʕan' (naturally) which is shared with MSA."
+      }
+    ]
+  },
+  {
+    "id": "p4-msa-verb-forms",
+    "phaseId": 4,
+    "category": "Verb Forms",
+    "items": [
+      {
+        "concept": "Form II (intensive/causative: to teach)",
+        "msa": {
+          "arabic": "يُعَلِّمُ",
+          "transliteration": "yuʕallimu"
+        },
+        "lebanese": {
+          "arabic": "يْعَلِّمْ",
+          "transliteration": "yʕallim"
+        },
+        "notes": "Form II pattern is preserved in Lebanese but with simplified vowels. The doubled middle consonant remains the key feature."
+      },
+      {
+        "concept": "Form V (reflexive of II: to learn)",
+        "msa": {
+          "arabic": "يَتَعَلَّمُ",
+          "transliteration": "yataʕallamu"
+        },
+        "lebanese": {
+          "arabic": "يِتْعَلَّمْ",
+          "transliteration": "yitʕallam"
+        },
+        "notes": "Lebanese keeps the 't-' reflexive infix but shifts the prefix: 'yit-' instead of 'yata-'. The structure is recognizable."
+      },
+      {
+        "concept": "Form VIII (reflexive: to meet)",
+        "msa": {
+          "arabic": "يَجْتَمِعُ",
+          "transliteration": "yajtamiʕu"
+        },
+        "lebanese": {
+          "arabic": "يِجْتِمِعْ",
+          "transliteration": "yijtimiʕ"
+        },
+        "notes": "Form VIII with its '-t-' infix is maintained in Lebanese. Vowel shifts follow the standard Lebanese pattern."
+      },
+      {
+        "concept": "Form VII (passive: to break)",
+        "msa": {
+          "arabic": "يَنْكَسِرُ",
+          "transliteration": "yankasiru"
+        },
+        "lebanese": {
+          "arabic": "يِنْكِسِرْ",
+          "transliteration": "yinkisir"
+        },
+        "notes": "Form VII 'in-' prefix for passive/reflexive is preserved. 'nkisar' (it broke) is common in daily Lebanese speech."
+      }
+    ]
+  },
+  {
+    "id": "p4-msa-business",
+    "phaseId": 4,
+    "category": "Business Terms",
+    "items": [
+      {
+        "concept": "Meeting",
+        "msa": {
+          "arabic": "اِجْتِمَاعٌ",
+          "transliteration": "ijtimāʕun"
+        },
+        "lebanese": {
+          "arabic": "مِيتِينْغ / إِجْتِمَاعْ",
+          "transliteration": "mītīng / ijtimēʕ"
+        },
+        "notes": "Lebanese uses both the Arabic 'ijtimēʕ' and the English loanword 'mītīng'. Code-switching is common in Lebanese business."
+      },
+      {
+        "concept": "Company",
+        "msa": {
+          "arabic": "شَرِكَةٌ",
+          "transliteration": "sharikah"
+        },
+        "lebanese": {
+          "arabic": "شَرِكِي",
+          "transliteration": "shirke"
+        },
+        "notes": "Same root (sh-r-k). Lebanese shifts vowels and adds the characteristic '-e' ending instead of the tāʔ marbūṭa '-ah'."
+      },
+      {
+        "concept": "Manager / Director",
+        "msa": {
+          "arabic": "مُدِيرٌ",
+          "transliteration": "mudīrun"
+        },
+        "lebanese": {
+          "arabic": "مْدِيرْ",
+          "transliteration": "mdīr"
+        },
+        "notes": "Same word with the typical Lebanese simplification: dropped tanwīn and compressed initial vowel."
+      },
+      {
+        "concept": "Salary",
+        "msa": {
+          "arabic": "رَاتِبٌ",
+          "transliteration": "rātibun"
+        },
+        "lebanese": {
+          "arabic": "مَعَاشْ",
+          "transliteration": "maʕāsh"
+        },
+        "notes": "Different words. MSA 'rātib' exists in Lebanese but 'maʕāsh' (livelihood) is more commonly used for salary in daily speech."
+      },
+      {
+        "concept": "Contract",
+        "msa": {
+          "arabic": "عَقْدٌ",
+          "transliteration": "ʕaqdun"
+        },
+        "lebanese": {
+          "arabic": "عَقِدْ / كُونْتْرَا",
+          "transliteration": "ʕaʔd / kōntra"
+        },
+        "notes": "Lebanese uses both the Arabic 'ʕaʔd' (with q-to-glottal shift) and the French loanword 'kōntra' (contrat)."
+      }
+    ]
+  },
+  {
+    "id": "p4-msa-directions",
+    "phaseId": 4,
+    "category": "Directions",
+    "items": [
+      {
+        "concept": "Right",
+        "msa": {
+          "arabic": "يَمِينٌ",
+          "transliteration": "yamīnun"
+        },
+        "lebanese": {
+          "arabic": "يَمِينْ",
+          "transliteration": "yamīn"
+        },
+        "notes": "Nearly identical. Lebanese drops the tanwīn. Directions are one area where MSA and Lebanese are quite close."
+      },
+      {
+        "concept": "Left",
+        "msa": {
+          "arabic": "يَسَارٌ / شِمَالٌ",
+          "transliteration": "yasārun / shimālun"
+        },
+        "lebanese": {
+          "arabic": "شْمَالْ",
+          "transliteration": "shmēl"
+        },
+        "notes": "Lebanese uses 'shmēl' (from 'shimāl'). MSA 'yasār' is understood but not used in spoken Lebanese."
+      },
+      {
+        "concept": "Straight ahead",
+        "msa": {
+          "arabic": "مُسْتَقِيمٌ",
+          "transliteration": "mustaqīmun"
+        },
+        "lebanese": {
+          "arabic": "دُغْرِي",
+          "transliteration": "dughri"
+        },
+        "notes": "Lebanese 'dughri' is borrowed from Turkish ('dogru' = straight). It also means 'honest/direct' in a figurative sense."
+      },
+      {
+        "concept": "Turn",
+        "msa": {
+          "arabic": "اِلْتَفِتْ",
+          "transliteration": "iltafit"
+        },
+        "lebanese": {
+          "arabic": "لِفّْ",
+          "transliteration": "liff"
+        },
+        "notes": "Lebanese uses the simpler Form I 'laff' (to turn/wrap) instead of MSA's Form VIII 'iltafata'. Much shorter."
+      },
+      {
+        "concept": "Next to / Beside",
+        "msa": {
+          "arabic": "بِجَانِبِ",
+          "transliteration": "bi-jānibi"
+        },
+        "lebanese": {
+          "arabic": "حَدّْ",
+          "transliteration": "ḥadd"
+        },
+        "notes": "Lebanese uses 'ḥadd' (beside/limit) which is much more concise than MSA 'bi-jānib'. 'Ḥadd il-bēt' = next to the house."
+      }
+    ]
+  },
+  {
+    "id": "p4-msa-health",
+    "phaseId": 4,
+    "category": "Health Terms",
+    "items": [
+      {
+        "concept": "Doctor",
+        "msa": {
+          "arabic": "طَبِيبٌ",
+          "transliteration": "ṭabībun"
+        },
+        "lebanese": {
+          "arabic": "حَكِيمْ / دَكْتُورْ",
+          "transliteration": "ḥakīm / daktūr"
+        },
+        "notes": "Lebanese uses 'ḥakīm' (wise one, traditional) or the French-origin 'daktūr'. MSA 'ṭabīb' is understood but less common in speech."
+      },
+      {
+        "concept": "Hospital",
+        "msa": {
+          "arabic": "مُسْتَشْفَى",
+          "transliteration": "mustashfā"
+        },
+        "lebanese": {
+          "arabic": "مُسْتَشْفَى",
+          "transliteration": "mustashfa"
+        },
+        "notes": "Same word in both. One of the shared MSA/Lebanese medical terms. Only minor vowel shortening in Lebanese."
+      },
+      {
+        "concept": "Medicine / Medication",
+        "msa": {
+          "arabic": "دَوَاءٌ",
+          "transliteration": "dawāʔun"
+        },
+        "lebanese": {
+          "arabic": "دَوَا",
+          "transliteration": "dawa"
+        },
+        "notes": "Same root (d-w-y). Lebanese drops the hamza and tanwīn: 'dawa' instead of 'dawāʔ'."
+      },
+      {
+        "concept": "Pain",
+        "msa": {
+          "arabic": "أَلَمٌ",
+          "transliteration": "ʔalamun"
+        },
+        "lebanese": {
+          "arabic": "وَجَعْ",
+          "transliteration": "wajaʕ"
+        },
+        "notes": "Lebanese prefers 'wajaʕ' (ache/pain) over MSA 'ʔalam'. 'Wajaʕ rēs' = headache, 'wajaʕ baṭn' = stomachache."
+      },
+      {
+        "concept": "Sick / Ill",
+        "msa": {
+          "arabic": "مَرِيضٌ",
+          "transliteration": "marīḍun"
+        },
+        "lebanese": {
+          "arabic": "مْرِيضْ",
+          "transliteration": "mrīḍ"
+        },
+        "notes": "Same root (m-r-ḍ). Lebanese compresses the initial vowel and drops endings. Very similar to MSA."
+      }
+    ]
+  },
+  {
+    "id": "p5-msa-structures",
+    "phaseId": 5,
+    "category": "Advanced Structures",
+    "items": [
+      {
+        "concept": "Passive voice (was written)",
+        "msa": {
+          "arabic": "كُتِبَ",
+          "transliteration": "kutiba"
+        },
+        "lebanese": {
+          "arabic": "اِنْكَتَبْ",
+          "transliteration": "inkatab"
+        },
+        "notes": "MSA uses internal vowel change for passive (kutiba). Lebanese uses the Form VII 'in-' prefix (inkatab). The Lebanese method is more transparent."
+      },
+      {
+        "concept": "Causative (to make someone sit)",
+        "msa": {
+          "arabic": "أَجْلَسَ",
+          "transliteration": "ʔajlasa"
+        },
+        "lebanese": {
+          "arabic": "قَعَّدْ",
+          "transliteration": "ʔaʕʕad"
+        },
+        "notes": "MSA uses Form IV (ʔaf'ala). Lebanese prefers Form II doubling: 'ʔaʕʕad' (from ʔaʕad = to sit). The doubling makes the causative meaning."
+      },
+      {
+        "concept": "Verbal noun (writing)",
+        "msa": {
+          "arabic": "كِتَابَةٌ",
+          "transliteration": "kitābah"
+        },
+        "lebanese": {
+          "arabic": "كْتَابِي",
+          "transliteration": "ktēbe"
+        },
+        "notes": "Same pattern but Lebanese applies its standard phonetic changes: compressed vowels, '-e' ending. Verbal nouns are well-preserved across both varieties."
+      },
+      {
+        "concept": "Active participle (writer / one who writes)",
+        "msa": {
+          "arabic": "كَاتِبٌ",
+          "transliteration": "kātibun"
+        },
+        "lebanese": {
+          "arabic": "كَاتِبْ",
+          "transliteration": "kētib"
+        },
+        "notes": "The active participle pattern (fā'il) is shared. In Lebanese, participles often function as present tense: 'kētib' can mean 'writing (right now)'."
+      }
+    ]
+  },
+  {
+    "id": "p5-msa-media",
+    "phaseId": 5,
+    "category": "Media Vocabulary",
+    "items": [
+      {
+        "concept": "News",
+        "msa": {
+          "arabic": "أَخْبَارٌ",
+          "transliteration": "ʔakhbārun"
+        },
+        "lebanese": {
+          "arabic": "أَخْبَارْ",
+          "transliteration": "ʔakhbēr"
+        },
+        "notes": "Nearly identical. Lebanese drops tanwīn and slightly shifts the vowel. News vocabulary is heavily MSA-influenced even in dialects."
+      },
+      {
+        "concept": "Article (written)",
+        "msa": {
+          "arabic": "مَقَالَةٌ",
+          "transliteration": "maqālah"
+        },
+        "lebanese": {
+          "arabic": "مَقَالِي / آرْتِيكَلْ",
+          "transliteration": "maʔēle / ārtīkal"
+        },
+        "notes": "Lebanese uses either the Arabic 'maʔēle' (with q-to-glottal) or the English/French loanword 'ārtīkal'. Educated speakers may use either."
+      },
+      {
+        "concept": "Channel (TV)",
+        "msa": {
+          "arabic": "قَنَاةٌ",
+          "transliteration": "qanāh"
+        },
+        "lebanese": {
+          "arabic": "مَحَطَّة / شَانِيلْ",
+          "transliteration": "maḥaṭṭa / shānīl"
+        },
+        "notes": "Lebanese uses 'maḥaṭṭa' (station) or the French 'shānīl' (chaîne). MSA 'qanāh' is understood but less natural in speech."
+      },
+      {
+        "concept": "Broadcast",
+        "msa": {
+          "arabic": "بَثٌّ",
+          "transliteration": "baththun"
+        },
+        "lebanese": {
+          "arabic": "بَثّْ مُبَاشِرْ",
+          "transliteration": "bass mbēshir"
+        },
+        "notes": "For 'live broadcast', both use similar terms. Lebanese often just says 'lāyv' (live) from English in casual speech."
+      },
+      {
+        "concept": "Journalist",
+        "msa": {
+          "arabic": "صَحَفِيٌّ",
+          "transliteration": "ṣaḥafiyyun"
+        },
+        "lebanese": {
+          "arabic": "صَحَفِي / جُورْنَالِيسْتْ",
+          "transliteration": "ṣaḥafi / jūrnālīst"
+        },
+        "notes": "Lebanese uses both the Arabic 'ṣaḥafi' and the French/English 'jūrnālīst'. Media vocabulary often mixes sources."
+      }
+    ]
+  },
+  {
+    "id": "p5-msa-abstract",
+    "phaseId": 5,
+    "category": "Abstract Concepts",
+    "items": [
+      {
+        "concept": "Freedom",
+        "msa": {
+          "arabic": "حُرِّيَّةٌ",
+          "transliteration": "ḥurriyyah"
+        },
+        "lebanese": {
+          "arabic": "حُرِّيِّي",
+          "transliteration": "ḥurriyye"
+        },
+        "notes": "Same root (ḥ-r-r). Lebanese modifies the ending slightly. Abstract political vocabulary tends to be very close to MSA."
+      },
+      {
+        "concept": "Justice",
+        "msa": {
+          "arabic": "عَدَالَةٌ",
+          "transliteration": "ʕadālah"
+        },
+        "lebanese": {
+          "arabic": "عَدَالِي",
+          "transliteration": "ʕadēle"
+        },
+        "notes": "Same root (ʕ-d-l). Minor phonetic differences. Formal/abstract terms are often borrowed directly from MSA into Lebanese speech."
+      },
+      {
+        "concept": "Opportunity",
+        "msa": {
+          "arabic": "فُرْصَةٌ",
+          "transliteration": "furṣah"
+        },
+        "lebanese": {
+          "arabic": "فُرْصَا",
+          "transliteration": "furṣa"
+        },
+        "notes": "Very close in both varieties. Lebanese just simplifies the ending. 'Furṣa' is used identically in meaning."
+      },
+      {
+        "concept": "Responsibility",
+        "msa": {
+          "arabic": "مَسْؤُولِيَّةٌ",
+          "transliteration": "masʔūliyyah"
+        },
+        "lebanese": {
+          "arabic": "مَسْؤُولِيِّي",
+          "transliteration": "masʔūliyye"
+        },
+        "notes": "Nearly identical. Abstract nouns ending in '-iyyah' are among the most stable words between MSA and Lebanese."
+      }
+    ]
+  },
+  {
+    "id": "p5-msa-conditionals",
+    "phaseId": 5,
+    "category": "Conditional Forms",
+    "items": [
+      {
+        "concept": "If ... then",
+        "msa": {
+          "arabic": "إِذَا ... فَـ",
+          "transliteration": "ʔidhā ... fa-"
+        },
+        "lebanese": {
+          "arabic": "إِذَا ... بِـ",
+          "transliteration": "ʔiza ... b-"
+        },
+        "notes": "Lebanese uses 'ʔiza' (with z instead of dh) and often drops the 'fa-' result marker, relying on word order instead."
+      },
+      {
+        "concept": "Unless",
+        "msa": {
+          "arabic": "إِلَّا إِذَا",
+          "transliteration": "ʔillā ʔidhā"
+        },
+        "lebanese": {
+          "arabic": "إِلَّا إِذَا",
+          "transliteration": "ʔilla ʔiza"
+        },
+        "notes": "Structure is preserved. Only the pronunciation of 'ʔidhā' changes to 'ʔiza'. This is a case where Lebanese follows MSA structure."
+      },
+      {
+        "concept": "Even if",
+        "msa": {
+          "arabic": "حَتَّى لَوْ",
+          "transliteration": "ḥattā law"
+        },
+        "lebanese": {
+          "arabic": "حَتَّى لَوْ",
+          "transliteration": "ḥatta law"
+        },
+        "notes": "Identical structure. 'Ḥatta law' works the same in both MSA and Lebanese. Very stable construction."
+      },
+      {
+        "concept": "As long as",
+        "msa": {
+          "arabic": "طَالَمَا",
+          "transliteration": "ṭālamā"
+        },
+        "lebanese": {
+          "arabic": "طُولْ مَا",
+          "transliteration": "ṭūl ma"
+        },
+        "notes": "Lebanese breaks it into two words: 'ṭūl' (length/duration) + 'ma' (what/as). Same meaning, different form."
+      }
+    ]
+  },
+  {
+    "id": "p5-msa-literary",
+    "phaseId": 5,
+    "category": "Literary vs Colloquial",
+    "items": [
+      {
+        "concept": "To write",
+        "msa": {
+          "arabic": "يَكْتُبُ",
+          "transliteration": "yaktubu"
+        },
+        "lebanese": {
+          "arabic": "يِكْتُبْ",
+          "transliteration": "yiktob"
+        },
+        "notes": "Same root (k-t-b). Lebanese applies standard simplification: 'yi-' prefix, dropped case endings, vowel reduction."
+      },
+      {
+        "concept": "To read",
+        "msa": {
+          "arabic": "يَقْرَأُ",
+          "transliteration": "yaqraʔu"
+        },
+        "lebanese": {
+          "arabic": "يِقْرَا",
+          "transliteration": "yiʔra"
+        },
+        "notes": "Lebanese drops the hamza and applies q-to-glottal shift: 'yiʔra' instead of 'yaqraʔu'. The root (q-r-ʔ) is the same."
+      },
+      {
+        "concept": "To speak / To talk",
+        "msa": {
+          "arabic": "يَتَحَدَّثُ",
+          "transliteration": "yataḥaddathu"
+        },
+        "lebanese": {
+          "arabic": "يِحْكِي",
+          "transliteration": "yiḥki"
+        },
+        "notes": "Different verbs. MSA uses the formal Form V 'taḥaddatha'. Lebanese uses the simpler 'ḥaka' for everyday speaking."
+      },
+      {
+        "concept": "Book",
+        "msa": {
+          "arabic": "كِتَابٌ",
+          "transliteration": "kitābun"
+        },
+        "lebanese": {
+          "arabic": "كْتَابْ",
+          "transliteration": "ktēb"
+        },
+        "notes": "Same word. Lebanese compresses the initial vowel cluster and drops tanwīn. Pronounced as one tight syllable: 'ktēb'."
+      },
+      {
+        "concept": "Story",
+        "msa": {
+          "arabic": "قِصَّةٌ",
+          "transliteration": "qiṣṣah"
+        },
+        "lebanese": {
+          "arabic": "قِصِّي",
+          "transliteration": "ʔiṣṣe"
+        },
+        "notes": "Same root (q-ṣ-ṣ) with the characteristic Lebanese q-to-glottal shift. 'ʔIṣṣe' also informally means 'the issue/problem'."
+      }
+    ]
+  },
+  {
+    "id": "p6-msa-political",
+    "phaseId": 6,
+    "category": "Political Terms",
+    "items": [
+      {
+        "concept": "Government",
+        "msa": {
+          "arabic": "حُكُومَةٌ",
+          "transliteration": "ḥukūmah"
+        },
+        "lebanese": {
+          "arabic": "حُكُومِي",
+          "transliteration": "ḥukūme"
+        },
+        "notes": "Same root (ḥ-k-m). Political vocabulary is heavily MSA-influenced in Lebanese due to media exposure. Only minor ending changes."
+      },
+      {
+        "concept": "Election",
+        "msa": {
+          "arabic": "اِنْتِخَابَاتٌ",
+          "transliteration": "intikhābātun"
+        },
+        "lebanese": {
+          "arabic": "اِنْتِخَابَاتْ",
+          "transliteration": "intikhābēt"
+        },
+        "notes": "Nearly identical. This is formal vocabulary that Lebanese speakers adopt almost directly from MSA."
+      },
+      {
+        "concept": "Parliament",
+        "msa": {
+          "arabic": "بَرْلَمَانٌ / مَجْلِسٌ",
+          "transliteration": "barlamān / majlis"
+        },
+        "lebanese": {
+          "arabic": "مَجْلِسْ النُّوَّابْ",
+          "transliteration": "majlis in-nuwwēb"
+        },
+        "notes": "Lebanese specifically says 'majlis in-nuwwēb' (council of deputies). The term is close to MSA 'majlis an-nuwwāb'."
+      },
+      {
+        "concept": "President",
+        "msa": {
+          "arabic": "رَئِيسٌ",
+          "transliteration": "raʔīsun"
+        },
+        "lebanese": {
+          "arabic": "رَئِيسْ",
+          "transliteration": "raʔīs"
+        },
+        "notes": "Same word. Only the tanwīn is dropped. In Lebanon specifically refers to the President of the Republic."
+      },
+      {
+        "concept": "Minister",
+        "msa": {
+          "arabic": "وَزِيرٌ",
+          "transliteration": "wazīrun"
+        },
+        "lebanese": {
+          "arabic": "وَزِيرْ",
+          "transliteration": "wazīr"
+        },
+        "notes": "Identical except for dropped tanwīn. Lebanon's confessional system makes political vocabulary especially common in daily discourse."
+      }
+    ]
+  },
+  {
+    "id": "p6-msa-diaspora",
+    "phaseId": 6,
+    "category": "Diaspora Expressions",
+    "items": [
+      {
+        "concept": "Homeland",
+        "msa": {
+          "arabic": "وَطَنٌ",
+          "transliteration": "waṭanun"
+        },
+        "lebanese": {
+          "arabic": "وَطَنْ / بْلَادْ",
+          "transliteration": "waṭan / blēd"
+        },
+        "notes": "Lebanese uses both 'waṭan' (formal) and 'blēd' (country/homeland, from 'bilād'). 'Blēd' is more emotionally intimate."
+      },
+      {
+        "concept": "To emigrate",
+        "msa": {
+          "arabic": "يُهَاجِرُ",
+          "transliteration": "yuhājiru"
+        },
+        "lebanese": {
+          "arabic": "يْهَاجِرْ",
+          "transliteration": "yhējir"
+        },
+        "notes": "Same root (h-j-r). Emigration vocabulary is deeply important in Lebanese culture given the massive diaspora worldwide."
+      },
+      {
+        "concept": "Abroad / Foreign countries",
+        "msa": {
+          "arabic": "الْخَارِجُ",
+          "transliteration": "al-khāriju"
+        },
+        "lebanese": {
+          "arabic": "بَرَّا",
+          "transliteration": "barra"
+        },
+        "notes": "Lebanese uses 'barra' (outside) for abroad. 'Rāḥ ʕa barra' (he went abroad) is a phrase heard in almost every Lebanese family."
+      },
+      {
+        "concept": "Community (diaspora)",
+        "msa": {
+          "arabic": "جَالِيَةٌ",
+          "transliteration": "jāliyah"
+        },
+        "lebanese": {
+          "arabic": "جَالِيِي",
+          "transliteration": "jēliye"
+        },
+        "notes": "Same root (j-l-w). 'Jēliye' specifically refers to the emigrant community. Lebanon has diaspora communities in Brazil, Australia, West Africa, and more."
+      },
+      {
+        "concept": "Heritage / Roots",
+        "msa": {
+          "arabic": "تُرَاثٌ",
+          "transliteration": "turāthun"
+        },
+        "lebanese": {
+          "arabic": "تْرَاثْ",
+          "transliteration": "trēs"
+        },
+        "notes": "Same word but Lebanese replaces 'th' (ث) with 's' sound, following the systematic th-to-s/t shift. 'Trēs' carries deep pride for Lebanese identity."
+      }
+    ]
+  },
+  {
+    "id": "p6-msa-religious",
+    "phaseId": 6,
+    "category": "Religious Terms",
+    "items": [
+      {
+        "concept": "God willing (future plans)",
+        "msa": {
+          "arabic": "إِنْ شَاءَ اللَّهُ",
+          "transliteration": "ʔin shāʔa allāh"
+        },
+        "lebanese": {
+          "arabic": "إِنْشَالَّا",
+          "transliteration": "ʔinshalla"
+        },
+        "notes": "Contracted in Lebanese to one word. Used by all Lebanese regardless of religion. Can sincerely mean 'hopefully' or casually mean 'maybe/probably not'."
+      },
+      {
+        "concept": "Thank God (gratitude)",
+        "msa": {
+          "arabic": "اَلْحَمْدُ لِلَّهِ",
+          "transliteration": "al-ḥamdu lillāhi"
+        },
+        "lebanese": {
+          "arabic": "الْحَمْدِ لِلَّه",
+          "transliteration": "il-ḥamdi llah"
+        },
+        "notes": "Used constantly across all religions in Lebanon. Said after eating, recovering from illness, or receiving good news. Nearly identical to MSA."
+      },
+      {
+        "concept": "Prayer",
+        "msa": {
+          "arabic": "صَلَاةٌ",
+          "transliteration": "ṣalāh"
+        },
+        "lebanese": {
+          "arabic": "صَلَا",
+          "transliteration": "ṣala"
+        },
+        "notes": "Same root (ṣ-l-w). Minor ending change. Lebanon's multi-confessional society means religious vocabulary is widely known but used with sensitivity."
+      },
+      {
+        "concept": "Blessing",
+        "msa": {
+          "arabic": "بَرَكَةٌ",
+          "transliteration": "barakah"
+        },
+        "lebanese": {
+          "arabic": "بَرَكِي",
+          "transliteration": "barake"
+        },
+        "notes": "Same root (b-r-k). 'Barake' is used in phrases like 'allah yibērik fīk' (God bless you), common across all Lebanese communities."
+      },
+      {
+        "concept": "God protect you (blessing)",
+        "msa": {
+          "arabic": "حَفِظَكَ اللَّهُ",
+          "transliteration": "ḥafiẓaka allāh"
+        },
+        "lebanese": {
+          "arabic": "اللَّه يِحْمِيكْ",
+          "transliteration": "alla yiḥmīk"
+        },
+        "notes": "Lebanese restructures the sentence and uses a different verb: 'ḥamā' (to protect) instead of 'ḥafiẓa' (to preserve). The meaning is the same."
+      }
+    ]
+  },
+  {
+    "id": "p6-msa-proverbs",
+    "phaseId": 6,
+    "category": "Proverb Equivalents",
+    "items": [
+      {
+        "concept": "Actions speak louder than words",
+        "msa": {
+          "arabic": "اَلْأَفْعَالُ أَبْلَغُ مِنَ الْأَقْوَالِ",
+          "transliteration": "al-ʔafʕālu ʔablaghu min al-ʔaqwāl"
+        },
+        "lebanese": {
+          "arabic": "الْفِعِلْ بِيِحْكِي أَكْتَرْ مِنِ الْحَكِي",
+          "transliteration": "il-fiʕil byiḥki ʔaktar min il-ḥaki"
+        },
+        "notes": "Same meaning but Lebanese restructures entirely. Uses 'byiḥki' (speaks) and 'ḥaki' (talk) reflecting the Lebanese verb 'ḥaka' instead of MSA 'qāla'."
+      },
+      {
+        "concept": "Patience is a virtue (Patience is the key to relief)",
+        "msa": {
+          "arabic": "اَلصَّبْرُ مِفْتَاحُ الْفَرَجِ",
+          "transliteration": "aṣ-ṣabru miftāḥu al-faraj"
+        },
+        "lebanese": {
+          "arabic": "الصَّبِرْ مِفْتَاحْ الْفَرَجْ",
+          "transliteration": "iṣ-ṣabir miftēḥ il-faraj"
+        },
+        "notes": "This proverb is nearly identical in both varieties because it is widely known from religious and classical sources. Only minor phonetic shifts."
+      },
+      {
+        "concept": "The monkey in its mother's eye is a gazelle",
+        "msa": {
+          "arabic": "اَلْقِرْدُ فِي عَيْنِ أُمِّهِ غَزَالٌ",
+          "transliteration": "al-qirdu fī ʕayni ʔummihi ghazāl"
+        },
+        "lebanese": {
+          "arabic": "الْقِرِدْ بِعِينْ إِمُّو غَزَالْ",
+          "transliteration": "il-ʔird b-ʕēn immo ghazēl"
+        },
+        "notes": "A beloved proverb meaning mothers see beauty in their children regardless. Lebanese version shows q-to-glottal, 'b-' for 'fī', and 'immo' for 'ʔummihi'."
+      },
+      {
+        "concept": "He who digs a pit for his brother falls in it",
+        "msa": {
+          "arabic": "مَنْ حَفَرَ حُفْرَةً لِأَخِيهِ وَقَعَ فِيهَا",
+          "transliteration": "man ḥafara ḥufratan li-ʔakhīhi waqaʕa fīhā"
+        },
+        "lebanese": {
+          "arabic": "يَلِّي بِيِحْفُرْ لْغِيرُو بِيُوْقَعْ فِيهَا",
+          "transliteration": "yalli byiḥfur la-ghēro byūʔaʕ fīha"
+        },
+        "notes": "Lebanese replaces 'man' with 'yalli', uses the 'b-' habitual prefix, and says 'ghēro' (other/someone else) instead of 'ʔakhīhi' (his brother)."
+      }
+    ]
+  },
+  {
+    "id": "p6-msa-poetic",
+    "phaseId": 6,
+    "category": "Poetic / Elevated",
+    "items": [
+      {
+        "concept": "Heart (metaphorical)",
+        "msa": {
+          "arabic": "قَلْبٌ",
+          "transliteration": "qalbun"
+        },
+        "lebanese": {
+          "arabic": "قَلْبْ",
+          "transliteration": "ʔalb"
+        },
+        "notes": "Same root (q-l-b) with the Lebanese q-to-glottal shift. 'ʔAlbi' (my heart) is an extremely common term of endearment in Lebanese."
+      },
+      {
+        "concept": "Soul / Spirit",
+        "msa": {
+          "arabic": "رُوحٌ",
+          "transliteration": "rūḥun"
+        },
+        "lebanese": {
+          "arabic": "رُوحْ",
+          "transliteration": "rūḥ"
+        },
+        "notes": "Nearly identical. 'Rūḥi' (my soul) is used as a term of endearment, like 'darling'. 'Rūḥ' also means 'go!' as an imperative in Lebanese."
+      },
+      {
+        "concept": "Longing / Yearning",
+        "msa": {
+          "arabic": "شَوْقٌ",
+          "transliteration": "shawqun"
+        },
+        "lebanese": {
+          "arabic": "شَوْقْ",
+          "transliteration": "shōʔ"
+        },
+        "notes": "Same root (sh-w-q) with the Lebanese q-to-glottal shift. 'Shōʔ' appears in poetry and love songs. 'Ishtaʔtelak' = I missed/longed for you."
+      },
+      {
+        "concept": "Beautiful / Lovely",
+        "msa": {
+          "arabic": "جَمِيلٌ",
+          "transliteration": "jamīlun"
+        },
+        "lebanese": {
+          "arabic": "حِلْوْ",
+          "transliteration": "ḥilw"
+        },
+        "notes": "Different words. Lebanese prefers 'ḥilw' (sweet/beautiful) over MSA 'jamīl'. 'Jamīl' is understood but sounds literary. 'Ḥilw/ḥilwe' is used for people, food, and situations."
+      },
+      {
+        "concept": "Dawn / Daybreak",
+        "msa": {
+          "arabic": "فَجْرٌ",
+          "transliteration": "fajrun"
+        },
+        "lebanese": {
+          "arabic": "فَجِرْ",
+          "transliteration": "fajir"
+        },
+        "notes": "Same word with minimal changes. 'Fajir' retains its poetic weight in Lebanese. Fairuz famously sings about dawn and Lebanon's mountains."
+      },
+      {
+        "concept": "Stars",
+        "msa": {
+          "arabic": "نُجُومٌ",
+          "transliteration": "nujūmun"
+        },
+        "lebanese": {
+          "arabic": "نْجُومْ",
+          "transliteration": "njūm"
+        },
+        "notes": "Same root (n-j-m). Lebanese compresses the initial syllable. Stars feature prominently in Lebanese folk poetry and Zajal traditions."
+      }
+    ]
+  }
+]

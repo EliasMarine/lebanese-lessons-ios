@@ -1,0 +1,602 @@
+[
+  {
+    "id": "p6-quiz",
+    "phaseId": 6,
+    "title": "Phase 6 Assessment — Maintenance & Naturalness",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p6-q1",
+        "prompt": "الغايب حجتو معو means:",
+        "options": [
+          "The absent are forgotten",
+          "The absent have their excuse — don't judge those not present",
+          "Out of sight, out of mind"
+        ],
+        "correctIndex": 1,
+        "explanation": "This Lebanese proverb means the absent person has their own reasons — you shouldn't judge someone who isn't there to defend themselves. It promotes fairness, unlike 'out of sight, out of mind' which implies forgetting."
+      },
+      {
+        "id": "p6-q2",
+        "prompt": "إيد وحدة ما بتصفق means:",
+        "options": [
+          "Help yourself",
+          "Work alone",
+          "One hand doesn't clap — both sides share responsibility"
+        ],
+        "correctIndex": 2,
+        "explanation": "إيد وحدة ما بتصفق (īd waḥde ma bitsaffi') literally means 'one hand doesn't clap' — a Lebanese proverb emphasizing that cooperation and shared responsibility are needed, not just one side's effort."
+      },
+      {
+        "id": "p6-q3",
+        "prompt": "When a Lebanese speaker says 'I need to do a meeting بالـoffice', they are using:",
+        "options": [
+          "Formal MSA register",
+          "Code-switching (mixing Arabic and English/French)",
+          "A rural dialect",
+          "Classical Arabic vocabulary"
+        ],
+        "correctIndex": 1,
+        "explanation": "Code-switching is extremely common in Lebanese Arabic, especially in Beirut. Speakers naturally mix Arabic with English and French words for work, technology, and education. This is a normal feature of the dialect, not an error."
+      },
+      {
+        "id": "p6-q4",
+        "prompt": "In a formal setting, which register would a Lebanese speaker use?",
+        "options": [
+          "Pure colloquial with slang",
+          "A mix of Lebanese dialect with elevated MSA vocabulary",
+          "Only Modern Standard Arabic",
+          "Only French"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lebanese speakers shift to a higher register in formal settings by incorporating MSA vocabulary while keeping Lebanese pronunciation and grammar. Pure MSA sounds unnatural in speech. This 'educated spoken Arabic' is the norm in news, speeches, and formal contexts."
+      },
+      {
+        "id": "p6-q5",
+        "prompt": "What does the proverb اللي بيزرع بيحصد mean?",
+        "promptArabic": "اللي بيزرع بيحصد",
+        "options": [
+          "Farmers work hard",
+          "You reap what you sow",
+          "Harvest season is the best time",
+          "Planting requires patience"
+        ],
+        "correctIndex": 1,
+        "explanation": "اللي بيزرع بيحصد (illi byizraʕ byiḥṣod) literally means 'whoever plants, harvests' — the equivalent of 'you reap what you sow'. It teaches that your actions have consequences, good or bad. اللي = whoever (relative), بيزرع = plants, بيحصد = harvests."
+      },
+      {
+        "id": "p6-q6",
+        "prompt": "The word عزومة in Lebanese culture refers to:",
+        "promptArabic": "عزومة",
+        "options": [
+          "A funeral ceremony",
+          "An invitation to eat / a dinner gathering",
+          "A wedding gift",
+          "A formal apology"
+        ],
+        "correctIndex": 1,
+        "explanation": "عزومة (ʕazūme) means an invitation, specifically to share a meal. It's central to Lebanese hospitality culture. When someone says تعا عالعزومة (come to the gathering), it implies a generous spread of food. Refusing is considered impolite."
+      },
+      {
+        "id": "p6-q7",
+        "prompt": "دبّر حالك is a Lebanese expression meaning:",
+        "promptArabic": "دبّر حالك",
+        "options": [
+          "Be careful",
+          "Figure it out yourself / manage on your own",
+          "Get dressed up",
+          "Calm down"
+        ],
+        "correctIndex": 1,
+        "explanation": "دبّر حالك (dabbir ḥālak) means 'manage yourself' or 'figure it out'. دبّر (dabbir) = to arrange/manage, حالك (ḥālak) = yourself. This reflects the Lebanese spirit of resourcefulness. It can be said supportively or dismissively depending on tone."
+      },
+      {
+        "id": "p6-q8",
+        "prompt": "Which phrase would you use to politely decline food at a Lebanese gathering?",
+        "options": [
+          "ما بدي — مش جوعان",
+          "يسلمو — شبعت كتير",
+          "لأ شكراً — ما بحب الأكل",
+          "بكفي هيك — الأكل مش طيب"
+        ],
+        "correctIndex": 1,
+        "explanation": "يسلمو — شبعت كتير (yislamo — shbiʕt ktīr) means 'bless your hands — I'm very full'. This politely compliments the host while declining more food. The other options are too blunt or insulting. In Lebanese culture, you should always praise the food when declining."
+      },
+      {
+        "id": "p6-q9",
+        "prompt": "العتابا والميجانا are:",
+        "options": [
+          "Lebanese political parties",
+          "Traditional Lebanese poetic song forms",
+          "Types of Lebanese bread",
+          "Mountain villages"
+        ],
+        "correctIndex": 1,
+        "explanation": "العتابا (il-ʕatāba) and الميجانا (il-mījāna) are traditional Lebanese oral poetry forms often performed as improvised sung verses at gatherings. They follow specific rhyme schemes and are considered an important part of Lebanese cultural heritage."
+      },
+      {
+        "id": "p6-q10",
+        "prompt": "بكرا بتنسى means:",
+        "promptArabic": "بكرا بتنسى",
+        "options": [
+          "Tomorrow you will forget (used to comfort someone upset)",
+          "You forgot about tomorrow",
+          "Tomorrow is cancelled",
+          "Don't forget tomorrow"
+        ],
+        "correctIndex": 0,
+        "explanation": "بكرا بتنسى (bukra btinsa) = 'tomorrow you'll forget' — said to comfort someone going through a hard time. It reassures them that time heals. This reflects the Lebanese cultural value of resilience and moving forward despite hardship."
+      }
+    ]
+  },
+  {
+    "id": "p6-fill",
+    "phaseId": 6,
+    "title": "Phase 6 Fill in the Blank — Proverbs & Culture",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p6-fb1",
+        "sentence": "إيد وحدة ما ___ means 'One hand doesn't clap'.",
+        "blank": "___",
+        "answer": "بتصفق",
+        "acceptableAnswers": [
+          "bitsaffi2",
+          "bitsaffi'",
+          "btisaffiq",
+          "بتصفق"
+        ],
+        "hint": "The verb for 'clap' with the feminine بـ prefix."
+      },
+      {
+        "id": "p6-fb2",
+        "sentence": "اللي بيزرع ___ means 'Whoever plants, harvests'.",
+        "blank": "___",
+        "answer": "بيحصد",
+        "acceptableAnswers": [
+          "byihsod",
+          "byi7sod",
+          "byihsud",
+          "بيحصد"
+        ],
+        "hint": "The verb for 'harvest' with the بـ prefix."
+      },
+      {
+        "id": "p6-fb3",
+        "sentence": "___ حالك means 'Figure it out yourself / manage on your own'.",
+        "blank": "___",
+        "answer": "دبّر",
+        "acceptableAnswers": [
+          "dabbir",
+          "dabber",
+          "دبّر",
+          "دبر"
+        ],
+        "hint": "A verb meaning 'to arrange/manage' — reflects Lebanese resourcefulness."
+      },
+      {
+        "id": "p6-fb4",
+        "sentence": "يسلمو is short for الله ___ إيديك meaning 'God bless your hands'.",
+        "blank": "___",
+        "answer": "يسلّم",
+        "acceptableAnswers": [
+          "yisallim",
+          "yisallim",
+          "يسلّم",
+          "يسلم"
+        ],
+        "hint": "The verb meaning 'to keep safe / bless' in the jussive form."
+      },
+      {
+        "id": "p6-fb5",
+        "sentence": "الغايب ___ معو means 'The absent person has their excuse'.",
+        "blank": "___",
+        "answer": "حجتو",
+        "acceptableAnswers": [
+          "7ijjto",
+          "hijjto",
+          "hujjito",
+          "حجتو",
+          "حجته"
+        ],
+        "hint": "The word for 'his excuse/argument' — a noun with possessive suffix."
+      },
+      {
+        "id": "p6-fb6",
+        "sentence": "A ___ is a Lebanese dinner invitation / gathering centered around food.",
+        "blank": "___",
+        "answer": "عزومة",
+        "acceptableAnswers": [
+          "3azoome",
+          "ʕazūme",
+          "3azume",
+          "عزومة"
+        ],
+        "hint": "Starts with ع — central to Lebanese hospitality culture."
+      }
+    ]
+  },
+  {
+    "id": "p6-match",
+    "phaseId": 6,
+    "title": "Phase 6 Matching — Cultural Terms & Proverbs",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "عزومة",
+        "transliteration": "ʕazūme",
+        "english": "Dinner invitation / food gathering"
+      },
+      {
+        "arabic": "سهرة",
+        "transliteration": "sahre",
+        "english": "Evening social gathering / night out"
+      },
+      {
+        "arabic": "دبكة",
+        "transliteration": "dabke",
+        "english": "Traditional Lebanese folk dance"
+      },
+      {
+        "arabic": "أركيلة",
+        "transliteration": "argīle",
+        "english": "Hookah / water pipe"
+      },
+      {
+        "arabic": "منقوشة",
+        "transliteration": "man'ūshe",
+        "english": "Lebanese flatbread with thyme or cheese"
+      },
+      {
+        "arabic": "كرم الضيافة",
+        "transliteration": "karam iḍ-ḍiyēfe",
+        "english": "Hospitality / generosity to guests"
+      },
+      {
+        "arabic": "يسلمو",
+        "transliteration": "yislamo",
+        "english": "Bless your hands (said after eating)"
+      },
+      {
+        "arabic": "تكرم عينك",
+        "transliteration": "tikram ʕaynak",
+        "english": "Your wish is granted / it would be an honor"
+      }
+    ]
+  },
+  {
+    "id": "p6-quiz-v2",
+    "phaseId": 6,
+    "title": "Phase 6 Quiz v2 — Current Events, Politics & Arts",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p6-q11",
+        "prompt": "The word أزمة in Lebanese news typically means:",
+        "promptArabic": "أزمة",
+        "options": [
+          "Celebration",
+          "Crisis",
+          "Election",
+          "Agreement"
+        ],
+        "correctIndex": 1,
+        "explanation": "أزمة (azme) means 'crisis'. It's one of the most common words in Lebanese current events, used for economic, political, and social crises. You'll hear it constantly in the news: الأزمة الاقتصاديّة (il-azme l-iqtiṣādiyye) = the economic crisis."
+      },
+      {
+        "id": "p6-q12",
+        "prompt": "إنتخابات refers to:",
+        "promptArabic": "إنتخابات",
+        "options": [
+          "Protests",
+          "Elections",
+          "Taxes",
+          "Negotiations"
+        ],
+        "correctIndex": 1,
+        "explanation": "إنتخابات (intikhabēt) means 'elections'. The root is نخب (to choose/elect). You'll hear رح نروح ننتخب (raḥ nrūḥ nintakhib) = 'we're going to go vote'. إنتخب = to vote/elect, مرشّح (mrashshaḥ) = candidate."
+      },
+      {
+        "id": "p6-q13",
+        "prompt": "A Lebanese person living abroad who says غربة عم تقتلني is expressing:",
+        "promptArabic": "غربة عم تقتلني",
+        "options": [
+          "Excitement about travel",
+          "The pain of living away from home — homesickness",
+          "A complaint about the weather",
+          "Anger at a friend"
+        ],
+        "correctIndex": 1,
+        "explanation": "غربة (ghurbe) means 'exile / life away from home' and عم تقتلني (ʕam ti'tilni) means 'is killing me'. Together: 'living abroad is killing me'. This is a deeply emotional diaspora expression reflecting the longing (شوق) Lebanese emigrants feel for their homeland."
+      },
+      {
+        "id": "p6-q14",
+        "prompt": "The phrase وطني يا وطني is commonly used in:",
+        "promptArabic": "وطني يا وطني",
+        "options": [
+          "Cooking recipes",
+          "Patriotic songs and poetry about Lebanon",
+          "Business negotiations",
+          "Religious sermons"
+        ],
+        "correctIndex": 1,
+        "explanation": "وطني يا وطني (waṭani ya waṭani) means 'my homeland, oh my homeland'. It's a recurring phrase in Lebanese patriotic poetry and songs (أغاني وطنيّة). وطن (waṭan) = homeland, يا = vocative particle. It expresses deep love for Lebanon."
+      },
+      {
+        "id": "p6-q15",
+        "prompt": "بزق is a Lebanese Arabic word for:",
+        "promptArabic": "بزق",
+        "options": [
+          "A type of stew",
+          "A traditional stringed musical instrument (buzuq)",
+          "A style of painting",
+          "A prayer ritual"
+        ],
+        "correctIndex": 1,
+        "explanation": "بزق (buzuq) is a long-necked fretted stringed instrument central to Lebanese mountain music. It's closely related to the عود (ʕūd / oud) but has a distinctly sharper sound. Buzuq music is especially associated with the Lebanese dabke tradition."
+      },
+      {
+        "id": "p6-q16",
+        "prompt": "يللي ما بيعرف الصقر بيشويه means:",
+        "promptArabic": "يللي ما بيعرف الصقر بيشويه",
+        "options": [
+          "Falcons are difficult to cook",
+          "He who doesn't know the falcon's value grills it — ignorance wastes treasure",
+          "Hunting falcons is an old tradition",
+          "Knowing birds is important for farmers"
+        ],
+        "correctIndex": 1,
+        "explanation": "This Lebanese proverb means 'whoever doesn't recognize the falcon roasts it' — if you don't know the true value of something precious, you'll waste it. يللي (illi) = whoever, ما بيعرف = doesn't know, الصقر = the falcon, بيشويه = grills it. It's a warning about ignorance destroying value."
+      },
+      {
+        "id": "p6-q17",
+        "prompt": "طائفة in Lebanese political context means:",
+        "promptArabic": "طائفة",
+        "options": [
+          "Political party",
+          "Religious sect / confessional community",
+          "Military brigade",
+          "Neighborhood"
+        ],
+        "correctIndex": 1,
+        "explanation": "طائفة (ṭā'ife) means 'religious sect / confessional community'. Lebanon's political system is طائفي (ṭā'ifi) — sectarian — where power is divided among 18 recognized sects. This term is essential for understanding Lebanese politics and society."
+      },
+      {
+        "id": "p6-q18",
+        "prompt": "A Lebanese emigrant saying بعتلي حوالة means someone:",
+        "promptArabic": "بعتلي حوالة",
+        "options": [
+          "Sent a letter",
+          "Sent a money transfer / remittance",
+          "Gave them a gift",
+          "Booked a flight ticket"
+        ],
+        "correctIndex": 1,
+        "explanation": "حوالة (ḥawēle) means 'money transfer / remittance'. بعتلي (baʕatli) = sent me. Remittances from the Lebanese diaspora are a vital economic lifeline. You'll also hear تحويل (taḥwīl) = transfer. The diaspora sends billions in حوالات (ḥawēlēt) back to Lebanon annually."
+      }
+    ]
+  },
+  {
+    "id": "p6-fill-v2",
+    "phaseId": 6,
+    "title": "Phase 6 Fill in the Blank v2 — Politics, Diaspora & Literature",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p6-fb7",
+        "sentence": "البلد بـ ___ means 'The country is in a crisis'.",
+        "blank": "___",
+        "answer": "أزمة",
+        "acceptableAnswers": [
+          "azme",
+          "2azme",
+          "أزمة"
+        ],
+        "hint": "A common word in Lebanese news — starts with أ."
+      },
+      {
+        "id": "p6-fb8",
+        "sentence": "رح نروح ___ means 'We're going to go vote'.",
+        "blank": "___",
+        "answer": "ننتخب",
+        "acceptableAnswers": [
+          "nintakhib",
+          "nintakheb",
+          "ننتخب"
+        ],
+        "hint": "The verb 'to vote/elect' in the first person plural."
+      },
+      {
+        "id": "p6-fb9",
+        "sentence": "___ عم تقتلني means 'Living abroad is killing me'.",
+        "blank": "___",
+        "answer": "الغربة",
+        "acceptableAnswers": [
+          "il-ghurbe",
+          "el-ghurbe",
+          "al-ghurbe",
+          "الغربة"
+        ],
+        "hint": "The word for 'exile / life far from home' with the definite article."
+      },
+      {
+        "id": "p6-fb10",
+        "sentence": "بعتلّي ___ من بره means 'They sent me a remittance from abroad'.",
+        "blank": "___",
+        "answer": "حوالة",
+        "acceptableAnswers": [
+          "hawale",
+          "7awale",
+          "ḥawēle",
+          "حوالة"
+        ],
+        "hint": "The word for 'money transfer' — essential diaspora vocabulary."
+      },
+      {
+        "id": "p6-fb11",
+        "sentence": "هيدا الشعر كتير ___ means 'This poetry is very beautiful'.",
+        "blank": "___",
+        "answer": "حلو",
+        "acceptableAnswers": [
+          "helo",
+          "7ilu",
+          "7elo",
+          "حلو",
+          "ḥilu"
+        ],
+        "hint": "The Lebanese word for 'beautiful/sweet' — used for art and poetry."
+      },
+      {
+        "id": "p6-fb12",
+        "sentence": "النظام الـ ___ بلبنان بيقسم السلطة بين الطوائف means 'The ___ system in Lebanon divides power among the sects'.",
+        "blank": "___",
+        "answer": "طائفي",
+        "acceptableAnswers": [
+          "ta2ifi",
+          "ṭā'ifi",
+          "taefi",
+          "طائفي"
+        ],
+        "hint": "The adjective describing Lebanon's confessional/sectarian system."
+      }
+    ]
+  },
+  {
+    "id": "p6-sentence-builder",
+    "phaseId": 6,
+    "title": "Phase 6 Sentence Builder — Advanced Structures",
+    "type": "sentence-builder",
+    "sentenceBuilderData": [
+      {
+        "words": [
+          "لو",
+          "كنت",
+          "بلبنان",
+          "كنت",
+          "رحت",
+          "عالضيعة"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "english": "If I were in Lebanon, I would have gone to the village"
+      },
+      {
+        "words": [
+          "اللي",
+          "بيحب",
+          "وطنو",
+          "ما",
+          "بينساه",
+          "وين",
+          "ما",
+          "راح"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "english": "Whoever loves their homeland never forgets it wherever they go"
+      },
+      {
+        "words": [
+          "مع",
+          "إنو",
+          "الوضع",
+          "صعب",
+          "الناس",
+          "عم",
+          "تقاوم"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "english": "Even though the situation is hard, people are resisting"
+      },
+      {
+        "words": [
+          "بتمنى",
+          "يجي",
+          "يوم",
+          "نرجع",
+          "كلنا",
+          "عالبلد"
+        ],
+        "correctOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "english": "I wish a day comes when we all return to the homeland"
+      }
+    ]
+  },
+  {
+    "id": "p6-match-v2",
+    "phaseId": 6,
+    "title": "Phase 6 Matching v2 — Music, Politics & Diaspora",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "بزق",
+        "transliteration": "buzuq",
+        "english": "Traditional long-necked stringed instrument"
+      },
+      {
+        "arabic": "مجوز",
+        "transliteration": "mijwiz",
+        "english": "Double-pipe reed instrument used in dabke"
+      },
+      {
+        "arabic": "طائفة",
+        "transliteration": "ṭā'ife",
+        "english": "Religious sect / confessional community"
+      },
+      {
+        "arabic": "مرشّح",
+        "transliteration": "mrashshaḥ",
+        "english": "Candidate (in an election)"
+      },
+      {
+        "arabic": "غربة",
+        "transliteration": "ghurbe",
+        "english": "Exile / life away from the homeland"
+      },
+      {
+        "arabic": "حوالة",
+        "transliteration": "ḥawēle",
+        "english": "Money transfer / remittance"
+      },
+      {
+        "arabic": "زجل",
+        "transliteration": "zajal",
+        "english": "Improvised competitive sung poetry"
+      },
+      {
+        "arabic": "مظاهرة",
+        "transliteration": "muẓāhara",
+        "english": "Protest / demonstration"
+      }
+    ]
+  }
+]

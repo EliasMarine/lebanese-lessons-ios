@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p3-journal-w1-1",
+    "phaseId": 3,
+    "arabic": "وين رحت اليوم؟",
+    "transliteration": "Wēn ruḥt il-yōm?",
+    "english": "Where did you go today?",
+    "exampleResponse": "رحت عالشغل بالصبح، وبعدين مشيت عالسوبرماركت بالمساء."
+  },
+  {
+    "id": "p3-journal-w1-2",
+    "phaseId": 3,
+    "arabic": "شو أكلت اليوم؟",
+    "transliteration": "Shū akalt il-yōm?",
+    "english": "What did you eat today?",
+    "exampleResponse": "بالصبح شربت قهوة وأكلت توست. بالضهر أكلت سلطة وجبن."
+  },
+  {
+    "id": "p3-journal-w1-3",
+    "phaseId": 3,
+    "arabic": "كيف كان يومك؟",
+    "transliteration": "Kīf kān yōmak?",
+    "english": "How was your day?",
+    "exampleResponse": "كان يوم تعبان شوي بس منيح. شتغلت كتير وحسيت بإنجاز بالآخر."
+  },
+  {
+    "id": "p3-journal-w2-1",
+    "phaseId": 3,
+    "arabic": "صف شخص مهم بحياتك.",
+    "transliteration": "Ṣif shakhs muhimm b-ḥayātak.",
+    "english": "Describe an important person in your life.",
+    "exampleResponse": "إمي هي أهم شخص بحياتي. هي قوية وحنونة وبتعطي بدون ما تاخد. تعلمت منها كتير."
+  },
+  {
+    "id": "p3-journal-w2-2",
+    "phaseId": 3,
+    "arabic": "شو بتتمنى تغير بحياتك؟",
+    "transliteration": "Shū btitmanna tghayyir b-ḥayātak?",
+    "english": "What do you wish you could change in your life?",
+    "exampleResponse": "بتمنى أرجع لبنان مرة تانية وأشوف الأهل أكتر. وبتمنى يكون عندي وقت أكتر للعيلة."
+  }
+]

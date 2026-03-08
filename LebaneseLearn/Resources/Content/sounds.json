@@ -1,0 +1,226 @@
+[
+  {
+    "letter": "ا",
+    "name": "Alif",
+    "description": "A tall vertical stroke that acts as a seat for the hamza (glottal stop) or represents a long 'aa' vowel. By itself it has no sound of its own; think of it as a silent carrier, like the silent 'k' in English 'knife'. In Lebanese Arabic the long 'aa' is often pronounced closer to a long 'e' sound (e.g. 'aa' shifts toward 'ee' in many words).",
+    "exampleArabic": "اسم",
+    "exampleTransliteration": "ism",
+    "exampleEnglish": "name"
+  },
+  {
+    "letter": "ب",
+    "name": "Ba",
+    "description": "Pronounced exactly like English 'b' in 'boy'. One of the easiest letters for English speakers. In Lebanese Arabic it also appears as the present-tense prefix (b-) on verbs.",
+    "exampleArabic": "بيت",
+    "exampleTransliteration": "beit",
+    "exampleEnglish": "house"
+  },
+  {
+    "letter": "ت",
+    "name": "Ta",
+    "description": "Pronounced like English 't' in 'tea'. A light, dental 't' made with the tip of the tongue touching the upper teeth. Do not confuse with the emphatic version (ط).",
+    "exampleArabic": "تفاح",
+    "exampleTransliteration": "tiffeh",
+    "exampleEnglish": "apple"
+  },
+  {
+    "letter": "ث",
+    "name": "Tha",
+    "description": "In MSA this is the 'th' sound as in English 'think'. In Lebanese Arabic, this letter is almost always pronounced as a plain 't' or 's'. You will rarely hear the 'th' sound in everyday Lebanese speech.",
+    "exampleArabic": "ثلج",
+    "exampleTransliteration": "talj",
+    "exampleEnglish": "snow / ice"
+  },
+  {
+    "letter": "ج",
+    "name": "Jim",
+    "description": "In Lebanese Arabic, this is pronounced like the soft 'zh' in French 'je' or the 's' in English 'pleasure'. This differs from other Arabic dialects where it may sound like a hard 'j' in 'jump' (Egyptian) or 'g' in 'go' (Gulf).",
+    "exampleArabic": "جبنة",
+    "exampleTransliteration": "jibne",
+    "exampleEnglish": "cheese"
+  },
+  {
+    "letter": "ح",
+    "name": "Ha (deep)",
+    "description": "A deep, breathy 'h' produced from the throat, as if you are fogging up a mirror but deeper. There is no English equivalent. It is NOT the same as the regular 'h' (ه). Keep your tongue flat and constrict the throat.",
+    "exampleArabic": "حليب",
+    "exampleTransliteration": "haleeb",
+    "exampleEnglish": "milk"
+  },
+  {
+    "letter": "خ",
+    "name": "Kha",
+    "description": "Pronounced like the 'ch' in Scottish 'loch' or German 'Bach'. A raspy friction sound from the back of the throat (the uvula area). Common in Lebanese everyday words.",
+    "exampleArabic": "خبز",
+    "exampleTransliteration": "khubz",
+    "exampleEnglish": "bread"
+  },
+  {
+    "letter": "د",
+    "name": "Dal",
+    "description": "Pronounced like English 'd' in 'door'. A light dental 'd' made with the tongue touching the upper teeth. Do not confuse with the emphatic version (ض).",
+    "exampleArabic": "دكان",
+    "exampleTransliteration": "dikkeen",
+    "exampleEnglish": "shop"
+  },
+  {
+    "letter": "ذ",
+    "name": "Dhal",
+    "description": "In MSA this is the 'th' sound as in English 'this' or 'that'. In Lebanese Arabic, this letter is almost always pronounced as a plain 'd' or 'z'. For example, 'this' (هذا) becomes 'hayda' in Lebanese.",
+    "exampleArabic": "ذهب",
+    "exampleTransliteration": "dahab",
+    "exampleEnglish": "gold"
+  },
+  {
+    "letter": "ر",
+    "name": "Ra",
+    "description": "A rolled or trilled 'r', similar to the Spanish 'r' in 'perro'. It is produced by tapping the tip of the tongue against the ridge behind the upper teeth. It is never the soft English 'r'.",
+    "exampleArabic": "رز",
+    "exampleTransliteration": "rizz",
+    "exampleEnglish": "rice"
+  },
+  {
+    "letter": "ز",
+    "name": "Zayn",
+    "description": "Pronounced like English 'z' in 'zoo'. Straightforward for English speakers.",
+    "exampleArabic": "زيت",
+    "exampleTransliteration": "zeit",
+    "exampleEnglish": "oil / olive oil"
+  },
+  {
+    "letter": "س",
+    "name": "Sin",
+    "description": "Pronounced like English 's' in 'sun'. A light, clear 's' sound. Do not confuse with the emphatic version (ص).",
+    "exampleArabic": "سيارة",
+    "exampleTransliteration": "siyyaara",
+    "exampleEnglish": "car"
+  },
+  {
+    "letter": "ش",
+    "name": "Shin",
+    "description": "Pronounced like English 'sh' in 'she'. Very common in Lebanese Arabic, including in the negation suffix '-sh' (e.g. 'ma ba3rif-sh' = I don't know).",
+    "exampleArabic": "شمس",
+    "exampleTransliteration": "shams",
+    "exampleEnglish": "sun"
+  },
+  {
+    "letter": "ص",
+    "name": "Sad",
+    "description": "An emphatic 's' sound. Press the body of your tongue down and back while saying 's', creating a heavier, darker tone. The surrounding vowels become deeper. Think of saying 's' with a full mouth.",
+    "exampleArabic": "صباح",
+    "exampleTransliteration": "sbaah",
+    "exampleEnglish": "morning"
+  },
+  {
+    "letter": "ض",
+    "name": "Dad",
+    "description": "An emphatic 'd' sound. Press the body of your tongue down and back while saying 'd'. Arabic is sometimes called 'the language of the Dad' because this sound is unique to Arabic. The surrounding vowels become deeper and darker.",
+    "exampleArabic": "ضيعة",
+    "exampleTransliteration": "day3a",
+    "exampleEnglish": "village"
+  },
+  {
+    "letter": "ط",
+    "name": "Ta (emphatic)",
+    "description": "An emphatic 't' sound. Press the body of your tongue down and back while saying 't'. The result is a heavier, deeper 't'. The vowels around it also shift to sound deeper.",
+    "exampleArabic": "طريق",
+    "exampleTransliteration": "tarii2",
+    "exampleEnglish": "road"
+  },
+  {
+    "letter": "ظ",
+    "name": "Dha (emphatic)",
+    "description": "In MSA, an emphatic version of 'th' as in 'this'. In Lebanese Arabic, it is almost always pronounced as an emphatic 'z' (i.e. a heavy, dark 'z' sound). Very rare in everyday Lebanese speech.",
+    "exampleArabic": "ظهر",
+    "exampleTransliteration": "daher",
+    "exampleEnglish": "back / noon"
+  },
+  {
+    "letter": "ع",
+    "name": "Ayn",
+    "description": "A deep, voiced constriction from the throat. No English equivalent. Imagine the sound you make when straining to lift something heavy, a squeezed 'aah' from the deepest part of the throat. Very common and important in Arabic.",
+    "exampleArabic": "عين",
+    "exampleTransliteration": "3ein",
+    "exampleEnglish": "eye / spring (of water)"
+  },
+  {
+    "letter": "غ",
+    "name": "Ghayn",
+    "description": "A gargling 'r' sound from the back of the throat, very similar to the French 'r' in 'Paris'. Produced by vibrating the uvula. If you can say the French 'r', you can say ghayn.",
+    "exampleArabic": "غالي",
+    "exampleTransliteration": "ghaale",
+    "exampleEnglish": "expensive"
+  },
+  {
+    "letter": "ف",
+    "name": "Fa",
+    "description": "Pronounced like English 'f' in 'fan'. Straightforward for English speakers.",
+    "exampleArabic": "فلافل",
+    "exampleTransliteration": "falafel",
+    "exampleEnglish": "falafel"
+  },
+  {
+    "letter": "ق",
+    "name": "Qaf",
+    "description": "In MSA, a deep 'k' produced from the very back of the throat at the uvula. In Lebanese Arabic, qaf is almost always replaced by a glottal stop (a catch in the throat, like the pause in 'uh-oh'). This is one of the biggest markers of Lebanese dialect.",
+    "exampleArabic": "قلب",
+    "exampleTransliteration": "2alb",
+    "exampleEnglish": "heart"
+  },
+  {
+    "letter": "ك",
+    "name": "Kaf",
+    "description": "Pronounced like English 'k' in 'key'. Straightforward for English speakers. Do not confuse with qaf (ق), which is pronounced further back in the throat in MSA but becomes a glottal stop in Lebanese.",
+    "exampleArabic": "كتير",
+    "exampleTransliteration": "ktiir",
+    "exampleEnglish": "a lot / very"
+  },
+  {
+    "letter": "ل",
+    "name": "Lam",
+    "description": "Pronounced like English 'l' in 'let'. A clear, light 'l'. In the word Allah (الله), the 'l' is pronounced with a heavier, darker quality.",
+    "exampleArabic": "ليمون",
+    "exampleTransliteration": "leimoon",
+    "exampleEnglish": "lemon"
+  },
+  {
+    "letter": "م",
+    "name": "Mim",
+    "description": "Pronounced like English 'm' in 'moon'. Straightforward for English speakers.",
+    "exampleArabic": "مي",
+    "exampleTransliteration": "may",
+    "exampleEnglish": "water"
+  },
+  {
+    "letter": "ن",
+    "name": "Nun",
+    "description": "Pronounced like English 'n' in 'noon'. Straightforward for English speakers.",
+    "exampleArabic": "نار",
+    "exampleTransliteration": "naar",
+    "exampleEnglish": "fire"
+  },
+  {
+    "letter": "ه",
+    "name": "Ha",
+    "description": "A light, breathy 'h' like English 'h' in 'hat'. This is the regular 'h' sound; do not confuse with the deep throat 'h' (ح). In Lebanese Arabic it can become silent at the end of some words.",
+    "exampleArabic": "هون",
+    "exampleTransliteration": "hawn",
+    "exampleEnglish": "here"
+  },
+  {
+    "letter": "و",
+    "name": "Waw",
+    "description": "Pronounced like English 'w' in 'water'. Also serves as a long vowel 'oo' (as in 'food') or the diphthong 'ow' (as in 'now'). Very versatile letter.",
+    "exampleArabic": "ولد",
+    "exampleTransliteration": "walad",
+    "exampleEnglish": "boy"
+  },
+  {
+    "letter": "ي",
+    "name": "Ya",
+    "description": "Pronounced like English 'y' in 'yes'. Also serves as a long vowel 'ee' (as in 'see') or the diphthong 'ay' (as in 'day'). Very versatile letter, like waw.",
+    "exampleArabic": "يلا",
+    "exampleTransliteration": "yalla",
+    "exampleEnglish": "let's go / come on"
+  }
+]

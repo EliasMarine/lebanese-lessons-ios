@@ -1,0 +1,332 @@
+[
+  {
+    "id": "p2-quiz",
+    "phaseId": 2,
+    "title": "Phase 2 Quiz — Speaking in Phrases",
+    "type": "multiple-choice",
+    "questions": [
+      {
+        "id": "p2-q1",
+        "prompt": "How do you say \"I want to go to Beirut\"?",
+        "options": [
+          "رح روح عبيروت",
+          "بدي روح عبيروت",
+          "عم بروح عبيروت"
+        ],
+        "correctIndex": 1,
+        "explanation": "بدي (baddi) means 'I want' — so بدي روح = I want to go. رح روح = I will go (future). عم بروح = I am going (present continuous)."
+      },
+      {
+        "id": "p2-q2",
+        "prompt": "عم بشوف means:",
+        "options": [
+          "I will watch",
+          "I used to watch",
+          "I am watching (right now)"
+        ],
+        "correctIndex": 2,
+        "explanation": "عم (ʕam) + بـ (b-) prefix marks the present continuous in Lebanese Arabic — something happening right now. رح بشوف = I will watch. كنت بشوف = I used to watch."
+      },
+      {
+        "id": "p2-q3",
+        "prompt": "Lebanese future tense uses:",
+        "options": [
+          "سـ before verb",
+          "رح before verb",
+          "بدي before verb"
+        ],
+        "correctIndex": 1,
+        "explanation": "رح (raḥ) before the verb marks future tense in Lebanese Arabic. سـ (sa-) is the MSA future marker, not used in spoken Lebanese. بدي expresses wanting, not simple future."
+      },
+      {
+        "id": "p2-q4",
+        "prompt": "How do you say \"I didn't understand\"?",
+        "options": [
+          "ما بعرف",
+          "ما فهمت",
+          "مش طبيعي"
+        ],
+        "correctIndex": 1,
+        "explanation": "ما فهمت (ma fhimt) uses the Lebanese negation ما + past tense verb فهمت (I understood). ما بعرف = I don't know. مش طبيعي = not normal."
+      },
+      {
+        "id": "p2-q5",
+        "prompt": "كنت بعيش بلبنان means:",
+        "options": [
+          "I will live in Lebanon",
+          "I used to live in Lebanon",
+          "I am living in Lebanon"
+        ],
+        "correctIndex": 1,
+        "explanation": "كنت (kint) + بـ-prefix verb forms the past habitual — 'I used to...' So كنت بعيش = I used to live. رح عيش = I will live. عم بعيش = I am living."
+      },
+      {
+        "id": "p2-q6",
+        "prompt": "What does the word كبير mean?",
+        "promptArabic": "كبير",
+        "options": [
+          "Small",
+          "Big / old",
+          "Tall",
+          "Fast"
+        ],
+        "correctIndex": 1,
+        "explanation": "كبير (kbīr) means big or old (for age). زغير (zghīr) = small/young, طويل (ṭawīl) = tall, سريع (sarīʕ) = fast. In Lebanese Arabic, كبير بالعمر means 'old in age'."
+      },
+      {
+        "id": "p2-q7",
+        "prompt": "How do you say \"quickly\" in Lebanese Arabic?",
+        "options": [
+          "بشوي",
+          "بسرعة",
+          "ببطء",
+          "عالآخر"
+        ],
+        "correctIndex": 1,
+        "explanation": "بسرعة (b-surʕa) means 'quickly'. بشوي (b-shwayy) = slowly/a little, ببطء (b-buṭ') is the MSA form of slowly. عالآخر = to the max. Lebanese commonly uses بسرعة in daily speech."
+      },
+      {
+        "id": "p2-q8",
+        "prompt": "What does بياكل mean?",
+        "promptArabic": "بياكل",
+        "options": [
+          "He ate",
+          "He eats / He is eating",
+          "He will eat",
+          "He wants to eat"
+        ],
+        "correctIndex": 1,
+        "explanation": "بياكل (byēkol) uses the بـ prefix for present/habitual tense — 'he eats' or 'he is eating'. أكل (akal) = he ate, رح ياكل = he will eat, بدو ياكل = he wants to eat."
+      },
+      {
+        "id": "p2-q9",
+        "prompt": "The preposition عـ in Lebanese Arabic means:",
+        "options": [
+          "From",
+          "To / at",
+          "With",
+          "In"
+        ],
+        "correctIndex": 1,
+        "explanation": "عـ (ʕa-) is a shortened form of على meaning 'to' or 'at'. من (min) = from, مع (maʕ) = with, بـ (b-) = in. Example: رح روح عالبيت = I will go to the house."
+      },
+      {
+        "id": "p2-q10",
+        "prompt": "How do you say \"before\" in Lebanese Arabic?",
+        "options": [
+          "بعدين",
+          "قبل",
+          "هلق",
+          "بكرا"
+        ],
+        "correctIndex": 1,
+        "explanation": "قبل (ʔabil) means 'before'. بعدين (baʕdēn) = later/afterwards, هلق (halla') = now, بكرا (bukra) = tomorrow. These time words are essential for forming sequences in conversation."
+      },
+      {
+        "id": "p2-q11",
+        "prompt": "Which sentence correctly says 'She is sleeping'?",
+        "options": [
+          "هي نامت",
+          "هي عم بتنام",
+          "هي رح تنام",
+          "هي بدها تنام"
+        ],
+        "correctIndex": 1,
+        "explanation": "عم بتنام (ʕam bitnēm) uses عم + بـ prefix for present continuous — 'she is sleeping right now'. نامت = she slept, رح تنام = she will sleep, بدها تنام = she wants to sleep."
+      },
+      {
+        "id": "p2-q12",
+        "prompt": "What does حلو mean?",
+        "promptArabic": "حلو",
+        "options": [
+          "Ugly",
+          "Sweet / beautiful",
+          "Bitter",
+          "Salty"
+        ],
+        "correctIndex": 1,
+        "explanation": "حلو (ḥilu) means sweet or beautiful/nice in Lebanese Arabic. It's used for both food (sweet taste) and people/things (pretty, nice). بشع = ugly, مر = bitter, مالح = salty."
+      },
+      {
+        "id": "p2-q13",
+        "prompt": "How do you say \"with me\" in Lebanese Arabic?",
+        "options": [
+          "معي",
+          "عندي",
+          "إلي",
+          "منّي"
+        ],
+        "correctIndex": 0,
+        "explanation": "معي (maʕi) means 'with me'. عندي (ʕindi) = I have / at my place, إلي (ili) = for me / I have, منّي (minni) = from me. These preposition + pronoun combos are essential in Lebanese."
+      }
+    ]
+  },
+  {
+    "id": "p2-fill",
+    "phaseId": 2,
+    "title": "Phase 2 Fill in the Blank — Verbs & Phrases",
+    "type": "fill-blank",
+    "fillBlanks": [
+      {
+        "id": "p2-fb1",
+        "sentence": "To say \"I am eating\" in Lebanese, you say عم ___.",
+        "blank": "___",
+        "answer": "باكل",
+        "acceptableAnswers": [
+          "bēkol",
+          "bekol",
+          "باكل",
+          "بأكل"
+        ],
+        "hint": "The b-prefix form of the verb أكل (to eat) for 'I'."
+      },
+      {
+        "id": "p2-fb2",
+        "sentence": "The word ___ means \"slowly\" or \"a little\" in Lebanese.",
+        "blank": "___",
+        "answer": "بشوي",
+        "acceptableAnswers": [
+          "bshwayy",
+          "bshway",
+          "bishwayy",
+          "بشوي"
+        ],
+        "hint": "Often used to tell someone to slow down or take it easy."
+      },
+      {
+        "id": "p2-fb3",
+        "sentence": "رح ___ عالبيت means 'I will go home'.",
+        "blank": "___",
+        "answer": "روح",
+        "acceptableAnswers": [
+          "rūḥ",
+          "rooh",
+          "roo7",
+          "روح"
+        ],
+        "hint": "The bare verb for 'go' after the future marker رح."
+      },
+      {
+        "id": "p2-fb4",
+        "sentence": "The adjective ___ means \"tired\" in Lebanese Arabic.",
+        "blank": "___",
+        "answer": "تعبان",
+        "acceptableAnswers": [
+          "taʕbēn",
+          "ta3ban",
+          "ta3baan",
+          "تعبان"
+        ],
+        "hint": "How you feel after a long day — related to the root ت-ع-ب."
+      },
+      {
+        "id": "p2-fb5",
+        "sentence": "بدي ___ مي means 'I want to drink water'.",
+        "blank": "___",
+        "answer": "إشرب",
+        "acceptableAnswers": [
+          "ishrab",
+          "eshrab",
+          "إشرب",
+          "اشرب"
+        ],
+        "hint": "The verb for 'drink' in its base form."
+      },
+      {
+        "id": "p2-fb6",
+        "sentence": "هلق means \"___\" in English.",
+        "blank": "___",
+        "answer": "now",
+        "acceptableAnswers": [
+          "now",
+          "Now",
+          "right now"
+        ],
+        "hint": "A time word for the present moment — uniquely Lebanese."
+      },
+      {
+        "id": "p2-fb7",
+        "sentence": "The negation pattern in Lebanese is ___ + verb.",
+        "blank": "___",
+        "answer": "ما",
+        "acceptableAnswers": [
+          "ma",
+          "ما"
+        ],
+        "hint": "A short word placed before the verb to negate it."
+      },
+      {
+        "id": "p2-fb8",
+        "sentence": "كتير means \"___\" in English.",
+        "blank": "___",
+        "answer": "very",
+        "acceptableAnswers": [
+          "very",
+          "Very",
+          "a lot",
+          "much",
+          "very much"
+        ],
+        "hint": "Used to intensify adjectives — like كتير منيح (very good)."
+      }
+    ]
+  },
+  {
+    "id": "p2-match",
+    "phaseId": 2,
+    "title": "Phase 2 Matching — Common Verbs",
+    "type": "matching",
+    "matchingPairs": [
+      {
+        "arabic": "بياكل",
+        "transliteration": "byēkol",
+        "english": "He eats"
+      },
+      {
+        "arabic": "بيشرب",
+        "transliteration": "byishrab",
+        "english": "He drinks"
+      },
+      {
+        "arabic": "بينام",
+        "transliteration": "byinēm",
+        "english": "He sleeps"
+      },
+      {
+        "arabic": "بيحكي",
+        "transliteration": "byiḥki",
+        "english": "He speaks / talks"
+      },
+      {
+        "arabic": "بيروح",
+        "transliteration": "byirūḥ",
+        "english": "He goes"
+      },
+      {
+        "arabic": "بيجي",
+        "transliteration": "byīji",
+        "english": "He comes"
+      },
+      {
+        "arabic": "بيشتغل",
+        "transliteration": "byishteghil",
+        "english": "He works"
+      },
+      {
+        "arabic": "بيكتب",
+        "transliteration": "byiktob",
+        "english": "He writes"
+      },
+      {
+        "arabic": "بيقرا",
+        "transliteration": "byi'ra",
+        "english": "He reads"
+      },
+      {
+        "arabic": "بيفهم",
+        "transliteration": "byifham",
+        "english": "He understands"
+      }
+    ]
+  }
+]
