@@ -4,6 +4,7 @@ import SwiftData
 struct ReviewSessionView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(\.dismiss) private var dismiss
+    @Environment(CelebrationManager.self) private var celebrations
     @Query private var allCards: [SRSCardRecord]
 
     private var dueCards: [SRSCardRecord] {
@@ -130,13 +131,13 @@ struct ReviewSessionView: View {
                         .foregroundStyle(.secondary)
                         .padding(.horizontal, 10)
                         .padding(.vertical, 4)
-                        .glassEffect(.regular.tint(Theme.electricBlue), in: .capsule)
+                        .duoChip(tint: Theme.duoBlue)
                 }
 
                 Spacer()
             }
             .frame(maxWidth: .infinity, maxHeight: 300)
-            .glassCard(tint: Theme.electricBlue)
+            .duoCard(tint: Theme.duoBlue)
             .rotation3DEffect(.degrees(isFlipped ? 0 : -180), axis: (x: 0, y: 1, z: 0), perspective: 0.5)
             .opacity(isFlipped ? 1 : 0)
 
@@ -161,7 +162,7 @@ struct ReviewSessionView: View {
                 .padding(.bottom, Theme.spacingMD)
             }
             .frame(maxWidth: .infinity, maxHeight: 300)
-            .glassCard()
+            .duoCard()
             .rotation3DEffect(.degrees(isFlipped ? 180 : 0), axis: (x: 0, y: 1, z: 0), perspective: 0.5)
             .opacity(isFlipped ? 0 : 1)
         }
@@ -198,7 +199,10 @@ struct ReviewSessionView: View {
             .foregroundStyle(.primary)
             .frame(maxWidth: .infinity)
             .padding(.vertical, 12)
-            .glassEffect(.regular.tint(tint).interactive(), in: .rect(cornerRadius: Theme.buttonRadius))
+            .padding(Theme.spacingSM)
+            .background(tint.opacity(0.12))
+            .clipShape(RoundedRectangle(cornerRadius: Theme.buttonRadius, style: .continuous))
+            .overlay(RoundedRectangle(cornerRadius: Theme.buttonRadius, style: .continuous).stroke(tint.opacity(0.3), lineWidth: 2))
         }
         .buttonStyle(.plain)
     }
@@ -241,7 +245,7 @@ struct ReviewSessionView: View {
                 }
                 .frame(maxWidth: .infinity)
             }
-            .glassCard()
+            .duoCard()
 
             Spacer()
 
@@ -253,7 +257,8 @@ struct ReviewSessionView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
             }
-            .glassButtonProminent(tint: Theme.brand)
+            .duoButtonProminent(tint: Theme.brand)
+            .buttonStyle(DuoPressStyle())
             .padding(.horizontal, Theme.spacingMD)
             .padding(.bottom, Theme.spacingLG)
         }
@@ -298,6 +303,8 @@ struct ReviewSessionView: View {
                 withAnimation {
                     sessionComplete = true
                 }
+                celebrations.celebrateXP(totalXPEarned)
+                celebrations.celebrateCompletion(accuracy: 1.0)
             }
         }
     }

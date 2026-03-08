@@ -81,7 +81,8 @@ struct PodiumView: View {
                     .font(.nunito(avatarSize * 0.4, weight: .bold))
                     .foregroundStyle(.white)
             }
-            .glassEffect(in: .circle)
+            .background(Color.gray.opacity(0.1))
+            .clipShape(Circle())
             .scaleEffect(animateIn ? 1 : 0.5)
             .opacity(animateIn ? 1 : 0)
 
@@ -116,7 +117,7 @@ struct PodiumView: View {
                             endPoint: .bottom
                         )
                     )
-                    .glassEffect(in: .rect(cornerRadius: 12))
+                    .shadow(color: Color.black.opacity(0.1), radius: 0, x: 0, y: 3)
                     .frame(height: animateIn ? podiumHeight : 0)
 
                 Text("\(place)")

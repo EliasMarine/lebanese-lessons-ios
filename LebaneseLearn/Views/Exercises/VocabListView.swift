@@ -86,7 +86,7 @@ struct VocabListView: View {
                             .foregroundStyle(Theme.electricBlue)
                             .padding(.horizontal, 8)
                             .padding(.vertical, 3)
-                            .glassEffect(.regular.tint(Theme.electricBlue), in: .capsule)
+                            .duoChip(tint: Theme.duoBlue)
                     }
 
                     if let pos = item.partOfSpeech {
@@ -135,7 +135,7 @@ struct VocabListView: View {
                 }
             }
         }
-        .glassCard()
+        .duoCard()
     }
 
     // MARK: - Empty State

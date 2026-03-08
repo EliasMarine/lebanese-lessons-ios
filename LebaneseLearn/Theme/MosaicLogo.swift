@@ -18,8 +18,8 @@ struct MosaicLogo: View {
 
     var body: some View {
         let colors: [[Color]] = [
-            [Theme.brand,   Theme.xpPurple],
-            [Theme.warning, Theme.info]
+            [Theme.duoGreen,  Theme.duoPurple],
+            [Theme.duoYellow, Theme.duoBlue]
         ]
 
         VStack(spacing: resolvedGap) {

@@ -60,7 +60,7 @@ struct DialogueView: View {
                 .foregroundStyle(.secondary)
         }
         .frame(maxWidth: .infinity)
-        .glassCard(tint: Theme.hotPink)
+        .duoCard(tint: Theme.hotPink)
     }
 
     // MARK: - Controls
@@ -80,7 +80,7 @@ struct DialogueView: View {
                 }
                 .foregroundStyle(.primary)
             }
-            .glassButton()
+            .duoButton()
 
             if !showAllLines {
                 Button {
@@ -97,7 +97,7 @@ struct DialogueView: View {
                     }
                     .foregroundStyle(.primary)
                 }
-                .glassButton()
+                .duoButton()
                 .disabled(currentLineIndex >= dialogue.lines.count - 1)
                 .opacity(currentLineIndex >= dialogue.lines.count - 1 ? 0.5 : 1)
             }
@@ -171,9 +171,11 @@ struct DialogueView: View {
                 .buttonStyle(.plain)
             }
             .padding(Theme.spacingMD)
-            .glassEffect(
-                .regular.tint(isEven ? Theme.electricBlue : Theme.hotPink),
-                in: .rect(cornerRadius: Theme.cardRadius)
+            .background((isEven ? Theme.electricBlue : Theme.hotPink).opacity(0.08))
+            .clipShape(RoundedRectangle(cornerRadius: Theme.cardRadius, style: .continuous))
+            .overlay(
+                RoundedRectangle(cornerRadius: Theme.cardRadius, style: .continuous)
+                    .stroke((isEven ? Theme.electricBlue : Theme.hotPink).opacity(0.3), lineWidth: 2)
             )
             .containerRelativeFrame(.horizontal) { width, _ in width * 0.8 }
             .frame(maxWidth: .infinity, alignment: isEven ? .leading : .trailing)

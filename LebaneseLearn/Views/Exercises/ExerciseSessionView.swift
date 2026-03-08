@@ -6,6 +6,7 @@ struct ExerciseSessionView: View {
 
     @Environment(\.modelContext) private var modelContext
     @Environment(\.dismiss) private var dismiss
+    @Environment(CelebrationManager.self) private var celebrations
     @Query private var profiles: [UserProfile]
 
     private var profile: UserProfile? { profiles.first }
@@ -84,7 +85,9 @@ struct ExerciseSessionView: View {
                         .font(.system(size: 14, weight: .semibold))
                         .foregroundStyle(.secondary)
                         .frame(width: 32, height: 32)
-                        .glassEffect(in: .circle)
+                        .background(Theme.surface)
+                        .clipShape(Circle())
+                        .overlay(Circle().stroke(Color.gray.opacity(0.15), lineWidth: 2))
                 }
             }
         }
@@ -96,7 +99,7 @@ struct ExerciseSessionView: View {
         GeometryReader { geometry in
             ZStack(alignment: .leading) {
                 Capsule()
-                    .fill(Theme.brand.opacity(0.15))
+                    .fill(Theme.surface)
                     .frame(height: 8)
 
                 Capsule()
@@ -147,7 +150,7 @@ struct ExerciseSessionView: View {
                         .speakable(arabic)
                 }
             }
-            .glassCard()
+            .duoCard()
 
             // Options
             VStack(spacing: Theme.spacingSM) {
@@ -179,17 +182,17 @@ struct ExerciseSessionView: View {
                             }
                         }
                         .padding(Theme.spacingMD)
-                        .glassEffect(
-                            hasSubmitted
+                        .duoTile(
+                            isSelected: hasSubmitted
+                                ? (index == question.correctIndex || index == selectedOptionIndex)
+                                : index == selectedOptionIndex,
+                            tint: hasSubmitted
                                 ? (index == question.correctIndex
-                                    ? .regular.tint(Theme.vividGreen)
+                                    ? Theme.duoGreen
                                     : (index == selectedOptionIndex
-                                        ? .regular.tint(Theme.brand)
-                                        : .regular))
-                                : (index == selectedOptionIndex
-                                    ? .regular.tint(Theme.brand)
-                                    : .regular),
-                            in: .rect(cornerRadius: Theme.buttonRadius)
+                                        ? Theme.duoRed
+                                        : Theme.brand))
+                                : Theme.brand
                         )
                     }
                     .buttonStyle(.plain)
@@ -206,7 +209,7 @@ struct ExerciseSessionView: View {
                         .font(.bodyMedium)
                         .foregroundStyle(.secondary)
                 }
-                .glassCard(tint: Theme.goldenYellow)
+                .duoCard(tint: Theme.duoYellow)
             }
         }
     }
@@ -231,20 +234,16 @@ struct ExerciseSessionView: View {
                         .foregroundStyle(Theme.brightPurple)
                 }
             }
-            .glassCard()
+            .duoCard()
 
             // Text input
             TextField("Type your answer", text: $fillAnswer)
                 .font(.bodyLarge)
                 .multilineTextAlignment(.center)
                 .padding(Theme.spacingMD)
-                .glassEffect(
-                    hasSubmitted
-                        ? (isCorrect == true
-                            ? .regular.tint(Theme.vividGreen)
-                            : .regular.tint(Theme.brand))
-                        : .regular,
-                    in: .rect(cornerRadius: Theme.inputRadius)
+                .duoInput(tint: hasSubmitted
+                    ? (isCorrect == true ? Theme.duoGreen : Theme.duoRed)
+                    : Color.gray.opacity(0.2)
                 )
                 .disabled(hasSubmitted)
                 .textInputAutocapitalization(.never)
@@ -258,7 +257,7 @@ struct ExerciseSessionView: View {
                         .font(.bodyMedium)
                         .foregroundStyle(Theme.vividGreen)
                 }
-                .glassCard(tint: Theme.vividGreen)
+                .duoCard(tint: Theme.duoGreen)
             }
         }
     }
@@ -271,7 +270,7 @@ struct ExerciseSessionView: View {
             Text("Match the Arabic with the English")
                 .font(.headingSmall)
                 .foregroundStyle(.primary)
-                .glassCard()
+                .duoCard()
 
             let shuffledEnglish = pairs.map(\.english).shuffled()
 
@@ -287,13 +286,11 @@ struct ExerciseSessionView: View {
                                 .foregroundStyle(matchedPairs.contains(pair.arabic) ? Theme.vividGreen : .primary)
                                 .frame(maxWidth: .infinity)
                                 .padding(Theme.spacingSM)
-                                .glassEffect(
-                                    selectedMatchArabic == pair.arabic
-                                        ? .regular.tint(Theme.brand)
-                                        : (matchedPairs.contains(pair.arabic)
-                                            ? .regular.tint(Theme.vividGreen)
-                                            : .regular),
-                                    in: .rect(cornerRadius: Theme.badgeRadius)
+                                .duoTile(
+                                    isSelected: selectedMatchArabic == pair.arabic || matchedPairs.contains(pair.arabic),
+                                    tint: matchedPairs.contains(pair.arabic)
+                                        ? Theme.duoGreen
+                                        : Theme.brand
                                 )
                         }
                         .buttonStyle(.plain)
@@ -313,7 +310,10 @@ struct ExerciseSessionView: View {
                             .foregroundStyle(.primary)
                             .frame(maxWidth: .infinity)
                             .padding(Theme.spacingSM)
-                            .glassEffect(in: .rect(cornerRadius: Theme.badgeRadius))
+                            .duoTile(
+                                isSelected: matchedPairs.contains(matchedArabicFor(english: english) ?? ""),
+                                tint: Theme.duoGreen
+                            )
                     }
                     .buttonStyle(.plain)
                     .disabled(matchedPairs.contains(matchedArabicFor(english: english) ?? ""))
@@ -335,7 +335,8 @@ struct ExerciseSessionView: View {
                         .foregroundStyle(.white)
                         .frame(maxWidth: .infinity)
                 }
-                .glassButtonProminent(tint: Theme.brand)
+                .duoButtonProminent(tint: Theme.brand)
+                .buttonStyle(DuoPressStyle())
             } else {
                 Button {
                     submitAnswer()
@@ -345,7 +346,8 @@ struct ExerciseSessionView: View {
                         .foregroundStyle(.white)
                         .frame(maxWidth: .infinity)
                 }
-                .glassButtonProminent(tint: Theme.brand)
+                .duoButtonProminent(tint: Theme.brand)
+                .buttonStyle(DuoPressStyle())
                 .disabled(!canSubmit)
                 .opacity(canSubmit ? 1 : 0.5)
             }
@@ -408,7 +410,8 @@ struct ExerciseSessionView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
             }
-            .glassButtonProminent(tint: Theme.brand)
+            .duoButtonProminent(tint: Theme.brand)
+            .buttonStyle(DuoPressStyle())
             .padding(.horizontal, Theme.spacingMD)
             .padding(.bottom, Theme.spacingLG)
         }
@@ -515,6 +518,9 @@ struct ExerciseSessionView: View {
         }
 
         try? modelContext.save()
+
+        celebrations.celebrateXP(score * 10)
+        celebrations.celebrateCompletion(accuracy: Double(score) / Double(totalQuestions))
     }
 
     private func checkMatch(english: String) {

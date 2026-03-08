@@ -97,7 +97,7 @@ struct ReviewDashboardView: View {
                     .foregroundStyle(.secondary)
             }
             .frame(maxWidth: .infinity)
-            .glassCard(tint: Theme.vividGreen)
+            .duoCard(tint: Theme.duoGreen)
         } else {
             NavigationLink {
                 ReviewSessionView()
@@ -109,8 +109,9 @@ struct ReviewDashboardView: View {
                 .font(.headingSmall)
                 .foregroundStyle(.white)
                 .frame(maxWidth: .infinity)
-                .glassButtonProminent(tint: Theme.brand)
+                .duoButtonProminent(tint: Theme.brand)
             }
+            .buttonStyle(DuoPressStyle())
         }
     }
 
@@ -154,7 +155,7 @@ struct ReviewDashboardView: View {
                         }
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, Theme.spacingSM)
-                        .glassEffect(.regular.tint(Theme.electricBlue), in: .rect(cornerRadius: Theme.badgeRadius))
+                        .duoCard(tint: Theme.duoBlue)
                     }
                     .buttonStyle(.plain)
                     .disabled(isSeedingPhase != nil)

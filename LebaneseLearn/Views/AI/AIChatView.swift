@@ -102,7 +102,7 @@ struct AIChatView: View {
                 suggestionButton("What's the difference between Lebanese and MSA?")
             }
         }
-        .glassCard(tint: Theme.electricBlue)
+        .duoCard(tint: Theme.duoBlue)
     }
 
     private func suggestionButton(_ text: String) -> some View {
@@ -117,7 +117,7 @@ struct AIChatView: View {
                 .padding(.horizontal, Theme.spacingSM)
                 .padding(.vertical, Theme.spacingXS)
         }
-        .glassEffect(.regular.interactive(), in: .rect(cornerRadius: Theme.badgeRadius))
+        .duoChip(tint: Theme.duoBlue)
     }
 
     // MARK: - Message Bubble
@@ -131,7 +131,7 @@ struct AIChatView: View {
             VStack(alignment: message.role == "user" ? .trailing : .leading, spacing: Theme.spacingXS) {
                 Text(message.content)
                     .font(.bodyMedium)
-                    .foregroundStyle(.primary)
+                    .foregroundStyle(message.role == "user" ? .white : .primary)
                     .textSelection(.enabled)
 
                 // Make Arabic text in AI responses speakable
@@ -142,10 +142,10 @@ struct AIChatView: View {
                             HStack(spacing: 4) {
                                 Image(systemName: "speaker.wave.2.fill")
                                     .font(.caption)
-                                    .foregroundStyle(Theme.electricBlue)
+                                    .foregroundStyle(Theme.duoBlue)
                                 Text(arabic)
                                     .font(.nunito(14, weight: .semibold))
-                                    .foregroundStyle(Theme.electricBlue)
+                                    .foregroundStyle(Theme.duoBlue)
                             }
                             .speakable(arabic)
                         }
@@ -153,12 +153,8 @@ struct AIChatView: View {
                 }
             }
             .padding(Theme.spacingMD)
-            .glassEffect(
-                message.role == "user"
-                    ? .regular.tint(Theme.brand)
-                    : .regular.tint(Theme.electricBlue),
-                in: .rect(cornerRadius: Theme.cardRadius)
-            )
+            .background(message.role == "user" ? Theme.duoBlue : Theme.surface)
+            .clipShape(RoundedRectangle(cornerRadius: Theme.cardRadius, style: .continuous))
             .frame(maxWidth: 300, alignment: message.role == "user" ? .trailing : .leading)
 
             if message.role == "assistant" {
@@ -186,7 +182,8 @@ struct AIChatView: View {
                 }
             }
             .padding(Theme.spacingMD)
-            .glassEffect(.regular.tint(Theme.electricBlue), in: .rect(cornerRadius: Theme.cardRadius))
+            .background(Theme.surface)
+            .clipShape(RoundedRectangle(cornerRadius: Theme.cardRadius, style: .continuous))
 
             Spacer()
         }
@@ -200,7 +197,7 @@ struct AIChatView: View {
                 .font(.bodyMedium)
                 .lineLimit(1...4)
                 .padding(Theme.spacingSM)
-                .glassEffect(in: .rect(cornerRadius: Theme.inputRadius))
+                .duoInput()
                 .onSubmit {
                     sendMessage()
                 }
@@ -220,7 +217,7 @@ struct AIChatView: View {
         }
         .padding(.horizontal, Theme.spacingMD)
         .padding(.vertical, Theme.spacingSM)
-        .glassEffect(in: .rect(cornerRadius: 0))
+        .background(Theme.surface)
     }
 
     // MARK: - Actions

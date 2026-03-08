@@ -1,10 +1,10 @@
 import SwiftUI
 
-// MARK: - Liquid Glass Convenience
+// MARK: - Animation & Interaction Helpers
 
 extension View {
 
-    /// Fade-up entrance animation with an optional delay.
+    /// Bouncy fade-up entrance animation with an optional delay.
     func fadeUpAnimation(delay: Double = 0) -> some View {
         modifier(FadeUpModifier(delay: delay))
     }
@@ -20,6 +20,22 @@ extension View {
             Task { await AudioService.shared.speak(text) }
         }
     }
+
+    /// Shake animation for wrong answers.
+    func shake(trigger: Bool) -> some View {
+        modifier(ShakeModifier(animating: trigger))
+    }
+}
+
+// MARK: - Duo Press Button Style
+
+/// Bouncy press animation — scales down on press with spring bounce-back.
+struct DuoPressStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .scaleEffect(configuration.isPressed ? 0.96 : 1.0)
+            .animation(.spring(response: 0.3, dampingFraction: 0.6), value: configuration.isPressed)
+    }
 }
 
 // MARK: - Fade Up Modifier
@@ -34,8 +50,41 @@ private struct FadeUpModifier: ViewModifier {
             .opacity(isVisible ? 1 : 0)
             .offset(y: isVisible ? 0 : 16)
             .onAppear {
-                withAnimation(.easeOut(duration: 0.45).delay(delay)) {
+                withAnimation(.spring(response: 0.5, dampingFraction: 0.7).delay(delay)) {
                     isVisible = true
+                }
+            }
+    }
+}
+
+// MARK: - Shake Modifier
+
+private struct ShakeModifier: ViewModifier {
+    var animating: Bool
+    @State private var shakeOffset: CGFloat = 0
+
+    func body(content: Content) -> some View {
+        content
+            .offset(x: shakeOffset)
+            .onChange(of: animating) { _, newValue in
+                guard newValue else { return }
+                withAnimation(.spring(response: 0.1, dampingFraction: 0.2)) {
+                    shakeOffset = -10
+                }
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                    withAnimation(.spring(response: 0.1, dampingFraction: 0.2)) {
+                        shakeOffset = 10
+                    }
+                }
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
+                    withAnimation(.spring(response: 0.1, dampingFraction: 0.2)) {
+                        shakeOffset = -6
+                    }
+                }
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                    withAnimation(.spring(response: 0.15, dampingFraction: 0.5)) {
+                        shakeOffset = 0
+                    }
                 }
             }
     }
@@ -53,7 +102,7 @@ struct ShimmerEffect: ViewModifier {
                     LinearGradient(
                         colors: [
                             .clear,
-                            Color.white.opacity(0.25),
+                            Color.gray.opacity(0.15),
                             .clear
                         ],
                         startPoint: .leading,

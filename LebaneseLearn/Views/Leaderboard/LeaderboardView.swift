@@ -117,7 +117,7 @@ struct LeaderboardView: View {
             }
             .xpBadge()
         }
-        .glassCard(tint: isCurrentUser ? Theme.brand : .clear)
+        .duoCard(tint: isCurrentUser ? Theme.brand : .clear)
     }
 
     // MARK: - Loading Skeleton

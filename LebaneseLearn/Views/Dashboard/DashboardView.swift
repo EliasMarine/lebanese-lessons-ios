@@ -64,7 +64,7 @@ struct DashboardView: View {
                 .xpBadge()
             }
         }
-        .glassCard()
+        .duoCard()
     }
 
     // MARK: - Level Section
@@ -119,7 +119,7 @@ struct DashboardView: View {
                     .foregroundStyle(.secondary)
             }
         }
-        .glassCard(tint: Theme.brightPurple)
+        .duoCard(tint: Theme.brightPurple)
     }
 
     // MARK: - Quick Actions
@@ -147,7 +147,7 @@ struct DashboardView: View {
                         }
                         .frame(maxWidth: .infinity)
                         .frame(minHeight: 100)
-                        .glassCard(tint: action.tint)
+                        .duoCard(tint: action.tint)
                     }
                 }
             }

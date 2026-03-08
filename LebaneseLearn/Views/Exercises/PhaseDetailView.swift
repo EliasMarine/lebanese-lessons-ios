@@ -34,12 +34,11 @@ struct PhaseDetailView: View {
                                 .padding(.horizontal, Theme.spacingMD)
                                 .padding(.vertical, Theme.spacingSM)
                         }
-                        .glassEffect(
-                            selectedTab == tab
-                                ? .regular.tint(Theme.brand)
-                                : .regular,
-                            in: .capsule
-                        )
+                        .padding(.horizontal, 12)
+                        .padding(.vertical, 6)
+                        .background(selectedTab == tab ? Theme.brand : Theme.surface)
+                        .foregroundStyle(selectedTab == tab ? .white : .primary)
+                        .clipShape(Capsule())
                     }
                 }
                 .padding(.horizontal, Theme.spacingMD)
@@ -113,7 +112,7 @@ struct PhaseDetailView: View {
                         Image(systemName: "chevron.right")
                             .foregroundStyle(.secondary)
                     }
-                    .glassCard(tint: Theme.electricBlue)
+                    .duoCard(tint: Theme.electricBlue)
                 }
                 .buttonStyle(.plain)
                 .padding(.top, Theme.spacingSM)
@@ -246,10 +245,10 @@ struct PhaseDetailView: View {
                     .foregroundStyle(Theme.electricBlue)
                     .padding(.horizontal, 8)
                     .padding(.vertical, 4)
-                    .glassEffect(.regular.tint(Theme.electricBlue), in: .capsule)
+                    .duoChip(tint: Theme.electricBlue)
             }
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func exerciseSetRow(_ set: ExerciseSet) -> some View {
@@ -269,7 +268,7 @@ struct PhaseDetailView: View {
                     .foregroundStyle(Theme.vividGreen)
                     .padding(.horizontal, 8)
                     .padding(.vertical, 2)
-                    .glassEffect(.regular.tint(Theme.vividGreen), in: .capsule)
+                    .duoChip(tint: Theme.vividGreen)
             }
 
             Spacer()
@@ -277,7 +276,7 @@ struct PhaseDetailView: View {
             Image(systemName: "chevron.right")
                 .foregroundStyle(.secondary)
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func dialogueRow(_ dialogue: Dialogue) -> some View {
@@ -302,7 +301,7 @@ struct PhaseDetailView: View {
             Image(systemName: "chevron.right")
                 .foregroundStyle(.secondary)
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func grammarRow(_ rule: GrammarRule) -> some View {
@@ -323,7 +322,7 @@ struct PhaseDetailView: View {
                         .foregroundStyle(Theme.goldenYellow)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 2)
-                        .glassEffect(.regular.tint(Theme.goldenYellow), in: .capsule)
+                        .duoChip(tint: Theme.goldenYellow)
                 }
             }
 
@@ -332,7 +331,7 @@ struct PhaseDetailView: View {
             Image(systemName: "chevron.right")
                 .foregroundStyle(.secondary)
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func cultureRow(_ note: CultureNote) -> some View {
@@ -348,7 +347,7 @@ struct PhaseDetailView: View {
 
             Spacer()
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func shadowingRow(_ item: ShadowingItem) -> some View {
@@ -369,7 +368,7 @@ struct PhaseDetailView: View {
 
             Spacer()
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func scenarioRow(_ item: ScenarioLesson) -> some View {
@@ -390,7 +389,7 @@ struct PhaseDetailView: View {
 
             Spacer()
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func verbRow(_ item: VerbConjugation) -> some View {
@@ -411,7 +410,7 @@ struct PhaseDetailView: View {
 
             Spacer()
         }
-        .glassCard()
+        .duoCard()
     }
 
     private func emptyState(_ message: String) -> some View {

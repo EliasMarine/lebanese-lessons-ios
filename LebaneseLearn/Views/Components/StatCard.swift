@@ -18,7 +18,7 @@ struct StatCard: View {
                 .foregroundStyle(.secondary)
         }
         .frame(maxWidth: .infinity)
-        .glassCard(tint: tint)
+        .duoCard(tint: tint)
     }
 }
 

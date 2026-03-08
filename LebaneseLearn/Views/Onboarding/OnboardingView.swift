@@ -66,7 +66,8 @@ struct OnboardingView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
             }
-            .glassButtonProminent(tint: Theme.brand)
+            .duoButtonProminent(tint: Theme.brand)
+            .buttonStyle(DuoPressStyle())
             .fadeUpAnimation(delay: 0.3)
 
             Spacer()
@@ -102,7 +103,7 @@ struct OnboardingView: View {
                 .font(.bodyLarge)
                 .multilineTextAlignment(.center)
                 .padding(Theme.spacingMD)
-                .glassEffect(in: .rect(cornerRadius: Theme.inputRadius))
+                .duoInput()
                 .fadeUpAnimation(delay: 0.2)
 
             Spacer()
@@ -115,7 +116,8 @@ struct OnboardingView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
             }
-            .glassButtonProminent(tint: Theme.electricBlue)
+            .duoButtonProminent(tint: Theme.duoBlue)
+            .buttonStyle(DuoPressStyle())
             .disabled(userName.trimmingCharacters(in: .whitespaces).isEmpty)
             .opacity(userName.trimmingCharacters(in: .whitespaces).isEmpty ? 0.5 : 1)
 
@@ -167,11 +169,19 @@ struct OnboardingView: View {
                         .padding(.horizontal, Theme.spacingMD)
                         .padding(.vertical, Theme.spacingSM)
                     }
-                    .glassEffect(
+                    .background(
                         studyGoalMinutes == minutes
-                            ? .regular.tint(Theme.vividGreen)
-                            : .regular,
-                        in: .capsule
+                            ? Theme.vividGreen
+                            : Theme.surface
+                    )
+                    .foregroundStyle(studyGoalMinutes == minutes ? .white : .primary)
+                    .clipShape(Capsule())
+                    .overlay(
+                        Capsule()
+                            .stroke(
+                                studyGoalMinutes == minutes ? Theme.vividGreen : Color.gray.opacity(0.15),
+                                lineWidth: 2
+                            )
                     )
                 }
             }
@@ -187,7 +197,8 @@ struct OnboardingView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
             }
-            .glassButtonProminent(tint: Theme.vividGreen)
+            .duoButtonProminent(tint: Theme.vividGreen)
+            .buttonStyle(DuoPressStyle())
 
             Spacer()
                 .frame(height: Theme.spacingXL)
@@ -234,7 +245,7 @@ struct OnboardingView: View {
                     Spacer()
                 }
             }
-            .glassCard()
+            .duoCard()
             .fadeUpAnimation(delay: 0.2)
 
             Spacer()
@@ -247,7 +258,8 @@ struct OnboardingView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
             }
-            .glassButtonProminent(tint: Theme.brand)
+            .duoButtonProminent(tint: Theme.brand)
+            .buttonStyle(DuoPressStyle())
             .fadeUpAnimation(delay: 0.3)
 
             Spacer()

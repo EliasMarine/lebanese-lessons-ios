@@ -53,11 +53,11 @@ struct GrammarDetailView: View {
                     .foregroundStyle(Theme.goldenYellow)
                     .padding(.horizontal, 12)
                     .padding(.vertical, 4)
-                    .glassEffect(.regular.tint(Theme.goldenYellow), in: .capsule)
+                    .duoChip(tint: Theme.duoYellow)
             }
         }
         .frame(maxWidth: .infinity)
-        .glassCard(tint: Theme.goldenYellow)
+        .duoCard(tint: Theme.duoYellow)
     }
 
     // MARK: - Explanation
@@ -70,7 +70,7 @@ struct GrammarDetailView: View {
                 .foregroundStyle(.primary)
                 .lineSpacing(4)
         }
-        .glassCard()
+        .duoCard()
     }
 
     // MARK: - Examples
@@ -108,7 +108,7 @@ struct GrammarDetailView: View {
                     }
                 }
                 .padding(Theme.spacingSM)
-                .glassEffect(.regular.tint(Theme.vividGreen), in: .rect(cornerRadius: Theme.badgeRadius))
+                .duoCard(tint: Theme.duoGreen)
             }
         }
     }
@@ -146,7 +146,7 @@ struct GrammarDetailView: View {
                     .padding(.vertical, 4)
                 }
             }
-            .glassCard(tint: Theme.brightPurple)
+            .duoCard(tint: Theme.duoPurple)
         }
     }
 

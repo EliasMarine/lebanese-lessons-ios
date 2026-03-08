@@ -67,7 +67,8 @@ struct ProfileView: View {
                         )
                     )
                     .frame(width: 96, height: 96)
-                    .glassEffect(in: .circle)
+                    .background(Color.gray.opacity(0.1))
+                    .clipShape(Circle())
 
                 Text(String((profile?.name ?? "?").prefix(1)).uppercased())
                     .font(.nunito(40, weight: .bold))
@@ -132,7 +133,7 @@ struct ProfileView: View {
                 .frame(height: 8)
             }
         }
-        .glassCard(tint: Theme.brightPurple)
+        .duoCard(tint: Theme.duoPurple)
     }
 
     // MARK: - Stats Grid
@@ -192,16 +193,15 @@ struct ProfileView: View {
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, Theme.spacingSM)
                     }
-                    .glassEffect(
-                        selectedGoal == minutes
-                            ? .regular.tint(Theme.brand)
-                            : .regular,
-                        in: .capsule
-                    )
+                    .padding(.horizontal, 12)
+                    .padding(.vertical, 6)
+                    .background(selectedGoal == minutes ? Theme.brand : Theme.surface)
+                    .foregroundStyle(selectedGoal == minutes ? .white : .primary)
+                    .clipShape(Capsule())
                 }
             }
         }
-        .glassCard()
+        .duoCard()
     }
 
     // MARK: - API Settings Section
@@ -223,7 +223,7 @@ struct ProfileView: View {
                 SecureField("Enter API key", text: $elevenLabsAPIKey)
                     .font(.bodyMedium)
                     .padding(Theme.spacingSM)
-                    .glassEffect(in: .rect(cornerRadius: Theme.inputRadius))
+                    .duoInput()
                     .onChange(of: elevenLabsAPIKey) { _, newValue in
                         if !newValue.isEmpty {
                             ElevenLabsService.shared.setAPIKey(newValue)
@@ -239,7 +239,7 @@ struct ProfileView: View {
                 TextField("Enter voice ID", text: $elevenLabsVoiceId)
                     .font(.bodyMedium)
                     .padding(Theme.spacingSM)
-                    .glassEffect(in: .rect(cornerRadius: Theme.inputRadius))
+                    .duoInput()
                     .onChange(of: elevenLabsVoiceId) { _, newValue in
                         if !newValue.isEmpty {
                             ElevenLabsService.shared.setVoiceId(newValue)
@@ -255,7 +255,7 @@ struct ProfileView: View {
                 SecureField("Enter API key", text: $aiAPIKey)
                     .font(.bodyMedium)
                     .padding(Theme.spacingSM)
-                    .glassEffect(in: .rect(cornerRadius: Theme.inputRadius))
+                    .duoInput()
                     .onChange(of: aiAPIKey) { _, newValue in
                         if !newValue.isEmpty {
                             AIService.shared.setAPIKey(newValue)
@@ -263,7 +263,7 @@ struct ProfileView: View {
                     }
             }
         }
-        .glassCard()
+        .duoCard()
     }
 
     // MARK: - Helpers

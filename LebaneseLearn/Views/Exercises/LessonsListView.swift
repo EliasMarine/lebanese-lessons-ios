@@ -55,7 +55,7 @@ struct LessonsListView: View {
                 .foregroundStyle(.secondary)
         }
         .frame(minHeight: 80)
-        .glassCard()
+        .duoCard()
     }
 }
 
